@@ -1,0 +1,1201 @@
+mapping_id,trend_id,trend_name,sku_id,brand,category,subcategory,relevance_score,is_hero_sku
+MAP000001,TRD001,Cottagecore,SKU01688,Libas,Accessories,Bucket Hat,0.96,1
+MAP000002,TRD001,Cottagecore,SKU02065,Styli,Topwear,Sweatshirt,0.55,0
+MAP000003,TRD001,Cottagecore,SKU01471,FabAlley,Topwear,Crop Top,0.63,0
+MAP000004,TRD001,Cottagecore,SKU01647,Libas,Ethnic,Nehru Jacket,0.61,0
+MAP000005,TRD001,Cottagecore,SKU01835,H&M India,Topwear,Polo T-Shirt,0.63,0
+MAP000006,TRD001,Cottagecore,SKU01597,Libas,Topwear,Sweatshirt,0.6,0
+MAP000007,TRD001,Cottagecore,SKU01757,Zudio,Ethnic,Sharara Set,0.84,0
+MAP000008,TRD001,Cottagecore,SKU01062,Bewakoof,Ethnic,Nehru Jacket,0.99,1
+MAP000009,TRD001,Cottagecore,SKU01823,H&M India,Topwear,Crop Top,0.88,1
+MAP000010,TRD001,Cottagecore,SKU01140,Snitch,Topwear,Blazer,0.48,0
+MAP000011,TRD001,Cottagecore,SKU01460,Urbanic,Accessories,Sunglasses,0.57,0
+MAP000012,TRD001,Cottagecore,SKU01722,Zudio,Topwear,Tank Top,0.66,0
+MAP000013,TRD001,Cottagecore,SKU01006,Bewakoof,Topwear,Shirt,0.8,0
+MAP000014,TRD001,Cottagecore,SKU01588,Libas,Topwear,Crop Top,0.45,0
+MAP000015,TRD001,Cottagecore,SKU02067,Styli,Topwear,Sweatshirt,0.54,0
+MAP000016,TRD001,Cottagecore,SKU01994,Myntra M,Ethnic,Dhoti Pants,0.59,0
+MAP000017,TRD001,Cottagecore,SKU01018,Bewakoof,Topwear,Tank Top,0.81,0
+MAP000018,TRD001,Cottagecore,SKU01598,Libas,Topwear,Sweatshirt,0.67,0
+MAP000019,TRD001,Cottagecore,SKU01584,FabAlley,Accessories,Scarves,0.82,0
+MAP000020,TRD001,Cottagecore,SKU02115,Styli,Ethnic,Nehru Jacket,0.59,0
+MAP000021,TRD001,Cottagecore,SKU01111,Bewakoof,Accessories,Belts,0.69,0
+MAP000022,TRD001,Cottagecore,SKU01483,FabAlley,Topwear,Polo T-Shirt,0.86,1
+MAP000023,TRD001,Cottagecore,SKU01369,Urbanic,Topwear,Tank Top,0.43,0
+MAP000024,TRD001,Cottagecore,SKU01935,H&M India,Accessories,Scarves,0.72,0
+MAP000025,TRD001,Cottagecore,SKU01931,H&M India,Accessories,Belts,0.48,0
+MAP000026,TRD001,Cottagecore,SKU01452,Urbanic,Accessories,Tote Bag,0.58,0
+MAP000027,TRD001,Cottagecore,SKU01371,Urbanic,Topwear,Tank Top,0.86,1
+MAP000028,TRD001,Cottagecore,SKU01231,Snitch,Accessories,Scarves,0.91,1
+MAP000029,TRD001,Cottagecore,SKU01176,Snitch,Ethnic,Dhoti Pants,0.96,1
+MAP000030,TRD001,Cottagecore,SKU01601,Libas,Topwear,Polo T-Shirt,0.59,0
+MAP000031,TRD001,Cottagecore,SKU01829,H&M India,Topwear,Hoodie,0.89,1
+MAP000032,TRD001,Cottagecore,SKU01802,Zudio,Accessories,Tote Bag,0.74,0
+MAP000033,TRD001,Cottagecore,SKU01998,Myntra M,Ethnic,Nehru Jacket,0.76,0
+MAP000034,TRD001,Cottagecore,SKU01333,The Souled Store,Accessories,Tote Bag,0.52,0
+MAP000035,TRD001,Cottagecore,SKU01295,The Souled Store,Ethnic,Nehru Jacket,0.8,0
+MAP000036,TRD001,Cottagecore,SKU01631,Libas,Ethnic,Kurta Set,0.68,0
+MAP000037,TRD001,Cottagecore,SKU01054,Bewakoof,Ethnic,Sharara Set,0.72,0
+MAP000038,TRD001,Cottagecore,SKU01046,Bewakoof,Ethnic,Kurta Set,0.82,0
+MAP000039,TRD001,Cottagecore,SKU01707,Zudio,Topwear,Crop Top,0.77,0
+MAP000040,TRD001,Cottagecore,SKU01490,FabAlley,Topwear,Blazer,0.56,0
+MAP000041,TRD001,Cottagecore,SKU01291,The Souled Store,Ethnic,Dhoti Pants,0.43,0
+MAP000042,TRD001,Cottagecore,SKU01177,Snitch,Ethnic,Nehru Jacket,0.5,0
+MAP000043,TRD001,Cottagecore,SKU01013,Bewakoof,Topwear,Sweatshirt,0.63,0
+MAP000044,TRD001,Cottagecore,SKU02103,Styli,Ethnic,Co-ord Saree,0.92,1
+MAP000045,TRD001,Cottagecore,SKU01341,The Souled Store,Accessories,Caps,0.66,0
+MAP000046,TRD001,Cottagecore,SKU02050,Myntra M,Accessories,Scarves,0.95,1
+MAP000047,TRD001,Cottagecore,SKU01683,Libas,Accessories,Sling Bag,0.56,0
+MAP000048,TRD001,Cottagecore,SKU01113,Bewakoof,Accessories,Belts,0.61,0
+MAP000049,TRD001,Cottagecore,SKU01871,H&M India,Ethnic,Anarkali,0.8,0
+MAP000050,TRD001,Cottagecore,SKU01864,H&M India,Ethnic,Kurta Set,0.8,0
+MAP000051,TRD001,Cottagecore,SKU02074,Styli,Topwear,Blazer,0.55,0
+MAP000052,TRD001,Cottagecore,SKU01570,FabAlley,Accessories,Bucket Hat,0.54,0
+MAP000053,TRD001,Cottagecore,SKU01818,Zudio,Accessories,Scarves,0.48,0
+MAP000054,TRD001,Cottagecore,SKU01934,H&M India,Accessories,Scarves,0.46,0
+MAP000055,TRD001,Cottagecore,SKU01514,FabAlley,Ethnic,Kurta Set,0.56,0
+MAP000056,TRD001,Cottagecore,SKU01447,Urbanic,Accessories,Sling Bag,0.75,0
+MAP000057,TRD001,Cottagecore,SKU01832,H&M India,Topwear,Sweatshirt,0.63,0
+MAP000058,TRD001,Cottagecore,SKU01355,Urbanic,Topwear,Crop Top,0.72,0
+MAP000059,TRD001,Cottagecore,SKU01723,Zudio,Topwear,Blazer,0.82,0
+MAP000060,TRD001,Cottagecore,SKU01015,Bewakoof,Topwear,Polo T-Shirt,0.78,0
+MAP000061,TRD002,Y2K Revival,SKU01798,Zudio,Accessories,Sling Bag,0.72,0
+MAP000062,TRD002,Y2K Revival,SKU01601,Libas,Topwear,Polo T-Shirt,0.45,0
+MAP000063,TRD002,Y2K Revival,SKU01244,The Souled Store,Topwear,Hoodie,0.48,0
+MAP000064,TRD002,Y2K Revival,SKU01101,Bewakoof,Accessories,Tote Bag,0.6,0
+MAP000065,TRD002,Y2K Revival,SKU01698,Libas,Accessories,Belts,0.55,0
+MAP000066,TRD002,Y2K Revival,SKU01455,Urbanic,Accessories,Bucket Hat,0.56,0
+MAP000067,TRD002,Y2K Revival,SKU01893,H&M India,Dresses,Shirt Dress,0.53,0
+MAP000068,TRD002,Y2K Revival,SKU02167,Styli,Accessories,Scarves,0.51,0
+MAP000069,TRD002,Y2K Revival,SKU01532,FabAlley,Dresses,Maxi Dress,0.52,0
+MAP000070,TRD002,Y2K Revival,SKU01685,Libas,Accessories,Tote Bag,0.63,0
+MAP000071,TRD002,Y2K Revival,SKU02055,Styli,Topwear,Oversized T-Shirt,0.97,1
+MAP000072,TRD002,Y2K Revival,SKU01475,FabAlley,Topwear,Shirt,0.66,0
+MAP000073,TRD002,Y2K Revival,SKU01233,Snitch,Accessories,Scarves,0.93,1
+MAP000074,TRD002,Y2K Revival,SKU01891,H&M India,Dresses,Shirt Dress,0.7,0
+MAP000075,TRD002,Y2K Revival,SKU02042,Myntra M,Accessories,Caps,0.96,1
+MAP000076,TRD002,Y2K Revival,SKU01931,H&M India,Accessories,Belts,0.88,1
+MAP000077,TRD002,Y2K Revival,SKU01824,H&M India,Topwear,Crop Top,0.91,1
+MAP000078,TRD002,Y2K Revival,SKU01696,Libas,Accessories,Belts,0.46,0
+MAP000079,TRD002,Y2K Revival,SKU01256,The Souled Store,Topwear,Blazer,0.78,0
+MAP000080,TRD002,Y2K Revival,SKU01490,FabAlley,Topwear,Blazer,0.49,0
+MAP000081,TRD002,Y2K Revival,SKU01075,Bewakoof,Dresses,Co-ord Set,0.88,1
+MAP000082,TRD002,Y2K Revival,SKU02047,Myntra M,Accessories,Belts,0.87,1
+MAP000083,TRD002,Y2K Revival,SKU01694,Libas,Accessories,Sunglasses,0.49,0
+MAP000084,TRD002,Y2K Revival,SKU01366,Urbanic,Topwear,Polo T-Shirt,0.64,0
+MAP000085,TRD002,Y2K Revival,SKU01921,H&M India,Accessories,Bucket Hat,0.99,1
+MAP000086,TRD002,Y2K Revival,SKU01605,Libas,Topwear,Tank Top,0.59,0
+MAP000087,TRD002,Y2K Revival,SKU01005,Bewakoof,Topwear,Crop Top,0.98,1
+MAP000088,TRD002,Y2K Revival,SKU01100,Bewakoof,Accessories,Tote Bag,0.52,0
+MAP000089,TRD002,Y2K Revival,SKU01805,Zudio,Accessories,Bucket Hat,0.55,0
+MAP000090,TRD002,Y2K Revival,SKU01947,Myntra M,Topwear,Hoodie,0.41,0
+MAP000091,TRD002,Y2K Revival,SKU02033,Myntra M,Accessories,Sling Bag,0.47,0
+MAP000092,TRD002,Y2K Revival,SKU01119,Snitch,Topwear,Oversized T-Shirt,0.74,0
+MAP000093,TRD002,Y2K Revival,SKU02069,Styli,Topwear,Polo T-Shirt,0.43,0
+MAP000094,TRD002,Y2K Revival,SKU01344,The Souled Store,Accessories,Sunglasses,0.9,1
+MAP000095,TRD002,Y2K Revival,SKU01181,Snitch,Dresses,Maxi Dress,0.42,0
+MAP000096,TRD002,Y2K Revival,SKU02075,Styli,Topwear,Blazer,0.47,0
+MAP000097,TRD002,Y2K Revival,SKU02161,Styli,Accessories,Sunglasses,0.49,0
+MAP000098,TRD002,Y2K Revival,SKU02165,Styli,Accessories,Belts,0.7,0
+MAP000099,TRD002,Y2K Revival,SKU01237,The Souled Store,Topwear,Crop Top,0.88,1
+MAP000100,TRD002,Y2K Revival,SKU01306,The Souled Store,Dresses,Shirt Dress,0.76,0
+MAP000101,TRD002,Y2K Revival,SKU01447,Urbanic,Accessories,Sling Bag,0.47,0
+MAP000102,TRD002,Y2K Revival,SKU01589,Libas,Topwear,Crop Top,0.9,1
+MAP000103,TRD002,Y2K Revival,SKU01343,The Souled Store,Accessories,Sunglasses,0.43,0
+MAP000104,TRD002,Y2K Revival,SKU01004,Bewakoof,Topwear,Crop Top,0.4,0
+MAP000105,TRD002,Y2K Revival,SKU01811,Zudio,Accessories,Sunglasses,0.77,0
+MAP000106,TRD002,Y2K Revival,SKU01347,The Souled Store,Accessories,Belts,0.43,0
+MAP000107,TRD002,Y2K Revival,SKU02164,Styli,Accessories,Belts,0.73,0
+MAP000108,TRD002,Y2K Revival,SKU01350,The Souled Store,Accessories,Scarves,0.8,0
+MAP000109,TRD002,Y2K Revival,SKU01662,Libas,Dresses,Co-ord Set,0.72,0
+MAP000110,TRD002,Y2K Revival,SKU01451,Urbanic,Accessories,Tote Bag,0.46,0
+MAP000111,TRD002,Y2K Revival,SKU01681,Libas,Accessories,Sling Bag,0.57,0
+MAP000112,TRD002,Y2K Revival,SKU02067,Styli,Topwear,Sweatshirt,0.59,0
+MAP000113,TRD002,Y2K Revival,SKU01928,H&M India,Accessories,Sunglasses,0.57,0
+MAP000114,TRD002,Y2K Revival,SKU01345,The Souled Store,Accessories,Belts,0.51,0
+MAP000115,TRD002,Y2K Revival,SKU01098,Bewakoof,Accessories,Sling Bag,0.85,1
+MAP000116,TRD002,Y2K Revival,SKU01096,Bewakoof,Accessories,Sling Bag,0.75,0
+MAP000117,TRD002,Y2K Revival,SKU01815,Zudio,Accessories,Belts,0.47,0
+MAP000118,TRD002,Y2K Revival,SKU01457,Urbanic,Accessories,Caps,0.75,0
+MAP000119,TRD002,Y2K Revival,SKU02159,Styli,Accessories,Caps,0.99,1
+MAP000120,TRD002,Y2K Revival,SKU01020,Bewakoof,Topwear,Tank Top,0.47,0
+MAP000121,TRD003,Quiet Luxury,SKU01735,Zudio,Bottomwear,Mini Skirt,0.52,0
+MAP000122,TRD003,Quiet Luxury,SKU01378,Urbanic,Bottomwear,Cargo Pants,0.83,0
+MAP000123,TRD003,Quiet Luxury,SKU01460,Urbanic,Accessories,Sunglasses,0.88,1
+MAP000124,TRD003,Quiet Luxury,SKU01459,Urbanic,Accessories,Sunglasses,0.98,1
+MAP000125,TRD003,Quiet Luxury,SKU01452,Urbanic,Accessories,Tote Bag,0.7,0
+MAP000126,TRD003,Quiet Luxury,SKU01916,H&M India,Accessories,Sling Bag,0.5,0
+MAP000127,TRD003,Quiet Luxury,SKU02169,Styli,Accessories,Scarves,0.64,0
+MAP000128,TRD003,Quiet Luxury,SKU01120,Snitch,Topwear,Crop Top,0.84,0
+MAP000129,TRD003,Quiet Luxury,SKU02167,Styli,Accessories,Scarves,0.64,0
+MAP000130,TRD003,Quiet Luxury,SKU01255,The Souled Store,Topwear,Blazer,0.62,0
+MAP000131,TRD003,Quiet Luxury,SKU01740,Zudio,Bottomwear,Palazzo,0.73,0
+MAP000132,TRD003,Quiet Luxury,SKU01218,Snitch,Accessories,Tote Bag,0.62,0
+MAP000133,TRD003,Quiet Luxury,SKU01509,FabAlley,Bottomwear,Straight Fit Jeans,0.99,1
+MAP000134,TRD003,Quiet Luxury,SKU01148,Snitch,Bottomwear,Joggers,0.99,1
+MAP000135,TRD003,Quiet Luxury,SKU01859,H&M India,Bottomwear,Straight Fit Jeans,0.92,1
+MAP000136,TRD003,Quiet Luxury,SKU01111,Bewakoof,Accessories,Belts,0.74,0
+MAP000137,TRD003,Quiet Luxury,SKU01473,FabAlley,Topwear,Crop Top,0.78,0
+MAP000138,TRD003,Quiet Luxury,SKU01349,The Souled Store,Accessories,Scarves,0.81,0
+MAP000139,TRD003,Quiet Luxury,SKU02059,Styli,Topwear,Shirt,0.99,1
+MAP000140,TRD003,Quiet Luxury,SKU01252,The Souled Store,Topwear,Tank Top,0.49,0
+MAP000141,TRD003,Quiet Luxury,SKU01468,FabAlley,Topwear,Oversized T-Shirt,0.62,0
+MAP000142,TRD003,Quiet Luxury,SKU01156,Snitch,Bottomwear,Straight Fit Jeans,0.87,1
+MAP000143,TRD003,Quiet Luxury,SKU01138,Snitch,Topwear,Blazer,0.94,1
+MAP000144,TRD003,Quiet Luxury,SKU01358,Urbanic,Topwear,Shirt,0.64,0
+MAP000145,TRD003,Quiet Luxury,SKU01921,H&M India,Accessories,Bucket Hat,0.97,1
+MAP000146,TRD003,Quiet Luxury,SKU01251,The Souled Store,Topwear,Polo T-Shirt,0.67,0
+MAP000147,TRD003,Quiet Luxury,SKU01828,H&M India,Topwear,Hoodie,0.65,0
+MAP000148,TRD003,Quiet Luxury,SKU01274,The Souled Store,Bottomwear,Straight Fit Jeans,0.95,1
+MAP000149,TRD003,Quiet Luxury,SKU01600,Libas,Topwear,Polo T-Shirt,0.6,0
+MAP000150,TRD003,Quiet Luxury,SKU01346,The Souled Store,Accessories,Belts,0.79,0
+MAP000151,TRD003,Quiet Luxury,SKU02055,Styli,Topwear,Oversized T-Shirt,0.97,1
+MAP000152,TRD003,Quiet Luxury,SKU01355,Urbanic,Topwear,Crop Top,0.65,0
+MAP000153,TRD003,Quiet Luxury,SKU01734,Zudio,Bottomwear,Joggers,1.0,1
+MAP000154,TRD003,Quiet Luxury,SKU01618,Libas,Bottomwear,Mini Skirt,0.68,0
+MAP000155,TRD003,Quiet Luxury,SKU02040,Myntra M,Accessories,Bucket Hat,0.53,0
+MAP000156,TRD003,Quiet Luxury,SKU02041,Myntra M,Accessories,Caps,0.57,0
+MAP000157,TRD003,Quiet Luxury,SKU01979,Myntra M,Bottomwear,Shorts,0.63,0
+MAP000158,TRD003,Quiet Luxury,SKU01931,H&M India,Accessories,Belts,0.74,0
+MAP000159,TRD003,Quiet Luxury,SKU01384,Urbanic,Bottomwear,Mini Skirt,0.63,0
+MAP000160,TRD003,Quiet Luxury,SKU01449,Urbanic,Accessories,Sling Bag,0.76,0
+MAP000161,TRD003,Quiet Luxury,SKU01228,Snitch,Accessories,Belts,0.82,0
+MAP000162,TRD003,Quiet Luxury,SKU01331,The Souled Store,Accessories,Sling Bag,0.66,0
+MAP000163,TRD003,Quiet Luxury,SKU01946,Myntra M,Topwear,Hoodie,0.64,0
+MAP000164,TRD003,Quiet Luxury,SKU01612,Libas,Bottomwear,Cargo Pants,0.94,1
+MAP000165,TRD003,Quiet Luxury,SKU02071,Styli,Topwear,Tank Top,0.84,0
+MAP000166,TRD003,Quiet Luxury,SKU02086,Styli,Bottomwear,Mini Skirt,0.83,0
+MAP000167,TRD003,Quiet Luxury,SKU01267,The Souled Store,Bottomwear,Mini Skirt,0.65,0
+MAP000168,TRD003,Quiet Luxury,SKU01141,Snitch,Bottomwear,Baggy Jeans,0.67,0
+MAP000169,TRD003,Quiet Luxury,SKU01816,Zudio,Accessories,Scarves,0.53,0
+MAP000170,TRD003,Quiet Luxury,SKU01572,FabAlley,Accessories,Bucket Hat,0.82,0
+MAP000171,TRD003,Quiet Luxury,SKU01264,The Souled Store,Bottomwear,Joggers,0.44,0
+MAP000172,TRD003,Quiet Luxury,SKU01834,H&M India,Topwear,Polo T-Shirt,0.79,0
+MAP000173,TRD003,Quiet Luxury,SKU01844,H&M India,Bottomwear,Baggy Jeans,0.99,1
+MAP000174,TRD003,Quiet Luxury,SKU01277,The Souled Store,Bottomwear,Shorts,0.8,0
+MAP000175,TRD003,Quiet Luxury,SKU01610,Libas,Bottomwear,Baggy Jeans,0.84,0
+MAP000176,TRD003,Quiet Luxury,SKU01234,The Souled Store,Topwear,Oversized T-Shirt,0.53,0
+MAP000177,TRD003,Quiet Luxury,SKU01131,Snitch,Topwear,Sweatshirt,0.9,1
+MAP000178,TRD003,Quiet Luxury,SKU01265,The Souled Store,Bottomwear,Joggers,0.53,0
+MAP000179,TRD003,Quiet Luxury,SKU01342,The Souled Store,Accessories,Sunglasses,0.99,1
+MAP000180,TRD003,Quiet Luxury,SKU01126,Snitch,Topwear,Hoodie,0.95,1
+MAP000181,TRD004,Gorpcore,SKU01247,The Souled Store,Topwear,Sweatshirt,0.91,1
+MAP000182,TRD004,Gorpcore,SKU01127,Snitch,Topwear,Hoodie,0.53,0
+MAP000183,TRD004,Gorpcore,SKU01199,Snitch,Footwear,Kolhapuri,0.48,0
+MAP000184,TRD004,Gorpcore,SKU01033,Bewakoof,Bottomwear,Mini Skirt,0.7,0
+MAP000185,TRD004,Gorpcore,SKU01834,H&M India,Topwear,Polo T-Shirt,0.74,0
+MAP000186,TRD004,Gorpcore,SKU01944,Myntra M,Topwear,Shirt,0.49,0
+MAP000187,TRD004,Gorpcore,SKU01852,H&M India,Bottomwear,Mini Skirt,0.71,0
+MAP000188,TRD004,Gorpcore,SKU01938,Myntra M,Topwear,Oversized T-Shirt,0.98,1
+MAP000189,TRD004,Gorpcore,SKU01968,Myntra M,Bottomwear,Joggers,0.46,0
+MAP000190,TRD004,Gorpcore,SKU01147,Snitch,Bottomwear,Joggers,0.63,0
+MAP000191,TRD004,Gorpcore,SKU01586,Libas,Topwear,Oversized T-Shirt,0.87,1
+MAP000192,TRD004,Gorpcore,SKU01089,Bewakoof,Footwear,Loafers,0.85,1
+MAP000193,TRD004,Gorpcore,SKU01274,The Souled Store,Bottomwear,Straight Fit Jeans,0.6,0
+MAP000194,TRD004,Gorpcore,SKU01084,Bewakoof,Footwear,Block Heels,0.88,1
+MAP000195,TRD004,Gorpcore,SKU01937,Myntra M,Topwear,Oversized T-Shirt,0.52,0
+MAP000196,TRD004,Gorpcore,SKU01506,FabAlley,Bottomwear,Palazzo,0.45,0
+MAP000197,TRD004,Gorpcore,SKU01612,Libas,Bottomwear,Cargo Pants,0.62,0
+MAP000198,TRD004,Gorpcore,SKU01266,The Souled Store,Bottomwear,Joggers,0.57,0
+MAP000199,TRD004,Gorpcore,SKU01721,Zudio,Topwear,Tank Top,0.4,0
+MAP000200,TRD004,Gorpcore,SKU01977,Myntra M,Bottomwear,Straight Fit Jeans,0.98,1
+MAP000201,TRD004,Gorpcore,SKU01327,The Souled Store,Footwear,Sandals,0.83,0
+MAP000202,TRD004,Gorpcore,SKU02096,Styli,Bottomwear,Shorts,0.65,0
+MAP000203,TRD004,Gorpcore,SKU02062,Styli,Topwear,Hoodie,0.84,0
+MAP000204,TRD004,Gorpcore,SKU01023,Bewakoof,Topwear,Blazer,0.8,0
+MAP000205,TRD004,Gorpcore,SKU01433,Urbanic,Footwear,Kolhapuri,0.44,0
+MAP000206,TRD004,Gorpcore,SKU01863,H&M India,Bottomwear,Shorts,0.87,1
+MAP000207,TRD004,Gorpcore,SKU02078,Styli,Bottomwear,Baggy Jeans,0.59,0
+MAP000208,TRD004,Gorpcore,SKU01822,H&M India,Topwear,Crop Top,0.62,0
+MAP000209,TRD004,Gorpcore,SKU01608,Libas,Topwear,Blazer,0.94,1
+MAP000210,TRD004,Gorpcore,SKU02095,Styli,Bottomwear,Shorts,0.48,0
+MAP000211,TRD004,Gorpcore,SKU01555,FabAlley,Footwear,Loafers,0.87,1
+MAP000212,TRD004,Gorpcore,SKU01242,The Souled Store,Topwear,Shirt,0.71,0
+MAP000213,TRD004,Gorpcore,SKU01849,H&M India,Bottomwear,Joggers,0.72,0
+MAP000214,TRD004,Gorpcore,SKU01674,Libas,Footwear,Loafers,0.87,1
+MAP000215,TRD004,Gorpcore,SKU01975,Myntra M,Bottomwear,Straight Fit Jeans,0.59,0
+MAP000216,TRD004,Gorpcore,SKU01503,FabAlley,Bottomwear,Mini Skirt,0.72,0
+MAP000217,TRD004,Gorpcore,SKU01489,FabAlley,Topwear,Blazer,0.66,0
+MAP000218,TRD004,Gorpcore,SKU01611,Libas,Bottomwear,Baggy Jeans,0.95,1
+MAP000219,TRD004,Gorpcore,SKU01585,Libas,Topwear,Oversized T-Shirt,0.82,0
+MAP000220,TRD004,Gorpcore,SKU01131,Snitch,Topwear,Sweatshirt,0.97,1
+MAP000221,TRD004,Gorpcore,SKU02053,Styli,Topwear,Oversized T-Shirt,0.53,0
+MAP000222,TRD004,Gorpcore,SKU01208,Snitch,Footwear,Sneakers,0.42,0
+MAP000223,TRD004,Gorpcore,SKU01957,Myntra M,Topwear,Blazer,0.55,0
+MAP000224,TRD004,Gorpcore,SKU01041,Bewakoof,Bottomwear,Straight Fit Jeans,0.94,1
+MAP000225,TRD004,Gorpcore,SKU01160,Snitch,Bottomwear,Shorts,0.66,0
+MAP000226,TRD004,Gorpcore,SKU01820,H&M India,Topwear,Oversized T-Shirt,0.85,1
+MAP000227,TRD004,Gorpcore,SKU01622,Libas,Bottomwear,Palazzo,0.58,0
+MAP000228,TRD004,Gorpcore,SKU01380,Urbanic,Bottomwear,Cargo Pants,0.9,1
+MAP000229,TRD004,Gorpcore,SKU01142,Snitch,Bottomwear,Baggy Jeans,0.61,0
+MAP000230,TRD004,Gorpcore,SKU01470,FabAlley,Topwear,Oversized T-Shirt,0.69,0
+MAP000231,TRD004,Gorpcore,SKU01250,The Souled Store,Topwear,Polo T-Shirt,0.62,0
+MAP000232,TRD004,Gorpcore,SKU01359,Urbanic,Topwear,Shirt,0.66,0
+MAP000233,TRD004,Gorpcore,SKU01080,Bewakoof,Footwear,Chunky Sneakers,0.9,1
+MAP000234,TRD004,Gorpcore,SKU02055,Styli,Topwear,Oversized T-Shirt,0.91,1
+MAP000235,TRD004,Gorpcore,SKU01469,FabAlley,Topwear,Oversized T-Shirt,0.58,0
+MAP000236,TRD004,Gorpcore,SKU01731,Zudio,Bottomwear,Cargo Pants,0.56,0
+MAP000237,TRD004,Gorpcore,SKU01438,Urbanic,Footwear,Loafers,0.58,0
+MAP000238,TRD004,Gorpcore,SKU02088,Styli,Bottomwear,Mini Skirt,0.78,0
+MAP000239,TRD004,Gorpcore,SKU01480,FabAlley,Topwear,Sweatshirt,0.96,1
+MAP000240,TRD004,Gorpcore,SKU01253,The Souled Store,Topwear,Tank Top,0.84,0
+MAP000241,TRD005,Dopamine Dressing,SKU01816,Zudio,Accessories,Scarves,0.49,0
+MAP000242,TRD005,Dopamine Dressing,SKU01485,FabAlley,Topwear,Polo T-Shirt,0.49,0
+MAP000243,TRD005,Dopamine Dressing,SKU02030,Myntra M,Footwear,Sandals,0.87,1
+MAP000244,TRD005,Dopamine Dressing,SKU01927,H&M India,Accessories,Sunglasses,0.48,0
+MAP000245,TRD005,Dopamine Dressing,SKU01135,Snitch,Topwear,Tank Top,0.99,1
+MAP000246,TRD005,Dopamine Dressing,SKU02141,Styli,Footwear,Loafers,0.75,0
+MAP000247,TRD005,Dopamine Dressing,SKU01365,Urbanic,Topwear,Sweatshirt,0.98,1
+MAP000248,TRD005,Dopamine Dressing,SKU02168,Styli,Accessories,Scarves,0.68,0
+MAP000249,TRD005,Dopamine Dressing,SKU01829,H&M India,Topwear,Hoodie,0.7,0
+MAP000250,TRD005,Dopamine Dressing,SKU01451,Urbanic,Accessories,Tote Bag,0.67,0
+MAP000251,TRD005,Dopamine Dressing,SKU01344,The Souled Store,Accessories,Sunglasses,0.99,1
+MAP000252,TRD005,Dopamine Dressing,SKU01566,FabAlley,Accessories,Sling Bag,0.51,0
+MAP000253,TRD005,Dopamine Dressing,SKU01021,Bewakoof,Topwear,Blazer,0.88,1
+MAP000254,TRD005,Dopamine Dressing,SKU01129,Snitch,Topwear,Sweatshirt,0.71,0
+MAP000255,TRD005,Dopamine Dressing,SKU02033,Myntra M,Accessories,Sling Bag,0.96,1
+MAP000256,TRD005,Dopamine Dressing,SKU02047,Myntra M,Accessories,Belts,0.6,0
+MAP000257,TRD005,Dopamine Dressing,SKU01834,H&M India,Topwear,Polo T-Shirt,0.86,1
+MAP000258,TRD005,Dopamine Dressing,SKU01722,Zudio,Topwear,Tank Top,0.65,0
+MAP000259,TRD005,Dopamine Dressing,SKU01705,Zudio,Topwear,Crop Top,0.47,0
+MAP000260,TRD005,Dopamine Dressing,SKU01571,FabAlley,Accessories,Bucket Hat,0.97,1
+MAP000261,TRD005,Dopamine Dressing,SKU02034,Myntra M,Accessories,Sling Bag,0.87,1
+MAP000262,TRD005,Dopamine Dressing,SKU01091,Bewakoof,Footwear,Sneakers,0.97,1
+MAP000263,TRD005,Dopamine Dressing,SKU01314,The Souled Store,Footwear,Chunky Sneakers,0.74,0
+MAP000264,TRD005,Dopamine Dressing,SKU01198,Snitch,Footwear,Kolhapuri,0.71,0
+MAP000265,TRD005,Dopamine Dressing,SKU01912,H&M India,Footwear,Sandals,0.94,1
+MAP000266,TRD005,Dopamine Dressing,SKU01922,H&M India,Accessories,Bucket Hat,0.85,1
+MAP000267,TRD005,Dopamine Dressing,SKU01445,Urbanic,Footwear,Sandals,0.63,0
+MAP000268,TRD005,Dopamine Dressing,SKU01825,H&M India,Topwear,Shirt,0.7,0
+MAP000269,TRD005,Dopamine Dressing,SKU01330,The Souled Store,Accessories,Sling Bag,0.91,1
+MAP000270,TRD005,Dopamine Dressing,SKU02042,Myntra M,Accessories,Caps,0.4,0
+MAP000271,TRD005,Dopamine Dressing,SKU01315,The Souled Store,Footwear,Kolhapuri,0.96,1
+MAP000272,TRD005,Dopamine Dressing,SKU01095,Bewakoof,Footwear,Sandals,0.88,1
+MAP000273,TRD005,Dopamine Dressing,SKU01103,Bewakoof,Accessories,Bucket Hat,0.51,0
+MAP000274,TRD005,Dopamine Dressing,SKU01835,H&M India,Topwear,Polo T-Shirt,0.42,0
+MAP000275,TRD005,Dopamine Dressing,SKU01140,Snitch,Topwear,Blazer,0.86,1
+MAP000276,TRD005,Dopamine Dressing,SKU01813,Zudio,Accessories,Belts,0.75,0
+MAP000277,TRD005,Dopamine Dressing,SKU01678,Libas,Footwear,Sandals,0.88,1
+MAP000278,TRD005,Dopamine Dressing,SKU02052,Myntra M,Accessories,Scarves,0.47,0
+MAP000279,TRD005,Dopamine Dressing,SKU01480,FabAlley,Topwear,Sweatshirt,0.88,1
+MAP000280,TRD005,Dopamine Dressing,SKU01200,Snitch,Footwear,Kolhapuri,0.4,0
+MAP000281,TRD005,Dopamine Dressing,SKU01336,The Souled Store,Accessories,Bucket Hat,0.54,0
+MAP000282,TRD005,Dopamine Dressing,SKU01101,Bewakoof,Accessories,Tote Bag,0.43,0
+MAP000283,TRD005,Dopamine Dressing,SKU01138,Snitch,Topwear,Blazer,0.66,0
+MAP000284,TRD005,Dopamine Dressing,SKU01823,H&M India,Topwear,Crop Top,0.45,0
+MAP000285,TRD005,Dopamine Dressing,SKU01082,Bewakoof,Footwear,Kolhapuri,0.62,0
+MAP000286,TRD005,Dopamine Dressing,SKU01937,Myntra M,Topwear,Oversized T-Shirt,0.53,0
+MAP000287,TRD005,Dopamine Dressing,SKU01243,The Souled Store,Topwear,Hoodie,0.8,0
+MAP000288,TRD005,Dopamine Dressing,SKU01700,Libas,Accessories,Scarves,0.89,1
+MAP000289,TRD005,Dopamine Dressing,SKU01212,Snitch,Footwear,Sandals,0.41,0
+MAP000290,TRD005,Dopamine Dressing,SKU01793,Zudio,Footwear,Sneakers,0.56,0
+MAP000291,TRD005,Dopamine Dressing,SKU01806,Zudio,Accessories,Bucket Hat,0.73,0
+MAP000292,TRD005,Dopamine Dressing,SKU01594,Libas,Topwear,Hoodie,0.9,1
+MAP000293,TRD005,Dopamine Dressing,SKU01803,Zudio,Accessories,Tote Bag,0.83,0
+MAP000294,TRD005,Dopamine Dressing,SKU01257,The Souled Store,Topwear,Blazer,0.95,1
+MAP000295,TRD005,Dopamine Dressing,SKU02136,Styli,Footwear,Kolhapuri,0.5,0
+MAP000296,TRD005,Dopamine Dressing,SKU01436,Urbanic,Footwear,Block Heels,0.58,0
+MAP000297,TRD005,Dopamine Dressing,SKU01955,Myntra M,Topwear,Tank Top,0.72,0
+MAP000298,TRD005,Dopamine Dressing,SKU01000,Bewakoof,Topwear,Oversized T-Shirt,0.53,0
+MAP000299,TRD005,Dopamine Dressing,SKU01225,Snitch,Accessories,Sunglasses,0.74,0
+MAP000300,TRD005,Dopamine Dressing,SKU01474,FabAlley,Topwear,Shirt,0.47,0
+MAP000301,TRD006,Barbiecore,SKU01572,FabAlley,Accessories,Bucket Hat,0.53,0
+MAP000302,TRD006,Barbiecore,SKU01486,FabAlley,Topwear,Tank Top,0.57,0
+MAP000303,TRD006,Barbiecore,SKU02006,Myntra M,Dresses,Wrap Dress,0.71,0
+MAP000304,TRD006,Barbiecore,SKU01586,Libas,Topwear,Oversized T-Shirt,0.5,0
+MAP000305,TRD006,Barbiecore,SKU01951,Myntra M,Topwear,Polo T-Shirt,0.91,1
+MAP000306,TRD006,Barbiecore,SKU01118,Snitch,Topwear,Oversized T-Shirt,0.44,0
+MAP000307,TRD006,Barbiecore,SKU02127,Styli,Dresses,Shirt Dress,1.0,1
+MAP000308,TRD006,Barbiecore,SKU01567,FabAlley,Accessories,Tote Bag,0.54,0
+MAP000309,TRD006,Barbiecore,SKU01354,Urbanic,Topwear,Crop Top,0.54,0
+MAP000310,TRD006,Barbiecore,SKU02041,Myntra M,Accessories,Caps,0.41,0
+MAP000311,TRD006,Barbiecore,SKU01929,H&M India,Accessories,Sunglasses,0.78,0
+MAP000312,TRD006,Barbiecore,SKU02040,Myntra M,Accessories,Bucket Hat,0.95,1
+MAP000313,TRD006,Barbiecore,SKU01370,Urbanic,Topwear,Tank Top,0.6,0
+MAP000314,TRD006,Barbiecore,SKU01182,Snitch,Dresses,Maxi Dress,0.59,0
+MAP000315,TRD006,Barbiecore,SKU01697,Libas,Accessories,Belts,0.42,0
+MAP000316,TRD006,Barbiecore,SKU01779,Zudio,Dresses,Co-ord Set,0.6,0
+MAP000317,TRD006,Barbiecore,SKU02012,Myntra M,Dresses,Co-ord Set,0.7,0
+MAP000318,TRD006,Barbiecore,SKU01894,H&M India,Dresses,Co-ord Set,0.44,0
+MAP000319,TRD006,Barbiecore,SKU01427,Urbanic,Dresses,Co-ord Set,0.88,1
+MAP000320,TRD006,Barbiecore,SKU01010,Bewakoof,Topwear,Hoodie,0.76,0
+MAP000321,TRD006,Barbiecore,SKU01126,Snitch,Topwear,Hoodie,0.63,0
+MAP000322,TRD006,Barbiecore,SKU01454,Urbanic,Accessories,Bucket Hat,0.77,0
+MAP000323,TRD006,Barbiecore,SKU01584,FabAlley,Accessories,Scarves,0.86,1
+MAP000324,TRD006,Barbiecore,SKU01466,Urbanic,Accessories,Scarves,0.41,0
+MAP000325,TRD006,Barbiecore,SKU01114,Bewakoof,Accessories,Scarves,0.83,0
+MAP000326,TRD006,Barbiecore,SKU01477,FabAlley,Topwear,Hoodie,0.77,0
+MAP000327,TRD006,Barbiecore,SKU02048,Myntra M,Accessories,Belts,0.98,1
+MAP000328,TRD006,Barbiecore,SKU01181,Snitch,Dresses,Maxi Dress,0.89,1
+MAP000329,TRD006,Barbiecore,SKU01418,Urbanic,Dresses,Bodycon Dress,0.86,1
+MAP000330,TRD006,Barbiecore,SKU01465,Urbanic,Accessories,Scarves,0.4,0
+MAP000331,TRD006,Barbiecore,SKU02003,Myntra M,Dresses,Bodycon Dress,0.73,0
+MAP000332,TRD006,Barbiecore,SKU01135,Snitch,Topwear,Tank Top,0.54,0
+MAP000333,TRD006,Barbiecore,SKU01703,Zudio,Topwear,Oversized T-Shirt,0.59,0
+MAP000334,TRD006,Barbiecore,SKU01116,Bewakoof,Accessories,Scarves,0.8,0
+MAP000335,TRD006,Barbiecore,SKU01941,Myntra M,Topwear,Crop Top,0.9,1
+MAP000336,TRD006,Barbiecore,SKU01837,H&M India,Topwear,Tank Top,0.76,0
+MAP000337,TRD006,Barbiecore,SKU01192,Snitch,Dresses,Co-ord Set,0.7,0
+MAP000338,TRD006,Barbiecore,SKU01229,Snitch,Accessories,Belts,0.65,0
+MAP000339,TRD006,Barbiecore,SKU02118,Styli,Dresses,Maxi Dress,0.75,0
+MAP000340,TRD006,Barbiecore,SKU02049,Myntra M,Accessories,Belts,0.84,0
+MAP000341,TRD006,Barbiecore,SKU01416,Urbanic,Dresses,Maxi Dress,0.55,0
+MAP000342,TRD006,Barbiecore,SKU01541,FabAlley,Dresses,Shirt Dress,0.69,0
+MAP000343,TRD006,Barbiecore,SKU01565,FabAlley,Accessories,Sling Bag,0.67,0
+MAP000344,TRD006,Barbiecore,SKU02053,Styli,Topwear,Oversized T-Shirt,0.56,0
+MAP000345,TRD006,Barbiecore,SKU01691,Libas,Accessories,Caps,0.49,0
+MAP000346,TRD006,Barbiecore,SKU01949,Myntra M,Topwear,Sweatshirt,0.75,0
+MAP000347,TRD006,Barbiecore,SKU01304,The Souled Store,Dresses,Wrap Dress,0.96,1
+MAP000348,TRD006,Barbiecore,SKU01227,Snitch,Accessories,Sunglasses,0.71,0
+MAP000349,TRD006,Barbiecore,SKU01827,H&M India,Topwear,Shirt,0.76,0
+MAP000350,TRD006,Barbiecore,SKU01708,Zudio,Topwear,Shirt,0.53,0
+MAP000351,TRD006,Barbiecore,SKU02043,Myntra M,Accessories,Caps,0.44,0
+MAP000352,TRD006,Barbiecore,SKU01214,Snitch,Accessories,Sling Bag,0.66,0
+MAP000353,TRD006,Barbiecore,SKU01808,Zudio,Accessories,Caps,0.78,0
+MAP000354,TRD006,Barbiecore,SKU01694,Libas,Accessories,Sunglasses,0.92,1
+MAP000355,TRD006,Barbiecore,SKU01828,H&M India,Topwear,Hoodie,0.51,0
+MAP000356,TRD006,Barbiecore,SKU01363,Urbanic,Topwear,Sweatshirt,0.58,0
+MAP000357,TRD006,Barbiecore,SKU01125,Snitch,Topwear,Shirt,0.43,0
+MAP000358,TRD006,Barbiecore,SKU01537,FabAlley,Dresses,Wrap Dress,0.89,1
+MAP000359,TRD006,Barbiecore,SKU01472,FabAlley,Topwear,Crop Top,0.98,1
+MAP000360,TRD006,Barbiecore,SKU02161,Styli,Accessories,Sunglasses,1.0,1
+MAP000361,TRD007,Dark Academia,SKU01671,Libas,Footwear,Block Heels,0.42,0
+MAP000362,TRD007,Dark Academia,SKU01075,Bewakoof,Dresses,Co-ord Set,0.92,1
+MAP000363,TRD007,Dark Academia,SKU01776,Zudio,Dresses,Shirt Dress,0.74,0
+MAP000364,TRD007,Dark Academia,SKU02131,Styli,Footwear,Chunky Sneakers,0.57,0
+MAP000365,TRD007,Dark Academia,SKU01815,Zudio,Accessories,Belts,0.87,1
+MAP000366,TRD007,Dark Academia,SKU01659,Libas,Dresses,Shirt Dress,0.78,0
+MAP000367,TRD007,Dark Academia,SKU01536,FabAlley,Dresses,Bodycon Dress,0.53,0
+MAP000368,TRD007,Dark Academia,SKU01661,Libas,Dresses,Co-ord Set,0.69,0
+MAP000369,TRD007,Dark Academia,SKU01323,The Souled Store,Footwear,Loafers,0.54,0
+MAP000370,TRD007,Dark Academia,SKU01542,FabAlley,Dresses,Shirt Dress,0.64,0
+MAP000371,TRD007,Dark Academia,SKU01684,Libas,Accessories,Tote Bag,0.41,0
+MAP000372,TRD007,Dark Academia,SKU01669,Libas,Footwear,Block Heels,0.46,0
+MAP000373,TRD007,Dark Academia,SKU01103,Bewakoof,Accessories,Bucket Hat,0.75,0
+MAP000374,TRD007,Dark Academia,SKU01306,The Souled Store,Dresses,Shirt Dress,0.8,0
+MAP000375,TRD007,Dark Academia,SKU01774,Zudio,Dresses,Shirt Dress,1.0,1
+MAP000376,TRD007,Dark Academia,SKU01222,Snitch,Accessories,Caps,0.54,0
+MAP000377,TRD007,Dark Academia,SKU01551,FabAlley,Footwear,Kolhapuri,0.47,0
+MAP000378,TRD007,Dark Academia,SKU01334,The Souled Store,Accessories,Tote Bag,0.76,0
+MAP000379,TRD007,Dark Academia,SKU01562,FabAlley,Footwear,Sandals,0.66,0
+MAP000380,TRD007,Dark Academia,SKU02136,Styli,Footwear,Kolhapuri,0.9,1
+MAP000381,TRD007,Dark Academia,SKU01308,The Souled Store,Dresses,Shirt Dress,0.78,0
+MAP000382,TRD007,Dark Academia,SKU01580,FabAlley,Accessories,Belts,0.71,0
+MAP000383,TRD007,Dark Academia,SKU01422,Urbanic,Dresses,Wrap Dress,0.85,1
+MAP000384,TRD007,Dark Academia,SKU01224,Snitch,Accessories,Caps,0.7,0
+MAP000385,TRD007,Dark Academia,SKU01663,Libas,Footwear,Chunky Sneakers,0.73,0
+MAP000386,TRD007,Dark Academia,SKU01180,Snitch,Dresses,Maxi Dress,0.65,0
+MAP000387,TRD007,Dark Academia,SKU02011,Myntra M,Dresses,Co-ord Set,0.97,1
+MAP000388,TRD007,Dark Academia,SKU01674,Libas,Footwear,Loafers,0.57,0
+MAP000389,TRD007,Dark Academia,SKU01921,H&M India,Accessories,Bucket Hat,0.57,0
+MAP000390,TRD007,Dark Academia,SKU01221,Snitch,Accessories,Bucket Hat,0.59,0
+MAP000391,TRD007,Dark Academia,SKU01090,Bewakoof,Footwear,Sneakers,0.65,0
+MAP000392,TRD007,Dark Academia,SKU02121,Styli,Dresses,Bodycon Dress,0.74,0
+MAP000393,TRD007,Dark Academia,SKU01309,The Souled Store,Dresses,Co-ord Set,0.92,1
+MAP000394,TRD007,Dark Academia,SKU01435,Urbanic,Footwear,Block Heels,0.69,0
+MAP000395,TRD007,Dark Academia,SKU01577,FabAlley,Accessories,Sunglasses,0.5,0
+MAP000396,TRD007,Dark Academia,SKU01310,The Souled Store,Dresses,Co-ord Set,0.62,0
+MAP000397,TRD007,Dark Academia,SKU02152,Styli,Accessories,Tote Bag,0.57,0
+MAP000398,TRD007,Dark Academia,SKU01102,Bewakoof,Accessories,Bucket Hat,0.64,0
+MAP000399,TRD007,Dark Academia,SKU01421,Urbanic,Dresses,Wrap Dress,0.95,1
+MAP000400,TRD007,Dark Academia,SKU01572,FabAlley,Accessories,Bucket Hat,0.48,0
+MAP000401,TRD007,Dark Academia,SKU01194,Snitch,Dresses,Co-ord Set,0.53,0
+MAP000402,TRD007,Dark Academia,SKU01798,Zudio,Accessories,Sling Bag,0.82,0
+MAP000403,TRD007,Dark Academia,SKU02126,Styli,Dresses,Shirt Dress,0.5,0
+MAP000404,TRD007,Dark Academia,SKU01088,Bewakoof,Footwear,Loafers,0.54,0
+MAP000405,TRD007,Dark Academia,SKU01769,Zudio,Dresses,Bodycon Dress,0.97,1
+MAP000406,TRD007,Dark Academia,SKU01211,Snitch,Footwear,Sandals,0.63,0
+MAP000407,TRD007,Dark Academia,SKU01547,FabAlley,Footwear,Chunky Sneakers,0.42,0
+MAP000408,TRD007,Dark Academia,SKU01419,Urbanic,Dresses,Bodycon Dress,0.53,0
+MAP000409,TRD007,Dark Academia,SKU01314,The Souled Store,Footwear,Chunky Sneakers,0.47,0
+MAP000410,TRD007,Dark Academia,SKU02140,Styli,Footwear,Loafers,0.74,0
+MAP000411,TRD007,Dark Academia,SKU01658,Libas,Dresses,Shirt Dress,0.85,1
+MAP000412,TRD007,Dark Academia,SKU01332,The Souled Store,Accessories,Sling Bag,0.93,1
+MAP000413,TRD007,Dark Academia,SKU02003,Myntra M,Dresses,Bodycon Dress,0.58,0
+MAP000414,TRD007,Dark Academia,SKU01535,FabAlley,Dresses,Bodycon Dress,0.83,0
+MAP000415,TRD007,Dark Academia,SKU01907,H&M India,Footwear,Loafers,0.71,0
+MAP000416,TRD007,Dark Academia,SKU01192,Snitch,Dresses,Co-ord Set,0.5,0
+MAP000417,TRD007,Dark Academia,SKU01416,Urbanic,Dresses,Maxi Dress,0.72,0
+MAP000418,TRD007,Dark Academia,SKU01808,Zudio,Accessories,Caps,0.73,0
+MAP000419,TRD007,Dark Academia,SKU01768,Zudio,Dresses,Bodycon Dress,0.55,0
+MAP000420,TRD007,Dark Academia,SKU01788,Zudio,Footwear,Block Heels,0.96,1
+MAP000421,TRD008,Coastal Grandmother,SKU01643,Libas,Ethnic,Dhoti Pants,0.63,0
+MAP000422,TRD008,Coastal Grandmother,SKU01315,The Souled Store,Footwear,Kolhapuri,0.85,1
+MAP000423,TRD008,Coastal Grandmother,SKU01291,The Souled Store,Ethnic,Dhoti Pants,0.65,0
+MAP000424,TRD008,Coastal Grandmother,SKU01636,Libas,Ethnic,Anarkali,0.41,0
+MAP000425,TRD008,Coastal Grandmother,SKU01949,Myntra M,Topwear,Sweatshirt,0.5,0
+MAP000426,TRD008,Coastal Grandmother,SKU01834,H&M India,Topwear,Polo T-Shirt,0.77,0
+MAP000427,TRD008,Coastal Grandmother,SKU01162,Snitch,Ethnic,Kurta Set,0.83,0
+MAP000428,TRD008,Coastal Grandmother,SKU01954,Myntra M,Topwear,Tank Top,0.73,0
+MAP000429,TRD008,Coastal Grandmother,SKU01985,Myntra M,Ethnic,Co-ord Saree,0.83,0
+MAP000430,TRD008,Coastal Grandmother,SKU01175,Snitch,Ethnic,Dhoti Pants,0.6,0
+MAP000431,TRD008,Coastal Grandmother,SKU02143,Styli,Footwear,Sneakers,0.4,0
+MAP000432,TRD008,Coastal Grandmother,SKU02056,Styli,Topwear,Crop Top,0.87,1
+MAP000433,TRD008,Coastal Grandmother,SKU02027,Myntra M,Footwear,Sneakers,0.6,0
+MAP000434,TRD008,Coastal Grandmother,SKU01244,The Souled Store,Topwear,Hoodie,0.75,0
+MAP000435,TRD008,Coastal Grandmother,SKU01238,The Souled Store,Topwear,Crop Top,0.87,1
+MAP000436,TRD008,Coastal Grandmother,SKU01047,Bewakoof,Ethnic,Kurta Set,0.91,1
+MAP000437,TRD008,Coastal Grandmother,SKU01249,The Souled Store,Topwear,Polo T-Shirt,0.71,0
+MAP000438,TRD008,Coastal Grandmother,SKU01784,Zudio,Footwear,Kolhapuri,0.49,0
+MAP000439,TRD008,Coastal Grandmother,SKU01023,Bewakoof,Topwear,Blazer,0.42,0
+MAP000440,TRD008,Coastal Grandmother,SKU02115,Styli,Ethnic,Nehru Jacket,0.87,1
+MAP000441,TRD008,Coastal Grandmother,SKU01135,Snitch,Topwear,Tank Top,0.83,0
+MAP000442,TRD008,Coastal Grandmother,SKU01061,Bewakoof,Ethnic,Nehru Jacket,0.71,0
+MAP000443,TRD008,Coastal Grandmother,SKU01324,The Souled Store,Footwear,Sneakers,0.85,1
+MAP000444,TRD008,Coastal Grandmother,SKU01874,H&M India,Ethnic,Sharara Set,0.85,1
+MAP000445,TRD008,Coastal Grandmother,SKU01048,Bewakoof,Ethnic,Co-ord Saree,0.69,0
+MAP000446,TRD008,Coastal Grandmother,SKU01054,Bewakoof,Ethnic,Sharara Set,0.92,1
+MAP000447,TRD008,Coastal Grandmother,SKU02019,Myntra M,Footwear,Kolhapuri,0.99,1
+MAP000448,TRD008,Coastal Grandmother,SKU01012,Bewakoof,Topwear,Sweatshirt,0.87,1
+MAP000449,TRD008,Coastal Grandmother,SKU01632,Libas,Ethnic,Kurta Set,0.54,0
+MAP000450,TRD008,Coastal Grandmother,SKU01912,H&M India,Footwear,Sandals,0.7,0
+MAP000451,TRD008,Coastal Grandmother,SKU01589,Libas,Topwear,Crop Top,0.6,0
+MAP000452,TRD008,Coastal Grandmother,SKU02109,Styli,Ethnic,Sharara Set,0.7,0
+MAP000453,TRD008,Coastal Grandmother,SKU01490,FabAlley,Topwear,Blazer,0.54,0
+MAP000454,TRD008,Coastal Grandmother,SKU01443,Urbanic,Footwear,Sneakers,0.46,0
+MAP000455,TRD008,Coastal Grandmother,SKU01602,Libas,Topwear,Polo T-Shirt,0.77,0
+MAP000456,TRD008,Coastal Grandmother,SKU02070,Styli,Topwear,Polo T-Shirt,0.75,0
+MAP000457,TRD008,Coastal Grandmother,SKU01987,Myntra M,Ethnic,Anarkali,0.6,0
+MAP000458,TRD008,Coastal Grandmother,SKU02022,Myntra M,Footwear,Block Heels,0.56,0
+MAP000459,TRD008,Coastal Grandmother,SKU01598,Libas,Topwear,Sweatshirt,0.42,0
+MAP000460,TRD008,Coastal Grandmother,SKU01489,FabAlley,Topwear,Blazer,0.79,0
+MAP000461,TRD008,Coastal Grandmother,SKU01179,Snitch,Ethnic,Nehru Jacket,0.63,0
+MAP000462,TRD008,Coastal Grandmother,SKU01359,Urbanic,Topwear,Shirt,0.51,0
+MAP000463,TRD008,Coastal Grandmother,SKU01446,Urbanic,Footwear,Sandals,0.93,1
+MAP000464,TRD008,Coastal Grandmother,SKU01906,H&M India,Footwear,Loafers,1.0,1
+MAP000465,TRD008,Coastal Grandmother,SKU02133,Styli,Footwear,Chunky Sneakers,0.56,0
+MAP000466,TRD008,Coastal Grandmother,SKU01293,The Souled Store,Ethnic,Dhoti Pants,0.43,0
+MAP000467,TRD008,Coastal Grandmother,SKU01009,Bewakoof,Topwear,Hoodie,0.91,1
+MAP000468,TRD008,Coastal Grandmother,SKU01059,Bewakoof,Ethnic,Dhoti Pants,0.41,0
+MAP000469,TRD008,Coastal Grandmother,SKU01637,Libas,Ethnic,Anarkali,0.7,0
+MAP000470,TRD008,Coastal Grandmother,SKU01477,FabAlley,Topwear,Hoodie,0.88,1
+MAP000471,TRD008,Coastal Grandmother,SKU01547,FabAlley,Footwear,Chunky Sneakers,0.71,0
+MAP000472,TRD008,Coastal Grandmother,SKU01196,Snitch,Footwear,Chunky Sneakers,0.47,0
+MAP000473,TRD008,Coastal Grandmother,SKU01211,Snitch,Footwear,Sandals,0.91,1
+MAP000474,TRD008,Coastal Grandmother,SKU01563,FabAlley,Footwear,Sandals,0.66,0
+MAP000475,TRD008,Coastal Grandmother,SKU01593,Libas,Topwear,Shirt,0.76,0
+MAP000476,TRD008,Coastal Grandmother,SKU01524,FabAlley,Ethnic,Sharara Set,0.95,1
+MAP000477,TRD008,Coastal Grandmother,SKU01791,Zudio,Footwear,Loafers,0.75,0
+MAP000478,TRD008,Coastal Grandmother,SKU01126,Snitch,Topwear,Hoodie,0.91,1
+MAP000479,TRD008,Coastal Grandmother,SKU01994,Myntra M,Ethnic,Dhoti Pants,0.94,1
+MAP000480,TRD008,Coastal Grandmother,SKU02020,Myntra M,Footwear,Block Heels,0.71,0
+MAP000481,TRD009,Mob Wife Aesthetic,SKU01844,H&M India,Bottomwear,Baggy Jeans,0.97,1
+MAP000482,TRD009,Mob Wife Aesthetic,SKU01731,Zudio,Bottomwear,Cargo Pants,0.42,0
+MAP000483,TRD009,Mob Wife Aesthetic,SKU02152,Styli,Accessories,Tote Bag,0.61,0
+MAP000484,TRD009,Mob Wife Aesthetic,SKU01453,Urbanic,Accessories,Bucket Hat,0.87,1
+MAP000485,TRD009,Mob Wife Aesthetic,SKU02147,Styli,Footwear,Sandals,0.43,0
+MAP000486,TRD009,Mob Wife Aesthetic,SKU01913,H&M India,Footwear,Sandals,0.5,0
+MAP000487,TRD009,Mob Wife Aesthetic,SKU01813,Zudio,Accessories,Belts,0.92,1
+MAP000488,TRD009,Mob Wife Aesthetic,SKU02051,Myntra M,Accessories,Scarves,0.55,0
+MAP000489,TRD009,Mob Wife Aesthetic,SKU01112,Bewakoof,Accessories,Belts,0.55,0
+MAP000490,TRD009,Mob Wife Aesthetic,SKU01972,Myntra M,Bottomwear,Palazzo,0.95,1
+MAP000491,TRD009,Mob Wife Aesthetic,SKU01144,Snitch,Bottomwear,Cargo Pants,0.9,1
+MAP000492,TRD009,Mob Wife Aesthetic,SKU01508,FabAlley,Bottomwear,Straight Fit Jeans,0.62,0
+MAP000493,TRD009,Mob Wife Aesthetic,SKU01104,Bewakoof,Accessories,Bucket Hat,0.51,0
+MAP000494,TRD009,Mob Wife Aesthetic,SKU01149,Snitch,Bottomwear,Joggers,0.93,1
+MAP000495,TRD009,Mob Wife Aesthetic,SKU01812,Zudio,Accessories,Sunglasses,0.77,0
+MAP000496,TRD009,Mob Wife Aesthetic,SKU01318,The Souled Store,Footwear,Block Heels,0.6,0
+MAP000497,TRD009,Mob Wife Aesthetic,SKU01500,FabAlley,Bottomwear,Joggers,0.43,0
+MAP000498,TRD009,Mob Wife Aesthetic,SKU01160,Snitch,Bottomwear,Shorts,0.74,0
+MAP000499,TRD009,Mob Wife Aesthetic,SKU01730,Zudio,Bottomwear,Cargo Pants,0.53,0
+MAP000500,TRD009,Mob Wife Aesthetic,SKU01914,H&M India,Footwear,Sandals,0.46,0
+MAP000501,TRD009,Mob Wife Aesthetic,SKU01217,Snitch,Accessories,Tote Bag,0.77,0
+MAP000502,TRD009,Mob Wife Aesthetic,SKU01847,H&M India,Bottomwear,Cargo Pants,0.47,0
+MAP000503,TRD009,Mob Wife Aesthetic,SKU01381,Urbanic,Bottomwear,Joggers,0.63,0
+MAP000504,TRD009,Mob Wife Aesthetic,SKU01505,FabAlley,Bottomwear,Palazzo,0.77,0
+MAP000505,TRD009,Mob Wife Aesthetic,SKU01903,H&M India,Footwear,Block Heels,0.75,0
+MAP000506,TRD009,Mob Wife Aesthetic,SKU02018,Myntra M,Footwear,Kolhapuri,0.64,0
+MAP000507,TRD009,Mob Wife Aesthetic,SKU01389,Urbanic,Bottomwear,Palazzo,0.48,0
+MAP000508,TRD009,Mob Wife Aesthetic,SKU01330,The Souled Store,Accessories,Sling Bag,0.9,1
+MAP000509,TRD009,Mob Wife Aesthetic,SKU01441,Urbanic,Footwear,Sneakers,0.64,0
+MAP000510,TRD009,Mob Wife Aesthetic,SKU01967,Myntra M,Bottomwear,Joggers,0.91,1
+MAP000511,TRD009,Mob Wife Aesthetic,SKU01228,Snitch,Accessories,Belts,0.42,0
+MAP000512,TRD009,Mob Wife Aesthetic,SKU01619,Libas,Bottomwear,Mini Skirt,0.48,0
+MAP000513,TRD009,Mob Wife Aesthetic,SKU01498,FabAlley,Bottomwear,Joggers,0.81,0
+MAP000514,TRD009,Mob Wife Aesthetic,SKU01701,Libas,Accessories,Scarves,0.8,0
+MAP000515,TRD009,Mob Wife Aesthetic,SKU01106,Bewakoof,Accessories,Caps,0.81,0
+MAP000516,TRD009,Mob Wife Aesthetic,SKU01807,Zudio,Accessories,Caps,0.74,0
+MAP000517,TRD009,Mob Wife Aesthetic,SKU01142,Snitch,Bottomwear,Baggy Jeans,0.54,0
+MAP000518,TRD009,Mob Wife Aesthetic,SKU01030,Bewakoof,Bottomwear,Joggers,0.44,0
+MAP000519,TRD009,Mob Wife Aesthetic,SKU01278,The Souled Store,Bottomwear,Shorts,0.99,1
+MAP000520,TRD009,Mob Wife Aesthetic,SKU01560,FabAlley,Footwear,Sneakers,0.52,0
+MAP000521,TRD009,Mob Wife Aesthetic,SKU01146,Snitch,Bottomwear,Cargo Pants,0.61,0
+MAP000522,TRD009,Mob Wife Aesthetic,SKU01801,Zudio,Accessories,Tote Bag,0.5,0
+MAP000523,TRD009,Mob Wife Aesthetic,SKU01347,The Souled Store,Accessories,Belts,0.79,0
+MAP000524,TRD009,Mob Wife Aesthetic,SKU01037,Bewakoof,Bottomwear,Palazzo,0.82,0
+MAP000525,TRD009,Mob Wife Aesthetic,SKU01672,Libas,Footwear,Loafers,0.96,1
+MAP000526,TRD009,Mob Wife Aesthetic,SKU01385,Urbanic,Bottomwear,Mini Skirt,0.72,0
+MAP000527,TRD009,Mob Wife Aesthetic,SKU01583,FabAlley,Accessories,Scarves,0.47,0
+MAP000528,TRD009,Mob Wife Aesthetic,SKU01159,Snitch,Bottomwear,Shorts,0.92,1
+MAP000529,TRD009,Mob Wife Aesthetic,SKU02047,Myntra M,Accessories,Belts,0.43,0
+MAP000530,TRD009,Mob Wife Aesthetic,SKU01040,Bewakoof,Bottomwear,Straight Fit Jeans,0.94,1
+MAP000531,TRD009,Mob Wife Aesthetic,SKU01860,H&M India,Bottomwear,Straight Fit Jeans,0.42,0
+MAP000532,TRD009,Mob Wife Aesthetic,SKU01031,Bewakoof,Bottomwear,Joggers,0.89,1
+MAP000533,TRD009,Mob Wife Aesthetic,SKU01312,The Souled Store,Footwear,Chunky Sneakers,0.85,1
+MAP000534,TRD009,Mob Wife Aesthetic,SKU02043,Myntra M,Accessories,Caps,0.55,0
+MAP000535,TRD009,Mob Wife Aesthetic,SKU01497,FabAlley,Bottomwear,Cargo Pants,0.98,1
+MAP000536,TRD009,Mob Wife Aesthetic,SKU01157,Snitch,Bottomwear,Straight Fit Jeans,0.41,0
+MAP000537,TRD009,Mob Wife Aesthetic,SKU01929,H&M India,Accessories,Sunglasses,0.85,1
+MAP000538,TRD009,Mob Wife Aesthetic,SKU01691,Libas,Accessories,Caps,0.63,0
+MAP000539,TRD009,Mob Wife Aesthetic,SKU01460,Urbanic,Accessories,Sunglasses,0.45,0
+MAP000540,TRD009,Mob Wife Aesthetic,SKU01029,Bewakoof,Bottomwear,Cargo Pants,0.57,0
+MAP000541,TRD010,Coquette,SKU01485,FabAlley,Topwear,Polo T-Shirt,0.79,0
+MAP000542,TRD010,Coquette,SKU01466,Urbanic,Accessories,Scarves,0.92,1
+MAP000543,TRD010,Coquette,SKU01116,Bewakoof,Accessories,Scarves,0.56,0
+MAP000544,TRD010,Coquette,SKU01713,Zudio,Topwear,Hoodie,0.56,0
+MAP000545,TRD010,Coquette,SKU02072,Styli,Topwear,Tank Top,0.58,0
+MAP000546,TRD010,Coquette,SKU01655,Libas,Dresses,Wrap Dress,0.85,1
+MAP000547,TRD010,Coquette,SKU01833,H&M India,Topwear,Sweatshirt,0.9,1
+MAP000548,TRD010,Coquette,SKU01102,Bewakoof,Accessories,Bucket Hat,0.76,0
+MAP000549,TRD010,Coquette,SKU01568,FabAlley,Accessories,Tote Bag,0.43,0
+MAP000550,TRD010,Coquette,SKU02164,Styli,Accessories,Belts,0.77,0
+MAP000551,TRD010,Coquette,SKU01066,Bewakoof,Dresses,Bodycon Dress,0.55,0
+MAP000552,TRD010,Coquette,SKU01684,Libas,Accessories,Tote Bag,0.91,1
+MAP000553,TRD010,Coquette,SKU02062,Styli,Topwear,Hoodie,0.82,0
+MAP000554,TRD010,Coquette,SKU01470,FabAlley,Topwear,Oversized T-Shirt,0.62,0
+MAP000555,TRD010,Coquette,SKU01115,Bewakoof,Accessories,Scarves,0.78,0
+MAP000556,TRD010,Coquette,SKU01231,Snitch,Accessories,Scarves,0.69,0
+MAP000557,TRD010,Coquette,SKU01531,FabAlley,Dresses,Maxi Dress,0.66,0
+MAP000558,TRD010,Coquette,SKU01608,Libas,Topwear,Blazer,0.93,1
+MAP000559,TRD010,Coquette,SKU02010,Myntra M,Dresses,Shirt Dress,0.78,0
+MAP000560,TRD010,Coquette,SKU01423,Urbanic,Dresses,Shirt Dress,0.65,0
+MAP000561,TRD010,Coquette,SKU01004,Bewakoof,Topwear,Crop Top,0.49,0
+MAP000562,TRD010,Coquette,SKU01772,Zudio,Dresses,Wrap Dress,0.95,1
+MAP000563,TRD010,Coquette,SKU01481,FabAlley,Topwear,Sweatshirt,0.94,1
+MAP000564,TRD010,Coquette,SKU02009,Myntra M,Dresses,Shirt Dress,0.68,0
+MAP000565,TRD010,Coquette,SKU02033,Myntra M,Accessories,Sling Bag,0.52,0
+MAP000566,TRD010,Coquette,SKU01233,Snitch,Accessories,Scarves,0.94,1
+MAP000567,TRD010,Coquette,SKU01074,Bewakoof,Dresses,Shirt Dress,0.82,0
+MAP000568,TRD010,Coquette,SKU01921,H&M India,Accessories,Bucket Hat,0.97,1
+MAP000569,TRD010,Coquette,SKU01590,Libas,Topwear,Crop Top,0.6,0
+MAP000570,TRD010,Coquette,SKU01885,H&M India,Dresses,Bodycon Dress,1.0,1
+MAP000571,TRD010,Coquette,SKU01776,Zudio,Dresses,Shirt Dress,0.98,1
+MAP000572,TRD010,Coquette,SKU01347,The Souled Store,Accessories,Belts,0.65,0
+MAP000573,TRD010,Coquette,SKU02159,Styli,Accessories,Caps,0.85,1
+MAP000574,TRD010,Coquette,SKU01360,Urbanic,Topwear,Hoodie,0.75,0
+MAP000575,TRD010,Coquette,SKU01307,The Souled Store,Dresses,Shirt Dress,0.53,0
+MAP000576,TRD010,Coquette,SKU01840,H&M India,Topwear,Blazer,0.91,1
+MAP000577,TRD010,Coquette,SKU02121,Styli,Dresses,Bodycon Dress,0.58,0
+MAP000578,TRD010,Coquette,SKU01119,Snitch,Topwear,Oversized T-Shirt,0.65,0
+MAP000579,TRD010,Coquette,SKU01581,FabAlley,Accessories,Belts,0.85,1
+MAP000580,TRD010,Coquette,SKU01354,Urbanic,Topwear,Crop Top,0.89,1
+MAP000581,TRD010,Coquette,SKU01704,Zudio,Topwear,Oversized T-Shirt,0.6,0
+MAP000582,TRD010,Coquette,SKU01692,Libas,Accessories,Caps,0.53,0
+MAP000583,TRD010,Coquette,SKU01342,The Souled Store,Accessories,Sunglasses,0.53,0
+MAP000584,TRD010,Coquette,SKU01219,Snitch,Accessories,Bucket Hat,0.61,0
+MAP000585,TRD010,Coquette,SKU02064,Styli,Topwear,Hoodie,0.77,0
+MAP000586,TRD010,Coquette,SKU02005,Myntra M,Dresses,Wrap Dress,0.45,0
+MAP000587,TRD010,Coquette,SKU01367,Urbanic,Topwear,Polo T-Shirt,0.59,0
+MAP000588,TRD010,Coquette,SKU01023,Bewakoof,Topwear,Blazer,0.99,1
+MAP000589,TRD010,Coquette,SKU01182,Snitch,Dresses,Maxi Dress,0.99,1
+MAP000590,TRD010,Coquette,SKU01248,The Souled Store,Topwear,Sweatshirt,0.57,0
+MAP000591,TRD010,Coquette,SKU01133,Snitch,Topwear,Polo T-Shirt,0.72,0
+MAP000592,TRD010,Coquette,SKU01718,Zudio,Topwear,Polo T-Shirt,0.95,1
+MAP000593,TRD010,Coquette,SKU01371,Urbanic,Topwear,Tank Top,0.65,0
+MAP000594,TRD010,Coquette,SKU02166,Styli,Accessories,Belts,0.98,1
+MAP000595,TRD010,Coquette,SKU01959,Myntra M,Topwear,Blazer,0.69,0
+MAP000596,TRD010,Coquette,SKU01465,Urbanic,Accessories,Scarves,0.96,1
+MAP000597,TRD010,Coquette,SKU01355,Urbanic,Topwear,Crop Top,0.65,0
+MAP000598,TRD010,Coquette,SKU01426,Urbanic,Dresses,Co-ord Set,0.6,0
+MAP000599,TRD010,Coquette,SKU02128,Styli,Dresses,Co-ord Set,0.55,0
+MAP000600,TRD010,Coquette,SKU01830,H&M India,Topwear,Hoodie,0.49,0
+MAP000601,TRD011,Old Money,SKU01965,Myntra M,Bottomwear,Cargo Pants,0.43,0
+MAP000602,TRD011,Old Money,SKU01276,The Souled Store,Bottomwear,Shorts,0.59,0
+MAP000603,TRD011,Old Money,SKU01143,Snitch,Bottomwear,Baggy Jeans,0.77,0
+MAP000604,TRD011,Old Money,SKU01856,H&M India,Bottomwear,Palazzo,0.93,1
+MAP000605,TRD011,Old Money,SKU01820,H&M India,Topwear,Oversized T-Shirt,0.54,0
+MAP000606,TRD011,Old Money,SKU02063,Styli,Topwear,Hoodie,0.4,0
+MAP000607,TRD011,Old Money,SKU01931,H&M India,Accessories,Belts,0.57,0
+MAP000608,TRD011,Old Money,SKU01682,Libas,Accessories,Sling Bag,0.78,0
+MAP000609,TRD011,Old Money,SKU01030,Bewakoof,Bottomwear,Joggers,0.56,0
+MAP000610,TRD011,Old Money,SKU01836,H&M India,Topwear,Polo T-Shirt,0.52,0
+MAP000611,TRD011,Old Money,SKU01849,H&M India,Bottomwear,Joggers,0.89,1
+MAP000612,TRD011,Old Money,SKU02033,Myntra M,Accessories,Sling Bag,0.52,0
+MAP000613,TRD011,Old Money,SKU01352,Urbanic,Topwear,Oversized T-Shirt,0.53,0
+MAP000614,TRD011,Old Money,SKU01746,Zudio,Bottomwear,Shorts,0.78,0
+MAP000615,TRD011,Old Money,SKU01576,FabAlley,Accessories,Sunglasses,0.46,0
+MAP000616,TRD011,Old Money,SKU01221,Snitch,Accessories,Bucket Hat,0.59,0
+MAP000617,TRD011,Old Money,SKU01354,Urbanic,Topwear,Crop Top,0.53,0
+MAP000618,TRD011,Old Money,SKU01152,Snitch,Bottomwear,Mini Skirt,0.42,0
+MAP000619,TRD011,Old Money,SKU01841,H&M India,Topwear,Blazer,0.44,0
+MAP000620,TRD011,Old Money,SKU01273,The Souled Store,Bottomwear,Straight Fit Jeans,0.41,0
+MAP000621,TRD011,Old Money,SKU02093,Styli,Bottomwear,Straight Fit Jeans,0.9,1
+MAP000622,TRD011,Old Money,SKU01942,Myntra M,Topwear,Shirt,0.61,0
+MAP000623,TRD011,Old Money,SKU01814,Zudio,Accessories,Belts,0.41,0
+MAP000624,TRD011,Old Money,SKU02034,Myntra M,Accessories,Sling Bag,0.8,0
+MAP000625,TRD011,Old Money,SKU01266,The Souled Store,Bottomwear,Joggers,0.83,0
+MAP000626,TRD011,Old Money,SKU02151,Styli,Accessories,Sling Bag,0.8,0
+MAP000627,TRD011,Old Money,SKU01599,Libas,Topwear,Sweatshirt,0.57,0
+MAP000628,TRD011,Old Money,SKU01341,The Souled Store,Accessories,Caps,0.97,1
+MAP000629,TRD011,Old Money,SKU01157,Snitch,Bottomwear,Straight Fit Jeans,0.43,0
+MAP000630,TRD011,Old Money,SKU02094,Styli,Bottomwear,Straight Fit Jeans,0.42,0
+MAP000631,TRD011,Old Money,SKU01861,H&M India,Bottomwear,Shorts,0.41,0
+MAP000632,TRD011,Old Money,SKU01600,Libas,Topwear,Polo T-Shirt,0.51,0
+MAP000633,TRD011,Old Money,SKU01145,Snitch,Bottomwear,Cargo Pants,0.66,0
+MAP000634,TRD011,Old Money,SKU01699,Libas,Accessories,Scarves,0.65,0
+MAP000635,TRD011,Old Money,SKU01502,FabAlley,Bottomwear,Mini Skirt,0.67,0
+MAP000636,TRD011,Old Money,SKU01018,Bewakoof,Topwear,Tank Top,0.5,0
+MAP000637,TRD011,Old Money,SKU02037,Myntra M,Accessories,Tote Bag,0.68,0
+MAP000638,TRD011,Old Money,SKU01003,Bewakoof,Topwear,Crop Top,0.52,0
+MAP000639,TRD011,Old Money,SKU01263,The Souled Store,Bottomwear,Cargo Pants,0.73,0
+MAP000640,TRD011,Old Money,SKU02044,Myntra M,Accessories,Sunglasses,0.42,0
+MAP000641,TRD011,Old Money,SKU01120,Snitch,Topwear,Crop Top,0.94,1
+MAP000642,TRD011,Old Money,SKU01338,The Souled Store,Accessories,Bucket Hat,0.68,0
+MAP000643,TRD011,Old Money,SKU02060,Styli,Topwear,Shirt,0.94,1
+MAP000644,TRD011,Old Money,SKU01575,FabAlley,Accessories,Caps,0.77,0
+MAP000645,TRD011,Old Money,SKU01379,Urbanic,Bottomwear,Cargo Pants,0.58,0
+MAP000646,TRD011,Old Money,SKU01566,FabAlley,Accessories,Sling Bag,0.7,0
+MAP000647,TRD011,Old Money,SKU02092,Styli,Bottomwear,Straight Fit Jeans,0.96,1
+MAP000648,TRD011,Old Money,SKU01506,FabAlley,Bottomwear,Palazzo,0.76,0
+MAP000649,TRD011,Old Money,SKU02082,Styli,Bottomwear,Cargo Pants,0.53,0
+MAP000650,TRD011,Old Money,SKU01499,FabAlley,Bottomwear,Joggers,0.98,1
+MAP000651,TRD011,Old Money,SKU01917,H&M India,Accessories,Sling Bag,0.83,0
+MAP000652,TRD011,Old Money,SKU01823,H&M India,Topwear,Crop Top,0.66,0
+MAP000653,TRD011,Old Money,SKU01219,Snitch,Accessories,Bucket Hat,0.97,1
+MAP000654,TRD011,Old Money,SKU01457,Urbanic,Accessories,Caps,0.41,0
+MAP000655,TRD011,Old Money,SKU01239,The Souled Store,Topwear,Crop Top,0.73,0
+MAP000656,TRD011,Old Money,SKU01740,Zudio,Bottomwear,Palazzo,0.52,0
+MAP000657,TRD011,Old Money,SKU01372,Urbanic,Topwear,Blazer,0.79,0
+MAP000658,TRD011,Old Money,SKU01936,Myntra M,Topwear,Oversized T-Shirt,0.83,0
+MAP000659,TRD011,Old Money,SKU01916,H&M India,Accessories,Sling Bag,0.69,0
+MAP000660,TRD011,Old Money,SKU01810,Zudio,Accessories,Sunglasses,0.4,0
+MAP000661,TRD012,Streetwear Fusion,SKU02139,Styli,Footwear,Block Heels,0.64,0
+MAP000662,TRD012,Streetwear Fusion,SKU01924,H&M India,Accessories,Caps,0.84,0
+MAP000663,TRD012,Streetwear Fusion,SKU01010,Bewakoof,Topwear,Hoodie,0.45,0
+MAP000664,TRD012,Streetwear Fusion,SKU01117,Snitch,Topwear,Oversized T-Shirt,0.41,0
+MAP000665,TRD012,Streetwear Fusion,SKU01910,H&M India,Footwear,Sneakers,0.66,0
+MAP000666,TRD012,Streetwear Fusion,SKU01669,Libas,Footwear,Block Heels,0.87,1
+MAP000667,TRD012,Streetwear Fusion,SKU01594,Libas,Topwear,Hoodie,0.87,1
+MAP000668,TRD012,Streetwear Fusion,SKU01447,Urbanic,Accessories,Sling Bag,0.92,1
+MAP000669,TRD012,Streetwear Fusion,SKU01710,Zudio,Topwear,Shirt,0.56,0
+MAP000670,TRD012,Streetwear Fusion,SKU01080,Bewakoof,Footwear,Chunky Sneakers,0.54,0
+MAP000671,TRD012,Streetwear Fusion,SKU01129,Snitch,Topwear,Sweatshirt,0.72,0
+MAP000672,TRD012,Streetwear Fusion,SKU01368,Urbanic,Topwear,Polo T-Shirt,0.55,0
+MAP000673,TRD012,Streetwear Fusion,SKU01103,Bewakoof,Accessories,Bucket Hat,0.89,1
+MAP000674,TRD012,Streetwear Fusion,SKU01467,Urbanic,Accessories,Scarves,0.94,1
+MAP000675,TRD012,Streetwear Fusion,SKU01717,Zudio,Topwear,Polo T-Shirt,0.5,0
+MAP000676,TRD012,Streetwear Fusion,SKU02071,Styli,Topwear,Tank Top,0.89,1
+MAP000677,TRD012,Streetwear Fusion,SKU01605,Libas,Topwear,Tank Top,0.45,0
+MAP000678,TRD012,Streetwear Fusion,SKU02023,Myntra M,Footwear,Loafers,0.46,0
+MAP000679,TRD012,Streetwear Fusion,SKU02165,Styli,Accessories,Belts,0.62,0
+MAP000680,TRD012,Streetwear Fusion,SKU01836,H&M India,Topwear,Polo T-Shirt,0.5,0
+MAP000681,TRD012,Streetwear Fusion,SKU01905,H&M India,Footwear,Block Heels,0.64,0
+MAP000682,TRD012,Streetwear Fusion,SKU02060,Styli,Topwear,Shirt,0.94,1
+MAP000683,TRD012,Streetwear Fusion,SKU01346,The Souled Store,Accessories,Belts,0.95,1
+MAP000684,TRD012,Streetwear Fusion,SKU01469,FabAlley,Topwear,Oversized T-Shirt,0.54,0
+MAP000685,TRD012,Streetwear Fusion,SKU01018,Bewakoof,Topwear,Tank Top,0.75,0
+MAP000686,TRD012,Streetwear Fusion,SKU01679,Libas,Footwear,Sandals,0.42,0
+MAP000687,TRD012,Streetwear Fusion,SKU01567,FabAlley,Accessories,Tote Bag,0.5,0
+MAP000688,TRD012,Streetwear Fusion,SKU01353,Urbanic,Topwear,Oversized T-Shirt,0.86,1
+MAP000689,TRD012,Streetwear Fusion,SKU02035,Myntra M,Accessories,Tote Bag,0.93,1
+MAP000690,TRD012,Streetwear Fusion,SKU01680,Libas,Footwear,Sandals,0.84,0
+MAP000691,TRD012,Streetwear Fusion,SKU01711,Zudio,Topwear,Hoodie,0.74,0
+MAP000692,TRD012,Streetwear Fusion,SKU01329,The Souled Store,Footwear,Sandals,0.98,1
+MAP000693,TRD012,Streetwear Fusion,SKU01362,Urbanic,Topwear,Hoodie,0.57,0
+MAP000694,TRD012,Streetwear Fusion,SKU01698,Libas,Accessories,Belts,0.86,1
+MAP000695,TRD012,Streetwear Fusion,SKU02164,Styli,Accessories,Belts,0.67,0
+MAP000696,TRD012,Streetwear Fusion,SKU02047,Myntra M,Accessories,Belts,0.51,0
+MAP000697,TRD012,Streetwear Fusion,SKU01333,The Souled Store,Accessories,Tote Bag,0.74,0
+MAP000698,TRD012,Streetwear Fusion,SKU01932,H&M India,Accessories,Belts,0.76,0
+MAP000699,TRD012,Streetwear Fusion,SKU01003,Bewakoof,Topwear,Crop Top,0.73,0
+MAP000700,TRD012,Streetwear Fusion,SKU02155,Styli,Accessories,Bucket Hat,0.57,0
+MAP000701,TRD012,Streetwear Fusion,SKU01115,Bewakoof,Accessories,Scarves,0.94,1
+MAP000702,TRD012,Streetwear Fusion,SKU01811,Zudio,Accessories,Sunglasses,0.64,0
+MAP000703,TRD012,Streetwear Fusion,SKU02161,Styli,Accessories,Sunglasses,0.54,0
+MAP000704,TRD012,Streetwear Fusion,SKU01714,Zudio,Topwear,Sweatshirt,0.97,1
+MAP000705,TRD012,Streetwear Fusion,SKU01093,Bewakoof,Footwear,Sandals,0.6,0
+MAP000706,TRD012,Streetwear Fusion,SKU01113,Bewakoof,Accessories,Belts,0.45,0
+MAP000707,TRD012,Streetwear Fusion,SKU02039,Myntra M,Accessories,Bucket Hat,0.45,0
+MAP000708,TRD012,Streetwear Fusion,SKU01585,Libas,Topwear,Oversized T-Shirt,0.64,0
+MAP000709,TRD012,Streetwear Fusion,SKU01816,Zudio,Accessories,Scarves,0.49,0
+MAP000710,TRD012,Streetwear Fusion,SKU01367,Urbanic,Topwear,Polo T-Shirt,0.95,1
+MAP000711,TRD012,Streetwear Fusion,SKU01552,FabAlley,Footwear,Block Heels,0.57,0
+MAP000712,TRD012,Streetwear Fusion,SKU01706,Zudio,Topwear,Crop Top,0.63,0
+MAP000713,TRD012,Streetwear Fusion,SKU01442,Urbanic,Footwear,Sneakers,0.95,1
+MAP000714,TRD012,Streetwear Fusion,SKU01788,Zudio,Footwear,Block Heels,0.73,0
+MAP000715,TRD012,Streetwear Fusion,SKU01573,FabAlley,Accessories,Caps,0.74,0
+MAP000716,TRD012,Streetwear Fusion,SKU02014,Myntra M,Footwear,Chunky Sneakers,0.93,1
+MAP000717,TRD012,Streetwear Fusion,SKU01087,Bewakoof,Footwear,Loafers,0.93,1
+MAP000718,TRD012,Streetwear Fusion,SKU01332,The Souled Store,Accessories,Sling Bag,0.73,0
+MAP000719,TRD012,Streetwear Fusion,SKU01331,The Souled Store,Accessories,Sling Bag,0.51,0
+MAP000720,TRD012,Streetwear Fusion,SKU02036,Myntra M,Accessories,Tote Bag,0.54,0
+MAP000721,TRD013,Ethnic Modernism,SKU02104,Styli,Ethnic,Anarkali,0.57,0
+MAP000722,TRD013,Ethnic Modernism,SKU01696,Libas,Accessories,Belts,0.94,1
+MAP000723,TRD013,Ethnic Modernism,SKU01343,The Souled Store,Accessories,Sunglasses,0.76,0
+MAP000724,TRD013,Ethnic Modernism,SKU01279,The Souled Store,Ethnic,Kurta Set,0.93,1
+MAP000725,TRD013,Ethnic Modernism,SKU01346,The Souled Store,Accessories,Belts,0.87,1
+MAP000726,TRD013,Ethnic Modernism,SKU01637,Libas,Ethnic,Anarkali,0.81,0
+MAP000727,TRD013,Ethnic Modernism,SKU01282,The Souled Store,Ethnic,Co-ord Saree,0.69,0
+MAP000728,TRD013,Ethnic Modernism,SKU01577,FabAlley,Accessories,Sunglasses,0.91,1
+MAP000729,TRD013,Ethnic Modernism,SKU01875,H&M India,Ethnic,Sharara Set,0.94,1
+MAP000730,TRD013,Ethnic Modernism,SKU01294,The Souled Store,Ethnic,Nehru Jacket,0.57,0
+MAP000731,TRD013,Ethnic Modernism,SKU01053,Bewakoof,Ethnic,Anarkali,0.88,1
+MAP000732,TRD013,Ethnic Modernism,SKU01291,The Souled Store,Ethnic,Dhoti Pants,0.7,0
+MAP000733,TRD013,Ethnic Modernism,SKU01998,Myntra M,Ethnic,Nehru Jacket,0.41,0
+MAP000734,TRD013,Ethnic Modernism,SKU01222,Snitch,Accessories,Caps,0.44,0
+MAP000735,TRD013,Ethnic Modernism,SKU01764,Zudio,Ethnic,Nehru Jacket,0.68,0
+MAP000736,TRD013,Ethnic Modernism,SKU01231,Snitch,Accessories,Scarves,0.65,0
+MAP000737,TRD013,Ethnic Modernism,SKU01573,FabAlley,Accessories,Caps,0.82,0
+MAP000738,TRD013,Ethnic Modernism,SKU01798,Zudio,Accessories,Sling Bag,0.87,1
+MAP000739,TRD013,Ethnic Modernism,SKU02111,Styli,Ethnic,Dhoti Pants,0.56,0
+MAP000740,TRD013,Ethnic Modernism,SKU01116,Bewakoof,Accessories,Scarves,0.6,0
+MAP000741,TRD013,Ethnic Modernism,SKU01459,Urbanic,Accessories,Sunglasses,0.84,0
+MAP000742,TRD013,Ethnic Modernism,SKU01287,The Souled Store,Ethnic,Anarkali,0.4,0
+MAP000743,TRD013,Ethnic Modernism,SKU01760,Zudio,Ethnic,Dhoti Pants,0.62,0
+MAP000744,TRD013,Ethnic Modernism,SKU02040,Myntra M,Accessories,Bucket Hat,0.92,1
+MAP000745,TRD013,Ethnic Modernism,SKU01163,Snitch,Ethnic,Kurta Set,0.57,0
+MAP000746,TRD013,Ethnic Modernism,SKU01579,FabAlley,Accessories,Belts,0.54,0
+MAP000747,TRD013,Ethnic Modernism,SKU01046,Bewakoof,Ethnic,Kurta Set,0.45,0
+MAP000748,TRD013,Ethnic Modernism,SKU02047,Myntra M,Accessories,Belts,0.83,0
+MAP000749,TRD013,Ethnic Modernism,SKU01919,H&M India,Accessories,Tote Bag,0.97,1
+MAP000750,TRD013,Ethnic Modernism,SKU01983,Myntra M,Ethnic,Kurta Set,0.47,0
+MAP000751,TRD013,Ethnic Modernism,SKU01634,Libas,Ethnic,Co-ord Saree,0.5,0
+MAP000752,TRD013,Ethnic Modernism,SKU01640,Libas,Ethnic,Sharara Set,0.84,0
+MAP000753,TRD013,Ethnic Modernism,SKU01108,Bewakoof,Accessories,Sunglasses,0.97,1
+MAP000754,TRD013,Ethnic Modernism,SKU02106,Styli,Ethnic,Anarkali,0.84,0
+MAP000755,TRD013,Ethnic Modernism,SKU02151,Styli,Accessories,Sling Bag,0.74,0
+MAP000756,TRD013,Ethnic Modernism,SKU01630,Libas,Ethnic,Kurta Set,0.83,0
+MAP000757,TRD013,Ethnic Modernism,SKU02110,Styli,Ethnic,Dhoti Pants,0.98,1
+MAP000758,TRD013,Ethnic Modernism,SKU01814,Zudio,Accessories,Belts,0.9,1
+MAP000759,TRD013,Ethnic Modernism,SKU01917,H&M India,Accessories,Sling Bag,0.46,0
+MAP000760,TRD013,Ethnic Modernism,SKU01449,Urbanic,Accessories,Sling Bag,0.45,0
+MAP000761,TRD013,Ethnic Modernism,SKU02163,Styli,Accessories,Sunglasses,0.6,0
+MAP000762,TRD013,Ethnic Modernism,SKU01456,Urbanic,Accessories,Caps,0.49,0
+MAP000763,TRD013,Ethnic Modernism,SKU01807,Zudio,Accessories,Caps,0.57,0
+MAP000764,TRD013,Ethnic Modernism,SKU01061,Bewakoof,Ethnic,Nehru Jacket,0.82,0
+MAP000765,TRD013,Ethnic Modernism,SKU01992,Myntra M,Ethnic,Sharara Set,0.81,0
+MAP000766,TRD013,Ethnic Modernism,SKU01582,FabAlley,Accessories,Scarves,0.81,0
+MAP000767,TRD013,Ethnic Modernism,SKU01221,Snitch,Accessories,Bucket Hat,0.57,0
+MAP000768,TRD013,Ethnic Modernism,SKU01409,Urbanic,Ethnic,Dhoti Pants,0.87,1
+MAP000769,TRD013,Ethnic Modernism,SKU02105,Styli,Ethnic,Anarkali,0.46,0
+MAP000770,TRD013,Ethnic Modernism,SKU01051,Bewakoof,Ethnic,Anarkali,0.88,1
+MAP000771,TRD013,Ethnic Modernism,SKU02051,Myntra M,Accessories,Scarves,0.98,1
+MAP000772,TRD013,Ethnic Modernism,SKU01565,FabAlley,Accessories,Sling Bag,0.87,1
+MAP000773,TRD013,Ethnic Modernism,SKU01404,Urbanic,Ethnic,Anarkali,0.76,0
+MAP000774,TRD013,Ethnic Modernism,SKU01699,Libas,Accessories,Scarves,0.69,0
+MAP000775,TRD013,Ethnic Modernism,SKU01984,Myntra M,Ethnic,Co-ord Saree,0.94,1
+MAP000776,TRD013,Ethnic Modernism,SKU01097,Bewakoof,Accessories,Sling Bag,0.85,1
+MAP000777,TRD013,Ethnic Modernism,SKU01179,Snitch,Ethnic,Nehru Jacket,0.58,0
+MAP000778,TRD013,Ethnic Modernism,SKU01985,Myntra M,Ethnic,Co-ord Saree,0.54,0
+MAP000779,TRD013,Ethnic Modernism,SKU02034,Myntra M,Accessories,Sling Bag,0.92,1
+MAP000780,TRD013,Ethnic Modernism,SKU01981,Myntra M,Ethnic,Kurta Set,0.47,0
+MAP000781,TRD014,Athleisure 2.0,SKU01021,Bewakoof,Topwear,Blazer,0.47,0
+MAP000782,TRD014,Athleisure 2.0,SKU02140,Styli,Footwear,Loafers,0.66,0
+MAP000783,TRD014,Athleisure 2.0,SKU01002,Bewakoof,Topwear,Oversized T-Shirt,0.48,0
+MAP000784,TRD014,Athleisure 2.0,SKU01040,Bewakoof,Bottomwear,Straight Fit Jeans,0.61,0
+MAP000785,TRD014,Athleisure 2.0,SKU01793,Zudio,Footwear,Sneakers,0.63,0
+MAP000786,TRD014,Athleisure 2.0,SKU01857,H&M India,Bottomwear,Palazzo,0.77,0
+MAP000787,TRD014,Athleisure 2.0,SKU01849,H&M India,Bottomwear,Joggers,0.76,0
+MAP000788,TRD014,Athleisure 2.0,SKU01260,The Souled Store,Bottomwear,Baggy Jeans,0.92,1
+MAP000789,TRD014,Athleisure 2.0,SKU01326,The Souled Store,Footwear,Sneakers,0.67,0
+MAP000790,TRD014,Athleisure 2.0,SKU01714,Zudio,Topwear,Sweatshirt,0.48,0
+MAP000791,TRD014,Athleisure 2.0,SKU02089,Styli,Bottomwear,Palazzo,0.44,0
+MAP000792,TRD014,Athleisure 2.0,SKU01903,H&M India,Footwear,Block Heels,0.86,1
+MAP000793,TRD014,Athleisure 2.0,SKU02025,Myntra M,Footwear,Loafers,0.41,0
+MAP000794,TRD014,Athleisure 2.0,SKU01819,H&M India,Topwear,Oversized T-Shirt,0.49,0
+MAP000795,TRD014,Athleisure 2.0,SKU01728,Zudio,Bottomwear,Baggy Jeans,0.76,0
+MAP000796,TRD014,Athleisure 2.0,SKU01795,Zudio,Footwear,Sandals,0.49,0
+MAP000797,TRD014,Athleisure 2.0,SKU02071,Styli,Topwear,Tank Top,0.48,0
+MAP000798,TRD014,Athleisure 2.0,SKU01602,Libas,Topwear,Polo T-Shirt,0.48,0
+MAP000799,TRD014,Athleisure 2.0,SKU01859,H&M India,Bottomwear,Straight Fit Jeans,0.58,0
+MAP000800,TRD014,Athleisure 2.0,SKU01736,Zudio,Bottomwear,Mini Skirt,0.97,1
+MAP000801,TRD014,Athleisure 2.0,SKU01837,H&M India,Topwear,Tank Top,0.8,0
+MAP000802,TRD014,Athleisure 2.0,SKU01475,FabAlley,Topwear,Shirt,0.8,0
+MAP000803,TRD014,Athleisure 2.0,SKU01664,Libas,Footwear,Chunky Sneakers,0.83,0
+MAP000804,TRD014,Athleisure 2.0,SKU01791,Zudio,Footwear,Loafers,0.66,0
+MAP000805,TRD014,Athleisure 2.0,SKU01364,Urbanic,Topwear,Sweatshirt,0.7,0
+MAP000806,TRD014,Athleisure 2.0,SKU01319,The Souled Store,Footwear,Block Heels,0.42,0
+MAP000807,TRD014,Athleisure 2.0,SKU01553,FabAlley,Footwear,Block Heels,0.85,1
+MAP000808,TRD014,Athleisure 2.0,SKU01705,Zudio,Topwear,Crop Top,0.57,0
+MAP000809,TRD014,Athleisure 2.0,SKU01442,Urbanic,Footwear,Sneakers,0.74,0
+MAP000810,TRD014,Athleisure 2.0,SKU01596,Libas,Topwear,Hoodie,0.49,0
+MAP000811,TRD014,Athleisure 2.0,SKU02019,Myntra M,Footwear,Kolhapuri,0.72,0
+MAP000812,TRD014,Athleisure 2.0,SKU02022,Myntra M,Footwear,Block Heels,0.74,0
+MAP000813,TRD014,Athleisure 2.0,SKU01270,The Souled Store,Bottomwear,Palazzo,0.67,0
+MAP000814,TRD014,Athleisure 2.0,SKU01490,FabAlley,Topwear,Blazer,0.99,1
+MAP000815,TRD014,Athleisure 2.0,SKU01900,H&M India,Footwear,Kolhapuri,0.48,0
+MAP000816,TRD014,Athleisure 2.0,SKU01709,Zudio,Topwear,Shirt,0.94,1
+MAP000817,TRD014,Athleisure 2.0,SKU01725,Zudio,Topwear,Blazer,0.76,0
+MAP000818,TRD014,Athleisure 2.0,SKU01078,Bewakoof,Footwear,Chunky Sneakers,0.86,1
+MAP000819,TRD014,Athleisure 2.0,SKU01117,Snitch,Topwear,Oversized T-Shirt,0.74,0
+MAP000820,TRD014,Athleisure 2.0,SKU01949,Myntra M,Topwear,Sweatshirt,0.49,0
+MAP000821,TRD014,Athleisure 2.0,SKU01272,The Souled Store,Bottomwear,Palazzo,0.48,0
+MAP000822,TRD014,Athleisure 2.0,SKU01023,Bewakoof,Topwear,Blazer,0.97,1
+MAP000823,TRD014,Athleisure 2.0,SKU01556,FabAlley,Footwear,Loafers,0.86,1
+MAP000824,TRD014,Athleisure 2.0,SKU01979,Myntra M,Bottomwear,Shorts,0.62,0
+MAP000825,TRD014,Athleisure 2.0,SKU01360,Urbanic,Topwear,Hoodie,0.49,0
+MAP000826,TRD014,Athleisure 2.0,SKU01434,Urbanic,Footwear,Kolhapuri,0.75,0
+MAP000827,TRD014,Athleisure 2.0,SKU01786,Zudio,Footwear,Block Heels,0.89,1
+MAP000828,TRD014,Athleisure 2.0,SKU01939,Myntra M,Topwear,Crop Top,0.73,0
+MAP000829,TRD014,Athleisure 2.0,SKU01485,FabAlley,Topwear,Polo T-Shirt,0.7,0
+MAP000830,TRD014,Athleisure 2.0,SKU02029,Myntra M,Footwear,Sandals,0.67,0
+MAP000831,TRD014,Athleisure 2.0,SKU01562,FabAlley,Footwear,Sandals,0.84,0
+MAP000832,TRD014,Athleisure 2.0,SKU02092,Styli,Bottomwear,Straight Fit Jeans,0.42,0
+MAP000833,TRD014,Athleisure 2.0,SKU01788,Zudio,Footwear,Block Heels,0.84,0
+MAP000834,TRD014,Athleisure 2.0,SKU02027,Myntra M,Footwear,Sneakers,0.85,1
+MAP000835,TRD014,Athleisure 2.0,SKU01787,Zudio,Footwear,Block Heels,0.68,0
+MAP000836,TRD014,Athleisure 2.0,SKU01014,Bewakoof,Topwear,Sweatshirt,0.44,0
+MAP000837,TRD014,Athleisure 2.0,SKU01593,Libas,Topwear,Shirt,0.71,0
+MAP000838,TRD014,Athleisure 2.0,SKU01968,Myntra M,Bottomwear,Joggers,0.57,0
+MAP000839,TRD014,Athleisure 2.0,SKU02075,Styli,Topwear,Blazer,0.59,0
+MAP000840,TRD014,Athleisure 2.0,SKU01354,Urbanic,Topwear,Crop Top,0.98,1
+MAP000841,TRD015,Maximalism,SKU01485,FabAlley,Topwear,Polo T-Shirt,0.66,0
+MAP000842,TRD015,Maximalism,SKU01712,Zudio,Topwear,Hoodie,0.74,0
+MAP000843,TRD015,Maximalism,SKU01366,Urbanic,Topwear,Polo T-Shirt,0.56,0
+MAP000844,TRD015,Maximalism,SKU02159,Styli,Accessories,Caps,0.91,1
+MAP000845,TRD015,Maximalism,SKU01356,Urbanic,Topwear,Crop Top,0.75,0
+MAP000846,TRD015,Maximalism,SKU01692,Libas,Accessories,Caps,0.8,0
+MAP000847,TRD015,Maximalism,SKU01018,Bewakoof,Topwear,Tank Top,0.9,1
+MAP000848,TRD015,Maximalism,SKU01891,H&M India,Dresses,Shirt Dress,0.61,0
+MAP000849,TRD015,Maximalism,SKU01841,H&M India,Topwear,Blazer,0.81,0
+MAP000850,TRD015,Maximalism,SKU01662,Libas,Dresses,Co-ord Set,0.5,0
+MAP000851,TRD015,Maximalism,SKU01457,Urbanic,Accessories,Caps,0.71,0
+MAP000852,TRD015,Maximalism,SKU01531,FabAlley,Dresses,Maxi Dress,0.45,0
+MAP000853,TRD015,Maximalism,SKU01888,H&M India,Dresses,Wrap Dress,0.97,1
+MAP000854,TRD015,Maximalism,SKU02119,Styli,Dresses,Bodycon Dress,0.69,0
+MAP000855,TRD015,Maximalism,SKU01357,Urbanic,Topwear,Shirt,0.87,1
+MAP000856,TRD015,Maximalism,SKU01014,Bewakoof,Topwear,Sweatshirt,0.79,0
+MAP000857,TRD015,Maximalism,SKU01421,Urbanic,Dresses,Wrap Dress,0.61,0
+MAP000858,TRD015,Maximalism,SKU01256,The Souled Store,Topwear,Blazer,0.95,1
+MAP000859,TRD015,Maximalism,SKU01594,Libas,Topwear,Hoodie,0.57,0
+MAP000860,TRD015,Maximalism,SKU01118,Snitch,Topwear,Oversized T-Shirt,0.56,0
+MAP000861,TRD015,Maximalism,SKU02161,Styli,Accessories,Sunglasses,0.81,0
+MAP000862,TRD015,Maximalism,SKU01776,Zudio,Dresses,Shirt Dress,0.9,1
+MAP000863,TRD015,Maximalism,SKU01347,The Souled Store,Accessories,Belts,0.48,0
+MAP000864,TRD015,Maximalism,SKU01140,Snitch,Topwear,Blazer,0.48,0
+MAP000865,TRD015,Maximalism,SKU01694,Libas,Accessories,Sunglasses,0.49,0
+MAP000866,TRD015,Maximalism,SKU01487,FabAlley,Topwear,Tank Top,0.97,1
+MAP000867,TRD015,Maximalism,SKU02004,Myntra M,Dresses,Bodycon Dress,0.83,0
+MAP000868,TRD015,Maximalism,SKU02069,Styli,Topwear,Polo T-Shirt,0.61,0
+MAP000869,TRD015,Maximalism,SKU01308,The Souled Store,Dresses,Shirt Dress,0.95,1
+MAP000870,TRD015,Maximalism,SKU01072,Bewakoof,Dresses,Shirt Dress,0.99,1
+MAP000871,TRD015,Maximalism,SKU01923,H&M India,Accessories,Bucket Hat,0.84,0
+MAP000872,TRD015,Maximalism,SKU01236,The Souled Store,Topwear,Oversized T-Shirt,0.89,1
+MAP000873,TRD015,Maximalism,SKU01220,Snitch,Accessories,Bucket Hat,0.56,0
+MAP000874,TRD015,Maximalism,SKU01769,Zudio,Dresses,Bodycon Dress,0.67,0
+MAP000875,TRD015,Maximalism,SKU01334,The Souled Store,Accessories,Tote Bag,0.54,0
+MAP000876,TRD015,Maximalism,SKU01767,Zudio,Dresses,Maxi Dress,0.58,0
+MAP000877,TRD015,Maximalism,SKU01064,Bewakoof,Dresses,Maxi Dress,0.88,1
+MAP000878,TRD015,Maximalism,SKU01701,Libas,Accessories,Scarves,0.79,0
+MAP000879,TRD015,Maximalism,SKU01689,Libas,Accessories,Bucket Hat,0.47,0
+MAP000880,TRD015,Maximalism,SKU01533,FabAlley,Dresses,Maxi Dress,0.72,0
+MAP000881,TRD015,Maximalism,SKU01827,H&M India,Topwear,Shirt,0.96,1
+MAP000882,TRD015,Maximalism,SKU01231,Snitch,Accessories,Scarves,0.98,1
+MAP000883,TRD015,Maximalism,SKU01950,Myntra M,Topwear,Sweatshirt,0.48,0
+MAP000884,TRD015,Maximalism,SKU01213,Snitch,Accessories,Sling Bag,0.59,0
+MAP000885,TRD015,Maximalism,SKU02151,Styli,Accessories,Sling Bag,0.67,0
+MAP000886,TRD015,Maximalism,SKU01576,FabAlley,Accessories,Sunglasses,0.59,0
+MAP000887,TRD015,Maximalism,SKU01250,The Souled Store,Topwear,Polo T-Shirt,0.61,0
+MAP000888,TRD015,Maximalism,SKU01586,Libas,Topwear,Oversized T-Shirt,0.62,0
+MAP000889,TRD015,Maximalism,SKU01454,Urbanic,Accessories,Bucket Hat,0.79,0
+MAP000890,TRD015,Maximalism,SKU01249,The Souled Store,Topwear,Polo T-Shirt,0.99,1
+MAP000891,TRD015,Maximalism,SKU01949,Myntra M,Topwear,Sweatshirt,0.76,0
+MAP000892,TRD015,Maximalism,SKU02157,Styli,Accessories,Bucket Hat,0.44,0
+MAP000893,TRD015,Maximalism,SKU01892,H&M India,Dresses,Shirt Dress,0.91,1
+MAP000894,TRD015,Maximalism,SKU01774,Zudio,Dresses,Shirt Dress,0.41,0
+MAP000895,TRD015,Maximalism,SKU01000,Bewakoof,Topwear,Oversized T-Shirt,0.47,0
+MAP000896,TRD015,Maximalism,SKU01479,FabAlley,Topwear,Hoodie,0.8,0
+MAP000897,TRD015,Maximalism,SKU01475,FabAlley,Topwear,Shirt,0.57,0
+MAP000898,TRD015,Maximalism,SKU02045,Myntra M,Accessories,Sunglasses,0.99,1
+MAP000899,TRD015,Maximalism,SKU02039,Myntra M,Accessories,Bucket Hat,0.99,1
+MAP000900,TRD015,Maximalism,SKU01537,FabAlley,Dresses,Wrap Dress,0.94,1
+MAP000901,TRD016,Clean Girl Aesthetic,SKU01129,Snitch,Topwear,Sweatshirt,0.79,0
+MAP000902,TRD016,Clean Girl Aesthetic,SKU01586,Libas,Topwear,Oversized T-Shirt,0.57,0
+MAP000903,TRD016,Clean Girl Aesthetic,SKU02055,Styli,Topwear,Oversized T-Shirt,0.95,1
+MAP000904,TRD016,Clean Girl Aesthetic,SKU01481,FabAlley,Topwear,Sweatshirt,0.72,0
+MAP000905,TRD016,Clean Girl Aesthetic,SKU01936,Myntra M,Topwear,Oversized T-Shirt,0.5,0
+MAP000906,TRD016,Clean Girl Aesthetic,SKU01623,Libas,Bottomwear,Palazzo,0.72,0
+MAP000907,TRD016,Clean Girl Aesthetic,SKU01979,Myntra M,Bottomwear,Shorts,0.78,0
+MAP000908,TRD016,Clean Girl Aesthetic,SKU01622,Libas,Bottomwear,Palazzo,0.74,0
+MAP000909,TRD016,Clean Girl Aesthetic,SKU01041,Bewakoof,Bottomwear,Straight Fit Jeans,0.76,0
+MAP000910,TRD016,Clean Girl Aesthetic,SKU01456,Urbanic,Accessories,Caps,0.61,0
+MAP000911,TRD016,Clean Girl Aesthetic,SKU02077,Styli,Bottomwear,Baggy Jeans,0.48,0
+MAP000912,TRD016,Clean Girl Aesthetic,SKU01923,H&M India,Accessories,Bucket Hat,0.83,0
+MAP000913,TRD016,Clean Girl Aesthetic,SKU01839,H&M India,Topwear,Tank Top,0.63,0
+MAP000914,TRD016,Clean Girl Aesthetic,SKU01953,Myntra M,Topwear,Polo T-Shirt,0.77,0
+MAP000915,TRD016,Clean Girl Aesthetic,SKU01374,Urbanic,Topwear,Blazer,0.82,0
+MAP000916,TRD016,Clean Girl Aesthetic,SKU01743,Zudio,Bottomwear,Straight Fit Jeans,0.9,1
+MAP000917,TRD016,Clean Girl Aesthetic,SKU01371,Urbanic,Topwear,Tank Top,0.87,1
+MAP000918,TRD016,Clean Girl Aesthetic,SKU01570,FabAlley,Accessories,Bucket Hat,0.94,1
+MAP000919,TRD016,Clean Girl Aesthetic,SKU01978,Myntra M,Bottomwear,Shorts,0.58,0
+MAP000920,TRD016,Clean Girl Aesthetic,SKU01107,Bewakoof,Accessories,Caps,0.65,0
+MAP000921,TRD016,Clean Girl Aesthetic,SKU01959,Myntra M,Topwear,Blazer,0.91,1
+MAP000922,TRD016,Clean Girl Aesthetic,SKU02059,Styli,Topwear,Shirt,0.55,0
+MAP000923,TRD016,Clean Girl Aesthetic,SKU01971,Myntra M,Bottomwear,Mini Skirt,0.68,0
+MAP000924,TRD016,Clean Girl Aesthetic,SKU01616,Libas,Bottomwear,Joggers,0.54,0
+MAP000925,TRD016,Clean Girl Aesthetic,SKU01510,FabAlley,Bottomwear,Shorts,0.93,1
+MAP000926,TRD016,Clean Girl Aesthetic,SKU01503,FabAlley,Bottomwear,Mini Skirt,0.8,0
+MAP000927,TRD016,Clean Girl Aesthetic,SKU01928,H&M India,Accessories,Sunglasses,0.68,0
+MAP000928,TRD016,Clean Girl Aesthetic,SKU02045,Myntra M,Accessories,Sunglasses,0.6,0
+MAP000929,TRD016,Clean Girl Aesthetic,SKU01851,H&M India,Bottomwear,Joggers,0.47,0
+MAP000930,TRD016,Clean Girl Aesthetic,SKU01030,Bewakoof,Bottomwear,Joggers,0.98,1
+MAP000931,TRD016,Clean Girl Aesthetic,SKU01744,Zudio,Bottomwear,Shorts,0.52,0
+MAP000932,TRD016,Clean Girl Aesthetic,SKU01473,FabAlley,Topwear,Crop Top,0.78,0
+MAP000933,TRD016,Clean Girl Aesthetic,SKU01835,H&M India,Topwear,Polo T-Shirt,0.69,0
+MAP000934,TRD016,Clean Girl Aesthetic,SKU01161,Snitch,Bottomwear,Shorts,0.45,0
+MAP000935,TRD016,Clean Girl Aesthetic,SKU01802,Zudio,Accessories,Tote Bag,0.46,0
+MAP000936,TRD016,Clean Girl Aesthetic,SKU01223,Snitch,Accessories,Caps,0.58,0
+MAP000937,TRD016,Clean Girl Aesthetic,SKU01578,FabAlley,Accessories,Sunglasses,0.98,1
+MAP000938,TRD016,Clean Girl Aesthetic,SKU01355,Urbanic,Topwear,Crop Top,0.77,0
+MAP000939,TRD016,Clean Girl Aesthetic,SKU02089,Styli,Bottomwear,Palazzo,0.68,0
+MAP000940,TRD016,Clean Girl Aesthetic,SKU01148,Snitch,Bottomwear,Joggers,0.83,0
+MAP000941,TRD016,Clean Girl Aesthetic,SKU01020,Bewakoof,Topwear,Tank Top,0.52,0
+MAP000942,TRD016,Clean Girl Aesthetic,SKU02083,Styli,Bottomwear,Joggers,0.99,1
+MAP000943,TRD016,Clean Girl Aesthetic,SKU01831,H&M India,Topwear,Sweatshirt,0.78,0
+MAP000944,TRD016,Clean Girl Aesthetic,SKU01349,The Souled Store,Accessories,Scarves,0.74,0
+MAP000945,TRD016,Clean Girl Aesthetic,SKU01364,Urbanic,Topwear,Sweatshirt,0.46,0
+MAP000946,TRD016,Clean Girl Aesthetic,SKU01228,Snitch,Accessories,Belts,0.43,0
+MAP000947,TRD016,Clean Girl Aesthetic,SKU01608,Libas,Topwear,Blazer,0.71,0
+MAP000948,TRD016,Clean Girl Aesthetic,SKU01260,The Souled Store,Bottomwear,Baggy Jeans,0.61,0
+MAP000949,TRD016,Clean Girl Aesthetic,SKU01122,Snitch,Topwear,Crop Top,0.52,0
+MAP000950,TRD016,Clean Girl Aesthetic,SKU01951,Myntra M,Topwear,Polo T-Shirt,0.52,0
+MAP000951,TRD016,Clean Girl Aesthetic,SKU01932,H&M India,Accessories,Belts,0.87,1
+MAP000952,TRD016,Clean Girl Aesthetic,SKU01957,Myntra M,Topwear,Blazer,0.57,0
+MAP000953,TRD016,Clean Girl Aesthetic,SKU01830,H&M India,Topwear,Hoodie,0.5,0
+MAP000954,TRD016,Clean Girl Aesthetic,SKU01455,Urbanic,Accessories,Bucket Hat,0.69,0
+MAP000955,TRD016,Clean Girl Aesthetic,SKU01702,Zudio,Topwear,Oversized T-Shirt,0.66,0
+MAP000956,TRD016,Clean Girl Aesthetic,SKU01948,Myntra M,Topwear,Sweatshirt,0.49,0
+MAP000957,TRD016,Clean Girl Aesthetic,SKU01380,Urbanic,Bottomwear,Cargo Pants,0.89,1
+MAP000958,TRD016,Clean Girl Aesthetic,SKU02094,Styli,Bottomwear,Straight Fit Jeans,0.4,0
+MAP000959,TRD016,Clean Girl Aesthetic,SKU01027,Bewakoof,Bottomwear,Cargo Pants,0.89,1
+MAP000960,TRD016,Clean Girl Aesthetic,SKU01838,H&M India,Topwear,Tank Top,0.84,0
+MAP000961,TRD017,Cottagecore Ethnic,SKU01635,Libas,Ethnic,Co-ord Saree,0.48,0
+MAP000962,TRD017,Cottagecore Ethnic,SKU01869,H&M India,Ethnic,Co-ord Saree,0.77,0
+MAP000963,TRD017,Cottagecore Ethnic,SKU01097,Bewakoof,Accessories,Sling Bag,0.62,0
+MAP000964,TRD017,Cottagecore Ethnic,SKU01101,Bewakoof,Accessories,Tote Bag,0.78,0
+MAP000965,TRD017,Cottagecore Ethnic,SKU01098,Bewakoof,Accessories,Sling Bag,0.88,1
+MAP000966,TRD017,Cottagecore Ethnic,SKU01569,FabAlley,Accessories,Tote Bag,0.66,0
+MAP000967,TRD017,Cottagecore Ethnic,SKU01933,H&M India,Accessories,Scarves,0.74,0
+MAP000968,TRD017,Cottagecore Ethnic,SKU01292,The Souled Store,Ethnic,Dhoti Pants,0.86,1
+MAP000969,TRD017,Cottagecore Ethnic,SKU02047,Myntra M,Accessories,Belts,0.84,0
+MAP000970,TRD017,Cottagecore Ethnic,SKU01575,FabAlley,Accessories,Caps,0.56,0
+MAP000971,TRD017,Cottagecore Ethnic,SKU01920,H&M India,Accessories,Tote Bag,0.8,0
+MAP000972,TRD017,Cottagecore Ethnic,SKU01984,Myntra M,Ethnic,Co-ord Saree,0.99,1
+MAP000973,TRD017,Cottagecore Ethnic,SKU01799,Zudio,Accessories,Sling Bag,0.91,1
+MAP000974,TRD017,Cottagecore Ethnic,SKU01331,The Souled Store,Accessories,Sling Bag,0.96,1
+MAP000975,TRD017,Cottagecore Ethnic,SKU01221,Snitch,Accessories,Bucket Hat,0.99,1
+MAP000976,TRD017,Cottagecore Ethnic,SKU02167,Styli,Accessories,Scarves,0.47,0
+MAP000977,TRD017,Cottagecore Ethnic,SKU01224,Snitch,Accessories,Caps,0.84,0
+MAP000978,TRD017,Cottagecore Ethnic,SKU02154,Styli,Accessories,Tote Bag,0.81,0
+MAP000979,TRD017,Cottagecore Ethnic,SKU01644,Libas,Ethnic,Dhoti Pants,0.86,1
+MAP000980,TRD017,Cottagecore Ethnic,SKU01682,Libas,Accessories,Sling Bag,0.58,0
+MAP000981,TRD017,Cottagecore Ethnic,SKU01410,Urbanic,Ethnic,Dhoti Pants,0.4,0
+MAP000982,TRD017,Cottagecore Ethnic,SKU01402,Urbanic,Ethnic,Anarkali,0.8,0
+MAP000983,TRD017,Cottagecore Ethnic,SKU01641,Libas,Ethnic,Sharara Set,0.44,0
+MAP000984,TRD017,Cottagecore Ethnic,SKU01288,The Souled Store,Ethnic,Sharara Set,0.54,0
+MAP000985,TRD017,Cottagecore Ethnic,SKU01916,H&M India,Accessories,Sling Bag,0.84,0
+MAP000986,TRD017,Cottagecore Ethnic,SKU01818,Zudio,Accessories,Scarves,0.9,1
+MAP000987,TRD017,Cottagecore Ethnic,SKU01756,Zudio,Ethnic,Sharara Set,0.94,1
+MAP000988,TRD017,Cottagecore Ethnic,SKU01338,The Souled Store,Accessories,Bucket Hat,0.92,1
+MAP000989,TRD017,Cottagecore Ethnic,SKU01748,Zudio,Ethnic,Kurta Set,0.85,1
+MAP000990,TRD017,Cottagecore Ethnic,SKU01116,Bewakoof,Accessories,Scarves,0.63,0
+MAP000991,TRD017,Cottagecore Ethnic,SKU01700,Libas,Accessories,Scarves,0.63,0
+MAP000992,TRD017,Cottagecore Ethnic,SKU01340,The Souled Store,Accessories,Caps,0.81,0
+MAP000993,TRD017,Cottagecore Ethnic,SKU01929,H&M India,Accessories,Sunglasses,1.0,1
+MAP000994,TRD017,Cottagecore Ethnic,SKU01283,The Souled Store,Ethnic,Co-ord Saree,0.98,1
+MAP000995,TRD017,Cottagecore Ethnic,SKU02158,Styli,Accessories,Caps,0.65,0
+MAP000996,TRD017,Cottagecore Ethnic,SKU01058,Bewakoof,Ethnic,Dhoti Pants,0.42,0
+MAP000997,TRD017,Cottagecore Ethnic,SKU01691,Libas,Accessories,Caps,0.9,1
+MAP000998,TRD017,Cottagecore Ethnic,SKU01636,Libas,Ethnic,Anarkali,0.8,0
+MAP000999,TRD017,Cottagecore Ethnic,SKU01528,FabAlley,Ethnic,Nehru Jacket,0.84,0
+MAP001000,TRD017,Cottagecore Ethnic,SKU02052,Myntra M,Accessories,Scarves,0.89,1
+MAP001001,TRD017,Cottagecore Ethnic,SKU01513,FabAlley,Ethnic,Kurta Set,0.4,0
+MAP001002,TRD017,Cottagecore Ethnic,SKU01332,The Souled Store,Accessories,Sling Bag,0.61,0
+MAP001003,TRD017,Cottagecore Ethnic,SKU01922,H&M India,Accessories,Bucket Hat,0.75,0
+MAP001004,TRD017,Cottagecore Ethnic,SKU01925,H&M India,Accessories,Caps,0.82,0
+MAP001005,TRD017,Cottagecore Ethnic,SKU02102,Styli,Ethnic,Co-ord Saree,0.43,0
+MAP001006,TRD017,Cottagecore Ethnic,SKU01815,Zudio,Accessories,Belts,0.47,0
+MAP001007,TRD017,Cottagecore Ethnic,SKU01991,Myntra M,Ethnic,Sharara Set,1.0,1
+MAP001008,TRD017,Cottagecore Ethnic,SKU01413,Urbanic,Ethnic,Nehru Jacket,0.92,1
+MAP001009,TRD017,Cottagecore Ethnic,SKU01408,Urbanic,Ethnic,Dhoti Pants,0.87,1
+MAP001010,TRD017,Cottagecore Ethnic,SKU01400,Urbanic,Ethnic,Co-ord Saree,0.65,0
+MAP001011,TRD017,Cottagecore Ethnic,SKU01699,Libas,Accessories,Scarves,0.68,0
+MAP001012,TRD017,Cottagecore Ethnic,SKU01581,FabAlley,Accessories,Belts,0.67,0
+MAP001013,TRD017,Cottagecore Ethnic,SKU01926,H&M India,Accessories,Caps,0.82,0
+MAP001014,TRD017,Cottagecore Ethnic,SKU01046,Bewakoof,Ethnic,Kurta Set,0.71,0
+MAP001015,TRD017,Cottagecore Ethnic,SKU01113,Bewakoof,Accessories,Belts,0.89,1
+MAP001016,TRD017,Cottagecore Ethnic,SKU02050,Myntra M,Accessories,Scarves,0.63,0
+MAP001017,TRD017,Cottagecore Ethnic,SKU01467,Urbanic,Accessories,Scarves,0.55,0
+MAP001018,TRD017,Cottagecore Ethnic,SKU01987,Myntra M,Ethnic,Anarkali,0.65,0
+MAP001019,TRD017,Cottagecore Ethnic,SKU01696,Libas,Accessories,Belts,0.74,0
+MAP001020,TRD017,Cottagecore Ethnic,SKU02114,Styli,Ethnic,Nehru Jacket,0.45,0
+MAP001021,TRD018,Gender Fluid Fashion,SKU01888,H&M India,Dresses,Wrap Dress,0.87,1
+MAP001022,TRD018,Gender Fluid Fashion,SKU01835,H&M India,Topwear,Polo T-Shirt,0.46,0
+MAP001023,TRD018,Gender Fluid Fashion,SKU01171,Snitch,Ethnic,Sharara Set,0.92,1
+MAP001024,TRD018,Gender Fluid Fashion,SKU01357,Urbanic,Topwear,Shirt,0.47,0
+MAP001025,TRD018,Gender Fluid Fashion,SKU01118,Snitch,Topwear,Oversized T-Shirt,0.83,0
+MAP001026,TRD018,Gender Fluid Fashion,SKU02115,Styli,Ethnic,Nehru Jacket,0.82,0
+MAP001027,TRD018,Gender Fluid Fashion,SKU01008,Bewakoof,Topwear,Shirt,0.88,1
+MAP001028,TRD018,Gender Fluid Fashion,SKU01754,Zudio,Ethnic,Anarkali,0.55,0
+MAP001029,TRD018,Gender Fluid Fashion,SKU01596,Libas,Topwear,Hoodie,0.48,0
+MAP001030,TRD018,Gender Fluid Fashion,SKU01636,Libas,Ethnic,Anarkali,0.62,0
+MAP001031,TRD018,Gender Fluid Fashion,SKU01410,Urbanic,Ethnic,Dhoti Pants,0.68,0
+MAP001032,TRD018,Gender Fluid Fashion,SKU01372,Urbanic,Topwear,Blazer,0.82,0
+MAP001033,TRD018,Gender Fluid Fashion,SKU01718,Zudio,Topwear,Polo T-Shirt,0.52,0
+MAP001034,TRD018,Gender Fluid Fashion,SKU01605,Libas,Topwear,Tank Top,0.99,1
+MAP001035,TRD018,Gender Fluid Fashion,SKU02076,Styli,Topwear,Blazer,0.71,0
+MAP001036,TRD018,Gender Fluid Fashion,SKU01518,FabAlley,Ethnic,Co-ord Saree,0.52,0
+MAP001037,TRD018,Gender Fluid Fashion,SKU01180,Snitch,Dresses,Maxi Dress,0.5,0
+MAP001038,TRD018,Gender Fluid Fashion,SKU01995,Myntra M,Ethnic,Dhoti Pants,0.83,0
+MAP001039,TRD018,Gender Fluid Fashion,SKU01706,Zudio,Topwear,Crop Top,0.98,1
+MAP001040,TRD018,Gender Fluid Fashion,SKU01242,The Souled Store,Topwear,Shirt,0.78,0
+MAP001041,TRD018,Gender Fluid Fashion,SKU01416,Urbanic,Dresses,Maxi Dress,0.97,1
+MAP001042,TRD018,Gender Fluid Fashion,SKU02060,Styli,Topwear,Shirt,0.87,1
+MAP001043,TRD018,Gender Fluid Fashion,SKU02113,Styli,Ethnic,Nehru Jacket,0.55,0
+MAP001044,TRD018,Gender Fluid Fashion,SKU01294,The Souled Store,Ethnic,Nehru Jacket,0.59,0
+MAP001045,TRD018,Gender Fluid Fashion,SKU02053,Styli,Topwear,Oversized T-Shirt,0.46,0
+MAP001046,TRD018,Gender Fluid Fashion,SKU02128,Styli,Dresses,Co-ord Set,0.64,0
+MAP001047,TRD018,Gender Fluid Fashion,SKU02108,Styli,Ethnic,Sharara Set,1.0,1
+MAP001048,TRD018,Gender Fluid Fashion,SKU02101,Styli,Ethnic,Co-ord Saree,0.72,0
+MAP001049,TRD018,Gender Fluid Fashion,SKU01757,Zudio,Ethnic,Sharara Set,0.93,1
+MAP001050,TRD018,Gender Fluid Fashion,SKU01703,Zudio,Topwear,Oversized T-Shirt,0.83,0
+MAP001051,TRD018,Gender Fluid Fashion,SKU02064,Styli,Topwear,Hoodie,0.7,0
+MAP001052,TRD018,Gender Fluid Fashion,SKU01482,FabAlley,Topwear,Sweatshirt,0.62,0
+MAP001053,TRD018,Gender Fluid Fashion,SKU01824,H&M India,Topwear,Crop Top,0.88,1
+MAP001054,TRD018,Gender Fluid Fashion,SKU01990,Myntra M,Ethnic,Sharara Set,0.64,0
+MAP001055,TRD018,Gender Fluid Fashion,SKU01827,H&M India,Topwear,Shirt,0.43,0
+MAP001056,TRD018,Gender Fluid Fashion,SKU01477,FabAlley,Topwear,Hoodie,0.63,0
+MAP001057,TRD018,Gender Fluid Fashion,SKU01535,FabAlley,Dresses,Bodycon Dress,0.82,0
+MAP001058,TRD018,Gender Fluid Fashion,SKU02112,Styli,Ethnic,Dhoti Pants,0.88,1
+MAP001059,TRD018,Gender Fluid Fashion,SKU01651,Libas,Dresses,Bodycon Dress,0.65,0
+MAP001060,TRD018,Gender Fluid Fashion,SKU01542,FabAlley,Dresses,Shirt Dress,0.62,0
+MAP001061,TRD018,Gender Fluid Fashion,SKU01300,The Souled Store,Dresses,Bodycon Dress,0.73,0
+MAP001062,TRD018,Gender Fluid Fashion,SKU01023,Bewakoof,Topwear,Blazer,0.75,0
+MAP001063,TRD018,Gender Fluid Fashion,SKU01714,Zudio,Topwear,Sweatshirt,0.65,0
+MAP001064,TRD018,Gender Fluid Fashion,SKU01950,Myntra M,Topwear,Sweatshirt,0.43,0
+MAP001065,TRD018,Gender Fluid Fashion,SKU01183,Snitch,Dresses,Bodycon Dress,0.98,1
+MAP001066,TRD018,Gender Fluid Fashion,SKU01522,FabAlley,Ethnic,Sharara Set,0.99,1
+MAP001067,TRD018,Gender Fluid Fashion,SKU01010,Bewakoof,Topwear,Hoodie,0.6,0
+MAP001068,TRD018,Gender Fluid Fashion,SKU01241,The Souled Store,Topwear,Shirt,0.52,0
+MAP001069,TRD018,Gender Fluid Fashion,SKU02123,Styli,Dresses,Wrap Dress,0.92,1
+MAP001070,TRD018,Gender Fluid Fashion,SKU01774,Zudio,Dresses,Shirt Dress,0.54,0
+MAP001071,TRD018,Gender Fluid Fashion,SKU01396,Urbanic,Ethnic,Kurta Set,0.58,0
+MAP001072,TRD018,Gender Fluid Fashion,SKU01882,H&M India,Dresses,Maxi Dress,0.59,0
+MAP001073,TRD018,Gender Fluid Fashion,SKU01877,H&M India,Ethnic,Dhoti Pants,0.93,1
+MAP001074,TRD018,Gender Fluid Fashion,SKU01172,Snitch,Ethnic,Sharara Set,0.88,1
+MAP001075,TRD018,Gender Fluid Fashion,SKU01067,Bewakoof,Dresses,Bodycon Dress,0.4,0
+MAP001076,TRD018,Gender Fluid Fashion,SKU01166,Snitch,Ethnic,Co-ord Saree,0.47,0
+MAP001077,TRD018,Gender Fluid Fashion,SKU01758,Zudio,Ethnic,Sharara Set,0.59,0
+MAP001078,TRD018,Gender Fluid Fashion,SKU01254,The Souled Store,Topwear,Tank Top,0.42,0
+MAP001079,TRD018,Gender Fluid Fashion,SKU01944,Myntra M,Topwear,Shirt,0.73,0
+MAP001080,TRD018,Gender Fluid Fashion,SKU01712,Zudio,Topwear,Hoodie,0.56,0
+MAP001081,TRD019,Vintage Revival,SKU01559,FabAlley,Footwear,Sneakers,0.9,1
+MAP001082,TRD019,Vintage Revival,SKU02020,Myntra M,Footwear,Block Heels,0.77,0
+MAP001083,TRD019,Vintage Revival,SKU01045,Bewakoof,Ethnic,Kurta Set,0.43,0
+MAP001084,TRD019,Vintage Revival,SKU01815,Zudio,Accessories,Belts,0.72,0
+MAP001085,TRD019,Vintage Revival,SKU02156,Styli,Accessories,Bucket Hat,1.0,1
+MAP001086,TRD019,Vintage Revival,SKU01315,The Souled Store,Footwear,Kolhapuri,0.58,0
+MAP001087,TRD019,Vintage Revival,SKU01697,Libas,Accessories,Belts,0.94,1
+MAP001088,TRD019,Vintage Revival,SKU01530,FabAlley,Ethnic,Nehru Jacket,0.93,1
+MAP001089,TRD019,Vintage Revival,SKU01793,Zudio,Footwear,Sneakers,0.83,0
+MAP001090,TRD019,Vintage Revival,SKU01211,Snitch,Footwear,Sandals,0.53,0
+MAP001091,TRD019,Vintage Revival,SKU01050,Bewakoof,Ethnic,Co-ord Saree,0.94,1
+MAP001092,TRD019,Vintage Revival,SKU01316,The Souled Store,Footwear,Kolhapuri,0.93,1
+MAP001093,TRD019,Vintage Revival,SKU01205,Snitch,Footwear,Loafers,0.71,0
+MAP001094,TRD019,Vintage Revival,SKU01313,The Souled Store,Footwear,Chunky Sneakers,1.0,1
+MAP001095,TRD019,Vintage Revival,SKU01196,Snitch,Footwear,Chunky Sneakers,0.86,1
+MAP001096,TRD019,Vintage Revival,SKU01879,H&M India,Ethnic,Nehru Jacket,0.95,1
+MAP001097,TRD019,Vintage Revival,SKU02028,Myntra M,Footwear,Sneakers,0.77,0
+MAP001098,TRD019,Vintage Revival,SKU01456,Urbanic,Accessories,Caps,0.42,0
+MAP001099,TRD019,Vintage Revival,SKU01109,Bewakoof,Accessories,Sunglasses,0.87,1
+MAP001100,TRD019,Vintage Revival,SKU01804,Zudio,Accessories,Bucket Hat,0.45,0
+MAP001101,TRD019,Vintage Revival,SKU01755,Zudio,Ethnic,Anarkali,0.8,0
+MAP001102,TRD019,Vintage Revival,SKU02030,Myntra M,Footwear,Sandals,0.77,0
+MAP001103,TRD019,Vintage Revival,SKU01179,Snitch,Ethnic,Nehru Jacket,0.83,0
+MAP001104,TRD019,Vintage Revival,SKU01102,Bewakoof,Accessories,Bucket Hat,0.88,1
+MAP001105,TRD019,Vintage Revival,SKU01176,Snitch,Ethnic,Dhoti Pants,0.49,0
+MAP001106,TRD019,Vintage Revival,SKU01398,Urbanic,Ethnic,Kurta Set,0.96,1
+MAP001107,TRD019,Vintage Revival,SKU01224,Snitch,Accessories,Caps,0.51,0
+MAP001108,TRD019,Vintage Revival,SKU01049,Bewakoof,Ethnic,Co-ord Saree,0.62,0
+MAP001109,TRD019,Vintage Revival,SKU02146,Styli,Footwear,Sandals,0.69,0
+MAP001110,TRD019,Vintage Revival,SKU01639,Libas,Ethnic,Sharara Set,0.74,0
+MAP001111,TRD019,Vintage Revival,SKU01581,FabAlley,Accessories,Belts,0.52,0
+MAP001112,TRD019,Vintage Revival,SKU01929,H&M India,Accessories,Sunglasses,0.51,0
+MAP001113,TRD019,Vintage Revival,SKU02029,Myntra M,Footwear,Sandals,0.67,0
+MAP001114,TRD019,Vintage Revival,SKU01558,FabAlley,Footwear,Sneakers,0.61,0
+MAP001115,TRD019,Vintage Revival,SKU02135,Styli,Footwear,Kolhapuri,0.81,0
+MAP001116,TRD019,Vintage Revival,SKU02131,Styli,Footwear,Chunky Sneakers,0.78,0
+MAP001117,TRD019,Vintage Revival,SKU01467,Urbanic,Accessories,Scarves,0.9,1
+MAP001118,TRD019,Vintage Revival,SKU01642,Libas,Ethnic,Dhoti Pants,0.72,0
+MAP001119,TRD019,Vintage Revival,SKU01325,The Souled Store,Footwear,Sneakers,0.63,0
+MAP001120,TRD019,Vintage Revival,SKU01922,H&M India,Accessories,Bucket Hat,0.61,0
+MAP001121,TRD019,Vintage Revival,SKU01412,Urbanic,Ethnic,Nehru Jacket,0.81,0
+MAP001122,TRD019,Vintage Revival,SKU01406,Urbanic,Ethnic,Sharara Set,0.44,0
+MAP001123,TRD019,Vintage Revival,SKU02163,Styli,Accessories,Sunglasses,0.7,0
+MAP001124,TRD019,Vintage Revival,SKU02023,Myntra M,Footwear,Loafers,0.61,0
+MAP001125,TRD019,Vintage Revival,SKU01091,Bewakoof,Footwear,Sneakers,0.56,0
+MAP001126,TRD019,Vintage Revival,SKU02153,Styli,Accessories,Tote Bag,0.99,1
+MAP001127,TRD019,Vintage Revival,SKU01550,FabAlley,Footwear,Kolhapuri,0.57,0
+MAP001128,TRD019,Vintage Revival,SKU01340,The Souled Store,Accessories,Caps,0.46,0
+MAP001129,TRD019,Vintage Revival,SKU01568,FabAlley,Accessories,Tote Bag,0.67,0
+MAP001130,TRD019,Vintage Revival,SKU01813,Zudio,Accessories,Belts,0.48,0
+MAP001131,TRD019,Vintage Revival,SKU01874,H&M India,Ethnic,Sharara Set,0.52,0
+MAP001132,TRD019,Vintage Revival,SKU02139,Styli,Footwear,Block Heels,0.76,0
+MAP001133,TRD019,Vintage Revival,SKU01444,Urbanic,Footwear,Sandals,0.4,0
+MAP001134,TRD019,Vintage Revival,SKU01403,Urbanic,Ethnic,Anarkali,0.99,1
+MAP001135,TRD019,Vintage Revival,SKU01934,H&M India,Accessories,Scarves,0.97,1
+MAP001136,TRD019,Vintage Revival,SKU01210,Snitch,Footwear,Sandals,0.73,0
+MAP001137,TRD019,Vintage Revival,SKU01870,H&M India,Ethnic,Anarkali,0.84,0
+MAP001138,TRD019,Vintage Revival,SKU01397,Urbanic,Ethnic,Kurta Set,0.74,0
+MAP001139,TRD019,Vintage Revival,SKU01089,Bewakoof,Footwear,Loafers,0.78,0
+MAP001140,TRD019,Vintage Revival,SKU01807,Zudio,Accessories,Caps,0.79,0
+MAP001141,TRD020,Sustainable Chic,SKU02065,Styli,Topwear,Sweatshirt,0.83,0
+MAP001142,TRD020,Sustainable Chic,SKU01216,Snitch,Accessories,Tote Bag,0.88,1
+MAP001143,TRD020,Sustainable Chic,SKU01716,Zudio,Topwear,Sweatshirt,0.41,0
+MAP001144,TRD020,Sustainable Chic,SKU01487,FabAlley,Topwear,Tank Top,0.65,0
+MAP001145,TRD020,Sustainable Chic,SKU01881,H&M India,Ethnic,Nehru Jacket,0.96,1
+MAP001146,TRD020,Sustainable Chic,SKU01643,Libas,Ethnic,Dhoti Pants,0.81,0
+MAP001147,TRD020,Sustainable Chic,SKU01450,Urbanic,Accessories,Tote Bag,1.0,1
+MAP001148,TRD020,Sustainable Chic,SKU01513,FabAlley,Ethnic,Kurta Set,0.61,0
+MAP001149,TRD020,Sustainable Chic,SKU01865,H&M India,Ethnic,Kurta Set,0.8,0
+MAP001150,TRD020,Sustainable Chic,SKU01174,Snitch,Ethnic,Dhoti Pants,0.96,1
+MAP001151,TRD020,Sustainable Chic,SKU01840,H&M India,Topwear,Blazer,0.97,1
+MAP001152,TRD020,Sustainable Chic,SKU01690,Libas,Accessories,Caps,0.71,0
+MAP001153,TRD020,Sustainable Chic,SKU01700,Libas,Accessories,Scarves,0.68,0
+MAP001154,TRD020,Sustainable Chic,SKU01569,FabAlley,Accessories,Tote Bag,0.96,1
+MAP001155,TRD020,Sustainable Chic,SKU02033,Myntra M,Accessories,Sling Bag,0.4,0
+MAP001156,TRD020,Sustainable Chic,SKU01471,FabAlley,Topwear,Crop Top,0.66,0
+MAP001157,TRD020,Sustainable Chic,SKU01697,Libas,Accessories,Belts,0.69,0
+MAP001158,TRD020,Sustainable Chic,SKU01060,Bewakoof,Ethnic,Nehru Jacket,0.64,0
+MAP001159,TRD020,Sustainable Chic,SKU01578,FabAlley,Accessories,Sunglasses,0.88,1
+MAP001160,TRD020,Sustainable Chic,SKU01683,Libas,Accessories,Sling Bag,0.82,0
+MAP001161,TRD020,Sustainable Chic,SKU01008,Bewakoof,Topwear,Shirt,0.48,0
+MAP001162,TRD020,Sustainable Chic,SKU01363,Urbanic,Topwear,Sweatshirt,0.53,0
+MAP001163,TRD020,Sustainable Chic,SKU01362,Urbanic,Topwear,Hoodie,0.86,1
+MAP001164,TRD020,Sustainable Chic,SKU02160,Styli,Accessories,Caps,0.6,0
+MAP001165,TRD020,Sustainable Chic,SKU01877,H&M India,Ethnic,Dhoti Pants,0.98,1
+MAP001166,TRD020,Sustainable Chic,SKU01521,FabAlley,Ethnic,Anarkali,0.85,1
+MAP001167,TRD020,Sustainable Chic,SKU01519,FabAlley,Ethnic,Anarkali,0.46,0
+MAP001168,TRD020,Sustainable Chic,SKU01809,Zudio,Accessories,Caps,0.61,0
+MAP001169,TRD020,Sustainable Chic,SKU01934,H&M India,Accessories,Scarves,0.4,0
+MAP001170,TRD020,Sustainable Chic,SKU02105,Styli,Ethnic,Anarkali,0.55,0
+MAP001171,TRD020,Sustainable Chic,SKU01828,H&M India,Topwear,Hoodie,0.98,1
+MAP001172,TRD020,Sustainable Chic,SKU01822,H&M India,Topwear,Crop Top,0.91,1
+MAP001173,TRD020,Sustainable Chic,SKU01133,Snitch,Topwear,Polo T-Shirt,0.95,1
+MAP001174,TRD020,Sustainable Chic,SKU01693,Libas,Accessories,Sunglasses,0.86,1
+MAP001175,TRD020,Sustainable Chic,SKU01339,The Souled Store,Accessories,Caps,0.49,0
+MAP001176,TRD020,Sustainable Chic,SKU01924,H&M India,Accessories,Caps,0.54,0
+MAP001177,TRD020,Sustainable Chic,SKU01254,The Souled Store,Topwear,Tank Top,0.96,1
+MAP001178,TRD020,Sustainable Chic,SKU02054,Styli,Topwear,Oversized T-Shirt,0.83,0
+MAP001179,TRD020,Sustainable Chic,SKU02051,Myntra M,Accessories,Scarves,0.95,1
+MAP001180,TRD020,Sustainable Chic,SKU01061,Bewakoof,Ethnic,Nehru Jacket,0.96,1
+MAP001181,TRD020,Sustainable Chic,SKU01474,FabAlley,Topwear,Shirt,0.72,0
+MAP001182,TRD020,Sustainable Chic,SKU01245,The Souled Store,Topwear,Hoodie,0.94,1
+MAP001183,TRD020,Sustainable Chic,SKU01757,Zudio,Ethnic,Sharara Set,0.73,0
+MAP001184,TRD020,Sustainable Chic,SKU01987,Myntra M,Ethnic,Anarkali,0.42,0
+MAP001185,TRD020,Sustainable Chic,SKU01469,FabAlley,Topwear,Oversized T-Shirt,0.6,0
+MAP001186,TRD020,Sustainable Chic,SKU01811,Zudio,Accessories,Sunglasses,0.85,1
+MAP001187,TRD020,Sustainable Chic,SKU01869,H&M India,Ethnic,Co-ord Saree,0.94,1
+MAP001188,TRD020,Sustainable Chic,SKU01841,H&M India,Topwear,Blazer,0.87,1
+MAP001189,TRD020,Sustainable Chic,SKU01717,Zudio,Topwear,Polo T-Shirt,0.53,0
+MAP001190,TRD020,Sustainable Chic,SKU02073,Styli,Topwear,Tank Top,0.87,1
+MAP001191,TRD020,Sustainable Chic,SKU01991,Myntra M,Ethnic,Sharara Set,0.68,0
+MAP001192,TRD020,Sustainable Chic,SKU01763,Zudio,Ethnic,Nehru Jacket,0.47,0
+MAP001193,TRD020,Sustainable Chic,SKU02048,Myntra M,Accessories,Belts,0.83,0
+MAP001194,TRD020,Sustainable Chic,SKU01866,H&M India,Ethnic,Kurta Set,0.74,0
+MAP001195,TRD020,Sustainable Chic,SKU01457,Urbanic,Accessories,Caps,0.51,0
+MAP001196,TRD020,Sustainable Chic,SKU01873,H&M India,Ethnic,Sharara Set,0.51,0
+MAP001197,TRD020,Sustainable Chic,SKU01951,Myntra M,Topwear,Polo T-Shirt,0.52,0
+MAP001198,TRD020,Sustainable Chic,SKU01699,Libas,Accessories,Scarves,0.4,0
+MAP001199,TRD020,Sustainable Chic,SKU01749,Zudio,Ethnic,Kurta Set,0.59,0
+MAP001200,TRD020,Sustainable Chic,SKU01514,FabAlley,Ethnic,Kurta Set,0.48,0
