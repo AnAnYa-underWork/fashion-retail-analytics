@@ -110,39 +110,17 @@ st.markdown(
         line-height: 1.6;
     }
 
-    /* KPI cards */
-    div[data-testid="stMetric"] {
-        background: #FFFFFF;
-        border: 1px solid #E5EAF1;
-        border-radius: 12px;
-        padding: 1rem 1.1rem;
-        box-shadow: 0 3px 10px rgba(20, 43, 74, 0.035);
-        min-height: 118px;
-        transition: border-color 0.15s ease,
-                    box-shadow 0.15s ease;
-    }
-
-    div[data-testid="stMetric"]:hover {
-        border-color: #CBD6E4;
-        box-shadow: 0 5px 15px rgba(20, 43, 74, 0.065);
-    }
-
-    div[data-testid="stMetricLabel"] {
+    
+    /* KPI card labels */
+    div[data-testid="stMetricLabel"],
+    div[data-testid="stMetricLabel"] p,
+    div[data-testid="stMetricLabel"] label {
         color: #718096 !important;
         font-size: 0.8rem !important;
         font-weight: 600 !important;
+        opacity: 1 !important;
     }
 
-    div[data-testid="stMetricValue"] {
-        color: #142B4A !important;
-        font-size: 1.65rem !important;
-        font-weight: 750 !important;
-        letter-spacing: -0.7px;
-    }
-
-    div[data-testid="stMetricDelta"] {
-        font-size: 0.78rem;
-    }
 
     /* Filters */
     div[data-baseweb="select"] > div,
