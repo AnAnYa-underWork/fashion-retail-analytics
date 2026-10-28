@@ -71,6 +71,11 @@ This project brings these three areas together in an interactive dashboard.
     └── purchase_orders_clean.csv
 ```
 
+### Live Dashboard
+
+```bash
+https://fashion-retail-analytics-k4ucjdelpapppyscxvbb9nq.streamlit.app/
+```
 ## Run Locally
 
 ### 1. Clone the repository
