@@ -109,18 +109,26 @@ st.markdown(
     p, li {
         line-height: 1.6;
     }
-
     
-    /* KPI card labels */
+    /* KPI labels: force readable text in Streamlit Cloud */
+    div[data-testid="stMetric"] label,
     div[data-testid="stMetricLabel"],
     div[data-testid="stMetricLabel"] p,
-    div[data-testid="stMetricLabel"] label {
+    div[data-testid="stMetricLabel"] div,
+    div[data-testid="stMetricLabel"] span {
         color: #718096 !important;
-        font-size: 0.8rem !important;
-        font-weight: 600 !important;
+        -webkit-text-fill-color: #718096 !important;
         opacity: 1 !important;
     }
-
+    
+    /* KPI values */
+    div[data-testid="stMetricValue"],
+    div[data-testid="stMetricValue"] div,
+    div[data-testid="stMetricValue"] p {
+        color: #142B4A !important;
+        -webkit-text-fill-color: #142B4A !important;
+        opacity: 1 !important;
+    }
 
     /* Filters */
     div[data-baseweb="select"] > div,
