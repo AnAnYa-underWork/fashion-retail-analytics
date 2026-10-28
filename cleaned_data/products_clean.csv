@@ -1,0 +1,1171 @@
+sku_id,product_name,category,subcategory,brand,color,segment,mrp,cost_price,gross_margin_pct,launch_season,is_active
+SKU01000,White Oversized T-Shirt,Topwear,Oversized T-Shirt,Bewakoof,White,Value,770.0,380.0,50.65,Monsoon,1
+SKU01001,Black Oversized T-Shirt,Topwear,Oversized T-Shirt,Bewakoof,Black,Value,850.0,370.0,56.47,Summer,1
+SKU01002,Navy Oversized T-Shirt,Topwear,Oversized T-Shirt,Bewakoof,Navy,Value,720.0,270.0,62.5,Summer,1
+SKU01003,Black Crop Top,Topwear,Crop Top,Bewakoof,Black,Value,690.0,330.0,52.17,Monsoon,1
+SKU01004,Grey Crop Top,Topwear,Crop Top,Bewakoof,Grey,Value,820.0,370.0,54.88,Summer,1
+SKU01005,White Crop Top,Topwear,Crop Top,Bewakoof,White,Value,680.0,340.0,50.0,Winter,1
+SKU01006,Grey Shirt,Topwear,Shirt,Bewakoof,Grey,Value,880.0,340.0,61.36,Monsoon,1
+SKU01007,Navy Shirt,Topwear,Shirt,Bewakoof,Navy,Value,720.0,270.0,62.5,Festive,1
+SKU01008,Black Shirt,Topwear,Shirt,Bewakoof,Black,Value,750.0,320.0,57.33,Monsoon,0
+SKU01009,Rust Hoodie,Topwear,Hoodie,Bewakoof,Rust,Value,780.0,310.0,60.26,Winter,1
+SKU01010,White Hoodie,Topwear,Hoodie,Bewakoof,White,Value,830.0,310.0,62.65,Festive,1
+SKU01011,Brown Hoodie,Topwear,Hoodie,Bewakoof,Brown,Value,750.0,300.0,60.0,Summer,1
+SKU01012,Brown Sweatshirt,Topwear,Sweatshirt,Bewakoof,Brown,Value,790.0,370.0,53.16,Summer,1
+SKU01013,White Sweatshirt,Topwear,Sweatshirt,Bewakoof,White,Value,730.0,310.0,57.53,Festive,1
+SKU01014,Pink Sweatshirt,Topwear,Sweatshirt,Bewakoof,Pink,Value,820.0,290.0,64.63,Summer,1
+SKU01015,Olive Polo T-Shirt,Topwear,Polo T-Shirt,Bewakoof,Olive,Value,820.0,310.0,62.2,Monsoon,0
+SKU01016,Navy Polo T-Shirt,Topwear,Polo T-Shirt,Bewakoof,Navy,Value,690.0,340.0,50.72,Winter,1
+SKU01017,White Polo T-Shirt,Topwear,Polo T-Shirt,Bewakoof,White,Value,910.0,430.0,52.75,Festive,1
+SKU01018,Rust Tank Top,Topwear,Tank Top,Bewakoof,Rust,Value,750.0,270.0,64.0,Summer,1
+SKU01019,Olive Tank Top,Topwear,Tank Top,Bewakoof,Olive,Value,840.0,350.0,58.33,Monsoon,1
+SKU01020,Navy Tank Top,Topwear,Tank Top,Bewakoof,Navy,Value,710.0,300.0,57.75,Monsoon,1
+SKU01021,Pink Blazer,Topwear,Blazer,Bewakoof,Pink,Value,690.0,340.0,50.72,Festive,1
+SKU01022,Navy Blazer,Topwear,Blazer,Bewakoof,Navy,Value,740.0,330.0,55.41,Summer,1
+SKU01023,Olive Blazer,Topwear,Blazer,Bewakoof,Olive,Value,750.0,320.0,57.33,Summer,1
+SKU01024,Pink Baggy Jeans,Bottomwear,Baggy Jeans,Bewakoof,Pink,Value,1010.0,380.0,62.38,Monsoon,0
+SKU01025,Navy Baggy Jeans,Bottomwear,Baggy Jeans,Bewakoof,Navy,Value,1140.0,530.0,53.51,Festive,1
+SKU01026,White Baggy Jeans,Bottomwear,Baggy Jeans,Bewakoof,White,Value,1130.0,550.0,51.33,Winter,1
+SKU01027,Yellow Cargo Pants,Bottomwear,Cargo Pants,Bewakoof,Yellow,Value,1030.0,500.0,51.46,Monsoon,1
+SKU01028,Beige Cargo Pants,Bottomwear,Cargo Pants,Bewakoof,Beige,Value,880.0,330.0,62.5,Festive,1
+SKU01029,Navy Cargo Pants,Bottomwear,Cargo Pants,Bewakoof,Navy,Value,860.0,340.0,60.47,Winter,0
+SKU01030,Pink Joggers,Bottomwear,Joggers,Bewakoof,Pink,Value,970.0,380.0,60.82,Monsoon,1
+SKU01031,Rust Joggers,Bottomwear,Joggers,Bewakoof,Rust,Value,1100.0,440.0,60.0,Summer,1
+SKU01032,Olive Joggers,Bottomwear,Joggers,Bewakoof,Olive,Value,930.0,400.0,56.99,Summer,1
+SKU01033,Beige Mini Skirt,Bottomwear,Mini Skirt,Bewakoof,Beige,Value,890.0,420.0,52.81,Winter,1
+SKU01034,Pink Mini Skirt,Bottomwear,Mini Skirt,Bewakoof,Pink,Value,870.0,430.0,50.57,Winter,1
+SKU01035,White Mini Skirt,Bottomwear,Mini Skirt,Bewakoof,White,Value,1080.0,410.0,62.04,Summer,1
+SKU01036,White Palazzo,Bottomwear,Palazzo,Bewakoof,White,Value,850.0,400.0,52.94,Festive,1
+SKU01037,Brown Palazzo,Bottomwear,Palazzo,Bewakoof,Brown,Value,1060.0,490.0,53.77,Winter,1
+SKU01038,Navy Palazzo,Bottomwear,Palazzo,Bewakoof,Navy,Value,1080.0,390.0,63.89,Summer,0
+SKU01039,Navy Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Bewakoof,Navy,Value,960.0,350.0,63.54,Summer,0
+SKU01040,Brown Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Bewakoof,Brown,Value,1110.0,490.0,55.86,Festive,1
+SKU01041,Beige Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Bewakoof,Beige,Value,950.0,340.0,64.21,Monsoon,1
+SKU01042,Beige Shorts,Bottomwear,Shorts,Bewakoof,Beige,Value,940.0,370.0,60.64,Festive,1
+SKU01043,Brown Shorts,Bottomwear,Shorts,Bewakoof,Brown,Value,1070.0,480.0,55.14,Summer,0
+SKU01044,Black Shorts,Bottomwear,Shorts,Bewakoof,Black,Value,1120.0,470.0,58.04,Festive,1
+SKU01045,Olive Kurta Set,Ethnic,Kurta Set,Bewakoof,Olive,Value,1330.0,610.0,54.14,Winter,1
+SKU01046,White Kurta Set,Ethnic,Kurta Set,Bewakoof,White,Value,1620.0,700.0,56.79,Monsoon,1
+SKU01047,Brown Kurta Set,Ethnic,Kurta Set,Bewakoof,Brown,Value,1620.0,690.0,57.41,Winter,0
+SKU01048,Beige Co-ord Saree,Ethnic,Co-ord Saree,Bewakoof,Beige,Value,1510.0,630.0,58.28,Monsoon,0
+SKU01049,Navy Co-ord Saree,Ethnic,Co-ord Saree,Bewakoof,Navy,Value,1290.0,470.0,63.57,Monsoon,1
+SKU01050,Pink Co-ord Saree,Ethnic,Co-ord Saree,Bewakoof,Pink,Value,1290.0,570.0,55.81,Winter,0
+SKU01051,Rust Anarkali,Ethnic,Anarkali,Bewakoof,Rust,Value,1420.0,610.0,57.04,Summer,1
+SKU01052,Yellow Anarkali,Ethnic,Anarkali,Bewakoof,Yellow,Value,1680.0,650.0,61.31,Summer,1
+SKU01053,Brown Anarkali,Ethnic,Anarkali,Bewakoof,Brown,Value,1460.0,680.0,53.42,Monsoon,1
+SKU01054,Black Sharara Set,Ethnic,Sharara Set,Bewakoof,Black,Value,1380.0,500.0,63.77,Monsoon,1
+SKU01055,White Sharara Set,Ethnic,Sharara Set,Bewakoof,White,Value,1400.0,520.0,62.86,Summer,0
+SKU01056,Grey Sharara Set,Ethnic,Sharara Set,Bewakoof,Grey,Value,1690.0,800.0,52.66,Summer,1
+SKU01057,Navy Dhoti Pants,Ethnic,Dhoti Pants,Bewakoof,Navy,Value,1560.0,750.0,51.92,Monsoon,1
+SKU01058,Yellow Dhoti Pants,Ethnic,Dhoti Pants,Bewakoof,Yellow,Value,1640.0,620.0,62.2,Winter,1
+SKU01059,Olive Dhoti Pants,Ethnic,Dhoti Pants,Bewakoof,Olive,Value,1680.0,720.0,57.14,Winter,1
+SKU01060,Olive Nehru Jacket,Ethnic,Nehru Jacket,Bewakoof,Olive,Value,1640.0,790.0,51.83,Winter,1
+SKU01061,White Nehru Jacket,Ethnic,Nehru Jacket,Bewakoof,White,Value,1420.0,520.0,63.38,Winter,1
+SKU01062,Brown Nehru Jacket,Ethnic,Nehru Jacket,Bewakoof,Brown,Value,1380.0,570.0,58.7,Summer,1
+SKU01063,White Maxi Dress,Dresses,Maxi Dress,Bewakoof,White,Value,1420.0,680.0,52.11,Festive,1
+SKU01064,Black Maxi Dress,Dresses,Maxi Dress,Bewakoof,Black,Value,1110.0,470.0,57.66,Summer,1
+SKU01065,Pink Maxi Dress,Dresses,Maxi Dress,Bewakoof,Pink,Value,1270.0,490.0,61.42,Monsoon,1
+SKU01066,Beige Bodycon Dress,Dresses,Bodycon Dress,Bewakoof,Beige,Value,1150.0,460.0,60.0,Festive,1
+SKU01067,Pink Bodycon Dress,Dresses,Bodycon Dress,Bewakoof,Pink,Value,1470.0,590.0,59.86,Summer,1
+SKU01068,Grey Bodycon Dress,Dresses,Bodycon Dress,Bewakoof,Grey,Value,1310.0,600.0,54.2,Summer,1
+SKU01069,Brown Wrap Dress,Dresses,Wrap Dress,Bewakoof,Brown,Value,1250.0,620.0,50.4,Monsoon,1
+SKU01070,Black Wrap Dress,Dresses,Wrap Dress,Bewakoof,Black,Value,1480.0,570.0,61.49,Winter,1
+SKU01071,White Wrap Dress,Dresses,Wrap Dress,Bewakoof,White,Value,1300.0,510.0,60.77,Winter,0
+SKU01072,Beige Shirt Dress,Dresses,Shirt Dress,Bewakoof,Beige,Value,1220.0,430.0,64.75,Winter,1
+SKU01073,Pink Shirt Dress,Dresses,Shirt Dress,Bewakoof,Pink,Value,1340.0,570.0,57.46,Winter,1
+SKU01074,Black Shirt Dress,Dresses,Shirt Dress,Bewakoof,Black,Value,1120.0,440.0,60.71,Winter,1
+SKU01075,Navy Co-ord Set,Dresses,Co-ord Set,Bewakoof,Navy,Value,1460.0,560.0,61.64,Summer,1
+SKU01076,Olive Co-ord Set,Dresses,Co-ord Set,Bewakoof,Olive,Value,1160.0,490.0,57.76,Summer,1
+SKU01077,Black Co-ord Set,Dresses,Co-ord Set,Bewakoof,Black,Value,1490.0,580.0,61.07,Winter,1
+SKU01078,Brown Chunky Sneakers,Footwear,Chunky Sneakers,Bewakoof,Brown,Value,1890.0,880.0,53.44,Summer,0
+SKU01079,Beige Chunky Sneakers,Footwear,Chunky Sneakers,Bewakoof,Beige,Value,1660.0,760.0,54.22,Summer,1
+SKU01080,Black Chunky Sneakers,Footwear,Chunky Sneakers,Bewakoof,Black,Value,1730.0,770.0,55.49,Monsoon,1
+SKU01081,Grey Kolhapuri,Footwear,Kolhapuri,Bewakoof,Grey,Value,1870.0,800.0,57.22,Summer,1
+SKU01082,Olive Kolhapuri,Footwear,Kolhapuri,Bewakoof,Olive,Value,1580.0,750.0,52.53,Festive,0
+SKU01083,Black Kolhapuri,Footwear,Kolhapuri,Bewakoof,Black,Value,1700.0,640.0,62.35,Monsoon,1
+SKU01084,Rust Block Heels,Footwear,Block Heels,Bewakoof,Rust,Value,1550.0,680.0,56.13,Winter,1
+SKU01085,Olive Block Heels,Footwear,Block Heels,Bewakoof,Olive,Value,1890.0,670.0,64.55,Festive,1
+SKU01086,Navy Block Heels,Footwear,Block Heels,Bewakoof,Navy,Value,1810.0,690.0,61.88,Summer,1
+SKU01087,Grey Loafers,Footwear,Loafers,Bewakoof,Grey,Value,1880.0,710.0,62.23,Monsoon,1
+SKU01088,White Loafers,Footwear,Loafers,Bewakoof,White,Value,1900.0,780.0,58.95,Monsoon,0
+SKU01089,Brown Loafers,Footwear,Loafers,Bewakoof,Brown,Value,2030.0,750.0,63.05,Summer,0
+SKU01090,Rust Sneakers,Footwear,Sneakers,Bewakoof,Rust,Value,1710.0,630.0,63.16,Winter,1
+SKU01091,Navy Sneakers,Footwear,Sneakers,Bewakoof,Navy,Value,2030.0,980.0,51.72,Festive,1
+SKU01092,Beige Sneakers,Footwear,Sneakers,Bewakoof,Beige,Value,1670.0,750.0,55.09,Summer,1
+SKU01093,Brown Sandals,Footwear,Sandals,Bewakoof,Brown,Value,1970.0,850.0,56.85,Monsoon,1
+SKU01094,Navy Sandals,Footwear,Sandals,Bewakoof,Navy,Value,1820.0,700.0,61.54,Summer,1
+SKU01095,White Sandals,Footwear,Sandals,Bewakoof,White,Value,1580.0,770.0,51.27,Monsoon,1
+SKU01096,Grey Sling Bag,Accessories,Sling Bag,Bewakoof,Grey,Value,670.0,300.0,55.22,Monsoon,1
+SKU01097,Olive Sling Bag,Accessories,Sling Bag,Bewakoof,Olive,Value,570.0,230.0,59.65,Festive,1
+SKU01098,Rust Sling Bag,Accessories,Sling Bag,Bewakoof,Rust,Value,640.0,310.0,51.56,Festive,0
+SKU01099,Black Tote Bag,Accessories,Tote Bag,Bewakoof,Black,Value,670.0,310.0,53.73,Festive,1
+SKU01100,White Tote Bag,Accessories,Tote Bag,Bewakoof,White,Value,620.0,220.0,64.52,Festive,1
+SKU01101,Pink Tote Bag,Accessories,Tote Bag,Bewakoof,Pink,Value,540.0,260.0,51.85,Festive,1
+SKU01102,Yellow Bucket Hat,Accessories,Bucket Hat,Bewakoof,Yellow,Value,620.0,220.0,64.52,Summer,1
+SKU01103,Brown Bucket Hat,Accessories,Bucket Hat,Bewakoof,Brown,Value,530.0,240.0,54.72,Monsoon,1
+SKU01104,Pink Bucket Hat,Accessories,Bucket Hat,Bewakoof,Pink,Value,510.0,190.0,62.75,Festive,1
+SKU01105,Beige Caps,Accessories,Caps,Bewakoof,Beige,Value,610.0,280.0,54.1,Summer,1
+SKU01106,Pink Caps,Accessories,Caps,Bewakoof,Pink,Value,630.0,240.0,61.9,Summer,0
+SKU01107,Grey Caps,Accessories,Caps,Bewakoof,Grey,Value,640.0,250.0,60.94,Monsoon,1
+SKU01108,White Sunglasses,Accessories,Sunglasses,Bewakoof,White,Value,570.0,260.0,54.39,Monsoon,0
+SKU01109,Rust Sunglasses,Accessories,Sunglasses,Bewakoof,Rust,Value,630.0,300.0,52.38,Monsoon,0
+SKU01110,Pink Sunglasses,Accessories,Sunglasses,Bewakoof,Pink,Value,630.0,270.0,57.14,Monsoon,0
+SKU01111,Black Belts,Accessories,Belts,Bewakoof,Black,Value,530.0,210.0,60.38,Winter,1
+SKU01112,Beige Belts,Accessories,Belts,Bewakoof,Beige,Value,560.0,220.0,60.71,Monsoon,1
+SKU01113,Rust Belts,Accessories,Belts,Bewakoof,Rust,Value,680.0,280.0,58.82,Summer,1
+SKU01114,Black Scarves,Accessories,Scarves,Bewakoof,Black,Value,670.0,300.0,55.22,Monsoon,1
+SKU01115,Yellow Scarves,Accessories,Scarves,Bewakoof,Yellow,Value,650.0,280.0,56.92,Winter,1
+SKU01116,Olive Scarves,Accessories,Scarves,Bewakoof,Olive,Value,610.0,260.0,57.38,Monsoon,1
+SKU01117,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Snitch,Olive,Premium,1160.0,530.0,54.31,Festive,0
+SKU01118,Pink Oversized T-Shirt,Topwear,Oversized T-Shirt,Snitch,Pink,Premium,1190.0,420.0,64.71,Festive,1
+SKU01119,Rust Oversized T-Shirt,Topwear,Oversized T-Shirt,Snitch,Rust,Premium,1330.0,500.0,62.41,Winter,1
+SKU01120,Brown Crop Top,Topwear,Crop Top,Snitch,Brown,Premium,1450.0,710.0,51.03,Summer,0
+SKU01121,Rust Crop Top,Topwear,Crop Top,Snitch,Rust,Premium,1440.0,580.0,59.72,Festive,1
+SKU01122,Black Crop Top,Topwear,Crop Top,Snitch,Black,Premium,1090.0,530.0,51.38,Festive,1
+SKU01123,Grey Shirt,Topwear,Shirt,Snitch,Grey,Premium,1250.0,620.0,50.4,Festive,1
+SKU01124,Pink Shirt,Topwear,Shirt,Snitch,Pink,Premium,1460.0,700.0,52.05,Summer,1
+SKU01125,Rust Shirt,Topwear,Shirt,Snitch,Rust,Premium,1200.0,490.0,59.17,Monsoon,1
+SKU01126,Pink Hoodie,Topwear,Hoodie,Snitch,Pink,Premium,1410.0,560.0,60.28,Festive,1
+SKU01127,Black Hoodie,Topwear,Hoodie,Snitch,Black,Premium,1150.0,500.0,56.52,Festive,1
+SKU01128,Olive Hoodie,Topwear,Hoodie,Snitch,Olive,Premium,1450.0,660.0,54.48,Summer,1
+SKU01129,Navy Sweatshirt,Topwear,Sweatshirt,Snitch,Navy,Premium,1310.0,480.0,63.36,Winter,1
+SKU01130,Brown Sweatshirt,Topwear,Sweatshirt,Snitch,Brown,Premium,1320.0,660.0,50.0,Festive,1
+SKU01131,Grey Sweatshirt,Topwear,Sweatshirt,Snitch,Grey,Premium,1140.0,490.0,57.02,Monsoon,1
+SKU01132,Pink Polo T-Shirt,Topwear,Polo T-Shirt,Snitch,Pink,Premium,1420.0,650.0,54.23,Winter,1
+SKU01133,Beige Polo T-Shirt,Topwear,Polo T-Shirt,Snitch,Beige,Premium,1350.0,610.0,54.81,Summer,1
+SKU01134,Navy Polo T-Shirt,Topwear,Polo T-Shirt,Snitch,Navy,Premium,1220.0,480.0,60.66,Monsoon,1
+SKU01135,Grey Tank Top,Topwear,Tank Top,Snitch,Grey,Premium,1400.0,660.0,52.86,Winter,1
+SKU01136,Rust Tank Top,Topwear,Tank Top,Snitch,Rust,Premium,1420.0,690.0,51.41,Monsoon,1
+SKU01137,Yellow Tank Top,Topwear,Tank Top,Snitch,Yellow,Premium,1280.0,540.0,57.81,Monsoon,1
+SKU01138,Navy Blazer,Topwear,Blazer,Snitch,Navy,Premium,1390.0,620.0,55.4,Summer,1
+SKU01139,Brown Blazer,Topwear,Blazer,Snitch,Brown,Premium,1360.0,640.0,52.94,Monsoon,1
+SKU01140,Rust Blazer,Topwear,Blazer,Snitch,Rust,Premium,1430.0,570.0,60.14,Monsoon,1
+SKU01141,Beige Baggy Jeans,Bottomwear,Baggy Jeans,Snitch,Beige,Premium,1540.0,560.0,63.64,Monsoon,0
+SKU01142,Black Baggy Jeans,Bottomwear,Baggy Jeans,Snitch,Black,Premium,1640.0,580.0,64.63,Summer,1
+SKU01143,Brown Baggy Jeans,Bottomwear,Baggy Jeans,Snitch,Brown,Premium,1580.0,680.0,56.96,Monsoon,1
+SKU01144,Pink Cargo Pants,Bottomwear,Cargo Pants,Snitch,Pink,Premium,1500.0,660.0,56.0,Monsoon,1
+SKU01145,Yellow Cargo Pants,Bottomwear,Cargo Pants,Snitch,Yellow,Premium,1370.0,490.0,64.23,Summer,0
+SKU01146,Grey Cargo Pants,Bottomwear,Cargo Pants,Snitch,Grey,Premium,1750.0,710.0,59.43,Summer,1
+SKU01147,Olive Joggers,Bottomwear,Joggers,Snitch,Olive,Premium,1420.0,610.0,57.04,Summer,1
+SKU01148,Beige Joggers,Bottomwear,Joggers,Snitch,Beige,Premium,1730.0,660.0,61.85,Summer,1
+SKU01149,Yellow Joggers,Bottomwear,Joggers,Snitch,Yellow,Premium,1660.0,600.0,63.86,Winter,1
+SKU01150,Brown Mini Skirt,Bottomwear,Mini Skirt,Snitch,Brown,Premium,1380.0,590.0,57.25,Winter,1
+SKU01151,Rust Mini Skirt,Bottomwear,Mini Skirt,Snitch,Rust,Premium,1620.0,720.0,55.56,Winter,0
+SKU01152,Yellow Mini Skirt,Bottomwear,Mini Skirt,Snitch,Yellow,Premium,1710.0,850.0,50.29,Winter,1
+SKU01153,Olive Palazzo,Bottomwear,Palazzo,Snitch,Olive,Premium,1610.0,640.0,60.25,Monsoon,1
+SKU01154,Navy Palazzo,Bottomwear,Palazzo,Snitch,Navy,Premium,1740.0,680.0,60.92,Summer,1
+SKU01155,Yellow Palazzo,Bottomwear,Palazzo,Snitch,Yellow,Premium,1570.0,570.0,63.69,Monsoon,1
+SKU01156,Rust Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Snitch,Rust,Premium,1370.0,680.0,50.36,Monsoon,1
+SKU01157,Brown Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Snitch,Brown,Premium,1760.0,800.0,54.55,Winter,1
+SKU01158,White Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Snitch,White,Premium,1550.0,580.0,62.58,Monsoon,1
+SKU01159,Pink Shorts,Bottomwear,Shorts,Snitch,Pink,Premium,1430.0,550.0,61.54,Winter,1
+SKU01160,Rust Shorts,Bottomwear,Shorts,Snitch,Rust,Premium,1620.0,740.0,54.32,Winter,1
+SKU01161,Yellow Shorts,Bottomwear,Shorts,Snitch,Yellow,Premium,1680.0,660.0,60.71,Summer,0
+SKU01162,Grey Kurta Set,Ethnic,Kurta Set,Snitch,Grey,Premium,2730.0,1260.0,53.85,Summer,0
+SKU01163,Pink Kurta Set,Ethnic,Kurta Set,Snitch,Pink,Premium,2440.0,1080.0,55.74,Festive,1
+SKU01164,Yellow Kurta Set,Ethnic,Kurta Set,Snitch,Yellow,Premium,2340.0,910.0,61.11,Winter,1
+SKU01165,Brown Co-ord Saree,Ethnic,Co-ord Saree,Snitch,Brown,Premium,2290.0,1060.0,53.71,Monsoon,1
+SKU01166,Olive Co-ord Saree,Ethnic,Co-ord Saree,Snitch,Olive,Premium,2050.0,750.0,63.41,Winter,1
+SKU01167,Yellow Co-ord Saree,Ethnic,Co-ord Saree,Snitch,Yellow,Premium,2070.0,740.0,64.25,Festive,1
+SKU01168,Pink Anarkali,Ethnic,Anarkali,Snitch,Pink,Premium,2650.0,1210.0,54.34,Monsoon,0
+SKU01169,Beige Anarkali,Ethnic,Anarkali,Snitch,Beige,Premium,2380.0,870.0,63.45,Summer,0
+SKU01170,Yellow Anarkali,Ethnic,Anarkali,Snitch,Yellow,Premium,2390.0,1010.0,57.74,Summer,1
+SKU01171,Pink Sharara Set,Ethnic,Sharara Set,Snitch,Pink,Premium,2160.0,900.0,58.33,Monsoon,1
+SKU01172,Beige Sharara Set,Ethnic,Sharara Set,Snitch,Beige,Premium,2330.0,1030.0,55.79,Winter,1
+SKU01173,Yellow Sharara Set,Ethnic,Sharara Set,Snitch,Yellow,Premium,2500.0,890.0,64.4,Winter,1
+SKU01174,Pink Dhoti Pants,Ethnic,Dhoti Pants,Snitch,Pink,Premium,2310.0,1030.0,55.41,Festive,1
+SKU01175,Navy Dhoti Pants,Ethnic,Dhoti Pants,Snitch,Navy,Premium,2400.0,1150.0,52.08,Winter,1
+SKU01176,Grey Dhoti Pants,Ethnic,Dhoti Pants,Snitch,Grey,Premium,2510.0,940.0,62.55,Summer,0
+SKU01177,Rust Nehru Jacket,Ethnic,Nehru Jacket,Snitch,Rust,Premium,2090.0,930.0,55.5,Summer,1
+SKU01178,Olive Nehru Jacket,Ethnic,Nehru Jacket,Snitch,Olive,Premium,2060.0,900.0,56.31,Monsoon,1
+SKU01179,White Nehru Jacket,Ethnic,Nehru Jacket,Snitch,White,Premium,2720.0,1190.0,56.25,Summer,1
+SKU01180,Olive Maxi Dress,Dresses,Maxi Dress,Snitch,Olive,Premium,2010.0,900.0,55.22,Summer,1
+SKU01181,Beige Maxi Dress,Dresses,Maxi Dress,Snitch,Beige,Premium,2050.0,890.0,56.59,Monsoon,1
+SKU01182,Yellow Maxi Dress,Dresses,Maxi Dress,Snitch,Yellow,Premium,2350.0,960.0,59.15,Festive,1
+SKU01183,Beige Bodycon Dress,Dresses,Bodycon Dress,Snitch,Beige,Premium,2370.0,1150.0,51.48,Festive,1
+SKU01184,White Bodycon Dress,Dresses,Bodycon Dress,Snitch,White,Premium,1890.0,680.0,64.02,Summer,0
+SKU01185,Grey Bodycon Dress,Dresses,Bodycon Dress,Snitch,Grey,Premium,1830.0,650.0,64.48,Winter,1
+SKU01186,Olive Wrap Dress,Dresses,Wrap Dress,Snitch,Olive,Premium,1830.0,830.0,54.64,Summer,1
+SKU01187,White Wrap Dress,Dresses,Wrap Dress,Snitch,White,Premium,1810.0,720.0,60.22,Festive,0
+SKU01188,Grey Wrap Dress,Dresses,Wrap Dress,Snitch,Grey,Premium,2290.0,810.0,64.63,Summer,1
+SKU01189,Grey Shirt Dress,Dresses,Shirt Dress,Snitch,Grey,Premium,2270.0,890.0,60.79,Winter,1
+SKU01190,Black Shirt Dress,Dresses,Shirt Dress,Snitch,Black,Premium,1840.0,840.0,54.35,Summer,1
+SKU01191,Rust Shirt Dress,Dresses,Shirt Dress,Snitch,Rust,Premium,2160.0,1040.0,51.85,Festive,1
+SKU01192,Pink Co-ord Set,Dresses,Co-ord Set,Snitch,Pink,Premium,2220.0,1040.0,53.15,Winter,0
+SKU01193,Yellow Co-ord Set,Dresses,Co-ord Set,Snitch,Yellow,Premium,1940.0,730.0,62.37,Winter,1
+SKU01194,White Co-ord Set,Dresses,Co-ord Set,Snitch,White,Premium,2230.0,1050.0,52.91,Winter,1
+SKU01195,Brown Chunky Sneakers,Footwear,Chunky Sneakers,Snitch,Brown,Premium,3300.0,1360.0,58.79,Winter,1
+SKU01196,Navy Chunky Sneakers,Footwear,Chunky Sneakers,Snitch,Navy,Premium,2770.0,1290.0,53.43,Festive,1
+SKU01197,Yellow Chunky Sneakers,Footwear,Chunky Sneakers,Snitch,Yellow,Premium,2740.0,1340.0,51.09,Monsoon,1
+SKU01198,White Kolhapuri,Footwear,Kolhapuri,Snitch,White,Premium,3190.0,1320.0,58.62,Monsoon,1
+SKU01199,Navy Kolhapuri,Footwear,Kolhapuri,Snitch,Navy,Premium,3100.0,1440.0,53.55,Winter,1
+SKU01200,Yellow Kolhapuri,Footwear,Kolhapuri,Snitch,Yellow,Premium,2540.0,1230.0,51.57,Winter,0
+SKU01201,Beige Block Heels,Footwear,Block Heels,Snitch,Beige,Premium,2880.0,1370.0,52.43,Festive,1
+SKU01202,Yellow Block Heels,Footwear,Block Heels,Snitch,Yellow,Premium,2720.0,1320.0,51.47,Festive,1
+SKU01203,Olive Block Heels,Footwear,Block Heels,Snitch,Olive,Premium,2780.0,980.0,64.75,Festive,1
+SKU01204,Brown Loafers,Footwear,Loafers,Snitch,Brown,Premium,3230.0,1170.0,63.78,Monsoon,1
+SKU01205,Olive Loafers,Footwear,Loafers,Snitch,Olive,Premium,2720.0,1340.0,50.74,Winter,1
+SKU01206,White Loafers,Footwear,Loafers,Snitch,White,Premium,3270.0,1430.0,56.27,Monsoon,1
+SKU01207,Yellow Sneakers,Footwear,Sneakers,Snitch,Yellow,Premium,2990.0,1250.0,58.19,Summer,1
+SKU01208,Grey Sneakers,Footwear,Sneakers,Snitch,Grey,Premium,2700.0,1080.0,60.0,Winter,1
+SKU01209,Black Sneakers,Footwear,Sneakers,Snitch,Black,Premium,3030.0,1400.0,53.8,Festive,1
+SKU01210,Rust Sandals,Footwear,Sandals,Snitch,Rust,Premium,3130.0,1470.0,53.04,Winter,0
+SKU01211,Yellow Sandals,Footwear,Sandals,Snitch,Yellow,Premium,2530.0,1070.0,57.71,Festive,1
+SKU01212,Grey Sandals,Footwear,Sandals,Snitch,Grey,Premium,2500.0,1080.0,56.8,Winter,1
+SKU01213,Navy Sling Bag,Accessories,Sling Bag,Snitch,Navy,Premium,940.0,450.0,52.13,Monsoon,1
+SKU01214,Olive Sling Bag,Accessories,Sling Bag,Snitch,Olive,Premium,920.0,340.0,63.04,Monsoon,1
+SKU01215,White Sling Bag,Accessories,Sling Bag,Snitch,White,Premium,860.0,400.0,53.49,Winter,1
+SKU01216,Grey Tote Bag,Accessories,Tote Bag,Snitch,Grey,Premium,990.0,360.0,63.64,Summer,1
+SKU01217,Brown Tote Bag,Accessories,Tote Bag,Snitch,Brown,Premium,840.0,380.0,54.76,Festive,1
+SKU01218,Navy Tote Bag,Accessories,Tote Bag,Snitch,Navy,Premium,840.0,400.0,52.38,Monsoon,1
+SKU01219,Brown Bucket Hat,Accessories,Bucket Hat,Snitch,Brown,Premium,1020.0,370.0,63.73,Summer,0
+SKU01220,Beige Bucket Hat,Accessories,Bucket Hat,Snitch,Beige,Premium,840.0,420.0,50.0,Festive,1
+SKU01221,Navy Bucket Hat,Accessories,Bucket Hat,Snitch,Navy,Premium,920.0,370.0,59.78,Monsoon,1
+SKU01222,Yellow Caps,Accessories,Caps,Snitch,Yellow,Premium,1050.0,520.0,50.48,Festive,1
+SKU01223,White Caps,Accessories,Caps,Snitch,White,Premium,1100.0,510.0,53.64,Winter,1
+SKU01224,Black Caps,Accessories,Caps,Snitch,Black,Premium,920.0,330.0,64.13,Summer,1
+SKU01225,Yellow Sunglasses,Accessories,Sunglasses,Snitch,Yellow,Premium,1040.0,450.0,56.73,Winter,1
+SKU01226,White Sunglasses,Accessories,Sunglasses,Snitch,White,Premium,940.0,460.0,51.06,Summer,1
+SKU01227,Brown Sunglasses,Accessories,Sunglasses,Snitch,Brown,Premium,850.0,360.0,57.65,Festive,1
+SKU01228,Olive Belts,Accessories,Belts,Snitch,Olive,Premium,820.0,340.0,58.54,Monsoon,1
+SKU01229,White Belts,Accessories,Belts,Snitch,White,Premium,830.0,310.0,62.65,Winter,1
+SKU01230,Pink Belts,Accessories,Belts,Snitch,Pink,Premium,850.0,380.0,55.29,Winter,1
+SKU01231,Grey Scarves,Accessories,Scarves,Snitch,Grey,Premium,1030.0,450.0,56.31,Summer,1
+SKU01232,Pink Scarves,Accessories,Scarves,Snitch,Pink,Premium,1090.0,440.0,59.63,Summer,0
+SKU01233,Navy Scarves,Accessories,Scarves,Snitch,Navy,Premium,900.0,430.0,52.22,Monsoon,1
+SKU01234,Navy Oversized T-Shirt,Topwear,Oversized T-Shirt,The Souled Store,Navy,Value,810.0,400.0,50.62,Monsoon,1
+SKU01235,White Oversized T-Shirt,Topwear,Oversized T-Shirt,The Souled Store,White,Value,750.0,370.0,50.67,Summer,1
+SKU01236,Beige Oversized T-Shirt,Topwear,Oversized T-Shirt,The Souled Store,Beige,Value,760.0,370.0,51.32,Winter,1
+SKU01237,Grey Crop Top,Topwear,Crop Top,The Souled Store,Grey,Value,890.0,440.0,50.56,Summer,1
+SKU01238,Yellow Crop Top,Topwear,Crop Top,The Souled Store,Yellow,Value,770.0,330.0,57.14,Festive,1
+SKU01239,Navy Crop Top,Topwear,Crop Top,The Souled Store,Navy,Value,1000.0,430.0,57.0,Winter,1
+SKU01240,Olive Shirt,Topwear,Shirt,The Souled Store,Olive,Value,910.0,410.0,54.95,Winter,1
+SKU01241,Navy Shirt,Topwear,Shirt,The Souled Store,Navy,Value,870.0,390.0,55.17,Monsoon,1
+SKU01242,Grey Shirt,Topwear,Shirt,The Souled Store,Grey,Value,900.0,440.0,51.11,Festive,1
+SKU01243,White Hoodie,Topwear,Hoodie,The Souled Store,White,Value,760.0,300.0,60.53,Festive,1
+SKU01244,Black Hoodie,Topwear,Hoodie,The Souled Store,Black,Value,1000.0,480.0,52.0,Festive,1
+SKU01245,Beige Hoodie,Topwear,Hoodie,The Souled Store,Beige,Value,870.0,390.0,55.17,Winter,1
+SKU01246,Pink Sweatshirt,Topwear,Sweatshirt,The Souled Store,Pink,Value,820.0,310.0,62.2,Winter,1
+SKU01247,Navy Sweatshirt,Topwear,Sweatshirt,The Souled Store,Navy,Value,870.0,350.0,59.77,Summer,0
+SKU01248,Yellow Sweatshirt,Topwear,Sweatshirt,The Souled Store,Yellow,Value,900.0,330.0,63.33,Festive,1
+SKU01249,Black Polo T-Shirt,Topwear,Polo T-Shirt,The Souled Store,Black,Value,1000.0,500.0,50.0,Summer,0
+SKU01250,White Polo T-Shirt,Topwear,Polo T-Shirt,The Souled Store,White,Value,930.0,400.0,56.99,Festive,1
+SKU01251,Olive Polo T-Shirt,Topwear,Polo T-Shirt,The Souled Store,Olive,Value,830.0,390.0,53.01,Monsoon,1
+SKU01252,Yellow Tank Top,Topwear,Tank Top,The Souled Store,Yellow,Value,930.0,350.0,62.37,Winter,1
+SKU01253,Navy Tank Top,Topwear,Tank Top,The Souled Store,Navy,Value,990.0,470.0,52.53,Winter,0
+SKU01254,Beige Tank Top,Topwear,Tank Top,The Souled Store,Beige,Value,1000.0,460.0,54.0,Winter,1
+SKU01255,Rust Blazer,Topwear,Blazer,The Souled Store,Rust,Value,910.0,380.0,58.24,Monsoon,1
+SKU01256,Grey Blazer,Topwear,Blazer,The Souled Store,Grey,Value,990.0,480.0,51.52,Winter,1
+SKU01257,White Blazer,Topwear,Blazer,The Souled Store,White,Value,760.0,270.0,64.47,Winter,1
+SKU01258,Brown Baggy Jeans,Bottomwear,Baggy Jeans,The Souled Store,Brown,Value,1060.0,500.0,52.83,Summer,1
+SKU01259,Black Baggy Jeans,Bottomwear,Baggy Jeans,The Souled Store,Black,Value,1260.0,470.0,62.7,Festive,1
+SKU01260,Yellow Baggy Jeans,Bottomwear,Baggy Jeans,The Souled Store,Yellow,Value,1130.0,460.0,59.29,Winter,0
+SKU01261,Black Cargo Pants,Bottomwear,Cargo Pants,The Souled Store,Black,Value,1250.0,600.0,52.0,Winter,1
+SKU01262,Brown Cargo Pants,Bottomwear,Cargo Pants,The Souled Store,Brown,Value,1210.0,510.0,57.85,Festive,1
+SKU01263,Yellow Cargo Pants,Bottomwear,Cargo Pants,The Souled Store,Yellow,Value,1070.0,420.0,60.75,Winter,1
+SKU01264,Black Joggers,Bottomwear,Joggers,The Souled Store,Black,Value,950.0,460.0,51.58,Monsoon,0
+SKU01265,Olive Joggers,Bottomwear,Joggers,The Souled Store,Olive,Value,1200.0,600.0,50.0,Winter,0
+SKU01266,Navy Joggers,Bottomwear,Joggers,The Souled Store,Navy,Value,1260.0,550.0,56.35,Winter,1
+SKU01267,Grey Mini Skirt,Bottomwear,Mini Skirt,The Souled Store,Grey,Value,1190.0,590.0,50.42,Festive,1
+SKU01268,Olive Mini Skirt,Bottomwear,Mini Skirt,The Souled Store,Olive,Value,1210.0,470.0,61.16,Winter,1
+SKU01269,Beige Mini Skirt,Bottomwear,Mini Skirt,The Souled Store,Beige,Value,1080.0,400.0,62.96,Summer,1
+SKU01270,White Palazzo,Bottomwear,Palazzo,The Souled Store,White,Value,1250.0,550.0,56.0,Festive,1
+SKU01271,Beige Palazzo,Bottomwear,Palazzo,The Souled Store,Beige,Value,1010.0,460.0,54.46,Festive,1
+SKU01272,Yellow Palazzo,Bottomwear,Palazzo,The Souled Store,Yellow,Value,1140.0,460.0,59.65,Winter,0
+SKU01273,Olive Straight Fit Jeans,Bottomwear,Straight Fit Jeans,The Souled Store,Olive,Value,970.0,440.0,54.64,Winter,1
+SKU01274,Yellow Straight Fit Jeans,Bottomwear,Straight Fit Jeans,The Souled Store,Yellow,Value,1110.0,520.0,53.15,Monsoon,0
+SKU01275,Beige Straight Fit Jeans,Bottomwear,Straight Fit Jeans,The Souled Store,Beige,Value,1110.0,530.0,52.25,Festive,1
+SKU01276,Pink Shorts,Bottomwear,Shorts,The Souled Store,Pink,Value,1120.0,490.0,56.25,Summer,1
+SKU01277,Rust Shorts,Bottomwear,Shorts,The Souled Store,Rust,Value,1220.0,500.0,59.02,Festive,1
+SKU01278,Navy Shorts,Bottomwear,Shorts,The Souled Store,Navy,Value,980.0,350.0,64.29,Winter,0
+SKU01279,Yellow Kurta Set,Ethnic,Kurta Set,The Souled Store,Yellow,Value,1780.0,790.0,55.62,Festive,1
+SKU01280,Brown Kurta Set,Ethnic,Kurta Set,The Souled Store,Brown,Value,1750.0,670.0,61.71,Winter,1
+SKU01281,Grey Kurta Set,Ethnic,Kurta Set,The Souled Store,Grey,Value,1470.0,520.0,64.63,Festive,0
+SKU01282,Olive Co-ord Saree,Ethnic,Co-ord Saree,The Souled Store,Olive,Value,1570.0,690.0,56.05,Winter,1
+SKU01283,Pink Co-ord Saree,Ethnic,Co-ord Saree,The Souled Store,Pink,Value,1600.0,660.0,58.75,Winter,1
+SKU01284,Grey Co-ord Saree,Ethnic,Co-ord Saree,The Souled Store,Grey,Value,1850.0,740.0,60.0,Winter,1
+SKU01285,Beige Anarkali,Ethnic,Anarkali,The Souled Store,Beige,Value,1660.0,780.0,53.01,Monsoon,1
+SKU01286,Yellow Anarkali,Ethnic,Anarkali,The Souled Store,Yellow,Value,1600.0,710.0,55.62,Festive,0
+SKU01287,Black Anarkali,Ethnic,Anarkali,The Souled Store,Black,Value,1830.0,900.0,50.82,Winter,1
+SKU01288,Yellow Sharara Set,Ethnic,Sharara Set,The Souled Store,Yellow,Value,1470.0,720.0,51.02,Winter,0
+SKU01289,Black Sharara Set,Ethnic,Sharara Set,The Souled Store,Black,Value,1650.0,640.0,61.21,Monsoon,1
+SKU01290,Beige Sharara Set,Ethnic,Sharara Set,The Souled Store,Beige,Value,1630.0,810.0,50.31,Festive,1
+SKU01291,Pink Dhoti Pants,Ethnic,Dhoti Pants,The Souled Store,Pink,Value,1650.0,660.0,60.0,Winter,0
+SKU01292,White Dhoti Pants,Ethnic,Dhoti Pants,The Souled Store,White,Value,1710.0,660.0,61.4,Winter,0
+SKU01293,Rust Dhoti Pants,Ethnic,Dhoti Pants,The Souled Store,Rust,Value,1440.0,530.0,63.19,Summer,1
+SKU01294,Olive Nehru Jacket,Ethnic,Nehru Jacket,The Souled Store,Olive,Value,1460.0,540.0,63.01,Summer,1
+SKU01295,Navy Nehru Jacket,Ethnic,Nehru Jacket,The Souled Store,Navy,Value,1470.0,660.0,55.1,Summer,1
+SKU01296,Grey Nehru Jacket,Ethnic,Nehru Jacket,The Souled Store,Grey,Value,1490.0,600.0,59.73,Summer,1
+SKU01297,Navy Maxi Dress,Dresses,Maxi Dress,The Souled Store,Navy,Value,1600.0,670.0,58.13,Festive,1
+SKU01298,Black Maxi Dress,Dresses,Maxi Dress,The Souled Store,Black,Value,1500.0,560.0,62.67,Festive,1
+SKU01299,Brown Maxi Dress,Dresses,Maxi Dress,The Souled Store,Brown,Value,1300.0,460.0,64.62,Winter,1
+SKU01300,Brown Bodycon Dress,Dresses,Bodycon Dress,The Souled Store,Brown,Value,1290.0,510.0,60.47,Monsoon,1
+SKU01301,Pink Bodycon Dress,Dresses,Bodycon Dress,The Souled Store,Pink,Value,1290.0,470.0,63.57,Winter,1
+SKU01302,Beige Bodycon Dress,Dresses,Bodycon Dress,The Souled Store,Beige,Value,1270.0,530.0,58.27,Monsoon,1
+SKU01303,Grey Wrap Dress,Dresses,Wrap Dress,The Souled Store,Grey,Value,1300.0,530.0,59.23,Winter,1
+SKU01304,Beige Wrap Dress,Dresses,Wrap Dress,The Souled Store,Beige,Value,1430.0,650.0,54.55,Winter,1
+SKU01305,Olive Wrap Dress,Dresses,Wrap Dress,The Souled Store,Olive,Value,1230.0,580.0,52.85,Summer,0
+SKU01306,Yellow Shirt Dress,Dresses,Shirt Dress,The Souled Store,Yellow,Value,1480.0,540.0,63.51,Summer,1
+SKU01307,Navy Shirt Dress,Dresses,Shirt Dress,The Souled Store,Navy,Value,1590.0,780.0,50.94,Festive,0
+SKU01308,Beige Shirt Dress,Dresses,Shirt Dress,The Souled Store,Beige,Value,1240.0,490.0,60.48,Festive,1
+SKU01309,Pink Co-ord Set,Dresses,Co-ord Set,The Souled Store,Pink,Value,1560.0,720.0,53.85,Festive,1
+SKU01310,Navy Co-ord Set,Dresses,Co-ord Set,The Souled Store,Navy,Value,1290.0,490.0,62.02,Winter,0
+SKU01311,Yellow Co-ord Set,Dresses,Co-ord Set,The Souled Store,Yellow,Value,1370.0,580.0,57.66,Summer,1
+SKU01312,Grey Chunky Sneakers,Footwear,Chunky Sneakers,The Souled Store,Grey,Value,2050.0,830.0,59.51,Festive,1
+SKU01313,Rust Chunky Sneakers,Footwear,Chunky Sneakers,The Souled Store,Rust,Value,1960.0,910.0,53.57,Winter,1
+SKU01314,Navy Chunky Sneakers,Footwear,Chunky Sneakers,The Souled Store,Navy,Value,1700.0,660.0,61.18,Summer,0
+SKU01315,Yellow Kolhapuri,Footwear,Kolhapuri,The Souled Store,Yellow,Value,2110.0,1020.0,51.66,Festive,1
+SKU01316,Navy Kolhapuri,Footwear,Kolhapuri,The Souled Store,Navy,Value,1990.0,860.0,56.78,Monsoon,1
+SKU01317,Olive Kolhapuri,Footwear,Kolhapuri,The Souled Store,Olive,Value,1750.0,730.0,58.29,Monsoon,1
+SKU01318,Black Block Heels,Footwear,Block Heels,The Souled Store,Black,Value,2000.0,770.0,61.5,Summer,1
+SKU01319,Navy Block Heels,Footwear,Block Heels,The Souled Store,Navy,Value,1840.0,750.0,59.24,Monsoon,1
+SKU01320,Yellow Block Heels,Footwear,Block Heels,The Souled Store,Yellow,Value,1690.0,670.0,60.36,Festive,1
+SKU01321,Pink Loafers,Footwear,Loafers,The Souled Store,Pink,Value,1810.0,720.0,60.22,Monsoon,1
+SKU01322,Beige Loafers,Footwear,Loafers,The Souled Store,Beige,Value,1750.0,850.0,51.43,Festive,1
+SKU01323,Olive Loafers,Footwear,Loafers,The Souled Store,Olive,Value,2030.0,920.0,54.68,Festive,1
+SKU01324,Navy Sneakers,Footwear,Sneakers,The Souled Store,Navy,Value,2150.0,910.0,57.67,Festive,1
+SKU01325,Yellow Sneakers,Footwear,Sneakers,The Souled Store,Yellow,Value,1730.0,740.0,57.23,Winter,0
+SKU01326,Grey Sneakers,Footwear,Sneakers,The Souled Store,Grey,Value,2030.0,940.0,53.69,Monsoon,1
+SKU01327,Olive Sandals,Footwear,Sandals,The Souled Store,Olive,Value,1940.0,720.0,62.89,Summer,1
+SKU01328,Pink Sandals,Footwear,Sandals,The Souled Store,Pink,Value,1850.0,750.0,59.46,Summer,1
+SKU01329,Rust Sandals,Footwear,Sandals,The Souled Store,Rust,Value,2070.0,900.0,56.52,Summer,1
+SKU01330,Navy Sling Bag,Accessories,Sling Bag,The Souled Store,Navy,Value,630.0,310.0,50.79,Summer,1
+SKU01331,Pink Sling Bag,Accessories,Sling Bag,The Souled Store,Pink,Value,680.0,260.0,61.76,Winter,1
+SKU01332,Rust Sling Bag,Accessories,Sling Bag,The Souled Store,Rust,Value,580.0,220.0,62.07,Festive,0
+SKU01333,Olive Tote Bag,Accessories,Tote Bag,The Souled Store,Olive,Value,610.0,230.0,62.3,Festive,1
+SKU01334,White Tote Bag,Accessories,Tote Bag,The Souled Store,White,Value,600.0,240.0,60.0,Summer,1
+SKU01335,Yellow Tote Bag,Accessories,Tote Bag,The Souled Store,Yellow,Value,590.0,290.0,50.85,Summer,1
+SKU01336,Yellow Bucket Hat,Accessories,Bucket Hat,The Souled Store,Yellow,Value,580.0,250.0,56.9,Monsoon,0
+SKU01337,White Bucket Hat,Accessories,Bucket Hat,The Souled Store,White,Value,640.0,320.0,50.0,Monsoon,1
+SKU01338,Brown Bucket Hat,Accessories,Bucket Hat,The Souled Store,Brown,Value,580.0,240.0,58.62,Festive,1
+SKU01339,Brown Caps,Accessories,Caps,The Souled Store,Brown,Value,750.0,360.0,52.0,Winter,1
+SKU01340,Pink Caps,Accessories,Caps,The Souled Store,Pink,Value,720.0,280.0,61.11,Winter,1
+SKU01341,Beige Caps,Accessories,Caps,The Souled Store,Beige,Value,590.0,270.0,54.24,Festive,1
+SKU01342,Rust Sunglasses,Accessories,Sunglasses,The Souled Store,Rust,Value,740.0,320.0,56.76,Winter,0
+SKU01343,Olive Sunglasses,Accessories,Sunglasses,The Souled Store,Olive,Value,670.0,260.0,61.19,Festive,1
+SKU01344,Yellow Sunglasses,Accessories,Sunglasses,The Souled Store,Yellow,Value,710.0,270.0,61.97,Festive,1
+SKU01345,Rust Belts,Accessories,Belts,The Souled Store,Rust,Value,620.0,260.0,58.06,Festive,1
+SKU01346,Black Belts,Accessories,Belts,The Souled Store,Black,Value,660.0,250.0,62.12,Summer,0
+SKU01347,Pink Belts,Accessories,Belts,The Souled Store,Pink,Value,580.0,260.0,55.17,Winter,1
+SKU01348,Olive Scarves,Accessories,Scarves,The Souled Store,Olive,Value,620.0,270.0,56.45,Festive,1
+SKU01349,Black Scarves,Accessories,Scarves,The Souled Store,Black,Value,590.0,250.0,57.63,Monsoon,1
+SKU01350,Brown Scarves,Accessories,Scarves,The Souled Store,Brown,Value,670.0,240.0,64.18,Monsoon,1
+SKU01351,Brown Oversized T-Shirt,Topwear,Oversized T-Shirt,Urbanic,Brown,Premium,1290.0,480.0,62.79,Monsoon,1
+SKU01352,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Urbanic,Olive,Premium,1180.0,590.0,50.0,Monsoon,1
+SKU01353,Grey Oversized T-Shirt,Topwear,Oversized T-Shirt,Urbanic,Grey,Premium,1290.0,610.0,52.71,Summer,1
+SKU01354,Beige Crop Top,Topwear,Crop Top,Urbanic,Beige,Premium,1260.0,570.0,54.76,Monsoon,1
+SKU01355,Grey Crop Top,Topwear,Crop Top,Urbanic,Grey,Premium,1460.0,640.0,56.16,Summer,1
+SKU01356,Navy Crop Top,Topwear,Crop Top,Urbanic,Navy,Premium,1350.0,560.0,58.52,Festive,1
+SKU01357,Olive Shirt,Topwear,Shirt,Urbanic,Olive,Premium,1300.0,640.0,50.77,Monsoon,1
+SKU01358,Rust Shirt,Topwear,Shirt,Urbanic,Rust,Premium,1490.0,740.0,50.34,Monsoon,1
+SKU01359,Black Shirt,Topwear,Shirt,Urbanic,Black,Premium,1210.0,560.0,53.72,Summer,1
+SKU01360,Yellow Hoodie,Topwear,Hoodie,Urbanic,Yellow,Premium,1540.0,580.0,62.34,Summer,1
+SKU01361,Grey Hoodie,Topwear,Hoodie,Urbanic,Grey,Premium,1180.0,540.0,54.24,Monsoon,0
+SKU01362,Rust Hoodie,Topwear,Hoodie,Urbanic,Rust,Premium,1390.0,660.0,52.52,Summer,1
+SKU01363,Brown Sweatshirt,Topwear,Sweatshirt,Urbanic,Brown,Premium,1210.0,570.0,52.89,Summer,1
+SKU01364,Navy Sweatshirt,Topwear,Sweatshirt,Urbanic,Navy,Premium,1240.0,460.0,62.9,Winter,1
+SKU01365,Yellow Sweatshirt,Topwear,Sweatshirt,Urbanic,Yellow,Premium,1220.0,580.0,52.46,Winter,1
+SKU01366,Yellow Polo T-Shirt,Topwear,Polo T-Shirt,Urbanic,Yellow,Premium,1430.0,610.0,57.34,Summer,1
+SKU01367,Grey Polo T-Shirt,Topwear,Polo T-Shirt,Urbanic,Grey,Premium,1300.0,630.0,51.54,Monsoon,1
+SKU01368,White Polo T-Shirt,Topwear,Polo T-Shirt,Urbanic,White,Premium,1310.0,620.0,52.67,Festive,1
+SKU01369,Grey Tank Top,Topwear,Tank Top,Urbanic,Grey,Premium,1330.0,540.0,59.4,Winter,0
+SKU01370,Brown Tank Top,Topwear,Tank Top,Urbanic,Brown,Premium,1340.0,530.0,60.45,Festive,1
+SKU01371,Rust Tank Top,Topwear,Tank Top,Urbanic,Rust,Premium,1460.0,620.0,57.53,Winter,1
+SKU01372,White Blazer,Topwear,Blazer,Urbanic,White,Premium,1250.0,610.0,51.2,Winter,1
+SKU01373,Brown Blazer,Topwear,Blazer,Urbanic,Brown,Premium,1310.0,570.0,56.49,Monsoon,1
+SKU01374,Olive Blazer,Topwear,Blazer,Urbanic,Olive,Premium,1520.0,670.0,55.92,Winter,1
+SKU01375,White Baggy Jeans,Bottomwear,Baggy Jeans,Urbanic,White,Premium,1500.0,740.0,50.67,Festive,1
+SKU01376,Rust Baggy Jeans,Bottomwear,Baggy Jeans,Urbanic,Rust,Premium,1760.0,700.0,60.23,Festive,0
+SKU01377,Pink Baggy Jeans,Bottomwear,Baggy Jeans,Urbanic,Pink,Premium,1510.0,710.0,52.98,Winter,1
+SKU01378,White Cargo Pants,Bottomwear,Cargo Pants,Urbanic,White,Premium,1760.0,760.0,56.82,Summer,1
+SKU01379,Grey Cargo Pants,Bottomwear,Cargo Pants,Urbanic,Grey,Premium,1900.0,890.0,53.16,Festive,1
+SKU01380,Pink Cargo Pants,Bottomwear,Cargo Pants,Urbanic,Pink,Premium,1520.0,600.0,60.53,Summer,1
+SKU01381,Brown Joggers,Bottomwear,Joggers,Urbanic,Brown,Premium,1570.0,720.0,54.14,Summer,1
+SKU01382,Grey Joggers,Bottomwear,Joggers,Urbanic,Grey,Premium,1460.0,640.0,56.16,Winter,0
+SKU01383,Rust Joggers,Bottomwear,Joggers,Urbanic,Rust,Premium,1830.0,880.0,51.91,Summer,0
+SKU01384,Grey Mini Skirt,Bottomwear,Mini Skirt,Urbanic,Grey,Premium,1620.0,770.0,52.47,Summer,1
+SKU01385,Navy Mini Skirt,Bottomwear,Mini Skirt,Urbanic,Navy,Premium,1500.0,720.0,52.0,Monsoon,1
+SKU01386,Rust Mini Skirt,Bottomwear,Mini Skirt,Urbanic,Rust,Premium,1510.0,620.0,58.94,Winter,1
+SKU01387,White Palazzo,Bottomwear,Palazzo,Urbanic,White,Premium,1850.0,690.0,62.7,Summer,1
+SKU01388,Rust Palazzo,Bottomwear,Palazzo,Urbanic,Rust,Premium,1560.0,720.0,53.85,Monsoon,1
+SKU01389,Brown Palazzo,Bottomwear,Palazzo,Urbanic,Brown,Premium,1810.0,810.0,55.25,Summer,1
+SKU01390,Navy Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Urbanic,Navy,Premium,1800.0,780.0,56.67,Festive,1
+SKU01391,Black Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Urbanic,Black,Premium,1570.0,630.0,59.87,Festive,0
+SKU01392,Beige Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Urbanic,Beige,Premium,1540.0,750.0,51.3,Festive,1
+SKU01393,Beige Shorts,Bottomwear,Shorts,Urbanic,Beige,Premium,1740.0,710.0,59.2,Monsoon,1
+SKU01394,Pink Shorts,Bottomwear,Shorts,Urbanic,Pink,Premium,1680.0,830.0,50.6,Summer,1
+SKU01395,White Shorts,Bottomwear,Shorts,Urbanic,White,Premium,1520.0,670.0,55.92,Monsoon,1
+SKU01396,Yellow Kurta Set,Ethnic,Kurta Set,Urbanic,Yellow,Premium,2550.0,1130.0,55.69,Festive,1
+SKU01397,Rust Kurta Set,Ethnic,Kurta Set,Urbanic,Rust,Premium,2180.0,1050.0,51.83,Festive,1
+SKU01398,Beige Kurta Set,Ethnic,Kurta Set,Urbanic,Beige,Premium,2880.0,1250.0,56.6,Summer,0
+SKU01399,Beige Co-ord Saree,Ethnic,Co-ord Saree,Urbanic,Beige,Premium,2700.0,1320.0,51.11,Summer,1
+SKU01400,Grey Co-ord Saree,Ethnic,Co-ord Saree,Urbanic,Grey,Premium,2710.0,1010.0,62.73,Winter,1
+SKU01401,Black Co-ord Saree,Ethnic,Co-ord Saree,Urbanic,Black,Premium,2610.0,1150.0,55.94,Winter,1
+SKU01402,Olive Anarkali,Ethnic,Anarkali,Urbanic,Olive,Premium,2490.0,1150.0,53.82,Festive,1
+SKU01403,Brown Anarkali,Ethnic,Anarkali,Urbanic,Brown,Premium,2880.0,1410.0,51.04,Festive,1
+SKU01404,White Anarkali,Ethnic,Anarkali,Urbanic,White,Premium,2510.0,920.0,63.35,Winter,1
+SKU01405,Navy Sharara Set,Ethnic,Sharara Set,Urbanic,Navy,Premium,2920.0,1390.0,52.4,Winter,0
+SKU01406,Black Sharara Set,Ethnic,Sharara Set,Urbanic,Black,Premium,2260.0,1100.0,51.33,Summer,1
+SKU01407,Olive Sharara Set,Ethnic,Sharara Set,Urbanic,Olive,Premium,2830.0,1210.0,57.24,Festive,0
+SKU01408,Beige Dhoti Pants,Ethnic,Dhoti Pants,Urbanic,Beige,Premium,2620.0,1070.0,59.16,Festive,1
+SKU01409,Navy Dhoti Pants,Ethnic,Dhoti Pants,Urbanic,Navy,Premium,2210.0,880.0,60.18,Winter,1
+SKU01410,Brown Dhoti Pants,Ethnic,Dhoti Pants,Urbanic,Brown,Premium,2780.0,970.0,65.11,Monsoon,1
+SKU01411,Brown Nehru Jacket,Ethnic,Nehru Jacket,Urbanic,Brown,Premium,2420.0,990.0,59.09,Summer,1
+SKU01412,Olive Nehru Jacket,Ethnic,Nehru Jacket,Urbanic,Olive,Premium,2580.0,1260.0,51.16,Summer,1
+SKU01413,Rust Nehru Jacket,Ethnic,Nehru Jacket,Urbanic,Rust,Premium,2430.0,980.0,59.67,Winter,0
+SKU01414,Rust Maxi Dress,Dresses,Maxi Dress,Urbanic,Rust,Premium,2370.0,990.0,58.23,Winter,1
+SKU01415,Pink Maxi Dress,Dresses,Maxi Dress,Urbanic,Pink,Premium,2030.0,850.0,58.13,Winter,1
+SKU01416,Brown Maxi Dress,Dresses,Maxi Dress,Urbanic,Brown,Premium,1970.0,740.0,62.44,Festive,1
+SKU01417,Grey Bodycon Dress,Dresses,Bodycon Dress,Urbanic,Grey,Premium,2210.0,910.0,58.82,Summer,1
+SKU01418,Yellow Bodycon Dress,Dresses,Bodycon Dress,Urbanic,Yellow,Premium,2480.0,1000.0,59.68,Summer,1
+SKU01419,Rust Bodycon Dress,Dresses,Bodycon Dress,Urbanic,Rust,Premium,2260.0,1010.0,55.31,Winter,1
+SKU01420,Pink Wrap Dress,Dresses,Wrap Dress,Urbanic,Pink,Premium,1890.0,850.0,55.03,Monsoon,1
+SKU01421,Navy Wrap Dress,Dresses,Wrap Dress,Urbanic,Navy,Premium,2000.0,990.0,50.5,Monsoon,1
+SKU01422,Rust Wrap Dress,Dresses,Wrap Dress,Urbanic,Rust,Premium,1980.0,820.0,58.59,Summer,1
+SKU01423,Olive Shirt Dress,Dresses,Shirt Dress,Urbanic,Olive,Premium,1930.0,960.0,50.26,Monsoon,1
+SKU01424,Rust Shirt Dress,Dresses,Shirt Dress,Urbanic,Rust,Premium,2210.0,970.0,56.11,Monsoon,1
+SKU01425,Brown Shirt Dress,Dresses,Shirt Dress,Urbanic,Brown,Premium,1920.0,890.0,53.65,Monsoon,1
+SKU01426,White Co-ord Set,Dresses,Co-ord Set,Urbanic,White,Premium,2020.0,980.0,51.49,Winter,1
+SKU01427,Beige Co-ord Set,Dresses,Co-ord Set,Urbanic,Beige,Premium,2010.0,760.0,62.19,Winter,1
+SKU01428,Yellow Co-ord Set,Dresses,Co-ord Set,Urbanic,Yellow,Premium,1900.0,800.0,57.89,Festive,0
+SKU01429,Rust Chunky Sneakers,Footwear,Chunky Sneakers,Urbanic,Rust,Premium,3120.0,1120.0,64.1,Summer,1
+SKU01430,Beige Chunky Sneakers,Footwear,Chunky Sneakers,Urbanic,Beige,Premium,3310.0,1380.0,58.31,Festive,1
+SKU01431,Yellow Chunky Sneakers,Footwear,Chunky Sneakers,Urbanic,Yellow,Premium,3080.0,1280.0,58.44,Summer,1
+SKU01432,White Kolhapuri,Footwear,Kolhapuri,Urbanic,White,Premium,2970.0,1290.0,56.57,Winter,1
+SKU01433,Navy Kolhapuri,Footwear,Kolhapuri,Urbanic,Navy,Premium,2740.0,1030.0,62.41,Festive,1
+SKU01434,Yellow Kolhapuri,Footwear,Kolhapuri,Urbanic,Yellow,Premium,3390.0,1670.0,50.74,Summer,1
+SKU01435,White Block Heels,Footwear,Block Heels,Urbanic,White,Premium,2940.0,1150.0,60.88,Winter,1
+SKU01436,Brown Block Heels,Footwear,Block Heels,Urbanic,Brown,Premium,3190.0,1310.0,58.93,Summer,1
+SKU01437,Pink Block Heels,Footwear,Block Heels,Urbanic,Pink,Premium,2620.0,980.0,62.6,Monsoon,1
+SKU01438,Yellow Loafers,Footwear,Loafers,Urbanic,Yellow,Premium,3260.0,1460.0,55.21,Summer,1
+SKU01439,Brown Loafers,Footwear,Loafers,Urbanic,Brown,Premium,2620.0,1000.0,61.83,Festive,0
+SKU01440,Beige Loafers,Footwear,Loafers,Urbanic,Beige,Premium,2810.0,1270.0,54.8,Summer,1
+SKU01441,Beige Sneakers,Footwear,Sneakers,Urbanic,Beige,Premium,2620.0,960.0,63.36,Winter,0
+SKU01442,Black Sneakers,Footwear,Sneakers,Urbanic,Black,Premium,3330.0,1250.0,62.46,Monsoon,1
+SKU01443,Olive Sneakers,Footwear,Sneakers,Urbanic,Olive,Premium,3200.0,1230.0,61.56,Festive,1
+SKU01444,Rust Sandals,Footwear,Sandals,Urbanic,Rust,Premium,2690.0,1040.0,61.34,Summer,1
+SKU01445,Black Sandals,Footwear,Sandals,Urbanic,Black,Premium,3260.0,1560.0,52.15,Winter,1
+SKU01446,Grey Sandals,Footwear,Sandals,Urbanic,Grey,Premium,3360.0,1380.0,58.93,Monsoon,1
+SKU01447,Grey Sling Bag,Accessories,Sling Bag,Urbanic,Grey,Premium,1070.0,410.0,61.68,Festive,0
+SKU01448,Beige Sling Bag,Accessories,Sling Bag,Urbanic,Beige,Premium,960.0,470.0,51.04,Winter,1
+SKU01449,Rust Sling Bag,Accessories,Sling Bag,Urbanic,Rust,Premium,870.0,320.0,63.22,Summer,1
+SKU01450,Pink Tote Bag,Accessories,Tote Bag,Urbanic,Pink,Premium,930.0,330.0,64.52,Summer,1
+SKU01451,Rust Tote Bag,Accessories,Tote Bag,Urbanic,Rust,Premium,920.0,400.0,56.52,Winter,1
+SKU01452,Beige Tote Bag,Accessories,Tote Bag,Urbanic,Beige,Premium,990.0,480.0,51.52,Summer,1
+SKU01453,Beige Bucket Hat,Accessories,Bucket Hat,Urbanic,Beige,Premium,1120.0,450.0,59.82,Winter,1
+SKU01454,Olive Bucket Hat,Accessories,Bucket Hat,Urbanic,Olive,Premium,940.0,380.0,59.57,Monsoon,1
+SKU01455,Rust Bucket Hat,Accessories,Bucket Hat,Urbanic,Rust,Premium,1050.0,410.0,60.95,Festive,1
+SKU01456,White Caps,Accessories,Caps,Urbanic,White,Premium,1060.0,440.0,58.49,Festive,0
+SKU01457,Brown Caps,Accessories,Caps,Urbanic,Brown,Premium,1030.0,430.0,58.25,Monsoon,1
+SKU01458,Black Caps,Accessories,Caps,Urbanic,Black,Premium,960.0,470.0,51.04,Monsoon,1
+SKU01459,Grey Sunglasses,Accessories,Sunglasses,Urbanic,Grey,Premium,1100.0,410.0,62.73,Summer,1
+SKU01460,Beige Sunglasses,Accessories,Sunglasses,Urbanic,Beige,Premium,1130.0,480.0,57.52,Monsoon,0
+SKU01461,Yellow Sunglasses,Accessories,Sunglasses,Urbanic,Yellow,Premium,1140.0,540.0,52.63,Festive,1
+SKU01462,Yellow Belts,Accessories,Belts,Urbanic,Yellow,Premium,1000.0,350.0,65.0,Festive,0
+SKU01463,Olive Belts,Accessories,Belts,Urbanic,Olive,Premium,950.0,410.0,56.84,Winter,0
+SKU01464,Brown Belts,Accessories,Belts,Urbanic,Brown,Premium,1060.0,410.0,61.32,Monsoon,1
+SKU01465,Grey Scarves,Accessories,Scarves,Urbanic,Grey,Premium,910.0,430.0,52.75,Festive,1
+SKU01466,Yellow Scarves,Accessories,Scarves,Urbanic,Yellow,Premium,1170.0,500.0,57.26,Winter,0
+SKU01467,Brown Scarves,Accessories,Scarves,Urbanic,Brown,Premium,920.0,360.0,60.87,Monsoon,1
+SKU01468,Beige Oversized T-Shirt,Topwear,Oversized T-Shirt,FabAlley,Beige,Premium,1030.0,500.0,51.46,Winter,0
+SKU01469,Navy Oversized T-Shirt,Topwear,Oversized T-Shirt,FabAlley,Navy,Premium,1060.0,460.0,56.6,Summer,1
+SKU01470,Black Oversized T-Shirt,Topwear,Oversized T-Shirt,FabAlley,Black,Premium,1120.0,490.0,56.25,Summer,1
+SKU01471,Beige Crop Top,Topwear,Crop Top,FabAlley,Beige,Premium,1250.0,590.0,52.8,Monsoon,1
+SKU01472,Navy Crop Top,Topwear,Crop Top,FabAlley,Navy,Premium,1090.0,380.0,65.14,Summer,0
+SKU01473,Yellow Crop Top,Topwear,Crop Top,FabAlley,Yellow,Premium,1070.0,520.0,51.4,Monsoon,1
+SKU01474,Rust Shirt,Topwear,Shirt,FabAlley,Rust,Premium,1330.0,580.0,56.39,Summer,1
+SKU01475,Black Shirt,Topwear,Shirt,FabAlley,Black,Premium,1230.0,550.0,55.28,Festive,1
+SKU01476,Pink Shirt,Topwear,Shirt,FabAlley,Pink,Premium,1080.0,530.0,50.93,Summer,1
+SKU01477,Black Hoodie,Topwear,Hoodie,FabAlley,Black,Premium,1170.0,480.0,58.97,Festive,1
+SKU01478,Rust Hoodie,Topwear,Hoodie,FabAlley,Rust,Premium,1210.0,430.0,64.46,Monsoon,1
+SKU01479,White Hoodie,Topwear,Hoodie,FabAlley,White,Premium,1080.0,500.0,53.7,Winter,1
+SKU01480,Beige Sweatshirt,Topwear,Sweatshirt,FabAlley,Beige,Premium,1050.0,460.0,56.19,Summer,0
+SKU01481,Yellow Sweatshirt,Topwear,Sweatshirt,FabAlley,Yellow,Premium,1110.0,450.0,59.46,Summer,1
+SKU01482,Brown Sweatshirt,Topwear,Sweatshirt,FabAlley,Brown,Premium,1120.0,450.0,59.82,Monsoon,1
+SKU01483,Grey Polo T-Shirt,Topwear,Polo T-Shirt,FabAlley,Grey,Premium,1280.0,510.0,60.16,Summer,1
+SKU01484,Brown Polo T-Shirt,Topwear,Polo T-Shirt,FabAlley,Brown,Premium,1220.0,510.0,58.2,Monsoon,1
+SKU01485,Pink Polo T-Shirt,Topwear,Polo T-Shirt,FabAlley,Pink,Premium,1260.0,620.0,50.79,Summer,1
+SKU01486,Grey Tank Top,Topwear,Tank Top,FabAlley,Grey,Premium,1280.0,490.0,61.72,Summer,1
+SKU01487,Yellow Tank Top,Topwear,Tank Top,FabAlley,Yellow,Premium,1030.0,400.0,61.17,Winter,1
+SKU01488,White Tank Top,Topwear,Tank Top,FabAlley,White,Premium,1230.0,440.0,64.23,Summer,1
+SKU01489,Grey Blazer,Topwear,Blazer,FabAlley,Grey,Premium,1200.0,530.0,55.83,Festive,1
+SKU01490,Olive Blazer,Topwear,Blazer,FabAlley,Olive,Premium,1140.0,530.0,53.51,Festive,1
+SKU01491,Beige Blazer,Topwear,Blazer,FabAlley,Beige,Premium,1060.0,380.0,64.15,Winter,1
+SKU01492,White Baggy Jeans,Bottomwear,Baggy Jeans,FabAlley,White,Premium,1600.0,680.0,57.5,Summer,0
+SKU01493,Brown Baggy Jeans,Bottomwear,Baggy Jeans,FabAlley,Brown,Premium,1580.0,660.0,58.23,Summer,1
+SKU01494,Rust Baggy Jeans,Bottomwear,Baggy Jeans,FabAlley,Rust,Premium,1380.0,650.0,52.9,Winter,1
+SKU01495,Pink Cargo Pants,Bottomwear,Cargo Pants,FabAlley,Pink,Premium,1630.0,740.0,54.6,Summer,1
+SKU01496,Rust Cargo Pants,Bottomwear,Cargo Pants,FabAlley,Rust,Premium,1400.0,610.0,56.43,Summer,1
+SKU01497,Navy Cargo Pants,Bottomwear,Cargo Pants,FabAlley,Navy,Premium,1440.0,520.0,63.89,Summer,1
+SKU01498,Rust Joggers,Bottomwear,Joggers,FabAlley,Rust,Premium,1690.0,630.0,62.72,Festive,1
+SKU01499,Beige Joggers,Bottomwear,Joggers,FabAlley,Beige,Premium,1700.0,710.0,58.24,Monsoon,1
+SKU01500,Black Joggers,Bottomwear,Joggers,FabAlley,Black,Premium,1360.0,590.0,56.62,Winter,0
+SKU01501,Yellow Mini Skirt,Bottomwear,Mini Skirt,FabAlley,Yellow,Premium,1670.0,770.0,53.89,Summer,1
+SKU01502,Beige Mini Skirt,Bottomwear,Mini Skirt,FabAlley,Beige,Premium,1640.0,740.0,54.88,Winter,1
+SKU01503,Brown Mini Skirt,Bottomwear,Mini Skirt,FabAlley,Brown,Premium,1580.0,750.0,52.53,Monsoon,1
+SKU01504,Olive Palazzo,Bottomwear,Palazzo,FabAlley,Olive,Premium,1390.0,590.0,57.55,Festive,1
+SKU01505,Black Palazzo,Bottomwear,Palazzo,FabAlley,Black,Premium,1370.0,680.0,50.36,Winter,1
+SKU01506,Rust Palazzo,Bottomwear,Palazzo,FabAlley,Rust,Premium,1700.0,610.0,64.12,Monsoon,1
+SKU01507,Black Straight Fit Jeans,Bottomwear,Straight Fit Jeans,FabAlley,Black,Premium,1590.0,780.0,50.94,Summer,1
+SKU01508,Rust Straight Fit Jeans,Bottomwear,Straight Fit Jeans,FabAlley,Rust,Premium,1350.0,590.0,56.3,Winter,0
+SKU01509,Navy Straight Fit Jeans,Bottomwear,Straight Fit Jeans,FabAlley,Navy,Premium,1690.0,600.0,64.5,Winter,0
+SKU01510,Pink Shorts,Bottomwear,Shorts,FabAlley,Pink,Premium,1590.0,630.0,60.38,Winter,1
+SKU01511,Rust Shorts,Bottomwear,Shorts,FabAlley,Rust,Premium,1690.0,840.0,50.3,Festive,0
+SKU01512,Beige Shorts,Bottomwear,Shorts,FabAlley,Beige,Premium,1700.0,720.0,57.65,Festive,1
+SKU01513,Pink Kurta Set,Ethnic,Kurta Set,FabAlley,Pink,Premium,2490.0,1190.0,52.21,Monsoon,1
+SKU01514,White Kurta Set,Ethnic,Kurta Set,FabAlley,White,Premium,2130.0,1010.0,52.58,Festive,1
+SKU01515,Grey Kurta Set,Ethnic,Kurta Set,FabAlley,Grey,Premium,1940.0,850.0,56.19,Festive,1
+SKU01516,Navy Co-ord Saree,Ethnic,Co-ord Saree,FabAlley,Navy,Premium,2070.0,760.0,63.29,Monsoon,1
+SKU01517,Yellow Co-ord Saree,Ethnic,Co-ord Saree,FabAlley,Yellow,Premium,1960.0,890.0,54.59,Festive,1
+SKU01518,Pink Co-ord Saree,Ethnic,Co-ord Saree,FabAlley,Pink,Premium,2140.0,980.0,54.21,Festive,1
+SKU01519,Pink Anarkali,Ethnic,Anarkali,FabAlley,Pink,Premium,1960.0,780.0,60.2,Summer,1
+SKU01520,Navy Anarkali,Ethnic,Anarkali,FabAlley,Navy,Premium,2280.0,1070.0,53.07,Winter,1
+SKU01521,Black Anarkali,Ethnic,Anarkali,FabAlley,Black,Premium,2130.0,950.0,55.4,Monsoon,0
+SKU01522,Beige Sharara Set,Ethnic,Sharara Set,FabAlley,Beige,Premium,2510.0,1110.0,55.78,Monsoon,1
+SKU01523,Yellow Sharara Set,Ethnic,Sharara Set,FabAlley,Yellow,Premium,2070.0,730.0,64.73,Festive,1
+SKU01524,Black Sharara Set,Ethnic,Sharara Set,FabAlley,Black,Premium,2500.0,880.0,64.8,Summer,1
+SKU01525,Yellow Dhoti Pants,Ethnic,Dhoti Pants,FabAlley,Yellow,Premium,2500.0,1070.0,57.2,Winter,1
+SKU01526,Rust Dhoti Pants,Ethnic,Dhoti Pants,FabAlley,Rust,Premium,2540.0,1190.0,53.15,Monsoon,1
+SKU01527,Brown Dhoti Pants,Ethnic,Dhoti Pants,FabAlley,Brown,Premium,2580.0,1040.0,59.69,Winter,1
+SKU01528,Navy Nehru Jacket,Ethnic,Nehru Jacket,FabAlley,Navy,Premium,2430.0,1000.0,58.85,Summer,1
+SKU01529,Olive Nehru Jacket,Ethnic,Nehru Jacket,FabAlley,Olive,Premium,2230.0,990.0,55.61,Winter,1
+SKU01530,White Nehru Jacket,Ethnic,Nehru Jacket,FabAlley,White,Premium,2500.0,1240.0,50.4,Summer,1
+SKU01531,Navy Maxi Dress,Dresses,Maxi Dress,FabAlley,Navy,Premium,2110.0,870.0,58.77,Festive,1
+SKU01532,Yellow Maxi Dress,Dresses,Maxi Dress,FabAlley,Yellow,Premium,1900.0,880.0,53.68,Winter,1
+SKU01533,Olive Maxi Dress,Dresses,Maxi Dress,FabAlley,Olive,Premium,1800.0,660.0,63.33,Monsoon,0
+SKU01534,Yellow Bodycon Dress,Dresses,Bodycon Dress,FabAlley,Yellow,Premium,1860.0,730.0,60.75,Summer,1
+SKU01535,Beige Bodycon Dress,Dresses,Bodycon Dress,FabAlley,Beige,Premium,1830.0,700.0,61.75,Festive,1
+SKU01536,Grey Bodycon Dress,Dresses,Bodycon Dress,FabAlley,Grey,Premium,1680.0,590.0,64.88,Summer,1
+SKU01537,Navy Wrap Dress,Dresses,Wrap Dress,FabAlley,Navy,Premium,2230.0,920.0,58.74,Monsoon,1
+SKU01538,Grey Wrap Dress,Dresses,Wrap Dress,FabAlley,Grey,Premium,1880.0,850.0,54.79,Monsoon,1
+SKU01539,Beige Wrap Dress,Dresses,Wrap Dress,FabAlley,Beige,Premium,1780.0,880.0,50.56,Monsoon,1
+SKU01540,Olive Shirt Dress,Dresses,Shirt Dress,FabAlley,Olive,Premium,2120.0,770.0,63.68,Festive,1
+SKU01541,Yellow Shirt Dress,Dresses,Shirt Dress,FabAlley,Yellow,Premium,1900.0,920.0,51.58,Festive,1
+SKU01542,Black Shirt Dress,Dresses,Shirt Dress,FabAlley,Black,Premium,2210.0,930.0,57.92,Monsoon,1
+SKU01543,White Co-ord Set,Dresses,Co-ord Set,FabAlley,White,Premium,2010.0,750.0,62.69,Winter,0
+SKU01544,Grey Co-ord Set,Dresses,Co-ord Set,FabAlley,Grey,Premium,2240.0,860.0,61.61,Winter,1
+SKU01545,Navy Co-ord Set,Dresses,Co-ord Set,FabAlley,Navy,Premium,2210.0,990.0,55.2,Winter,1
+SKU01546,White Chunky Sneakers,Footwear,Chunky Sneakers,FabAlley,White,Premium,2790.0,1190.0,57.35,Summer,1
+SKU01547,Beige Chunky Sneakers,Footwear,Chunky Sneakers,FabAlley,Beige,Premium,2480.0,930.0,62.5,Festive,1
+SKU01548,Rust Chunky Sneakers,Footwear,Chunky Sneakers,FabAlley,Rust,Premium,2470.0,930.0,62.35,Monsoon,1
+SKU01549,Beige Kolhapuri,Footwear,Kolhapuri,FabAlley,Beige,Premium,2920.0,1180.0,59.59,Summer,1
+SKU01550,Pink Kolhapuri,Footwear,Kolhapuri,FabAlley,Pink,Premium,2340.0,1160.0,50.43,Festive,1
+SKU01551,Black Kolhapuri,Footwear,Kolhapuri,FabAlley,Black,Premium,3010.0,1470.0,51.16,Festive,0
+SKU01552,Olive Block Heels,Footwear,Block Heels,FabAlley,Olive,Premium,3100.0,1170.0,62.26,Summer,1
+SKU01553,Rust Block Heels,Footwear,Block Heels,FabAlley,Rust,Premium,2610.0,1210.0,53.64,Festive,1
+SKU01554,Navy Block Heels,Footwear,Block Heels,FabAlley,Navy,Premium,2860.0,1070.0,62.59,Festive,1
+SKU01555,White Loafers,Footwear,Loafers,FabAlley,White,Premium,2950.0,1130.0,61.69,Monsoon,1
+SKU01556,Brown Loafers,Footwear,Loafers,FabAlley,Brown,Premium,2470.0,1060.0,57.09,Festive,1
+SKU01557,Beige Loafers,Footwear,Loafers,FabAlley,Beige,Premium,2770.0,1210.0,56.32,Summer,1
+SKU01558,Black Sneakers,Footwear,Sneakers,FabAlley,Black,Premium,2370.0,1140.0,51.9,Festive,1
+SKU01559,White Sneakers,Footwear,Sneakers,FabAlley,White,Premium,2510.0,930.0,62.95,Winter,1
+SKU01560,Grey Sneakers,Footwear,Sneakers,FabAlley,Grey,Premium,3010.0,1480.0,50.83,Summer,1
+SKU01561,Brown Sandals,Footwear,Sandals,FabAlley,Brown,Premium,2990.0,1410.0,52.84,Winter,1
+SKU01562,Navy Sandals,Footwear,Sandals,FabAlley,Navy,Premium,2820.0,1220.0,56.74,Winter,1
+SKU01563,Grey Sandals,Footwear,Sandals,FabAlley,Grey,Premium,2360.0,970.0,58.9,Summer,1
+SKU01564,Beige Sling Bag,Accessories,Sling Bag,FabAlley,Beige,Premium,860.0,330.0,61.63,Winter,1
+SKU01565,Yellow Sling Bag,Accessories,Sling Bag,FabAlley,Yellow,Premium,960.0,410.0,57.29,Festive,1
+SKU01566,Pink Sling Bag,Accessories,Sling Bag,FabAlley,Pink,Premium,790.0,300.0,62.03,Festive,0
+SKU01567,Rust Tote Bag,Accessories,Tote Bag,FabAlley,Rust,Premium,950.0,340.0,64.21,Monsoon,1
+SKU01568,Grey Tote Bag,Accessories,Tote Bag,FabAlley,Grey,Premium,990.0,420.0,57.58,Summer,1
+SKU01569,Pink Tote Bag,Accessories,Tote Bag,FabAlley,Pink,Premium,890.0,390.0,56.18,Winter,1
+SKU01570,Yellow Bucket Hat,Accessories,Bucket Hat,FabAlley,Yellow,Premium,990.0,400.0,59.6,Summer,1
+SKU01571,Olive Bucket Hat,Accessories,Bucket Hat,FabAlley,Olive,Premium,950.0,410.0,56.84,Winter,0
+SKU01572,Beige Bucket Hat,Accessories,Bucket Hat,FabAlley,Beige,Premium,840.0,400.0,52.38,Winter,1
+SKU01573,Beige Caps,Accessories,Caps,FabAlley,Beige,Premium,980.0,440.0,55.1,Monsoon,1
+SKU01574,Rust Caps,Accessories,Caps,FabAlley,Rust,Premium,990.0,480.0,51.52,Winter,0
+SKU01575,Brown Caps,Accessories,Caps,FabAlley,Brown,Premium,950.0,450.0,52.63,Winter,1
+SKU01576,Navy Sunglasses,Accessories,Sunglasses,FabAlley,Navy,Premium,950.0,430.0,54.74,Summer,0
+SKU01577,Yellow Sunglasses,Accessories,Sunglasses,FabAlley,Yellow,Premium,930.0,430.0,53.76,Winter,0
+SKU01578,Black Sunglasses,Accessories,Sunglasses,FabAlley,Black,Premium,810.0,390.0,51.85,Monsoon,1
+SKU01579,Black Belts,Accessories,Belts,FabAlley,Black,Premium,1000.0,350.0,65.0,Winter,1
+SKU01580,Grey Belts,Accessories,Belts,FabAlley,Grey,Premium,990.0,370.0,62.63,Winter,1
+SKU01581,Navy Belts,Accessories,Belts,FabAlley,Navy,Premium,850.0,390.0,54.12,Summer,1
+SKU01582,Pink Scarves,Accessories,Scarves,FabAlley,Pink,Premium,810.0,380.0,53.09,Festive,1
+SKU01583,Beige Scarves,Accessories,Scarves,FabAlley,Beige,Premium,990.0,420.0,57.58,Festive,1
+SKU01584,Navy Scarves,Accessories,Scarves,FabAlley,Navy,Premium,770.0,300.0,61.04,Summer,1
+SKU01585,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Libas,Olive,Ethnic,1080.0,540.0,50.0,Summer,1
+SKU01586,Rust Oversized T-Shirt,Topwear,Oversized T-Shirt,Libas,Rust,Ethnic,1080.0,420.0,61.11,Winter,1
+SKU01587,Navy Oversized T-Shirt,Topwear,Oversized T-Shirt,Libas,Navy,Ethnic,1080.0,470.0,56.48,Festive,1
+SKU01588,Grey Crop Top,Topwear,Crop Top,Libas,Grey,Ethnic,1130.0,410.0,63.72,Summer,1
+SKU01589,White Crop Top,Topwear,Crop Top,Libas,White,Ethnic,1120.0,480.0,57.14,Festive,1
+SKU01590,Beige Crop Top,Topwear,Crop Top,Libas,Beige,Ethnic,1180.0,470.0,60.17,Festive,1
+SKU01591,Olive Shirt,Topwear,Shirt,Libas,Olive,Ethnic,1080.0,530.0,50.93,Summer,1
+SKU01592,Brown Shirt,Topwear,Shirt,Libas,Brown,Ethnic,910.0,450.0,50.55,Monsoon,1
+SKU01593,Pink Shirt,Topwear,Shirt,Libas,Pink,Ethnic,1100.0,400.0,63.64,Winter,1
+SKU01594,Beige Hoodie,Topwear,Hoodie,Libas,Beige,Ethnic,980.0,450.0,54.08,Festive,0
+SKU01595,Brown Hoodie,Topwear,Hoodie,Libas,Brown,Ethnic,900.0,390.0,56.67,Festive,1
+SKU01596,Grey Hoodie,Topwear,Hoodie,Libas,Grey,Ethnic,990.0,440.0,55.56,Festive,1
+SKU01597,Brown Sweatshirt,Topwear,Sweatshirt,Libas,Brown,Ethnic,900.0,430.0,52.22,Festive,1
+SKU01598,Grey Sweatshirt,Topwear,Sweatshirt,Libas,Grey,Ethnic,1190.0,590.0,50.42,Summer,1
+SKU01599,Yellow Sweatshirt,Topwear,Sweatshirt,Libas,Yellow,Ethnic,1120.0,410.0,63.39,Summer,0
+SKU01600,Grey Polo T-Shirt,Topwear,Polo T-Shirt,Libas,Grey,Ethnic,1120.0,400.0,64.29,Winter,1
+SKU01601,Navy Polo T-Shirt,Topwear,Polo T-Shirt,Libas,Navy,Ethnic,890.0,350.0,60.67,Monsoon,1
+SKU01602,Black Polo T-Shirt,Topwear,Polo T-Shirt,Libas,Black,Ethnic,1040.0,480.0,53.85,Winter,1
+SKU01603,Grey Tank Top,Topwear,Tank Top,Libas,Grey,Ethnic,1100.0,460.0,58.18,Monsoon,1
+SKU01604,Pink Tank Top,Topwear,Tank Top,Libas,Pink,Ethnic,970.0,480.0,50.52,Summer,1
+SKU01605,Beige Tank Top,Topwear,Tank Top,Libas,Beige,Ethnic,1020.0,430.0,57.84,Winter,1
+SKU01606,Beige Blazer,Topwear,Blazer,Libas,Beige,Ethnic,930.0,440.0,52.69,Winter,1
+SKU01607,Pink Blazer,Topwear,Blazer,Libas,Pink,Ethnic,1100.0,420.0,61.82,Winter,0
+SKU01608,Olive Blazer,Topwear,Blazer,Libas,Olive,Ethnic,910.0,410.0,54.95,Summer,1
+SKU01609,Brown Baggy Jeans,Bottomwear,Baggy Jeans,Libas,Brown,Ethnic,1360.0,530.0,61.03,Winter,1
+SKU01610,Olive Baggy Jeans,Bottomwear,Baggy Jeans,Libas,Olive,Ethnic,1470.0,550.0,62.59,Festive,0
+SKU01611,Rust Baggy Jeans,Bottomwear,Baggy Jeans,Libas,Rust,Ethnic,1270.0,620.0,51.18,Winter,0
+SKU01612,Rust Cargo Pants,Bottomwear,Cargo Pants,Libas,Rust,Ethnic,1270.0,570.0,55.12,Festive,1
+SKU01613,Brown Cargo Pants,Bottomwear,Cargo Pants,Libas,Brown,Ethnic,1260.0,490.0,61.11,Monsoon,0
+SKU01614,Grey Cargo Pants,Bottomwear,Cargo Pants,Libas,Grey,Ethnic,1490.0,610.0,59.06,Festive,1
+SKU01615,Olive Joggers,Bottomwear,Joggers,Libas,Olive,Ethnic,1450.0,560.0,61.38,Monsoon,1
+SKU01616,Navy Joggers,Bottomwear,Joggers,Libas,Navy,Ethnic,1190.0,420.0,64.71,Winter,1
+SKU01617,Brown Joggers,Bottomwear,Joggers,Libas,Brown,Ethnic,1360.0,550.0,59.56,Festive,1
+SKU01618,Navy Mini Skirt,Bottomwear,Mini Skirt,Libas,Navy,Ethnic,1440.0,610.0,57.64,Winter,0
+SKU01619,Grey Mini Skirt,Bottomwear,Mini Skirt,Libas,Grey,Ethnic,1480.0,560.0,62.16,Winter,1
+SKU01620,White Mini Skirt,Bottomwear,Mini Skirt,Libas,White,Ethnic,1440.0,670.0,53.47,Monsoon,1
+SKU01621,Navy Palazzo,Bottomwear,Palazzo,Libas,Navy,Ethnic,1400.0,670.0,52.14,Winter,1
+SKU01622,White Palazzo,Bottomwear,Palazzo,Libas,White,Ethnic,1400.0,620.0,55.71,Winter,1
+SKU01623,Rust Palazzo,Bottomwear,Palazzo,Libas,Rust,Ethnic,1160.0,410.0,64.66,Festive,0
+SKU01624,Navy Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Libas,Navy,Ethnic,1460.0,650.0,55.48,Monsoon,1
+SKU01625,Beige Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Libas,Beige,Ethnic,1410.0,600.0,57.45,Monsoon,1
+SKU01626,White Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Libas,White,Ethnic,1150.0,420.0,63.48,Summer,1
+SKU01627,Rust Shorts,Bottomwear,Shorts,Libas,Rust,Ethnic,1370.0,570.0,58.39,Monsoon,1
+SKU01628,Yellow Shorts,Bottomwear,Shorts,Libas,Yellow,Ethnic,1180.0,500.0,57.63,Monsoon,1
+SKU01629,White Shorts,Bottomwear,Shorts,Libas,White,Ethnic,1130.0,490.0,56.64,Winter,1
+SKU01630,Olive Kurta Set,Ethnic,Kurta Set,Libas,Olive,Ethnic,1810.0,850.0,53.04,Festive,1
+SKU01631,Navy Kurta Set,Ethnic,Kurta Set,Libas,Navy,Ethnic,1840.0,770.0,58.15,Summer,1
+SKU01632,Rust Kurta Set,Ethnic,Kurta Set,Libas,Rust,Ethnic,1660.0,600.0,63.86,Monsoon,1
+SKU01633,Black Co-ord Saree,Ethnic,Co-ord Saree,Libas,Black,Ethnic,1890.0,800.0,57.67,Monsoon,0
+SKU01634,Beige Co-ord Saree,Ethnic,Co-ord Saree,Libas,Beige,Ethnic,2010.0,790.0,60.7,Summer,0
+SKU01635,Pink Co-ord Saree,Ethnic,Co-ord Saree,Libas,Pink,Ethnic,2060.0,990.0,51.94,Winter,1
+SKU01636,Beige Anarkali,Ethnic,Anarkali,Libas,Beige,Ethnic,2110.0,750.0,64.45,Summer,1
+SKU01637,Navy Anarkali,Ethnic,Anarkali,Libas,Navy,Ethnic,1940.0,710.0,63.4,Summer,0
+SKU01638,Black Anarkali,Ethnic,Anarkali,Libas,Black,Ethnic,1800.0,900.0,50.0,Festive,1
+SKU01639,Brown Sharara Set,Ethnic,Sharara Set,Libas,Brown,Ethnic,1740.0,740.0,57.47,Monsoon,0
+SKU01640,Grey Sharara Set,Ethnic,Sharara Set,Libas,Grey,Ethnic,2020.0,920.0,54.46,Winter,1
+SKU01641,Yellow Sharara Set,Ethnic,Sharara Set,Libas,Yellow,Ethnic,1980.0,700.0,64.65,Summer,1
+SKU01642,Yellow Dhoti Pants,Ethnic,Dhoti Pants,Libas,Yellow,Ethnic,1850.0,790.0,57.3,Summer,1
+SKU01643,Navy Dhoti Pants,Ethnic,Dhoti Pants,Libas,Navy,Ethnic,1710.0,690.0,59.65,Festive,1
+SKU01644,Beige Dhoti Pants,Ethnic,Dhoti Pants,Libas,Beige,Ethnic,1680.0,610.0,63.69,Monsoon,1
+SKU01645,Pink Nehru Jacket,Ethnic,Nehru Jacket,Libas,Pink,Ethnic,1890.0,700.0,62.96,Summer,1
+SKU01646,Grey Nehru Jacket,Ethnic,Nehru Jacket,Libas,Grey,Ethnic,1990.0,900.0,54.77,Summer,1
+SKU01647,Rust Nehru Jacket,Ethnic,Nehru Jacket,Libas,Rust,Ethnic,2120.0,810.0,61.79,Monsoon,1
+SKU01648,Olive Maxi Dress,Dresses,Maxi Dress,Libas,Olive,Ethnic,1520.0,560.0,63.16,Winter,1
+SKU01649,Black Maxi Dress,Dresses,Maxi Dress,Libas,Black,Ethnic,1760.0,800.0,54.55,Festive,0
+SKU01650,Navy Maxi Dress,Dresses,Maxi Dress,Libas,Navy,Ethnic,1450.0,710.0,51.03,Festive,1
+SKU01651,Grey Bodycon Dress,Dresses,Bodycon Dress,Libas,Grey,Ethnic,1460.0,630.0,56.85,Festive,1
+SKU01652,Black Bodycon Dress,Dresses,Bodycon Dress,Libas,Black,Ethnic,1790.0,860.0,51.96,Summer,1
+SKU01653,Navy Bodycon Dress,Dresses,Bodycon Dress,Libas,Navy,Ethnic,1800.0,850.0,52.78,Winter,1
+SKU01654,Pink Wrap Dress,Dresses,Wrap Dress,Libas,Pink,Ethnic,1610.0,760.0,52.8,Summer,1
+SKU01655,Brown Wrap Dress,Dresses,Wrap Dress,Libas,Brown,Ethnic,1480.0,720.0,51.35,Festive,1
+SKU01656,Navy Wrap Dress,Dresses,Wrap Dress,Libas,Navy,Ethnic,1710.0,810.0,52.63,Monsoon,1
+SKU01657,Beige Shirt Dress,Dresses,Shirt Dress,Libas,Beige,Ethnic,1660.0,740.0,55.42,Winter,1
+SKU01658,Yellow Shirt Dress,Dresses,Shirt Dress,Libas,Yellow,Ethnic,1700.0,780.0,54.12,Festive,1
+SKU01659,Grey Shirt Dress,Dresses,Shirt Dress,Libas,Grey,Ethnic,1480.0,530.0,64.19,Winter,1
+SKU01660,Olive Co-ord Set,Dresses,Co-ord Set,Libas,Olive,Ethnic,1560.0,580.0,62.82,Winter,1
+SKU01661,Grey Co-ord Set,Dresses,Co-ord Set,Libas,Grey,Ethnic,1880.0,720.0,61.7,Festive,1
+SKU01662,White Co-ord Set,Dresses,Co-ord Set,Libas,White,Ethnic,1930.0,770.0,60.1,Summer,1
+SKU01663,Brown Chunky Sneakers,Footwear,Chunky Sneakers,Libas,Brown,Ethnic,2120.0,990.0,53.3,Monsoon,1
+SKU01664,Grey Chunky Sneakers,Footwear,Chunky Sneakers,Libas,Grey,Ethnic,2450.0,1040.0,57.55,Winter,1
+SKU01665,Olive Chunky Sneakers,Footwear,Chunky Sneakers,Libas,Olive,Ethnic,2380.0,1090.0,54.2,Monsoon,1
+SKU01666,Yellow Kolhapuri,Footwear,Kolhapuri,Libas,Yellow,Ethnic,2150.0,1070.0,50.23,Summer,1
+SKU01667,White Kolhapuri,Footwear,Kolhapuri,Libas,White,Ethnic,2670.0,1190.0,55.43,Winter,1
+SKU01668,Grey Kolhapuri,Footwear,Kolhapuri,Libas,Grey,Ethnic,2130.0,960.0,54.93,Summer,1
+SKU01669,Navy Block Heels,Footwear,Block Heels,Libas,Navy,Ethnic,2040.0,720.0,64.71,Festive,1
+SKU01670,Black Block Heels,Footwear,Block Heels,Libas,Black,Ethnic,2170.0,910.0,58.06,Monsoon,1
+SKU01671,Pink Block Heels,Footwear,Block Heels,Libas,Pink,Ethnic,2600.0,1190.0,54.23,Summer,1
+SKU01672,White Loafers,Footwear,Loafers,Libas,White,Ethnic,2510.0,1040.0,58.57,Summer,0
+SKU01673,Brown Loafers,Footwear,Loafers,Libas,Brown,Ethnic,2230.0,900.0,59.64,Winter,1
+SKU01674,Black Loafers,Footwear,Loafers,Libas,Black,Ethnic,2680.0,950.0,64.55,Winter,1
+SKU01675,Beige Sneakers,Footwear,Sneakers,Libas,Beige,Ethnic,2600.0,1140.0,56.15,Winter,1
+SKU01676,Pink Sneakers,Footwear,Sneakers,Libas,Pink,Ethnic,2300.0,1060.0,53.91,Winter,1
+SKU01677,Rust Sneakers,Footwear,Sneakers,Libas,Rust,Ethnic,2330.0,1120.0,51.93,Monsoon,1
+SKU01678,Rust Sandals,Footwear,Sandals,Libas,Rust,Ethnic,2620.0,1080.0,58.78,Winter,1
+SKU01679,White Sandals,Footwear,Sandals,Libas,White,Ethnic,2180.0,960.0,55.96,Monsoon,1
+SKU01680,Beige Sandals,Footwear,Sandals,Libas,Beige,Ethnic,2630.0,1000.0,61.98,Summer,0
+SKU01681,Yellow Sling Bag,Accessories,Sling Bag,Libas,Yellow,Ethnic,810.0,360.0,55.56,Winter,1
+SKU01682,Brown Sling Bag,Accessories,Sling Bag,Libas,Brown,Ethnic,830.0,310.0,62.65,Monsoon,1
+SKU01683,Pink Sling Bag,Accessories,Sling Bag,Libas,Pink,Ethnic,830.0,400.0,51.81,Monsoon,1
+SKU01684,White Tote Bag,Accessories,Tote Bag,Libas,White,Ethnic,700.0,270.0,61.43,Summer,1
+SKU01685,Black Tote Bag,Accessories,Tote Bag,Libas,Black,Ethnic,890.0,340.0,61.8,Summer,1
+SKU01686,Pink Tote Bag,Accessories,Tote Bag,Libas,Pink,Ethnic,860.0,360.0,58.14,Summer,1
+SKU01687,Black Bucket Hat,Accessories,Bucket Hat,Libas,Black,Ethnic,720.0,350.0,51.39,Winter,1
+SKU01688,Olive Bucket Hat,Accessories,Bucket Hat,Libas,Olive,Ethnic,770.0,330.0,57.14,Monsoon,1
+SKU01689,Grey Bucket Hat,Accessories,Bucket Hat,Libas,Grey,Ethnic,750.0,330.0,56.0,Summer,1
+SKU01690,Navy Caps,Accessories,Caps,Libas,Navy,Ethnic,700.0,290.0,58.57,Festive,1
+SKU01691,Olive Caps,Accessories,Caps,Libas,Olive,Ethnic,890.0,350.0,60.67,Monsoon,0
+SKU01692,Rust Caps,Accessories,Caps,Libas,Rust,Ethnic,820.0,330.0,59.76,Monsoon,1
+SKU01693,Navy Sunglasses,Accessories,Sunglasses,Libas,Navy,Ethnic,840.0,310.0,63.1,Winter,1
+SKU01694,Black Sunglasses,Accessories,Sunglasses,Libas,Black,Ethnic,890.0,370.0,58.43,Summer,0
+SKU01695,Beige Sunglasses,Accessories,Sunglasses,Libas,Beige,Ethnic,720.0,260.0,63.89,Winter,1
+SKU01696,Rust Belts,Accessories,Belts,Libas,Rust,Ethnic,700.0,300.0,57.14,Monsoon,1
+SKU01697,Pink Belts,Accessories,Belts,Libas,Pink,Ethnic,740.0,350.0,52.7,Monsoon,1
+SKU01698,Brown Belts,Accessories,Belts,Libas,Brown,Ethnic,760.0,290.0,61.84,Winter,1
+SKU01699,Olive Scarves,Accessories,Scarves,Libas,Olive,Ethnic,810.0,370.0,54.32,Winter,0
+SKU01700,Navy Scarves,Accessories,Scarves,Libas,Navy,Ethnic,700.0,260.0,62.86,Winter,0
+SKU01701,Beige Scarves,Accessories,Scarves,Libas,Beige,Ethnic,670.0,310.0,53.73,Monsoon,1
+SKU01702,Navy Oversized T-Shirt,Topwear,Oversized T-Shirt,Zudio,Navy,Budget,590.0,250.0,57.63,Summer,0
+SKU01703,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Zudio,Olive,Budget,620.0,290.0,53.23,Festive,1
+SKU01704,Rust Oversized T-Shirt,Topwear,Oversized T-Shirt,Zudio,Rust,Budget,570.0,270.0,52.63,Monsoon,1
+SKU01705,Pink Crop Top,Topwear,Crop Top,Zudio,Pink,Budget,510.0,190.0,62.75,Monsoon,1
+SKU01706,Black Crop Top,Topwear,Crop Top,Zudio,Black,Budget,520.0,190.0,63.46,Monsoon,1
+SKU01707,White Crop Top,Topwear,Crop Top,Zudio,White,Budget,560.0,270.0,51.79,Festive,1
+SKU01708,Black Shirt,Topwear,Shirt,Zudio,Black,Budget,480.0,180.0,62.5,Summer,1
+SKU01709,Olive Shirt,Topwear,Shirt,Zudio,Olive,Budget,550.0,270.0,50.91,Winter,0
+SKU01710,Brown Shirt,Topwear,Shirt,Zudio,Brown,Budget,530.0,230.0,56.6,Monsoon,1
+SKU01711,Olive Hoodie,Topwear,Hoodie,Zudio,Olive,Budget,480.0,180.0,62.5,Festive,1
+SKU01712,Brown Hoodie,Topwear,Hoodie,Zudio,Brown,Budget,640.0,320.0,50.0,Festive,1
+SKU01713,Rust Hoodie,Topwear,Hoodie,Zudio,Rust,Budget,480.0,240.0,50.0,Festive,1
+SKU01714,Yellow Sweatshirt,Topwear,Sweatshirt,Zudio,Yellow,Budget,580.0,280.0,51.72,Winter,1
+SKU01715,Grey Sweatshirt,Topwear,Sweatshirt,Zudio,Grey,Budget,550.0,240.0,56.36,Festive,0
+SKU01716,White Sweatshirt,Topwear,Sweatshirt,Zudio,White,Budget,560.0,250.0,55.36,Festive,1
+SKU01717,Black Polo T-Shirt,Topwear,Polo T-Shirt,Zudio,Black,Budget,500.0,180.0,64.0,Summer,1
+SKU01718,Olive Polo T-Shirt,Topwear,Polo T-Shirt,Zudio,Olive,Budget,530.0,240.0,54.72,Winter,1
+SKU01719,Beige Polo T-Shirt,Topwear,Polo T-Shirt,Zudio,Beige,Budget,510.0,230.0,54.9,Monsoon,1
+SKU01720,Pink Tank Top,Topwear,Tank Top,Zudio,Pink,Budget,640.0,230.0,64.06,Festive,1
+SKU01721,Olive Tank Top,Topwear,Tank Top,Zudio,Olive,Budget,590.0,250.0,57.63,Winter,0
+SKU01722,Yellow Tank Top,Topwear,Tank Top,Zudio,Yellow,Budget,620.0,230.0,62.9,Winter,1
+SKU01723,Rust Blazer,Topwear,Blazer,Zudio,Rust,Budget,590.0,280.0,52.54,Winter,1
+SKU01724,Beige Blazer,Topwear,Blazer,Zudio,Beige,Budget,630.0,290.0,53.97,Summer,1
+SKU01725,Brown Blazer,Topwear,Blazer,Zudio,Brown,Budget,560.0,250.0,55.36,Summer,0
+SKU01726,Black Baggy Jeans,Bottomwear,Baggy Jeans,Zudio,Black,Budget,780.0,340.0,56.41,Monsoon,1
+SKU01727,Grey Baggy Jeans,Bottomwear,Baggy Jeans,Zudio,Grey,Budget,600.0,290.0,51.67,Monsoon,1
+SKU01728,Pink Baggy Jeans,Bottomwear,Baggy Jeans,Zudio,Pink,Budget,740.0,330.0,55.41,Monsoon,1
+SKU01729,Brown Cargo Pants,Bottomwear,Cargo Pants,Zudio,Brown,Budget,640.0,290.0,54.69,Summer,1
+SKU01730,Yellow Cargo Pants,Bottomwear,Cargo Pants,Zudio,Yellow,Budget,680.0,300.0,55.88,Winter,1
+SKU01731,Rust Cargo Pants,Bottomwear,Cargo Pants,Zudio,Rust,Budget,620.0,280.0,54.84,Summer,1
+SKU01732,Brown Joggers,Bottomwear,Joggers,Zudio,Brown,Budget,800.0,290.0,63.75,Summer,1
+SKU01733,Pink Joggers,Bottomwear,Joggers,Zudio,Pink,Budget,800.0,330.0,58.75,Festive,1
+SKU01734,Black Joggers,Bottomwear,Joggers,Zudio,Black,Budget,780.0,360.0,53.85,Festive,1
+SKU01735,Pink Mini Skirt,Bottomwear,Mini Skirt,Zudio,Pink,Budget,710.0,330.0,53.52,Summer,1
+SKU01736,Beige Mini Skirt,Bottomwear,Mini Skirt,Zudio,Beige,Budget,780.0,320.0,58.97,Monsoon,1
+SKU01737,White Mini Skirt,Bottomwear,Mini Skirt,Zudio,White,Budget,660.0,300.0,54.55,Festive,1
+SKU01738,Navy Palazzo,Bottomwear,Palazzo,Zudio,Navy,Budget,760.0,350.0,53.95,Festive,0
+SKU01739,Pink Palazzo,Bottomwear,Palazzo,Zudio,Pink,Budget,760.0,320.0,57.89,Winter,1
+SKU01740,White Palazzo,Bottomwear,Palazzo,Zudio,White,Budget,770.0,280.0,63.64,Monsoon,1
+SKU01741,White Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Zudio,White,Budget,710.0,250.0,64.79,Winter,1
+SKU01742,Black Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Zudio,Black,Budget,660.0,270.0,59.09,Winter,1
+SKU01743,Grey Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Zudio,Grey,Budget,680.0,310.0,54.41,Summer,1
+SKU01744,White Shorts,Bottomwear,Shorts,Zudio,White,Budget,680.0,280.0,58.82,Festive,1
+SKU01745,Yellow Shorts,Bottomwear,Shorts,Zudio,Yellow,Budget,640.0,260.0,59.38,Summer,0
+SKU01746,Pink Shorts,Bottomwear,Shorts,Zudio,Pink,Budget,640.0,230.0,64.06,Summer,1
+SKU01747,Grey Kurta Set,Ethnic,Kurta Set,Zudio,Grey,Budget,1080.0,490.0,54.63,Summer,0
+SKU01748,Yellow Kurta Set,Ethnic,Kurta Set,Zudio,Yellow,Budget,1090.0,460.0,57.8,Festive,0
+SKU01749,Navy Kurta Set,Ethnic,Kurta Set,Zudio,Navy,Budget,1010.0,480.0,52.48,Summer,1
+SKU01750,Rust Co-ord Saree,Ethnic,Co-ord Saree,Zudio,Rust,Budget,1060.0,450.0,57.55,Monsoon,1
+SKU01751,Black Co-ord Saree,Ethnic,Co-ord Saree,Zudio,Black,Budget,900.0,360.0,60.0,Winter,0
+SKU01752,Olive Co-ord Saree,Ethnic,Co-ord Saree,Zudio,Olive,Budget,1010.0,410.0,59.41,Festive,1
+SKU01753,Olive Anarkali,Ethnic,Anarkali,Zudio,Olive,Budget,1070.0,460.0,57.01,Winter,1
+SKU01754,Pink Anarkali,Ethnic,Anarkali,Zudio,Pink,Budget,1080.0,500.0,53.7,Monsoon,1
+SKU01755,Rust Anarkali,Ethnic,Anarkali,Zudio,Rust,Budget,1150.0,530.0,53.91,Summer,1
+SKU01756,Rust Sharara Set,Ethnic,Sharara Set,Zudio,Rust,Budget,1190.0,420.0,64.71,Winter,1
+SKU01757,Black Sharara Set,Ethnic,Sharara Set,Zudio,Black,Budget,950.0,330.0,65.26,Summer,1
+SKU01758,White Sharara Set,Ethnic,Sharara Set,Zudio,White,Budget,1100.0,530.0,51.82,Winter,0
+SKU01759,Rust Dhoti Pants,Ethnic,Dhoti Pants,Zudio,Rust,Budget,970.0,470.0,51.55,Winter,1
+SKU01760,Black Dhoti Pants,Ethnic,Dhoti Pants,Zudio,Black,Budget,910.0,450.0,50.55,Festive,1
+SKU01761,Navy Dhoti Pants,Ethnic,Dhoti Pants,Zudio,Navy,Budget,1000.0,370.0,63.0,Winter,1
+SKU01762,Grey Nehru Jacket,Ethnic,Nehru Jacket,Zudio,Grey,Budget,1040.0,400.0,61.54,Festive,1
+SKU01763,Pink Nehru Jacket,Ethnic,Nehru Jacket,Zudio,Pink,Budget,980.0,390.0,60.2,Summer,1
+SKU01764,White Nehru Jacket,Ethnic,Nehru Jacket,Zudio,White,Budget,1140.0,490.0,57.02,Monsoon,1
+SKU01765,Beige Maxi Dress,Dresses,Maxi Dress,Zudio,Beige,Budget,860.0,380.0,55.81,Festive,1
+SKU01766,Pink Maxi Dress,Dresses,Maxi Dress,Zudio,Pink,Budget,970.0,380.0,60.82,Summer,0
+SKU01767,Rust Maxi Dress,Dresses,Maxi Dress,Zudio,Rust,Budget,890.0,330.0,62.92,Winter,1
+SKU01768,Navy Bodycon Dress,Dresses,Bodycon Dress,Zudio,Navy,Budget,820.0,370.0,54.88,Summer,1
+SKU01769,White Bodycon Dress,Dresses,Bodycon Dress,Zudio,White,Budget,820.0,350.0,57.32,Winter,1
+SKU01770,Beige Bodycon Dress,Dresses,Bodycon Dress,Zudio,Beige,Budget,970.0,360.0,62.89,Winter,1
+SKU01771,White Wrap Dress,Dresses,Wrap Dress,Zudio,White,Budget,930.0,360.0,61.29,Festive,0
+SKU01772,Rust Wrap Dress,Dresses,Wrap Dress,Zudio,Rust,Budget,1040.0,440.0,57.69,Summer,1
+SKU01773,Grey Wrap Dress,Dresses,Wrap Dress,Zudio,Grey,Budget,990.0,430.0,56.57,Winter,1
+SKU01774,Brown Shirt Dress,Dresses,Shirt Dress,Zudio,Brown,Budget,780.0,350.0,55.13,Winter,1
+SKU01775,Olive Shirt Dress,Dresses,Shirt Dress,Zudio,Olive,Budget,1030.0,450.0,56.31,Festive,1
+SKU01776,Beige Shirt Dress,Dresses,Shirt Dress,Zudio,Beige,Budget,1000.0,480.0,52.0,Winter,1
+SKU01777,Beige Co-ord Set,Dresses,Co-ord Set,Zudio,Beige,Budget,840.0,320.0,61.9,Winter,1
+SKU01778,Pink Co-ord Set,Dresses,Co-ord Set,Zudio,Pink,Budget,940.0,390.0,58.51,Summer,1
+SKU01779,Navy Co-ord Set,Dresses,Co-ord Set,Zudio,Navy,Budget,1000.0,490.0,51.0,Monsoon,1
+SKU01780,Yellow Chunky Sneakers,Footwear,Chunky Sneakers,Zudio,Yellow,Budget,1200.0,460.0,61.67,Summer,1
+SKU01781,Olive Chunky Sneakers,Footwear,Chunky Sneakers,Zudio,Olive,Budget,1370.0,540.0,60.58,Summer,0
+SKU01782,Grey Chunky Sneakers,Footwear,Chunky Sneakers,Zudio,Grey,Budget,1380.0,570.0,58.7,Festive,1
+SKU01783,Pink Kolhapuri,Footwear,Kolhapuri,Zudio,Pink,Budget,1320.0,480.0,63.64,Festive,1
+SKU01784,Rust Kolhapuri,Footwear,Kolhapuri,Zudio,Rust,Budget,1310.0,550.0,58.02,Monsoon,1
+SKU01785,Yellow Kolhapuri,Footwear,Kolhapuri,Zudio,Yellow,Budget,1290.0,480.0,62.79,Monsoon,1
+SKU01786,Beige Block Heels,Footwear,Block Heels,Zudio,Beige,Budget,1350.0,650.0,51.85,Festive,1
+SKU01787,Pink Block Heels,Footwear,Block Heels,Zudio,Pink,Budget,1150.0,420.0,63.48,Winter,0
+SKU01788,Rust Block Heels,Footwear,Block Heels,Zudio,Rust,Budget,1080.0,480.0,55.56,Monsoon,1
+SKU01789,Navy Loafers,Footwear,Loafers,Zudio,Navy,Budget,1300.0,560.0,56.92,Summer,0
+SKU01790,Pink Loafers,Footwear,Loafers,Zudio,Pink,Budget,1160.0,470.0,59.48,Monsoon,1
+SKU01791,Rust Loafers,Footwear,Loafers,Zudio,Rust,Budget,1290.0,550.0,57.36,Monsoon,1
+SKU01792,Brown Sneakers,Footwear,Sneakers,Zudio,Brown,Budget,1440.0,530.0,63.19,Monsoon,1
+SKU01793,Black Sneakers,Footwear,Sneakers,Zudio,Black,Budget,1330.0,550.0,58.65,Festive,1
+SKU01794,Yellow Sneakers,Footwear,Sneakers,Zudio,Yellow,Budget,1230.0,560.0,54.47,Summer,1
+SKU01795,Pink Sandals,Footwear,Sandals,Zudio,Pink,Budget,1330.0,660.0,50.38,Festive,1
+SKU01796,Yellow Sandals,Footwear,Sandals,Zudio,Yellow,Budget,1120.0,410.0,63.39,Monsoon,1
+SKU01797,Beige Sandals,Footwear,Sandals,Zudio,Beige,Budget,1340.0,590.0,55.97,Winter,1
+SKU01798,Grey Sling Bag,Accessories,Sling Bag,Zudio,Grey,Budget,390.0,140.0,64.1,Winter,1
+SKU01799,Yellow Sling Bag,Accessories,Sling Bag,Zudio,Yellow,Budget,370.0,180.0,51.35,Festive,1
+SKU01800,Pink Sling Bag,Accessories,Sling Bag,Zudio,Pink,Budget,380.0,150.0,60.53,Summer,1
+SKU01801,Olive Tote Bag,Accessories,Tote Bag,Zudio,Olive,Budget,380.0,150.0,60.53,Summer,1
+SKU01802,Rust Tote Bag,Accessories,Tote Bag,Zudio,Rust,Budget,370.0,160.0,56.76,Winter,0
+SKU01803,Beige Tote Bag,Accessories,Tote Bag,Zudio,Beige,Budget,360.0,170.0,52.78,Festive,0
+SKU01804,Pink Bucket Hat,Accessories,Bucket Hat,Zudio,Pink,Budget,390.0,170.0,56.41,Summer,1
+SKU01805,White Bucket Hat,Accessories,Bucket Hat,Zudio,White,Budget,470.0,210.0,55.32,Monsoon,1
+SKU01806,Black Bucket Hat,Accessories,Bucket Hat,Zudio,Black,Budget,420.0,170.0,59.52,Winter,1
+SKU01807,Grey Caps,Accessories,Caps,Zudio,Grey,Budget,400.0,180.0,55.0,Festive,0
+SKU01808,Brown Caps,Accessories,Caps,Zudio,Brown,Budget,480.0,220.0,54.17,Winter,1
+SKU01809,Beige Caps,Accessories,Caps,Zudio,Beige,Budget,430.0,200.0,53.49,Winter,0
+SKU01810,White Sunglasses,Accessories,Sunglasses,Zudio,White,Budget,410.0,150.0,63.41,Festive,1
+SKU01811,Grey Sunglasses,Accessories,Sunglasses,Zudio,Grey,Budget,430.0,210.0,51.16,Winter,1
+SKU01812,Beige Sunglasses,Accessories,Sunglasses,Zudio,Beige,Budget,380.0,170.0,55.26,Winter,1
+SKU01813,White Belts,Accessories,Belts,Zudio,White,Budget,380.0,160.0,57.89,Festive,1
+SKU01814,Yellow Belts,Accessories,Belts,Zudio,Yellow,Budget,370.0,150.0,59.46,Summer,1
+SKU01815,Brown Belts,Accessories,Belts,Zudio,Brown,Budget,450.0,180.0,60.0,Summer,1
+SKU01816,Rust Scarves,Accessories,Scarves,Zudio,Rust,Budget,440.0,210.0,52.27,Monsoon,1
+SKU01817,White Scarves,Accessories,Scarves,Zudio,White,Budget,470.0,180.0,61.7,Monsoon,1
+SKU01818,Beige Scarves,Accessories,Scarves,Zudio,Beige,Budget,410.0,150.0,63.41,Winter,0
+SKU01819,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,H&M India,Olive,Premium,1650.0,810.0,50.91,Monsoon,1
+SKU01820,Pink Oversized T-Shirt,Topwear,Oversized T-Shirt,H&M India,Pink,Premium,1460.0,700.0,52.05,Winter,1
+SKU01821,Beige Oversized T-Shirt,Topwear,Oversized T-Shirt,H&M India,Beige,Premium,1450.0,640.0,55.86,Monsoon,1
+SKU01822,Pink Crop Top,Topwear,Crop Top,H&M India,Pink,Premium,1260.0,580.0,53.97,Monsoon,1
+SKU01823,Grey Crop Top,Topwear,Crop Top,H&M India,Grey,Premium,1280.0,610.0,52.34,Summer,1
+SKU01824,Black Crop Top,Topwear,Crop Top,H&M India,Black,Premium,1560.0,710.0,54.49,Monsoon,1
+SKU01825,Olive Shirt,Topwear,Shirt,H&M India,Olive,Premium,1240.0,490.0,60.48,Festive,1
+SKU01826,Yellow Shirt,Topwear,Shirt,H&M India,Yellow,Premium,1340.0,540.0,59.7,Winter,1
+SKU01827,White Shirt,Topwear,Shirt,H&M India,White,Premium,1260.0,620.0,50.79,Festive,1
+SKU01828,Grey Hoodie,Topwear,Hoodie,H&M India,Grey,Premium,1460.0,580.0,60.27,Festive,1
+SKU01829,Pink Hoodie,Topwear,Hoodie,H&M India,Pink,Premium,1390.0,580.0,58.27,Winter,1
+SKU01830,White Hoodie,Topwear,Hoodie,H&M India,White,Premium,1480.0,630.0,57.43,Festive,0
+SKU01831,Grey Sweatshirt,Topwear,Sweatshirt,H&M India,Grey,Premium,1620.0,690.0,57.41,Festive,1
+SKU01832,White Sweatshirt,Topwear,Sweatshirt,H&M India,White,Premium,1650.0,790.0,52.12,Festive,1
+SKU01833,Beige Sweatshirt,Topwear,Sweatshirt,H&M India,Beige,Premium,1310.0,640.0,51.15,Festive,1
+SKU01834,Brown Polo T-Shirt,Topwear,Polo T-Shirt,H&M India,Brown,Premium,1270.0,600.0,52.76,Monsoon,1
+SKU01835,Pink Polo T-Shirt,Topwear,Polo T-Shirt,H&M India,Pink,Premium,1390.0,670.0,51.8,Winter,1
+SKU01836,Grey Polo T-Shirt,Topwear,Polo T-Shirt,H&M India,Grey,Premium,1600.0,750.0,53.12,Monsoon,1
+SKU01837,Yellow Tank Top,Topwear,Tank Top,H&M India,Yellow,Premium,1560.0,620.0,60.26,Monsoon,1
+SKU01838,Navy Tank Top,Topwear,Tank Top,H&M India,Navy,Premium,1260.0,520.0,58.73,Winter,1
+SKU01839,Beige Tank Top,Topwear,Tank Top,H&M India,Beige,Premium,1300.0,590.0,54.62,Festive,0
+SKU01840,Yellow Blazer,Topwear,Blazer,H&M India,Yellow,Premium,1370.0,680.0,50.36,Winter,0
+SKU01841,Beige Blazer,Topwear,Blazer,H&M India,Beige,Premium,1500.0,710.0,52.67,Winter,1
+SKU01842,Olive Blazer,Topwear,Blazer,H&M India,Olive,Premium,1280.0,610.0,52.34,Winter,1
+SKU01843,Yellow Baggy Jeans,Bottomwear,Baggy Jeans,H&M India,Yellow,Premium,2030.0,860.0,57.64,Summer,1
+SKU01844,Grey Baggy Jeans,Bottomwear,Baggy Jeans,H&M India,Grey,Premium,1860.0,860.0,53.76,Monsoon,1
+SKU01845,Beige Baggy Jeans,Bottomwear,Baggy Jeans,H&M India,Beige,Premium,1620.0,690.0,57.41,Festive,1
+SKU01846,Navy Cargo Pants,Bottomwear,Cargo Pants,H&M India,Navy,Premium,1740.0,650.0,62.64,Winter,1
+SKU01847,Beige Cargo Pants,Bottomwear,Cargo Pants,H&M India,Beige,Premium,1730.0,620.0,64.16,Summer,1
+SKU01848,Yellow Cargo Pants,Bottomwear,Cargo Pants,H&M India,Yellow,Premium,1540.0,570.0,62.99,Festive,1
+SKU01849,Rust Joggers,Bottomwear,Joggers,H&M India,Rust,Premium,2050.0,890.0,56.59,Winter,1
+SKU01850,Brown Joggers,Bottomwear,Joggers,H&M India,Brown,Premium,2050.0,850.0,58.54,Winter,1
+SKU01851,Black Joggers,Bottomwear,Joggers,H&M India,Black,Premium,1700.0,720.0,57.65,Monsoon,1
+SKU01852,Black Mini Skirt,Bottomwear,Mini Skirt,H&M India,Black,Premium,1770.0,650.0,63.28,Festive,0
+SKU01853,Yellow Mini Skirt,Bottomwear,Mini Skirt,H&M India,Yellow,Premium,1870.0,720.0,61.5,Summer,1
+SKU01854,Navy Mini Skirt,Bottomwear,Mini Skirt,H&M India,Navy,Premium,1860.0,830.0,55.38,Summer,1
+SKU01855,Olive Palazzo,Bottomwear,Palazzo,H&M India,Olive,Premium,1610.0,580.0,63.98,Winter,1
+SKU01856,Grey Palazzo,Bottomwear,Palazzo,H&M India,Grey,Premium,1950.0,820.0,57.95,Monsoon,1
+SKU01857,Rust Palazzo,Bottomwear,Palazzo,H&M India,Rust,Premium,1560.0,780.0,50.0,Monsoon,1
+SKU01858,Grey Straight Fit Jeans,Bottomwear,Straight Fit Jeans,H&M India,Grey,Premium,1560.0,710.0,54.49,Monsoon,1
+SKU01859,Rust Straight Fit Jeans,Bottomwear,Straight Fit Jeans,H&M India,Rust,Premium,2060.0,790.0,61.65,Festive,1
+SKU01860,Navy Straight Fit Jeans,Bottomwear,Straight Fit Jeans,H&M India,Navy,Premium,1610.0,590.0,63.35,Festive,0
+SKU01861,Brown Shorts,Bottomwear,Shorts,H&M India,Brown,Premium,1690.0,620.0,63.31,Winter,0
+SKU01862,White Shorts,Bottomwear,Shorts,H&M India,White,Premium,1900.0,680.0,64.21,Festive,0
+SKU01863,Beige Shorts,Bottomwear,Shorts,H&M India,Beige,Premium,1800.0,900.0,50.0,Monsoon,1
+SKU01864,Beige Kurta Set,Ethnic,Kurta Set,H&M India,Beige,Premium,2950.0,1300.0,55.93,Festive,1
+SKU01865,Olive Kurta Set,Ethnic,Kurta Set,H&M India,Olive,Premium,2540.0,1130.0,55.51,Winter,1
+SKU01866,Grey Kurta Set,Ethnic,Kurta Set,H&M India,Grey,Premium,2720.0,1130.0,58.46,Festive,1
+SKU01867,Pink Co-ord Saree,Ethnic,Co-ord Saree,H&M India,Pink,Premium,2400.0,1160.0,51.67,Summer,1
+SKU01868,Yellow Co-ord Saree,Ethnic,Co-ord Saree,H&M India,Yellow,Premium,2660.0,1010.0,62.03,Festive,1
+SKU01869,White Co-ord Saree,Ethnic,Co-ord Saree,H&M India,White,Premium,2590.0,1070.0,58.69,Festive,1
+SKU01870,Yellow Anarkali,Ethnic,Anarkali,H&M India,Yellow,Premium,2960.0,1360.0,54.05,Summer,1
+SKU01871,Rust Anarkali,Ethnic,Anarkali,H&M India,Rust,Premium,2920.0,1030.0,64.73,Winter,1
+SKU01872,Black Anarkali,Ethnic,Anarkali,H&M India,Black,Premium,2630.0,1110.0,57.79,Festive,0
+SKU01873,Brown Sharara Set,Ethnic,Sharara Set,H&M India,Brown,Premium,2310.0,900.0,61.04,Winter,1
+SKU01874,Pink Sharara Set,Ethnic,Sharara Set,H&M India,Pink,Premium,2910.0,1080.0,62.89,Winter,1
+SKU01875,Olive Sharara Set,Ethnic,Sharara Set,H&M India,Olive,Premium,2730.0,1040.0,61.9,Festive,1
+SKU01876,Grey Dhoti Pants,Ethnic,Dhoti Pants,H&M India,Grey,Premium,2300.0,890.0,61.3,Festive,0
+SKU01877,Beige Dhoti Pants,Ethnic,Dhoti Pants,H&M India,Beige,Premium,3080.0,1450.0,52.92,Summer,1
+SKU01878,Yellow Dhoti Pants,Ethnic,Dhoti Pants,H&M India,Yellow,Premium,3070.0,1300.0,57.65,Winter,1
+SKU01879,Beige Nehru Jacket,Ethnic,Nehru Jacket,H&M India,Beige,Premium,2380.0,1030.0,56.72,Summer,0
+SKU01880,Yellow Nehru Jacket,Ethnic,Nehru Jacket,H&M India,Yellow,Premium,2660.0,1270.0,52.26,Winter,1
+SKU01881,Brown Nehru Jacket,Ethnic,Nehru Jacket,H&M India,Brown,Premium,2370.0,1000.0,57.81,Monsoon,0
+SKU01882,Navy Maxi Dress,Dresses,Maxi Dress,H&M India,Navy,Premium,2090.0,830.0,60.29,Summer,1
+SKU01883,Beige Maxi Dress,Dresses,Maxi Dress,H&M India,Beige,Premium,2500.0,1050.0,58.0,Festive,1
+SKU01884,Grey Maxi Dress,Dresses,Maxi Dress,H&M India,Grey,Premium,2250.0,920.0,59.11,Monsoon,1
+SKU01885,Navy Bodycon Dress,Dresses,Bodycon Dress,H&M India,Navy,Premium,2310.0,1080.0,53.25,Summer,1
+SKU01886,Olive Bodycon Dress,Dresses,Bodycon Dress,H&M India,Olive,Premium,2610.0,1290.0,50.57,Summer,1
+SKU01887,Pink Bodycon Dress,Dresses,Bodycon Dress,H&M India,Pink,Premium,2540.0,1010.0,60.24,Summer,1
+SKU01888,Olive Wrap Dress,Dresses,Wrap Dress,H&M India,Olive,Premium,2470.0,1030.0,58.3,Summer,1
+SKU01889,Brown Wrap Dress,Dresses,Wrap Dress,H&M India,Brown,Premium,2170.0,1030.0,52.53,Festive,1
+SKU01890,Yellow Wrap Dress,Dresses,Wrap Dress,H&M India,Yellow,Premium,2010.0,980.0,51.24,Winter,1
+SKU01891,Yellow Shirt Dress,Dresses,Shirt Dress,H&M India,Yellow,Premium,2310.0,1030.0,55.41,Winter,1
+SKU01892,White Shirt Dress,Dresses,Shirt Dress,H&M India,White,Premium,2450.0,1190.0,51.43,Summer,1
+SKU01893,Olive Shirt Dress,Dresses,Shirt Dress,H&M India,Olive,Premium,2430.0,1070.0,55.97,Festive,0
+SKU01894,Beige Co-ord Set,Dresses,Co-ord Set,H&M India,Beige,Premium,2030.0,870.0,57.14,Monsoon,1
+SKU01895,Pink Co-ord Set,Dresses,Co-ord Set,H&M India,Pink,Premium,2090.0,960.0,54.07,Summer,1
+SKU01896,Grey Co-ord Set,Dresses,Co-ord Set,H&M India,Grey,Premium,2350.0,1060.0,54.89,Monsoon,1
+SKU01897,Olive Chunky Sneakers,Footwear,Chunky Sneakers,H&M India,Olive,Premium,2790.0,1010.0,63.8,Winter,0
+SKU01898,Beige Chunky Sneakers,Footwear,Chunky Sneakers,H&M India,Beige,Premium,3450.0,1240.0,64.06,Summer,0
+SKU01899,Pink Chunky Sneakers,Footwear,Chunky Sneakers,H&M India,Pink,Premium,2820.0,990.0,64.89,Monsoon,1
+SKU01900,Grey Kolhapuri,Footwear,Kolhapuri,H&M India,Grey,Premium,3680.0,1700.0,53.8,Winter,1
+SKU01901,Pink Kolhapuri,Footwear,Kolhapuri,H&M India,Pink,Premium,3100.0,1220.0,60.65,Monsoon,1
+SKU01902,Rust Kolhapuri,Footwear,Kolhapuri,H&M India,Rust,Premium,3090.0,1440.0,53.4,Summer,1
+SKU01903,Grey Block Heels,Footwear,Block Heels,H&M India,Grey,Premium,3390.0,1280.0,62.24,Festive,1
+SKU01904,Navy Block Heels,Footwear,Block Heels,H&M India,Navy,Premium,2920.0,1070.0,63.36,Monsoon,1
+SKU01905,Black Block Heels,Footwear,Block Heels,H&M India,Black,Premium,3390.0,1580.0,53.39,Festive,1
+SKU01906,Olive Loafers,Footwear,Loafers,H&M India,Olive,Premium,3010.0,1060.0,64.78,Summer,1
+SKU01907,Yellow Loafers,Footwear,Loafers,H&M India,Yellow,Premium,2830.0,1400.0,50.53,Summer,1
+SKU01908,Pink Loafers,Footwear,Loafers,H&M India,Pink,Premium,3040.0,1410.0,53.62,Summer,0
+SKU01909,Rust Sneakers,Footwear,Sneakers,H&M India,Rust,Premium,3360.0,1370.0,59.23,Winter,1
+SKU01910,Beige Sneakers,Footwear,Sneakers,H&M India,Beige,Premium,2950.0,1090.0,63.05,Monsoon,1
+SKU01911,Pink Sneakers,Footwear,Sneakers,H&M India,Pink,Premium,3350.0,1560.0,53.43,Summer,1
+SKU01912,White Sandals,Footwear,Sandals,H&M India,White,Premium,3380.0,1450.0,57.1,Monsoon,1
+SKU01913,Black Sandals,Footwear,Sandals,H&M India,Black,Premium,2790.0,1380.0,50.54,Summer,0
+SKU01914,Navy Sandals,Footwear,Sandals,H&M India,Navy,Premium,3530.0,1390.0,60.62,Winter,1
+SKU01915,Brown Sling Bag,Accessories,Sling Bag,H&M India,Brown,Premium,1230.0,540.0,56.1,Winter,1
+SKU01916,Pink Sling Bag,Accessories,Sling Bag,H&M India,Pink,Premium,1100.0,510.0,53.64,Monsoon,1
+SKU01917,Grey Sling Bag,Accessories,Sling Bag,H&M India,Grey,Premium,1180.0,530.0,55.08,Festive,1
+SKU01918,Olive Tote Bag,Accessories,Tote Bag,H&M India,Olive,Premium,960.0,380.0,60.42,Winter,1
+SKU01919,Beige Tote Bag,Accessories,Tote Bag,H&M India,Beige,Premium,1220.0,470.0,61.48,Summer,1
+SKU01920,Rust Tote Bag,Accessories,Tote Bag,H&M India,Rust,Premium,1040.0,430.0,58.65,Winter,1
+SKU01921,Olive Bucket Hat,Accessories,Bucket Hat,H&M India,Olive,Premium,1060.0,470.0,55.66,Summer,0
+SKU01922,Black Bucket Hat,Accessories,Bucket Hat,H&M India,Black,Premium,1220.0,470.0,61.48,Summer,1
+SKU01923,Grey Bucket Hat,Accessories,Bucket Hat,H&M India,Grey,Premium,960.0,360.0,62.5,Summer,1
+SKU01924,Beige Caps,Accessories,Caps,H&M India,Beige,Premium,1200.0,540.0,55.0,Monsoon,1
+SKU01925,White Caps,Accessories,Caps,H&M India,White,Premium,1010.0,480.0,52.48,Monsoon,1
+SKU01926,Black Caps,Accessories,Caps,H&M India,Black,Premium,1200.0,570.0,52.5,Festive,1
+SKU01927,Navy Sunglasses,Accessories,Sunglasses,H&M India,Navy,Premium,1210.0,470.0,61.16,Monsoon,1
+SKU01928,Beige Sunglasses,Accessories,Sunglasses,H&M India,Beige,Premium,1160.0,490.0,57.76,Festive,1
+SKU01929,Rust Sunglasses,Accessories,Sunglasses,H&M India,Rust,Premium,1190.0,550.0,53.78,Summer,1
+SKU01930,Black Belts,Accessories,Belts,H&M India,Black,Premium,1170.0,520.0,55.56,Festive,1
+SKU01931,Rust Belts,Accessories,Belts,H&M India,Rust,Premium,970.0,420.0,56.7,Festive,1
+SKU01932,Pink Belts,Accessories,Belts,H&M India,Pink,Premium,1230.0,600.0,51.22,Summer,1
+SKU01933,Brown Scarves,Accessories,Scarves,H&M India,Brown,Premium,930.0,350.0,62.37,Winter,0
+SKU01934,Rust Scarves,Accessories,Scarves,H&M India,Rust,Premium,960.0,440.0,54.17,Monsoon,1
+SKU01935,Black Scarves,Accessories,Scarves,H&M India,Black,Premium,1180.0,450.0,61.86,Festive,1
+SKU01936,Grey Oversized T-Shirt,Topwear,Oversized T-Shirt,Myntra M,Grey,Value,960.0,460.0,52.08,Summer,1
+SKU01937,White Oversized T-Shirt,Topwear,Oversized T-Shirt,Myntra M,White,Value,1030.0,440.0,57.28,Summer,1
+SKU01938,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Myntra M,Olive,Value,980.0,420.0,57.14,Winter,1
+SKU01939,Beige Crop Top,Topwear,Crop Top,Myntra M,Beige,Value,900.0,390.0,56.67,Winter,1
+SKU01940,Grey Crop Top,Topwear,Crop Top,Myntra M,Grey,Value,1010.0,490.0,51.49,Monsoon,1
+SKU01941,Black Crop Top,Topwear,Crop Top,Myntra M,Black,Value,1000.0,460.0,54.0,Festive,1
+SKU01942,White Shirt,Topwear,Shirt,Myntra M,White,Value,860.0,360.0,58.14,Summer,1
+SKU01943,Rust Shirt,Topwear,Shirt,Myntra M,Rust,Value,820.0,320.0,60.98,Summer,0
+SKU01944,Grey Shirt,Topwear,Shirt,Myntra M,Grey,Value,1020.0,510.0,50.0,Summer,0
+SKU01945,Navy Hoodie,Topwear,Hoodie,Myntra M,Navy,Value,840.0,340.0,59.52,Summer,1
+SKU01946,Grey Hoodie,Topwear,Hoodie,Myntra M,Grey,Value,1050.0,400.0,61.9,Summer,1
+SKU01947,Rust Hoodie,Topwear,Hoodie,Myntra M,Rust,Value,970.0,450.0,53.61,Festive,1
+SKU01948,Navy Sweatshirt,Topwear,Sweatshirt,Myntra M,Navy,Value,990.0,370.0,62.63,Festive,1
+SKU01949,Olive Sweatshirt,Topwear,Sweatshirt,Myntra M,Olive,Value,920.0,430.0,53.26,Winter,0
+SKU01950,Yellow Sweatshirt,Topwear,Sweatshirt,Myntra M,Yellow,Value,970.0,340.0,64.95,Monsoon,1
+SKU01951,Brown Polo T-Shirt,Topwear,Polo T-Shirt,Myntra M,Brown,Value,1030.0,370.0,64.08,Summer,0
+SKU01952,Olive Polo T-Shirt,Topwear,Polo T-Shirt,Myntra M,Olive,Value,1030.0,390.0,62.14,Summer,1
+SKU01953,Beige Polo T-Shirt,Topwear,Polo T-Shirt,Myntra M,Beige,Value,1090.0,440.0,59.63,Festive,1
+SKU01954,Black Tank Top,Topwear,Tank Top,Myntra M,Black,Value,910.0,340.0,62.64,Winter,1
+SKU01955,Rust Tank Top,Topwear,Tank Top,Myntra M,Rust,Value,900.0,430.0,52.22,Festive,1
+SKU01956,Grey Tank Top,Topwear,Tank Top,Myntra M,Grey,Value,1100.0,450.0,59.09,Monsoon,1
+SKU01957,Black Blazer,Topwear,Blazer,Myntra M,Black,Value,940.0,430.0,54.26,Summer,1
+SKU01958,Beige Blazer,Topwear,Blazer,Myntra M,Beige,Value,1070.0,470.0,56.07,Monsoon,0
+SKU01959,Navy Blazer,Topwear,Blazer,Myntra M,Navy,Value,930.0,380.0,59.14,Winter,1
+SKU01960,Rust Baggy Jeans,Bottomwear,Baggy Jeans,Myntra M,Rust,Value,1270.0,450.0,64.57,Summer,1
+SKU01961,Yellow Baggy Jeans,Bottomwear,Baggy Jeans,Myntra M,Yellow,Value,1240.0,500.0,59.68,Winter,1
+SKU01962,White Baggy Jeans,Bottomwear,Baggy Jeans,Myntra M,White,Value,1300.0,470.0,63.85,Summer,1
+SKU01963,Beige Cargo Pants,Bottomwear,Cargo Pants,Myntra M,Beige,Value,1230.0,520.0,57.72,Festive,0
+SKU01964,Olive Cargo Pants,Bottomwear,Cargo Pants,Myntra M,Olive,Value,1250.0,450.0,64.0,Winter,1
+SKU01965,Navy Cargo Pants,Bottomwear,Cargo Pants,Myntra M,Navy,Value,1230.0,530.0,56.91,Festive,1
+SKU01966,Navy Joggers,Bottomwear,Joggers,Myntra M,Navy,Value,1220.0,540.0,55.74,Monsoon,1
+SKU01967,Olive Joggers,Bottomwear,Joggers,Myntra M,Olive,Value,1260.0,590.0,53.17,Summer,1
+SKU01968,White Joggers,Bottomwear,Joggers,Myntra M,White,Value,1120.0,530.0,52.68,Monsoon,1
+SKU01969,Rust Mini Skirt,Bottomwear,Mini Skirt,Myntra M,Rust,Value,1200.0,430.0,64.17,Festive,0
+SKU01970,Pink Mini Skirt,Bottomwear,Mini Skirt,Myntra M,Pink,Value,1040.0,420.0,59.62,Monsoon,1
+SKU01971,White Mini Skirt,Bottomwear,Mini Skirt,Myntra M,White,Value,1300.0,590.0,54.62,Winter,1
+SKU01972,White Palazzo,Bottomwear,Palazzo,Myntra M,White,Value,1300.0,560.0,56.92,Festive,1
+SKU01973,Grey Palazzo,Bottomwear,Palazzo,Myntra M,Grey,Value,1180.0,440.0,62.71,Summer,1
+SKU01974,Beige Palazzo,Bottomwear,Palazzo,Myntra M,Beige,Value,1140.0,470.0,58.77,Festive,1
+SKU01975,Olive Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Myntra M,Olive,Value,1050.0,400.0,61.9,Summer,1
+SKU01976,Rust Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Myntra M,Rust,Value,1230.0,570.0,53.66,Festive,1
+SKU01977,Pink Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Myntra M,Pink,Value,1380.0,680.0,50.72,Monsoon,1
+SKU01978,Pink Shorts,Bottomwear,Shorts,Myntra M,Pink,Value,1250.0,520.0,58.4,Summer,1
+SKU01979,Yellow Shorts,Bottomwear,Shorts,Myntra M,Yellow,Value,1250.0,580.0,53.6,Monsoon,1
+SKU01980,Olive Shorts,Bottomwear,Shorts,Myntra M,Olive,Value,1060.0,440.0,58.49,Summer,1
+SKU01981,Olive Kurta Set,Ethnic,Kurta Set,Myntra M,Olive,Value,1980.0,810.0,59.09,Winter,1
+SKU01982,Beige Kurta Set,Ethnic,Kurta Set,Myntra M,Beige,Value,1840.0,810.0,55.98,Summer,1
+SKU01983,Grey Kurta Set,Ethnic,Kurta Set,Myntra M,Grey,Value,1630.0,660.0,59.51,Festive,0
+SKU01984,White Co-ord Saree,Ethnic,Co-ord Saree,Myntra M,White,Value,1710.0,610.0,64.33,Monsoon,0
+SKU01985,Black Co-ord Saree,Ethnic,Co-ord Saree,Myntra M,Black,Value,1540.0,730.0,52.6,Winter,1
+SKU01986,Grey Co-ord Saree,Ethnic,Co-ord Saree,Myntra M,Grey,Value,1680.0,720.0,57.14,Summer,0
+SKU01987,Rust Anarkali,Ethnic,Anarkali,Myntra M,Rust,Value,1690.0,830.0,50.89,Winter,1
+SKU01988,White Anarkali,Ethnic,Anarkali,Myntra M,White,Value,1670.0,690.0,58.68,Winter,1
+SKU01989,Black Anarkali,Ethnic,Anarkali,Myntra M,Black,Value,2000.0,950.0,52.5,Winter,1
+SKU01990,Pink Sharara Set,Ethnic,Sharara Set,Myntra M,Pink,Value,1630.0,770.0,52.76,Festive,1
+SKU01991,Grey Sharara Set,Ethnic,Sharara Set,Myntra M,Grey,Value,1780.0,750.0,57.87,Monsoon,1
+SKU01992,Beige Sharara Set,Ethnic,Sharara Set,Myntra M,Beige,Value,1600.0,580.0,63.75,Winter,0
+SKU01993,Black Dhoti Pants,Ethnic,Dhoti Pants,Myntra M,Black,Value,1920.0,810.0,57.81,Winter,1
+SKU01994,Olive Dhoti Pants,Ethnic,Dhoti Pants,Myntra M,Olive,Value,1760.0,810.0,53.98,Winter,1
+SKU01995,Navy Dhoti Pants,Ethnic,Dhoti Pants,Myntra M,Navy,Value,1940.0,730.0,62.37,Festive,1
+SKU01996,Pink Nehru Jacket,Ethnic,Nehru Jacket,Myntra M,Pink,Value,1860.0,690.0,62.9,Summer,0
+SKU01997,Olive Nehru Jacket,Ethnic,Nehru Jacket,Myntra M,Olive,Value,1930.0,870.0,54.92,Festive,1
+SKU01998,Brown Nehru Jacket,Ethnic,Nehru Jacket,Myntra M,Brown,Value,2050.0,740.0,63.9,Winter,1
+SKU01999,Grey Maxi Dress,Dresses,Maxi Dress,Myntra M,Grey,Value,1350.0,530.0,60.74,Winter,1
+SKU02000,Brown Maxi Dress,Dresses,Maxi Dress,Myntra M,Brown,Value,1450.0,560.0,61.38,Summer,1
+SKU02001,Rust Maxi Dress,Dresses,Maxi Dress,Myntra M,Rust,Value,1750.0,680.0,61.14,Monsoon,1
+SKU02002,Navy Bodycon Dress,Dresses,Bodycon Dress,Myntra M,Navy,Value,1450.0,670.0,53.79,Festive,1
+SKU02003,Black Bodycon Dress,Dresses,Bodycon Dress,Myntra M,Black,Value,1540.0,720.0,53.25,Monsoon,0
+SKU02004,Yellow Bodycon Dress,Dresses,Bodycon Dress,Myntra M,Yellow,Value,1360.0,580.0,57.35,Summer,1
+SKU02005,Olive Wrap Dress,Dresses,Wrap Dress,Myntra M,Olive,Value,1340.0,480.0,64.18,Monsoon,1
+SKU02006,Navy Wrap Dress,Dresses,Wrap Dress,Myntra M,Navy,Value,1750.0,650.0,62.86,Winter,1
+SKU02007,Black Wrap Dress,Dresses,Wrap Dress,Myntra M,Black,Value,1570.0,650.0,58.6,Monsoon,1
+SKU02008,Grey Shirt Dress,Dresses,Shirt Dress,Myntra M,Grey,Value,1490.0,720.0,51.68,Summer,1
+SKU02009,Rust Shirt Dress,Dresses,Shirt Dress,Myntra M,Rust,Value,1340.0,600.0,55.22,Festive,0
+SKU02010,Brown Shirt Dress,Dresses,Shirt Dress,Myntra M,Brown,Value,1780.0,770.0,56.74,Monsoon,1
+SKU02011,Olive Co-ord Set,Dresses,Co-ord Set,Myntra M,Olive,Value,1760.0,630.0,64.2,Monsoon,1
+SKU02012,Yellow Co-ord Set,Dresses,Co-ord Set,Myntra M,Yellow,Value,1520.0,590.0,61.18,Summer,1
+SKU02013,Navy Co-ord Set,Dresses,Co-ord Set,Myntra M,Navy,Value,1670.0,830.0,50.3,Monsoon,1
+SKU02014,Yellow Chunky Sneakers,Footwear,Chunky Sneakers,Myntra M,Yellow,Value,2000.0,900.0,55.0,Monsoon,1
+SKU02015,Black Chunky Sneakers,Footwear,Chunky Sneakers,Myntra M,Black,Value,1960.0,850.0,56.63,Festive,1
+SKU02016,Rust Chunky Sneakers,Footwear,Chunky Sneakers,Myntra M,Rust,Value,2140.0,1060.0,50.47,Festive,1
+SKU02017,Beige Kolhapuri,Footwear,Kolhapuri,Myntra M,Beige,Value,2230.0,900.0,59.64,Festive,0
+SKU02018,Grey Kolhapuri,Footwear,Kolhapuri,Myntra M,Grey,Value,1910.0,710.0,62.83,Festive,1
+SKU02019,White Kolhapuri,Footwear,Kolhapuri,Myntra M,White,Value,1980.0,770.0,61.11,Winter,1
+SKU02020,Rust Block Heels,Footwear,Block Heels,Myntra M,Rust,Value,2390.0,1040.0,56.49,Monsoon,0
+SKU02021,Navy Block Heels,Footwear,Block Heels,Myntra M,Navy,Value,2170.0,800.0,63.13,Winter,1
+SKU02022,Grey Block Heels,Footwear,Block Heels,Myntra M,Grey,Value,2390.0,1100.0,53.97,Winter,1
+SKU02023,Beige Loafers,Footwear,Loafers,Myntra M,Beige,Value,1880.0,860.0,54.26,Monsoon,1
+SKU02024,Brown Loafers,Footwear,Loafers,Myntra M,Brown,Value,2190.0,790.0,63.93,Monsoon,1
+SKU02025,Rust Loafers,Footwear,Loafers,Myntra M,Rust,Value,2130.0,900.0,57.75,Festive,1
+SKU02026,Black Sneakers,Footwear,Sneakers,Myntra M,Black,Value,1940.0,950.0,51.03,Monsoon,1
+SKU02027,Pink Sneakers,Footwear,Sneakers,Myntra M,Pink,Value,2390.0,1080.0,54.81,Monsoon,1
+SKU02028,Grey Sneakers,Footwear,Sneakers,Myntra M,Grey,Value,2130.0,880.0,58.69,Summer,0
+SKU02029,Beige Sandals,Footwear,Sandals,Myntra M,Beige,Value,2260.0,980.0,56.64,Monsoon,1
+SKU02030,Rust Sandals,Footwear,Sandals,Myntra M,Rust,Value,1880.0,800.0,57.45,Festive,1
+SKU02031,White Sandals,Footwear,Sandals,Myntra M,White,Value,2360.0,990.0,58.05,Summer,1
+SKU02032,Rust Sling Bag,Accessories,Sling Bag,Myntra M,Rust,Value,620.0,290.0,53.23,Festive,1
+SKU02033,Yellow Sling Bag,Accessories,Sling Bag,Myntra M,Yellow,Value,650.0,250.0,61.54,Summer,1
+SKU02034,Black Sling Bag,Accessories,Sling Bag,Myntra M,Black,Value,650.0,260.0,60.0,Summer,1
+SKU02035,Black Tote Bag,Accessories,Tote Bag,Myntra M,Black,Value,770.0,330.0,57.14,Winter,0
+SKU02036,Pink Tote Bag,Accessories,Tote Bag,Myntra M,Pink,Value,660.0,320.0,51.52,Winter,1
+SKU02037,Yellow Tote Bag,Accessories,Tote Bag,Myntra M,Yellow,Value,800.0,380.0,52.5,Winter,1
+SKU02038,Pink Bucket Hat,Accessories,Bucket Hat,Myntra M,Pink,Value,660.0,280.0,57.58,Monsoon,1
+SKU02039,White Bucket Hat,Accessories,Bucket Hat,Myntra M,White,Value,820.0,380.0,53.66,Summer,1
+SKU02040,Yellow Bucket Hat,Accessories,Bucket Hat,Myntra M,Yellow,Value,620.0,220.0,64.52,Summer,1
+SKU02041,Rust Caps,Accessories,Caps,Myntra M,Rust,Value,710.0,350.0,50.7,Summer,1
+SKU02042,Navy Caps,Accessories,Caps,Myntra M,Navy,Value,730.0,310.0,57.53,Winter,1
+SKU02043,White Caps,Accessories,Caps,Myntra M,White,Value,630.0,280.0,55.56,Summer,1
+SKU02044,White Sunglasses,Accessories,Sunglasses,Myntra M,White,Value,790.0,320.0,59.49,Summer,1
+SKU02045,Rust Sunglasses,Accessories,Sunglasses,Myntra M,Rust,Value,780.0,390.0,50.0,Monsoon,1
+SKU02046,Yellow Sunglasses,Accessories,Sunglasses,Myntra M,Yellow,Value,650.0,280.0,56.92,Winter,1
+SKU02047,White Belts,Accessories,Belts,Myntra M,White,Value,670.0,310.0,53.73,Monsoon,1
+SKU02048,Rust Belts,Accessories,Belts,Myntra M,Rust,Value,740.0,330.0,55.41,Festive,1
+SKU02049,Olive Belts,Accessories,Belts,Myntra M,Olive,Value,780.0,320.0,58.97,Festive,1
+SKU02050,Black Scarves,Accessories,Scarves,Myntra M,Black,Value,810.0,350.0,56.79,Monsoon,1
+SKU02051,Pink Scarves,Accessories,Scarves,Myntra M,Pink,Value,650.0,300.0,53.85,Summer,1
+SKU02052,Yellow Scarves,Accessories,Scarves,Myntra M,Yellow,Value,780.0,310.0,60.26,Festive,1
+SKU02053,Grey Oversized T-Shirt,Topwear,Oversized T-Shirt,Styli,Grey,Premium,1420.0,690.0,51.41,Summer,1
+SKU02054,Yellow Oversized T-Shirt,Topwear,Oversized T-Shirt,Styli,Yellow,Premium,1190.0,590.0,50.42,Monsoon,1
+SKU02055,Olive Oversized T-Shirt,Topwear,Oversized T-Shirt,Styli,Olive,Premium,1140.0,430.0,62.28,Summer,1
+SKU02056,White Crop Top,Topwear,Crop Top,Styli,White,Premium,1160.0,560.0,51.72,Winter,1
+SKU02057,Navy Crop Top,Topwear,Crop Top,Styli,Navy,Premium,1340.0,500.0,62.69,Festive,1
+SKU02058,Pink Crop Top,Topwear,Crop Top,Styli,Pink,Premium,1260.0,560.0,55.56,Winter,1
+SKU02059,Pink Shirt,Topwear,Shirt,Styli,Pink,Premium,1120.0,540.0,51.79,Winter,1
+SKU02060,Rust Shirt,Topwear,Shirt,Styli,Rust,Premium,1390.0,590.0,57.55,Winter,1
+SKU02061,Beige Shirt,Topwear,Shirt,Styli,Beige,Premium,1460.0,600.0,58.9,Monsoon,1
+SKU02062,Grey Hoodie,Topwear,Hoodie,Styli,Grey,Premium,1460.0,660.0,54.79,Summer,1
+SKU02063,Black Hoodie,Topwear,Hoodie,Styli,Black,Premium,1330.0,500.0,62.41,Festive,1
+SKU02064,Beige Hoodie,Topwear,Hoodie,Styli,Beige,Premium,1420.0,590.0,58.45,Winter,0
+SKU02065,Grey Sweatshirt,Topwear,Sweatshirt,Styli,Grey,Premium,1150.0,400.0,65.22,Winter,1
+SKU02066,Olive Sweatshirt,Topwear,Sweatshirt,Styli,Olive,Premium,1300.0,560.0,56.92,Winter,0
+SKU02067,Black Sweatshirt,Topwear,Sweatshirt,Styli,Black,Premium,1360.0,660.0,51.47,Winter,1
+SKU02068,Olive Polo T-Shirt,Topwear,Polo T-Shirt,Styli,Olive,Premium,1120.0,510.0,54.46,Summer,1
+SKU02069,Yellow Polo T-Shirt,Topwear,Polo T-Shirt,Styli,Yellow,Premium,1160.0,560.0,51.72,Summer,1
+SKU02070,Navy Polo T-Shirt,Topwear,Polo T-Shirt,Styli,Navy,Premium,1400.0,600.0,57.14,Monsoon,1
+SKU02071,Yellow Tank Top,Topwear,Tank Top,Styli,Yellow,Premium,1360.0,540.0,60.29,Monsoon,1
+SKU02072,Beige Tank Top,Topwear,Tank Top,Styli,Beige,Premium,1270.0,600.0,52.76,Monsoon,1
+SKU02073,Brown Tank Top,Topwear,Tank Top,Styli,Brown,Premium,1260.0,510.0,59.52,Summer,0
+SKU02074,Pink Blazer,Topwear,Blazer,Styli,Pink,Premium,1280.0,610.0,52.34,Festive,1
+SKU02075,Olive Blazer,Topwear,Blazer,Styli,Olive,Premium,1220.0,460.0,62.3,Summer,1
+SKU02076,Beige Blazer,Topwear,Blazer,Styli,Beige,Premium,1360.0,640.0,52.94,Winter,1
+SKU02077,Navy Baggy Jeans,Bottomwear,Baggy Jeans,Styli,Navy,Premium,1410.0,540.0,61.7,Summer,1
+SKU02078,Brown Baggy Jeans,Bottomwear,Baggy Jeans,Styli,Brown,Premium,1430.0,580.0,59.44,Winter,1
+SKU02079,Yellow Baggy Jeans,Bottomwear,Baggy Jeans,Styli,Yellow,Premium,1570.0,730.0,53.5,Monsoon,1
+SKU02080,Grey Cargo Pants,Bottomwear,Cargo Pants,Styli,Grey,Premium,1670.0,740.0,55.69,Summer,1
+SKU02081,White Cargo Pants,Bottomwear,Cargo Pants,Styli,White,Premium,1530.0,730.0,52.29,Festive,0
+SKU02082,Brown Cargo Pants,Bottomwear,Cargo Pants,Styli,Brown,Premium,1580.0,790.0,50.0,Festive,1
+SKU02083,Yellow Joggers,Bottomwear,Joggers,Styli,Yellow,Premium,1660.0,610.0,63.25,Monsoon,1
+SKU02084,Grey Joggers,Bottomwear,Joggers,Styli,Grey,Premium,1680.0,670.0,60.12,Monsoon,1
+SKU02085,Black Joggers,Bottomwear,Joggers,Styli,Black,Premium,1690.0,610.0,63.91,Winter,1
+SKU02086,Rust Mini Skirt,Bottomwear,Mini Skirt,Styli,Rust,Premium,1440.0,690.0,52.08,Winter,0
+SKU02087,Olive Mini Skirt,Bottomwear,Mini Skirt,Styli,Olive,Premium,1470.0,700.0,52.38,Festive,1
+SKU02088,Black Mini Skirt,Bottomwear,Mini Skirt,Styli,Black,Premium,1490.0,670.0,55.03,Festive,1
+SKU02089,Yellow Palazzo,Bottomwear,Palazzo,Styli,Yellow,Premium,1690.0,720.0,57.4,Monsoon,1
+SKU02090,White Palazzo,Bottomwear,Palazzo,Styli,White,Premium,1510.0,580.0,61.59,Winter,1
+SKU02091,Olive Palazzo,Bottomwear,Palazzo,Styli,Olive,Premium,1370.0,540.0,60.58,Festive,1
+SKU02092,Pink Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Styli,Pink,Premium,1670.0,820.0,50.9,Winter,1
+SKU02093,White Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Styli,White,Premium,1780.0,830.0,53.37,Winter,1
+SKU02094,Olive Straight Fit Jeans,Bottomwear,Straight Fit Jeans,Styli,Olive,Premium,1740.0,780.0,55.17,Festive,1
+SKU02095,Brown Shorts,Bottomwear,Shorts,Styli,Brown,Premium,1480.0,720.0,51.35,Festive,1
+SKU02096,Beige Shorts,Bottomwear,Shorts,Styli,Beige,Premium,1680.0,730.0,56.55,Winter,1
+SKU02097,White Shorts,Bottomwear,Shorts,Styli,White,Premium,1410.0,590.0,58.16,Summer,1
+SKU02098,Olive Kurta Set,Ethnic,Kurta Set,Styli,Olive,Premium,2370.0,1140.0,51.9,Summer,1
+SKU02099,Black Kurta Set,Ethnic,Kurta Set,Styli,Black,Premium,2430.0,990.0,59.26,Festive,1
+SKU02100,Grey Kurta Set,Ethnic,Kurta Set,Styli,Grey,Premium,2740.0,1000.0,63.5,Festive,1
+SKU02101,Yellow Co-ord Saree,Ethnic,Co-ord Saree,Styli,Yellow,Premium,2340.0,830.0,64.53,Summer,1
+SKU02102,Brown Co-ord Saree,Ethnic,Co-ord Saree,Styli,Brown,Premium,2570.0,1250.0,51.36,Monsoon,1
+SKU02103,Pink Co-ord Saree,Ethnic,Co-ord Saree,Styli,Pink,Premium,2240.0,1070.0,52.23,Winter,1
+SKU02104,Yellow Anarkali,Ethnic,Anarkali,Styli,Yellow,Premium,2250.0,1090.0,51.56,Festive,1
+SKU02105,Brown Anarkali,Ethnic,Anarkali,Styli,Brown,Premium,2580.0,1210.0,53.1,Festive,1
+SKU02106,Rust Anarkali,Ethnic,Anarkali,Styli,Rust,Premium,2050.0,1010.0,50.73,Summer,1
+SKU02107,Pink Sharara Set,Ethnic,Sharara Set,Styli,Pink,Premium,2560.0,1010.0,60.55,Monsoon,0
+SKU02108,Black Sharara Set,Ethnic,Sharara Set,Styli,Black,Premium,2640.0,1040.0,60.61,Monsoon,1
+SKU02109,Beige Sharara Set,Ethnic,Sharara Set,Styli,Beige,Premium,2670.0,980.0,63.3,Festive,1
+SKU02110,Brown Dhoti Pants,Ethnic,Dhoti Pants,Styli,Brown,Premium,2540.0,1100.0,56.69,Winter,0
+SKU02111,Black Dhoti Pants,Ethnic,Dhoti Pants,Styli,Black,Premium,2110.0,820.0,61.14,Monsoon,1
+SKU02112,Grey Dhoti Pants,Ethnic,Dhoti Pants,Styli,Grey,Premium,2050.0,860.0,58.05,Summer,1
+SKU02113,Grey Nehru Jacket,Ethnic,Nehru Jacket,Styli,Grey,Premium,2260.0,990.0,56.19,Winter,0
+SKU02114,Navy Nehru Jacket,Ethnic,Nehru Jacket,Styli,Navy,Premium,2250.0,890.0,60.44,Festive,1
+SKU02115,Brown Nehru Jacket,Ethnic,Nehru Jacket,Styli,Brown,Premium,2570.0,920.0,64.2,Monsoon,1
+SKU02116,Brown Maxi Dress,Dresses,Maxi Dress,Styli,Brown,Premium,2330.0,1110.0,52.36,Summer,1
+SKU02117,Pink Maxi Dress,Dresses,Maxi Dress,Styli,Pink,Premium,2180.0,960.0,55.96,Festive,1
+SKU02118,White Maxi Dress,Dresses,Maxi Dress,Styli,White,Premium,2320.0,880.0,62.07,Festive,1
+SKU02119,White Bodycon Dress,Dresses,Bodycon Dress,Styli,White,Premium,1820.0,700.0,61.54,Festive,0
+SKU02120,Yellow Bodycon Dress,Dresses,Bodycon Dress,Styli,Yellow,Premium,2260.0,800.0,64.6,Festive,0
+SKU02121,Grey Bodycon Dress,Dresses,Bodycon Dress,Styli,Grey,Premium,2130.0,1060.0,50.23,Festive,1
+SKU02122,Navy Wrap Dress,Dresses,Wrap Dress,Styli,Navy,Premium,2300.0,980.0,57.39,Monsoon,0
+SKU02123,Olive Wrap Dress,Dresses,Wrap Dress,Styli,Olive,Premium,1810.0,860.0,52.49,Winter,1
+SKU02124,Beige Wrap Dress,Dresses,Wrap Dress,Styli,Beige,Premium,2140.0,790.0,63.08,Monsoon,1
+SKU02125,Yellow Shirt Dress,Dresses,Shirt Dress,Styli,Yellow,Premium,1830.0,890.0,51.37,Winter,1
+SKU02126,Navy Shirt Dress,Dresses,Shirt Dress,Styli,Navy,Premium,2180.0,1030.0,52.75,Summer,1
+SKU02127,Brown Shirt Dress,Dresses,Shirt Dress,Styli,Brown,Premium,2310.0,1010.0,56.28,Monsoon,1
+SKU02128,Olive Co-ord Set,Dresses,Co-ord Set,Styli,Olive,Premium,2090.0,870.0,58.37,Festive,1
+SKU02129,Brown Co-ord Set,Dresses,Co-ord Set,Styli,Brown,Premium,1960.0,810.0,58.67,Monsoon,1
+SKU02130,Yellow Co-ord Set,Dresses,Co-ord Set,Styli,Yellow,Premium,2250.0,990.0,56.0,Monsoon,1
+SKU02131,Yellow Chunky Sneakers,Footwear,Chunky Sneakers,Styli,Yellow,Premium,3220.0,1340.0,58.39,Monsoon,0
+SKU02132,Beige Chunky Sneakers,Footwear,Chunky Sneakers,Styli,Beige,Premium,2970.0,1320.0,55.56,Festive,1
+SKU02133,Navy Chunky Sneakers,Footwear,Chunky Sneakers,Styli,Navy,Premium,2960.0,1350.0,54.39,Monsoon,1
+SKU02134,Navy Kolhapuri,Footwear,Kolhapuri,Styli,Navy,Premium,2650.0,1130.0,57.36,Festive,1
+SKU02135,Pink Kolhapuri,Footwear,Kolhapuri,Styli,Pink,Premium,2540.0,1040.0,59.06,Festive,1
+SKU02136,Rust Kolhapuri,Footwear,Kolhapuri,Styli,Rust,Premium,2870.0,1290.0,55.05,Summer,1
+SKU02137,Grey Block Heels,Footwear,Block Heels,Styli,Grey,Premium,3270.0,1440.0,55.96,Monsoon,1
+SKU02138,White Block Heels,Footwear,Block Heels,Styli,White,Premium,3090.0,1320.0,57.28,Winter,1
+SKU02139,Yellow Block Heels,Footwear,Block Heels,Styli,Yellow,Premium,2990.0,1080.0,63.88,Winter,1
+SKU02140,Beige Loafers,Footwear,Loafers,Styli,Beige,Premium,2670.0,1080.0,59.55,Festive,1
+SKU02141,Grey Loafers,Footwear,Loafers,Styli,Grey,Premium,2850.0,1020.0,64.21,Winter,1
+SKU02142,Olive Loafers,Footwear,Loafers,Styli,Olive,Premium,2570.0,1010.0,60.7,Monsoon,1
+SKU02143,Yellow Sneakers,Footwear,Sneakers,Styli,Yellow,Premium,3290.0,1320.0,59.88,Festive,1
+SKU02144,Rust Sneakers,Footwear,Sneakers,Styli,Rust,Premium,2860.0,1090.0,61.89,Summer,1
+SKU02145,Beige Sneakers,Footwear,Sneakers,Styli,Beige,Premium,2970.0,1160.0,60.94,Monsoon,1
+SKU02146,Beige Sandals,Footwear,Sandals,Styli,Beige,Premium,2630.0,1120.0,57.41,Summer,1
+SKU02147,Grey Sandals,Footwear,Sandals,Styli,Grey,Premium,2450.0,860.0,64.9,Winter,1
+SKU02148,Yellow Sandals,Footwear,Sandals,Styli,Yellow,Premium,2640.0,940.0,64.39,Winter,1
+SKU02149,Yellow Sling Bag,Accessories,Sling Bag,Styli,Yellow,Premium,850.0,340.0,60.0,Summer,1
+SKU02150,Pink Sling Bag,Accessories,Sling Bag,Styli,Pink,Premium,1050.0,460.0,56.19,Festive,0
+SKU02151,Black Sling Bag,Accessories,Sling Bag,Styli,Black,Premium,960.0,380.0,60.42,Festive,1
+SKU02152,Brown Tote Bag,Accessories,Tote Bag,Styli,Brown,Premium,1080.0,440.0,59.26,Summer,1
+SKU02153,Olive Tote Bag,Accessories,Tote Bag,Styli,Olive,Premium,840.0,370.0,55.95,Monsoon,1
+SKU02154,Black Tote Bag,Accessories,Tote Bag,Styli,Black,Premium,850.0,340.0,60.0,Festive,1
+SKU02155,White Bucket Hat,Accessories,Bucket Hat,Styli,White,Premium,960.0,460.0,52.08,Monsoon,1
+SKU02156,Pink Bucket Hat,Accessories,Bucket Hat,Styli,Pink,Premium,960.0,440.0,54.17,Summer,1
+SKU02157,Navy Bucket Hat,Accessories,Bucket Hat,Styli,Navy,Premium,1100.0,410.0,62.73,Festive,1
+SKU02158,Brown Caps,Accessories,Caps,Styli,Brown,Premium,890.0,360.0,59.55,Winter,0
+SKU02159,Grey Caps,Accessories,Caps,Styli,Grey,Premium,940.0,390.0,58.51,Monsoon,1
+SKU02160,Rust Caps,Accessories,Caps,Styli,Rust,Premium,1080.0,490.0,54.63,Winter,1
+SKU02161,Olive Sunglasses,Accessories,Sunglasses,Styli,Olive,Premium,990.0,390.0,60.61,Summer,1
+SKU02162,Beige Sunglasses,Accessories,Sunglasses,Styli,Beige,Premium,1050.0,520.0,50.48,Monsoon,1
+SKU02163,Pink Sunglasses,Accessories,Sunglasses,Styli,Pink,Premium,1050.0,370.0,64.76,Summer,1
+SKU02164,Beige Belts,Accessories,Belts,Styli,Beige,Premium,1000.0,360.0,64.0,Summer,1
+SKU02165,White Belts,Accessories,Belts,Styli,White,Premium,890.0,320.0,64.04,Festive,1
+SKU02166,Rust Belts,Accessories,Belts,Styli,Rust,Premium,990.0,450.0,54.55,Summer,1
+SKU02167,Black Scarves,Accessories,Scarves,Styli,Black,Premium,850.0,350.0,58.82,Summer,1
+SKU02168,White Scarves,Accessories,Scarves,Styli,White,Premium,950.0,390.0,58.95,Winter,1
+SKU02169,Grey Scarves,Accessories,Scarves,Styli,Grey,Premium,850.0,350.0,58.82,Summer,1

@@ -1,0 +1,1001 @@
+sale_id,sku_id,brand,category,subcategory,sale_date,month,year,season,city,region,city_tier,channel,quantity,mrp,discount_pct,selling_price,revenue,cogs,gross_profit,gross_margin_pct,is_returned,trend_sensitivity
+SAL0000001,SKU01394,Urbanic,Bottomwear,Shorts,2024-06-06,6.0,2024.0,Monsoon,Kolkata,East,1.0,Ajio,1.0,1680.0,5.0,1596.0,1596.0,830.0,766.0,47.99,1.0,0.83
+SAL0000002,SKU02142,Styli,Footwear,Loafers,2023-01-13,1.0,2023.0,Winter,Jaipur,North,2.0,Amazon,5.0,2570.0,5.0,2441.5,12207.5,5050.0,7157.5,58.63,0.0,0.75
+SAL0000003,SKU01119,Snitch,Topwear,Oversized T-Shirt,2024-04-22,4.0,2024.0,Summer,Lucknow,North,2.0,Offline Store,1.0,1330.0,5.0,1263.5,1263.5,500.0,763.5,60.43,0.0,0.72
+SAL0000004,SKU01139,Snitch,Topwear,Blazer,2023-11-16,11.0,2023.0,Festive,Bangalore,South,1.0,Myntra,3.0,1360.0,25.0,1020.0,3060.0,1920.0,1140.0,37.25,0.0,0.92
+SAL0000005,SKU01290,The Souled Store,Ethnic,Sharara Set,2024-03-25,3.0,2024.0,Summer,Coimbatore,South,3.0,D2C Website,3.0,1630.0,25.0,1222.5,3667.5,2430.0,1237.5,33.74,0.0,0.57
+SAL0000006,SKU01313,The Souled Store,Footwear,Chunky Sneakers,2023-11-01,11.0,2023.0,Festive,Kolkata,East,1.0,Amazon,3.0,1960.0,15.0,1666.0,4998.0,2730.0,2268.0,45.38,0.0,0.83
+SAL0000007,SKU01159,Snitch,Bottomwear,Shorts,2023-10-27,10.0,2023.0,Festive,Nagpur,West,3.0,Ajio,1.0,1430.0,0.0,1430.0,1430.0,550.0,880.0,61.54,0.0,0.55
+SAL0000008,SKU01599,Libas,Topwear,Sweatshirt,2023-12-15,12.0,2023.0,Winter,Bhopal,Central,3.0,Meesho,2.0,1120.0,10.0,1008.0,2016.0,820.0,1196.0,59.33,0.0,0.58
+SAL0000009,SKU01385,Urbanic,Bottomwear,Mini Skirt,2023-06-19,6.0,2023.0,Monsoon,Mumbai,West,1.0,Amazon,3.0,1500.0,15.0,1275.0,3825.0,2160.0,1665.0,43.53,0.0,0.95
+SAL0000010,SKU01012,Bewakoof,Topwear,Sweatshirt,2023-02-16,2.0,2023.0,Winter,Mumbai,West,1.0,Offline Store,1.0,790.0,25.0,592.5,592.5,370.0,222.5,37.55,0.0,0.95
+SAL0000011,SKU02060,Styli,Topwear,Shirt,2024-02-10,2.0,2024.0,Winter,Surat,West,2.0,Offline Store,1.0,1390.0,20.0,1112.0,1112.0,590.0,522.0,46.94,0.0,0.7
+SAL0000012,SKU02031,Myntra M,Footwear,Sandals,2024-04-16,4.0,2024.0,Summer,Kolkata,East,1.0,Myntra,5.0,2360.0,0.0,2360.0,11800.0,4950.0,6850.0,58.05,0.0,0.83
+SAL0000013,SKU02040,Myntra M,Accessories,Bucket Hat,2024-11-23,11.0,2024.0,Festive,Chennai,South,1.0,Ajio,4.0,620.0,15.0,527.0,2108.0,880.0,1228.0,58.25,0.0,0.85
+SAL0000014,SKU01221,Snitch,Accessories,Bucket Hat,2023-10-26,10.0,2023.0,Festive,Ahmedabad,West,2.0,Myntra,1.0,920.0,30.0,644.0,644.0,370.0,274.0,42.55,0.0,0.78
+SAL0000015,SKU01140,Snitch,Topwear,Blazer,2023-09-10,9.0,2023.0,Festive,Delhi,North,1.0,Offline Store,2.0,1430.0,0.0,1430.0,2860.0,1140.0,1720.0,60.14,0.0,0.93
+SAL0000016,SKU02024,Myntra M,Footwear,Loafers,2023-08-10,8.0,2023.0,Monsoon,Delhi,North,1.0,Amazon,1.0,2190.0,10.0,1971.0,1971.0,790.0,1181.0,59.92,0.0,0.93
+SAL0000017,SKU02001,Myntra M,Dresses,Maxi Dress,2024-08-15,8.0,2024.0,Monsoon,Hyderabad,South,1.0,Myntra,1.0,1750.0,30.0,1225.0,1225.0,680.0,545.0,44.49,0.0,0.88
+SAL0000018,SKU01376,Urbanic,Bottomwear,Baggy Jeans,2023-09-15,9.0,2023.0,Festive,Surat,West,2.0,D2C Website,2.0,1760.0,10.0,1584.0,3168.0,1400.0,1768.0,55.81,1.0,0.7
+SAL0000019,SKU01594,Libas,Topwear,Hoodie,2023-10-27,10.0,2023.0,Festive,Chennai,South,1.0,D2C Website,3.0,980.0,5.0,931.0,2793.0,1350.0,1443.0,51.66,1.0,0.85
+SAL0000020,SKU01932,H&M India,Accessories,Belts,2024-11-19,11.0,2024.0,Festive,Mumbai,West,1.0,D2C Website,1.0,1230.0,0.0,1230.0,1230.0,600.0,630.0,51.22,0.0,0.95
+SAL0000021,SKU01199,Snitch,Footwear,Kolhapuri,2024-08-25,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Myntra,4.0,3100.0,10.0,2790.0,11160.0,5760.0,5400.0,48.39,0.0,0.74
+SAL0000022,SKU01269,The Souled Store,Bottomwear,Mini Skirt,2023-12-11,12.0,2023.0,Winter,Delhi,North,1.0,Amazon,2.0,1080.0,20.0,864.0,1728.0,800.0,928.0,53.7,0.0,0.93
+SAL0000023,SKU02012,Myntra M,Dresses,Co-ord Set,2023-01-20,1.0,2023.0,Winter,Ahmedabad,West,2.0,Myntra,1.0,1520.0,10.0,1368.0,1368.0,590.0,778.0,56.87,1.0,0.78
+SAL0000024,SKU02144,Styli,Footwear,Sneakers,2023-06-28,6.0,2023.0,Monsoon,Delhi,North,1.0,D2C Website,4.0,2860.0,30.0,2002.0,8008.0,4360.0,3648.0,45.55,1.0,0.93
+SAL0000025,SKU01109,Bewakoof,Accessories,Sunglasses,2023-04-28,4.0,2023.0,Summer,Delhi,North,1.0,Offline Store,1.0,630.0,25.0,472.5,472.5,300.0,172.5,36.51,0.0,0.93
+SAL0000026,SKU01161,Snitch,Bottomwear,Shorts,2023-06-19,6.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,2.0,1680.0,5.0,1596.0,3192.0,1320.0,1872.0,58.65,1.0,0.83
+SAL0000027,SKU01526,FabAlley,Ethnic,Dhoti Pants,2024-01-21,1.0,2024.0,Winter,Surat,West,2.0,Ajio,1.0,2540.0,40.0,1524.0,1524.0,1190.0,334.0,21.92,0.0,0.7
+SAL0000028,SKU01123,Snitch,Topwear,Shirt,2023-11-19,11.0,2023.0,Festive,Lucknow,North,2.0,Amazon,2.0,1250.0,5.0,1187.5,2375.0,1240.0,1135.0,47.79,0.0,0.72
+SAL0000029,SKU01259,The Souled Store,Bottomwear,Baggy Jeans,2023-04-19,4.0,2023.0,Summer,Hyderabad,South,1.0,Ajio,2.0,1260.0,15.0,1071.0,2142.0,940.0,1202.0,56.12,0.0,0.88
+SAL0000030,SKU02084,Styli,Bottomwear,Joggers,2023-07-09,7.0,2023.0,Monsoon,Chennai,South,1.0,Myntra,1.0,1680.0,0.0,1680.0,1680.0,670.0,1010.0,60.12,0.0,0.85
+SAL0000031,SKU02058,Styli,Topwear,Crop Top,2023-07-03,7.0,2023.0,Monsoon,Bangalore,South,1.0,Ajio,1.0,1260.0,0.0,1260.0,1260.0,560.0,700.0,55.56,1.0,0.92
+SAL0000032,SKU01598,Libas,Topwear,Sweatshirt,2024-09-25,9.0,2024.0,Festive,Bangalore,South,1.0,Amazon,1.0,1190.0,5.0,1130.5,1130.5,590.0,540.5,47.81,0.0,0.92
+SAL0000033,SKU01116,Bewakoof,Accessories,Scarves,2023-12-23,12.0,2023.0,Winter,Mumbai,West,1.0,D2C Website,5.0,610.0,0.0,610.0,3050.0,1300.0,1750.0,57.38,0.0,0.95
+SAL0000034,SKU01272,The Souled Store,Bottomwear,Palazzo,2024-05-01,5.0,2024.0,Summer,Mumbai,West,1.0,Ajio,3.0,1140.0,20.0,912.0,2736.0,1380.0,1356.0,49.56,0.0,0.95
+SAL0000035,SKU01052,Bewakoof,Ethnic,Anarkali,2024-07-10,7.0,2024.0,Monsoon,Chennai,South,1.0,D2C Website,2.0,1680.0,0.0,1680.0,3360.0,1300.0,2060.0,61.31,0.0,0.85
+SAL0000036,SKU01240,The Souled Store,Topwear,Shirt,2024-06-23,6.0,2024.0,Monsoon,Patna,East,3.0,Meesho,5.0,910.0,5.0,864.5,4322.5,2050.0,2272.5,52.57,1.0,0.5
+SAL0000037,SKU01705,Zudio,Topwear,Crop Top,2023-10-17,10.0,2023.0,Festive,Pune,West,2.0,Ajio,3.0,510.0,0.0,510.0,1530.0,570.0,960.0,62.75,0.0,0.8
+SAL0000038,SKU01412,Urbanic,Ethnic,Nehru Jacket,2023-08-08,8.0,2023.0,Monsoon,Mumbai,West,1.0,Offline Store,1.0,2580.0,0.0,2580.0,2580.0,1260.0,1320.0,51.16,0.0,0.95
+SAL0000039,SKU01376,Urbanic,Bottomwear,Baggy Jeans,2024-07-02,7.0,2024.0,Monsoon,Lucknow,North,2.0,Ajio,1.0,1760.0,0.0,1760.0,1760.0,700.0,1060.0,60.23,0.0,0.72
+SAL0000040,SKU01214,Snitch,Accessories,Sling Bag,2023-01-15,1.0,2023.0,Winter,Lucknow,North,2.0,Myntra,2.0,920.0,15.0,782.0,1564.0,680.0,884.0,56.52,1.0,0.72
+SAL0000041,SKU01393,Urbanic,Bottomwear,Shorts,2024-12-27,12.0,2024.0,Winter,Pune,West,2.0,Myntra,2.0,1740.0,5.0,1653.0,3306.0,1420.0,1886.0,57.05,0.0,0.8
+SAL0000042,SKU01117,Snitch,Topwear,Oversized T-Shirt,2024-05-16,5.0,2024.0,Summer,Lucknow,North,2.0,Offline Store,1.0,1160.0,20.0,928.0,928.0,530.0,398.0,42.89,0.0,0.72
+SAL0000043,SKU02040,Myntra M,Accessories,Bucket Hat,2024-09-11,9.0,2024.0,Festive,Delhi,North,1.0,Amazon,1.0,620.0,0.0,620.0,620.0,220.0,400.0,64.52,0.0,0.93
+SAL0000044,SKU01272,The Souled Store,Bottomwear,Palazzo,2024-11-04,11.0,2024.0,Festive,Chennai,South,1.0,Myntra,1.0,1140.0,0.0,1140.0,1140.0,460.0,680.0,59.65,0.0,0.85
+SAL0000045,SKU01080,Bewakoof,Footwear,Chunky Sneakers,2024-08-12,8.0,2024.0,Monsoon,Hyderabad,South,1.0,Ajio,5.0,1730.0,20.0,1384.0,6920.0,3850.0,3070.0,44.36,0.0,0.88
+SAL0000046,SKU01574,FabAlley,Accessories,Caps,2023-06-12,6.0,2023.0,Monsoon,Mumbai,West,1.0,Myntra,3.0,990.0,0.0,990.0,2970.0,1440.0,1530.0,51.52,0.0,0.95
+SAL0000047,SKU01313,The Souled Store,Footwear,Chunky Sneakers,2023-10-05,10.0,2023.0,Festive,Bangalore,South,1.0,Myntra,2.0,1960.0,0.0,1960.0,3920.0,1820.0,2100.0,53.57,0.0,0.92
+SAL0000048,SKU01815,Zudio,Accessories,Belts,2023-04-07,4.0,2023.0,Summer,Chennai,South,1.0,D2C Website,3.0,450.0,0.0,450.0,1350.0,540.0,810.0,60.0,0.0,0.85
+SAL0000049,SKU01617,Libas,Bottomwear,Joggers,2024-11-20,11.0,2024.0,Festive,Kolkata,East,1.0,Myntra,1.0,1360.0,25.0,1020.0,1020.0,550.0,470.0,46.08,1.0,0.83
+SAL0000050,SKU01204,Snitch,Footwear,Loafers,2023-01-03,1.0,2023.0,Winter,Mumbai,West,1.0,Ajio,1.0,3230.0,40.0,1938.0,1938.0,1170.0,768.0,39.63,0.0,0.95
+SAL0000051,SKU01820,H&M India,Topwear,Oversized T-Shirt,2023-01-03,1.0,2023.0,Winter,Jaipur,North,2.0,Ajio,2.0,1460.0,0.0,1460.0,2920.0,1400.0,1520.0,52.05,0.0,0.75
+SAL0000052,SKU02058,Styli,Topwear,Crop Top,2024-12-10,12.0,2024.0,Winter,Bangalore,South,1.0,Amazon,1.0,1260.0,15.0,1071.0,1071.0,560.0,511.0,47.71,0.0,0.92
+SAL0000053,SKU01470,FabAlley,Topwear,Oversized T-Shirt,2024-04-14,4.0,2024.0,Summer,Jaipur,North,2.0,D2C Website,1.0,1120.0,15.0,952.0,952.0,490.0,462.0,48.53,0.0,0.75
+SAL0000054,SKU01591,Libas,Topwear,Shirt,2023-05-23,5.0,2023.0,Summer,Mumbai,West,1.0,Amazon,2.0,1080.0,5.0,1026.0,2052.0,1060.0,992.0,48.34,1.0,0.95
+SAL0000055,SKU01720,Zudio,Topwear,Tank Top,2024-08-30,8.0,2024.0,Monsoon,Surat,West,2.0,Offline Store,1.0,640.0,0.0,640.0,640.0,230.0,410.0,64.06,0.0,0.7
+SAL0000056,SKU01796,Zudio,Footwear,Sandals,2024-11-20,11.0,2024.0,Festive,Mumbai,West,1.0,Amazon,2.0,1120.0,15.0,952.0,1904.0,820.0,1084.0,56.93,0.0,0.95
+SAL0000057,SKU02141,Styli,Footwear,Loafers,2023-09-16,9.0,2023.0,Festive,Chennai,South,1.0,D2C Website,2.0,2850.0,25.0,2137.5,4275.0,2040.0,2235.0,52.28,0.0,0.85
+SAL0000058,SKU01626,Libas,Bottomwear,Straight Fit Jeans,2023-07-01,7.0,2023.0,Monsoon,Mumbai,West,1.0,Ajio,2.0,1150.0,10.0,1035.0,2070.0,840.0,1230.0,59.42,0.0,0.95
+SAL0000059,SKU01647,Libas,Ethnic,Nehru Jacket,2023-06-28,6.0,2023.0,Monsoon,Coimbatore,South,3.0,D2C Website,2.0,2120.0,30.0,1484.0,2968.0,1620.0,1348.0,45.42,0.0,0.57
+SAL0000060,SKU01920,H&M India,Accessories,Tote Bag,2024-07-25,7.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,1040.0,5.0,988.0,988.0,430.0,558.0,56.48,0.0,0.95
+SAL0000061,SKU01894,H&M India,Dresses,Co-ord Set,2024-04-22,4.0,2024.0,Summer,Kolkata,East,1.0,Myntra,3.0,2030.0,20.0,1624.0,4872.0,2610.0,2262.0,46.43,0.0,0.83
+SAL0000062,SKU01472,FabAlley,Topwear,Crop Top,2024-02-01,2.0,2024.0,Winter,Delhi,North,1.0,Ajio,2.0,1090.0,10.0,981.0,1962.0,760.0,1202.0,61.26,0.0,0.93
+SAL0000063,SKU01493,FabAlley,Bottomwear,Baggy Jeans,2023-02-19,2.0,2023.0,Winter,Hyderabad,South,1.0,D2C Website,1.0,1580.0,0.0,1580.0,1580.0,660.0,920.0,58.23,1.0,0.88
+SAL0000064,SKU01061,Bewakoof,Ethnic,Nehru Jacket,2024-06-16,6.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,3.0,1420.0,30.0,994.0,2982.0,1560.0,1422.0,47.69,0.0,0.95
+SAL0000065,SKU02154,Styli,Accessories,Tote Bag,2024-08-13,8.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,850.0,0.0,850.0,850.0,340.0,510.0,60.0,0.0,0.95
+SAL0000066,SKU01434,Urbanic,Footwear,Kolhapuri,2023-04-29,4.0,2023.0,Summer,Lucknow,North,2.0,Myntra,2.0,3390.0,15.0,2881.5,5763.0,3340.0,2423.0,42.04,0.0,0.72
+SAL0000067,SKU02022,Myntra M,Footwear,Block Heels,2024-04-12,4.0,2024.0,Summer,Delhi,North,1.0,Meesho,3.0,2390.0,25.0,1792.5,5377.5,3300.0,2077.5,38.63,0.0,0.93
+SAL0000068,SKU02090,Styli,Bottomwear,Palazzo,2023-03-07,3.0,2023.0,Summer,Bhopal,Central,3.0,Amazon,4.0,1510.0,0.0,1510.0,6040.0,2320.0,3720.0,61.59,0.0,0.58
+SAL0000069,SKU01061,Bewakoof,Ethnic,Nehru Jacket,2023-11-12,11.0,2023.0,Festive,Chennai,South,1.0,Myntra,5.0,1420.0,0.0,1420.0,7100.0,2600.0,4500.0,63.38,0.0,0.85
+SAL0000070,SKU01058,Bewakoof,Ethnic,Dhoti Pants,2023-06-11,6.0,2023.0,Monsoon,Patna,East,3.0,Ajio,1.0,1640.0,5.0,1558.0,1558.0,620.0,938.0,60.21,1.0,0.5
+SAL0000071,SKU01499,FabAlley,Bottomwear,Joggers,2024-07-01,7.0,2024.0,Monsoon,Bangalore,South,1.0,Offline Store,1.0,1700.0,0.0,1700.0,1700.0,710.0,990.0,58.24,1.0,0.92
+SAL0000072,SKU01320,The Souled Store,Footwear,Block Heels,2024-11-22,11.0,2024.0,Festive,Delhi,North,1.0,Myntra,1.0,1690.0,25.0,1267.5,1267.5,670.0,597.5,47.14,1.0,0.93
+SAL0000073,SKU01643,Libas,Ethnic,Dhoti Pants,2024-01-06,1.0,2024.0,Winter,Jaipur,North,2.0,D2C Website,1.0,1710.0,5.0,1624.5,1624.5,690.0,934.5,57.53,0.0,0.75
+SAL0000074,SKU01407,Urbanic,Ethnic,Sharara Set,2023-04-16,4.0,2023.0,Summer,Delhi,North,1.0,D2C Website,1.0,2830.0,5.0,2688.5,2688.5,1210.0,1478.5,54.99,0.0,0.93
+SAL0000075,SKU01436,Urbanic,Footwear,Block Heels,2023-05-12,5.0,2023.0,Summer,Bangalore,South,1.0,Ajio,1.0,3190.0,10.0,2871.0,2871.0,1310.0,1561.0,54.37,1.0,0.92
+SAL0000076,SKU01041,Bewakoof,Bottomwear,Straight Fit Jeans,2024-02-28,2.0,2024.0,Winter,Chennai,South,1.0,Myntra,1.0,950.0,30.0,665.0,665.0,340.0,325.0,48.87,0.0,0.85
+SAL0000077,SKU02165,Styli,Accessories,Belts,2024-03-17,3.0,2024.0,Summer,Bangalore,South,1.0,Ajio,1.0,890.0,5.0,845.5,845.5,320.0,525.5,62.15,0.0,0.92
+SAL0000078,SKU01425,Urbanic,Dresses,Shirt Dress,2024-02-19,2.0,2024.0,Winter,Delhi,North,1.0,Offline Store,1.0,1920.0,5.0,1824.0,1824.0,890.0,934.0,51.21,0.0,0.93
+SAL0000079,SKU01179,Snitch,Ethnic,Nehru Jacket,2024-02-28,2.0,2024.0,Winter,Chennai,South,1.0,Amazon,1.0,2720.0,5.0,2584.0,2584.0,1190.0,1394.0,53.95,0.0,0.85
+SAL0000080,SKU01496,FabAlley,Bottomwear,Cargo Pants,2024-05-19,5.0,2024.0,Summer,Indore,Central,3.0,Myntra,1.0,1400.0,10.0,1260.0,1260.0,610.0,650.0,51.59,1.0,0.6
+SAL0000081,SKU01651,Libas,Dresses,Bodycon Dress,2024-03-26,3.0,2024.0,Summer,Kolkata,East,1.0,Offline Store,2.0,1460.0,5.0,1387.0,2774.0,1260.0,1514.0,54.58,0.0,0.83
+SAL0000082,SKU01166,Snitch,Ethnic,Co-ord Saree,2023-10-17,10.0,2023.0,Festive,Hyderabad,South,1.0,D2C Website,1.0,2050.0,10.0,1845.0,1845.0,750.0,1095.0,59.35,1.0,0.88
+SAL0000083,SKU01097,Bewakoof,Accessories,Sling Bag,2023-09-03,9.0,2023.0,Festive,Bangalore,South,1.0,Myntra,4.0,570.0,10.0,513.0,2052.0,920.0,1132.0,55.17,0.0,0.92
+SAL0000084,SKU01321,The Souled Store,Footwear,Loafers,2024-06-08,6.0,2024.0,Monsoon,Mumbai,West,1.0,Meesho,1.0,1810.0,0.0,1810.0,1810.0,720.0,1090.0,60.22,0.0,0.95
+SAL0000085,SKU01257,The Souled Store,Topwear,Blazer,2023-05-27,5.0,2023.0,Summer,Mumbai,West,1.0,Ajio,1.0,760.0,0.0,760.0,760.0,270.0,490.0,64.47,0.0,0.95
+SAL0000086,SKU01945,Myntra M,Topwear,Hoodie,2024-01-20,1.0,2024.0,Winter,Mumbai,West,1.0,Amazon,1.0,840.0,25.0,630.0,630.0,340.0,290.0,46.03,0.0,0.95
+SAL0000087,SKU01717,Zudio,Topwear,Polo T-Shirt,2024-12-27,12.0,2024.0,Winter,Kolkata,East,1.0,Meesho,5.0,500.0,10.0,450.0,2250.0,900.0,1350.0,60.0,0.0,0.83
+SAL0000088,SKU01264,The Souled Store,Bottomwear,Joggers,2023-11-18,11.0,2023.0,Festive,Delhi,North,1.0,Meesho,4.0,950.0,0.0,950.0,3800.0,1840.0,1960.0,51.58,0.0,0.93
+SAL0000089,SKU01956,Myntra M,Topwear,Tank Top,2024-05-26,5.0,2024.0,Summer,Coimbatore,South,3.0,Ajio,1.0,1100.0,30.0,770.0,770.0,450.0,320.0,41.56,0.0,0.57
+SAL0000090,SKU01331,The Souled Store,Accessories,Sling Bag,2023-05-14,5.0,2023.0,Summer,Bangalore,South,1.0,Offline Store,4.0,680.0,40.0,408.0,1632.0,1040.0,592.0,36.27,0.0,0.92
+SAL0000091,SKU01345,The Souled Store,Accessories,Belts,2023-05-04,5.0,2023.0,Summer,Delhi,North,1.0,D2C Website,3.0,620.0,0.0,620.0,1860.0,780.0,1080.0,58.06,0.0,0.93
+SAL0000092,SKU01798,Zudio,Accessories,Sling Bag,2023-04-13,4.0,2023.0,Summer,Mumbai,West,1.0,Myntra,1.0,390.0,10.0,351.0,351.0,140.0,211.0,60.11,0.0,0.95
+SAL0000093,SKU01758,Zudio,Ethnic,Sharara Set,2024-10-03,10.0,2024.0,Festive,Pune,West,2.0,D2C Website,2.0,1100.0,0.0,1100.0,2200.0,1060.0,1140.0,51.82,1.0,0.8
+SAL0000094,SKU01117,Snitch,Topwear,Oversized T-Shirt,2023-04-03,4.0,2023.0,Summer,Chennai,South,1.0,Amazon,1.0,1160.0,50.0,580.0,580.0,530.0,50.0,8.62,0.0,0.85
+SAL0000095,SKU01864,H&M India,Ethnic,Kurta Set,2024-04-14,4.0,2024.0,Summer,Kolkata,East,1.0,Offline Store,3.0,2950.0,15.0,2507.5,7522.5,3900.0,3622.5,48.16,0.0,0.83
+SAL0000096,SKU01892,H&M India,Dresses,Shirt Dress,2024-05-04,5.0,2024.0,Summer,Patna,East,3.0,Myntra,5.0,2450.0,0.0,2450.0,12250.0,5950.0,6300.0,51.43,0.0,0.5
+SAL0000097,SKU01776,Zudio,Dresses,Shirt Dress,2023-11-28,11.0,2023.0,Festive,Surat,West,2.0,Myntra,5.0,1000.0,0.0,1000.0,5000.0,2400.0,2600.0,52.0,1.0,0.7
+SAL0000098,SKU01689,Libas,Accessories,Bucket Hat,2023-02-23,2.0,2023.0,Winter,Bangalore,South,1.0,D2C Website,4.0,750.0,0.0,750.0,3000.0,1320.0,1680.0,56.0,1.0,0.92
+SAL0000099,SKU02150,Styli,Accessories,Sling Bag,2024-08-31,8.0,2024.0,Monsoon,Delhi,North,1.0,Amazon,3.0,1050.0,0.0,1050.0,3150.0,1380.0,1770.0,56.19,0.0,0.93
+SAL0000100,SKU01104,Bewakoof,Accessories,Bucket Hat,2024-02-25,2.0,2024.0,Winter,Chennai,South,1.0,D2C Website,1.0,510.0,15.0,433.5,433.5,190.0,243.5,56.17,0.0,0.85
+SAL0000101,SKU01770,Zudio,Dresses,Bodycon Dress,2023-12-07,12.0,2023.0,Winter,Delhi,North,1.0,Ajio,1.0,970.0,25.0,727.5,727.5,360.0,367.5,50.52,1.0,0.93
+SAL0000102,SKU01971,Myntra M,Bottomwear,Mini Skirt,2024-03-06,3.0,2024.0,Summer,Ahmedabad,West,2.0,Myntra,1.0,1300.0,5.0,1235.0,1235.0,590.0,645.0,52.23,1.0,0.78
+SAL0000103,SKU01752,Zudio,Ethnic,Co-ord Saree,2024-10-06,10.0,2024.0,Festive,Bangalore,South,1.0,Meesho,5.0,1010.0,0.0,1010.0,5050.0,2050.0,3000.0,59.41,0.0,0.92
+SAL0000104,SKU01870,H&M India,Ethnic,Anarkali,2024-10-06,10.0,2024.0,Festive,Mumbai,West,1.0,Ajio,2.0,2960.0,0.0,2960.0,5920.0,2720.0,3200.0,54.05,0.0,0.95
+SAL0000105,SKU01347,The Souled Store,Accessories,Belts,2023-04-22,4.0,2023.0,Summer,Bangalore,South,1.0,Ajio,1.0,580.0,0.0,580.0,580.0,260.0,320.0,55.17,0.0,0.92
+SAL0000106,SKU01535,FabAlley,Dresses,Bodycon Dress,2023-01-01,1.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,2.0,1830.0,30.0,1281.0,2562.0,1400.0,1162.0,45.36,0.0,0.83
+SAL0000107,SKU01375,Urbanic,Bottomwear,Baggy Jeans,2023-10-16,10.0,2023.0,Festive,Bangalore,South,1.0,Myntra,1.0,1500.0,5.0,1425.0,1425.0,740.0,685.0,48.07,0.0,0.92
+SAL0000108,SKU02066,Styli,Topwear,Sweatshirt,2024-08-02,8.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,1.0,1300.0,0.0,1300.0,1300.0,560.0,740.0,56.92,0.0,0.92
+SAL0000109,SKU01262,The Souled Store,Bottomwear,Cargo Pants,2023-03-18,3.0,2023.0,Summer,Bangalore,South,1.0,Offline Store,3.0,1210.0,10.0,1089.0,3267.0,1530.0,1737.0,53.17,0.0,0.92
+SAL0000110,SKU01481,FabAlley,Topwear,Sweatshirt,2023-08-21,8.0,2023.0,Monsoon,Bangalore,South,1.0,Meesho,5.0,1110.0,20.0,888.0,4440.0,2250.0,2190.0,49.32,0.0,0.92
+SAL0000111,SKU01510,FabAlley,Bottomwear,Shorts,2024-05-18,5.0,2024.0,Summer,Chennai,South,1.0,Myntra,1.0,1590.0,5.0,1510.5,1510.5,630.0,880.5,58.29,0.0,0.85
+SAL0000112,SKU01345,The Souled Store,Accessories,Belts,2024-12-02,12.0,2024.0,Winter,Chennai,South,1.0,D2C Website,1.0,620.0,15.0,527.0,527.0,260.0,267.0,50.66,0.0,0.85
+SAL0000113,SKU01745,Zudio,Bottomwear,Shorts,2023-02-17,2.0,2023.0,Winter,Pune,West,2.0,Myntra,2.0,640.0,15.0,544.0,1088.0,520.0,568.0,52.21,0.0,0.8
+SAL0000114,SKU02055,Styli,Topwear,Oversized T-Shirt,2023-01-20,1.0,2023.0,Winter,Delhi,North,1.0,Ajio,4.0,1140.0,5.0,1083.0,4332.0,1720.0,2612.0,60.3,0.0,0.93
+SAL0000115,SKU01004,Bewakoof,Topwear,Crop Top,2023-08-20,8.0,2023.0,Monsoon,Chennai,South,1.0,Myntra,1.0,820.0,10.0,738.0,738.0,370.0,368.0,49.86,1.0,0.85
+SAL0000116,SKU02091,Styli,Bottomwear,Palazzo,2023-06-26,6.0,2023.0,Monsoon,Kolkata,East,1.0,Amazon,1.0,1370.0,25.0,1027.5,1027.5,540.0,487.5,47.45,1.0,0.83
+SAL0000117,SKU01478,FabAlley,Topwear,Hoodie,2023-04-15,4.0,2023.0,Summer,Surat,West,2.0,Amazon,1.0,1210.0,5.0,1149.5,1149.5,430.0,719.5,62.59,0.0,0.7
+SAL0000118,SKU02049,Myntra M,Accessories,Belts,2024-07-19,7.0,2024.0,Monsoon,Surat,West,2.0,D2C Website,1.0,780.0,30.0,546.0,546.0,320.0,226.0,41.39,0.0,0.7
+SAL0000119,SKU01492,FabAlley,Bottomwear,Baggy Jeans,2023-01-01,1.0,2023.0,Winter,Pune,West,2.0,D2C Website,1.0,1600.0,5.0,1520.0,1520.0,680.0,840.0,55.26,0.0,0.8
+SAL0000120,SKU01354,Urbanic,Topwear,Crop Top,2024-07-02,7.0,2024.0,Monsoon,Hyderabad,South,1.0,D2C Website,1.0,1260.0,30.0,882.0,882.0,570.0,312.0,35.37,1.0,0.88
+SAL0000121,SKU01818,Zudio,Accessories,Scarves,2023-12-22,12.0,2023.0,Winter,Kolkata,East,1.0,Ajio,1.0,410.0,20.0,328.0,328.0,150.0,178.0,54.27,0.0,0.83
+SAL0000122,SKU01438,Urbanic,Footwear,Loafers,2024-10-21,10.0,2024.0,Festive,Kolkata,East,1.0,Myntra,2.0,3260.0,30.0,2282.0,4564.0,2920.0,1644.0,36.02,0.0,0.83
+SAL0000123,SKU01665,Libas,Footwear,Chunky Sneakers,2023-03-27,3.0,2023.0,Summer,Chennai,South,1.0,Ajio,2.0,2380.0,20.0,1904.0,3808.0,2180.0,1628.0,42.75,0.0,0.85
+SAL0000124,SKU02108,Styli,Ethnic,Sharara Set,2024-01-12,1.0,2024.0,Winter,Surat,West,2.0,Myntra,3.0,2640.0,15.0,2244.0,6732.0,3120.0,3612.0,53.65,0.0,0.7
+SAL0000125,SKU01457,Urbanic,Accessories,Caps,2024-01-12,1.0,2024.0,Winter,Ahmedabad,West,2.0,Offline Store,1.0,1030.0,0.0,1030.0,1030.0,430.0,600.0,58.25,0.0,0.78
+SAL0000126,SKU01676,Libas,Footwear,Sneakers,2024-08-19,8.0,2024.0,Monsoon,Chennai,South,1.0,Myntra,2.0,2300.0,5.0,2185.0,4370.0,2120.0,2250.0,51.49,0.0,0.85
+SAL0000127,SKU02104,Styli,Ethnic,Anarkali,2023-07-25,7.0,2023.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,2250.0,15.0,1912.5,1912.5,1090.0,822.5,43.01,0.0,0.95
+SAL0000128,SKU01764,Zudio,Ethnic,Nehru Jacket,2024-01-19,1.0,2024.0,Winter,Bangalore,South,1.0,Amazon,5.0,1140.0,10.0,1026.0,5130.0,2450.0,2680.0,52.24,0.0,0.92
+SAL0000129,SKU01563,FabAlley,Footwear,Sandals,2024-10-29,10.0,2024.0,Festive,Nagpur,West,3.0,Ajio,4.0,2360.0,10.0,2124.0,8496.0,3880.0,4616.0,54.33,0.0,0.55
+SAL0000130,SKU01475,FabAlley,Topwear,Shirt,2023-01-30,1.0,2023.0,Winter,Mumbai,West,1.0,Myntra,1.0,1230.0,20.0,984.0,984.0,550.0,434.0,44.11,0.0,0.95
+SAL0000131,SKU01711,Zudio,Topwear,Hoodie,2023-03-10,3.0,2023.0,Summer,Delhi,North,1.0,D2C Website,1.0,480.0,10.0,432.0,432.0,180.0,252.0,58.33,1.0,0.93
+SAL0000132,SKU02039,Myntra M,Accessories,Bucket Hat,2023-05-31,5.0,2023.0,Summer,Kolkata,East,1.0,D2C Website,1.0,820.0,15.0,697.0,697.0,380.0,317.0,45.48,0.0,0.83
+SAL0000133,SKU02032,Myntra M,Accessories,Sling Bag,2023-04-05,4.0,2023.0,Summer,Kolkata,East,1.0,Offline Store,2.0,620.0,0.0,620.0,1240.0,580.0,660.0,53.23,0.0,0.83
+SAL0000134,SKU01946,Myntra M,Topwear,Hoodie,2023-04-30,4.0,2023.0,Summer,Delhi,North,1.0,Meesho,2.0,1050.0,0.0,1050.0,2100.0,800.0,1300.0,61.9,1.0,0.93
+SAL0000135,SKU01138,Snitch,Topwear,Blazer,2023-07-30,7.0,2023.0,Monsoon,Jaipur,North,2.0,Myntra,2.0,1390.0,0.0,1390.0,2780.0,1240.0,1540.0,55.4,0.0,0.75
+SAL0000136,SKU01553,FabAlley,Footwear,Block Heels,2024-08-10,8.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,2.0,2610.0,5.0,2479.5,4959.0,2420.0,2539.0,51.2,1.0,0.92
+SAL0000137,SKU01034,Bewakoof,Bottomwear,Mini Skirt,2024-07-07,7.0,2024.0,Monsoon,Ahmedabad,West,2.0,D2C Website,1.0,870.0,20.0,696.0,696.0,430.0,266.0,38.22,1.0,0.78
+SAL0000138,SKU01069,Bewakoof,Dresses,Wrap Dress,2024-01-15,1.0,2024.0,Winter,Coimbatore,South,3.0,Ajio,1.0,1250.0,0.0,1250.0,1250.0,620.0,630.0,50.4,1.0,0.57
+SAL0000139,SKU01484,FabAlley,Topwear,Polo T-Shirt,2024-12-12,12.0,2024.0,Winter,Jaipur,North,2.0,Myntra,1.0,1220.0,20.0,976.0,976.0,510.0,466.0,47.75,0.0,0.75
+SAL0000140,SKU01455,Urbanic,Accessories,Bucket Hat,2024-12-08,12.0,2024.0,Winter,Surat,West,2.0,Myntra,1.0,1050.0,15.0,892.5,892.5,410.0,482.5,54.06,0.0,0.7
+SAL0000141,SKU01810,Zudio,Accessories,Sunglasses,2024-01-11,1.0,2024.0,Winter,Delhi,North,1.0,Offline Store,3.0,410.0,15.0,348.5,1045.5,450.0,595.5,56.96,0.0,0.93
+SAL0000142,SKU01978,Myntra M,Bottomwear,Shorts,2023-07-31,7.0,2023.0,Monsoon,Bangalore,South,1.0,Ajio,2.0,1250.0,5.0,1187.5,2375.0,1040.0,1335.0,56.21,1.0,0.92
+SAL0000143,SKU01353,Urbanic,Topwear,Oversized T-Shirt,2023-05-11,5.0,2023.0,Summer,Hyderabad,South,1.0,Ajio,2.0,1290.0,0.0,1290.0,2580.0,1220.0,1360.0,52.71,1.0,0.88
+SAL0000144,SKU02166,Styli,Accessories,Belts,2024-06-01,6.0,2024.0,Monsoon,Ahmedabad,West,2.0,Offline Store,1.0,990.0,0.0,990.0,990.0,450.0,540.0,54.55,0.0,0.78
+SAL0000145,SKU01981,Myntra M,Ethnic,Kurta Set,2024-06-27,6.0,2024.0,Monsoon,Chennai,South,1.0,Ajio,4.0,1980.0,15.0,1683.0,6732.0,3240.0,3492.0,51.87,0.0,0.85
+SAL0000146,SKU01428,Urbanic,Dresses,Co-ord Set,2023-02-25,2.0,2023.0,Winter,Delhi,North,1.0,Amazon,1.0,1900.0,20.0,1520.0,1520.0,800.0,720.0,47.37,1.0,0.93
+SAL0000147,SKU01760,Zudio,Ethnic,Dhoti Pants,2024-08-14,8.0,2024.0,Monsoon,Surat,West,2.0,D2C Website,4.0,910.0,10.0,819.0,3276.0,1800.0,1476.0,45.05,0.0,0.7
+SAL0000148,SKU02080,Styli,Bottomwear,Cargo Pants,2024-10-28,10.0,2024.0,Festive,Kochi,South,3.0,D2C Website,3.0,1670.0,0.0,1670.0,5010.0,2220.0,2790.0,55.69,1.0,0.62
+SAL0000149,SKU01367,Urbanic,Topwear,Polo T-Shirt,2023-10-22,10.0,2023.0,Festive,Kolkata,East,1.0,Myntra,1.0,1300.0,15.0,1105.0,1105.0,630.0,475.0,42.99,1.0,0.83
+SAL0000150,SKU01840,H&M India,Topwear,Blazer,2023-07-16,7.0,2023.0,Monsoon,Kochi,South,3.0,Amazon,1.0,1370.0,10.0,1233.0,1233.0,680.0,553.0,44.85,0.0,0.62
+SAL0000151,SKU01882,H&M India,Dresses,Maxi Dress,2024-08-31,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Meesho,1.0,2090.0,20.0,1672.0,1672.0,830.0,842.0,50.36,0.0,0.74
+SAL0000152,SKU01491,FabAlley,Topwear,Blazer,2024-07-18,7.0,2024.0,Monsoon,Indore,Central,3.0,D2C Website,1.0,1060.0,10.0,954.0,954.0,380.0,574.0,60.17,0.0,0.6
+SAL0000153,SKU01221,Snitch,Accessories,Bucket Hat,2024-08-19,8.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,2.0,920.0,15.0,782.0,1564.0,740.0,824.0,52.69,0.0,0.92
+SAL0000154,SKU01256,The Souled Store,Topwear,Blazer,2023-12-14,12.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,2.0,990.0,0.0,990.0,1980.0,960.0,1020.0,51.52,0.0,0.83
+SAL0000155,SKU01207,Snitch,Footwear,Sneakers,2024-06-14,6.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,4.0,2990.0,15.0,2541.5,10166.0,5000.0,5166.0,50.82,0.0,0.92
+SAL0000156,SKU01220,Snitch,Accessories,Bucket Hat,2023-12-30,12.0,2023.0,Winter,Chennai,South,1.0,Amazon,3.0,840.0,20.0,672.0,2016.0,1260.0,756.0,37.5,0.0,0.85
+SAL0000157,SKU01882,H&M India,Dresses,Maxi Dress,2024-10-17,10.0,2024.0,Festive,Jaipur,North,2.0,D2C Website,1.0,2090.0,40.0,1254.0,1254.0,830.0,424.0,33.81,0.0,0.75
+SAL0000158,SKU01749,Zudio,Ethnic,Kurta Set,2023-06-08,6.0,2023.0,Monsoon,Pune,West,2.0,Amazon,2.0,1010.0,50.0,505.0,1010.0,960.0,50.0,4.95,0.0,0.8
+SAL0000159,SKU01733,Zudio,Bottomwear,Joggers,2024-02-27,2.0,2024.0,Winter,Chandigarh,North,2.0,Meesho,1.0,800.0,0.0,800.0,800.0,330.0,470.0,58.75,0.0,0.74
+SAL0000160,SKU01858,H&M India,Bottomwear,Straight Fit Jeans,2024-01-13,1.0,2024.0,Winter,Chennai,South,1.0,D2C Website,3.0,1560.0,0.0,1560.0,4680.0,2130.0,2550.0,54.49,0.0,0.85
+SAL0000161,SKU02078,Styli,Bottomwear,Baggy Jeans,2023-02-07,2.0,2023.0,Winter,Hyderabad,South,1.0,Meesho,2.0,1430.0,15.0,1215.5,2431.0,1160.0,1271.0,52.28,0.0,0.88
+SAL0000162,SKU01379,Urbanic,Bottomwear,Cargo Pants,2024-06-13,6.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,1.0,1900.0,0.0,1900.0,1900.0,890.0,1010.0,53.16,0.0,0.92
+SAL0000163,SKU01732,Zudio,Bottomwear,Joggers,2024-05-26,5.0,2024.0,Summer,Chandigarh,North,2.0,Myntra,1.0,800.0,15.0,680.0,680.0,290.0,390.0,57.35,0.0,0.74
+SAL0000164,SKU01745,Zudio,Bottomwear,Shorts,2023-01-14,1.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,1.0,640.0,15.0,544.0,544.0,260.0,284.0,52.21,0.0,0.83
+SAL0000165,SKU01741,Zudio,Bottomwear,Straight Fit Jeans,2023-09-15,9.0,2023.0,Festive,Jaipur,North,2.0,Myntra,3.0,710.0,5.0,674.5,2023.5,750.0,1273.5,62.94,0.0,0.75
+SAL0000166,SKU01335,The Souled Store,Accessories,Tote Bag,2023-10-05,10.0,2023.0,Festive,Hyderabad,South,1.0,Ajio,2.0,590.0,0.0,590.0,1180.0,580.0,600.0,50.85,0.0,0.88
+SAL0000167,SKU01797,Zudio,Footwear,Sandals,2023-12-27,12.0,2023.0,Winter,Delhi,North,1.0,D2C Website,1.0,1340.0,10.0,1206.0,1206.0,590.0,616.0,51.08,0.0,0.93
+SAL0000168,SKU01106,Bewakoof,Accessories,Caps,2024-02-04,2.0,2024.0,Winter,Mumbai,West,1.0,Myntra,2.0,630.0,5.0,598.5,1197.0,480.0,717.0,59.9,0.0,0.95
+SAL0000169,SKU02004,Myntra M,Dresses,Bodycon Dress,2023-11-17,11.0,2023.0,Festive,Surat,West,2.0,Amazon,1.0,1360.0,10.0,1224.0,1224.0,580.0,644.0,52.61,1.0,0.7
+SAL0000170,SKU01648,Libas,Dresses,Maxi Dress,2024-01-20,1.0,2024.0,Winter,Chennai,South,1.0,Myntra,1.0,1520.0,10.0,1368.0,1368.0,560.0,808.0,59.06,0.0,0.85
+SAL0000171,SKU02066,Styli,Topwear,Sweatshirt,2023-05-28,5.0,2023.0,Summer,Ahmedabad,West,2.0,D2C Website,1.0,1300.0,0.0,1300.0,1300.0,560.0,740.0,56.92,0.0,0.78
+SAL0000172,SKU02057,Styli,Topwear,Crop Top,2023-08-19,8.0,2023.0,Monsoon,Kolkata,East,1.0,Amazon,5.0,1340.0,25.0,1005.0,5025.0,2500.0,2525.0,50.25,0.0,0.83
+SAL0000173,SKU01753,Zudio,Ethnic,Anarkali,2023-11-10,11.0,2023.0,Festive,Kolkata,East,1.0,Ajio,2.0,1070.0,0.0,1070.0,2140.0,920.0,1220.0,57.01,0.0,0.83
+SAL0000174,SKU01390,Urbanic,Bottomwear,Straight Fit Jeans,2024-11-23,11.0,2024.0,Festive,Bangalore,South,1.0,D2C Website,2.0,1800.0,10.0,1620.0,3240.0,1560.0,1680.0,51.85,0.0,0.92
+SAL0000175,SKU01613,Libas,Bottomwear,Cargo Pants,2024-07-01,7.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,1.0,1260.0,0.0,1260.0,1260.0,490.0,770.0,61.11,0.0,0.92
+SAL0000176,SKU01753,Zudio,Ethnic,Anarkali,2024-04-04,4.0,2024.0,Summer,Surat,West,2.0,Offline Store,1.0,1070.0,0.0,1070.0,1070.0,460.0,610.0,57.01,0.0,0.7
+SAL0000177,SKU01361,Urbanic,Topwear,Hoodie,2023-10-26,10.0,2023.0,Festive,Ahmedabad,West,2.0,Ajio,2.0,1180.0,20.0,944.0,1888.0,1080.0,808.0,42.8,0.0,0.78
+SAL0000178,SKU01765,Zudio,Dresses,Maxi Dress,2024-01-03,1.0,2024.0,Winter,Surat,West,2.0,Ajio,1.0,860.0,15.0,731.0,731.0,380.0,351.0,48.02,1.0,0.7
+SAL0000179,SKU01770,Zudio,Dresses,Bodycon Dress,2023-02-18,2.0,2023.0,Winter,Lucknow,North,2.0,Meesho,2.0,970.0,10.0,873.0,1746.0,720.0,1026.0,58.76,1.0,0.72
+SAL0000180,SKU01437,Urbanic,Footwear,Block Heels,2024-01-27,1.0,2024.0,Winter,Ahmedabad,West,2.0,Amazon,1.0,2620.0,15.0,2227.0,2227.0,980.0,1247.0,55.99,1.0,0.78
+SAL0000181,SKU02025,Myntra M,Footwear,Loafers,2024-08-23,8.0,2024.0,Monsoon,Surat,West,2.0,Offline Store,1.0,2130.0,10.0,1917.0,1917.0,900.0,1017.0,53.05,0.0,0.7
+SAL0000182,SKU01687,Libas,Accessories,Bucket Hat,2023-10-14,10.0,2023.0,Festive,Mumbai,West,1.0,Amazon,1.0,720.0,5.0,684.0,684.0,350.0,334.0,48.83,0.0,0.95
+SAL0000183,SKU01474,FabAlley,Topwear,Shirt,2024-02-05,2.0,2024.0,Winter,Bhopal,Central,3.0,Offline Store,4.0,1330.0,10.0,1197.0,4788.0,2320.0,2468.0,51.55,1.0,0.58
+SAL0000184,SKU01624,Libas,Bottomwear,Straight Fit Jeans,2023-12-17,12.0,2023.0,Winter,Hyderabad,South,1.0,D2C Website,2.0,1460.0,25.0,1095.0,2190.0,1300.0,890.0,40.64,0.0,0.88
+SAL0000185,SKU01003,Bewakoof,Topwear,Crop Top,2023-04-27,4.0,2023.0,Summer,Pune,West,2.0,Ajio,1.0,690.0,5.0,655.5,655.5,330.0,325.5,49.66,1.0,0.8
+SAL0000186,SKU01166,Snitch,Ethnic,Co-ord Saree,2023-07-25,7.0,2023.0,Monsoon,Mumbai,West,1.0,Ajio,1.0,2050.0,5.0,1947.5,1947.5,750.0,1197.5,61.49,0.0,0.95
+SAL0000187,SKU01534,FabAlley,Dresses,Bodycon Dress,2023-03-17,3.0,2023.0,Summer,Bhopal,Central,3.0,Offline Store,1.0,1860.0,30.0,1302.0,1302.0,730.0,572.0,43.93,0.0,0.58
+SAL0000188,SKU01632,Libas,Ethnic,Kurta Set,2024-12-09,12.0,2024.0,Winter,Hyderabad,South,1.0,Myntra,1.0,1660.0,50.0,830.0,830.0,600.0,230.0,27.71,0.0,0.88
+SAL0000189,SKU01596,Libas,Topwear,Hoodie,2023-02-19,2.0,2023.0,Winter,Kolkata,East,1.0,Ajio,2.0,990.0,10.0,891.0,1782.0,880.0,902.0,50.62,0.0,0.83
+SAL0000190,SKU01456,Urbanic,Accessories,Caps,2024-05-14,5.0,2024.0,Summer,Indore,Central,3.0,Amazon,1.0,1060.0,20.0,848.0,848.0,440.0,408.0,48.11,0.0,0.6
+SAL0000191,SKU01281,The Souled Store,Ethnic,Kurta Set,2024-05-28,5.0,2024.0,Summer,Ahmedabad,West,2.0,Offline Store,2.0,1470.0,10.0,1323.0,2646.0,1040.0,1606.0,60.7,0.0,0.78
+SAL0000192,SKU01591,Libas,Topwear,Shirt,2023-05-18,5.0,2023.0,Summer,Surat,West,2.0,Ajio,1.0,1080.0,5.0,1026.0,1026.0,530.0,496.0,48.34,0.0,0.7
+SAL0000193,SKU01664,Libas,Footwear,Chunky Sneakers,2024-10-12,10.0,2024.0,Festive,Mumbai,West,1.0,Amazon,1.0,2450.0,10.0,2205.0,2205.0,1040.0,1165.0,52.83,1.0,0.95
+SAL0000194,SKU02043,Myntra M,Accessories,Caps,2024-12-28,12.0,2024.0,Winter,Surat,West,2.0,Offline Store,2.0,630.0,30.0,441.0,882.0,560.0,322.0,36.51,0.0,0.7
+SAL0000195,SKU02037,Myntra M,Accessories,Tote Bag,2024-09-15,9.0,2024.0,Festive,Jaipur,North,2.0,D2C Website,2.0,800.0,10.0,720.0,1440.0,760.0,680.0,47.22,0.0,0.75
+SAL0000196,SKU01668,Libas,Footwear,Kolhapuri,2023-07-15,7.0,2023.0,Monsoon,Ahmedabad,West,2.0,Amazon,4.0,2130.0,5.0,2023.5,8094.0,3840.0,4254.0,52.56,1.0,0.78
+SAL0000197,SKU01525,FabAlley,Ethnic,Dhoti Pants,2023-12-11,12.0,2023.0,Winter,Coimbatore,South,3.0,D2C Website,1.0,2500.0,10.0,2250.0,2250.0,1070.0,1180.0,52.44,0.0,0.57
+SAL0000198,SKU01720,Zudio,Topwear,Tank Top,2024-01-01,1.0,2024.0,Winter,Indore,Central,3.0,Amazon,1.0,640.0,5.0,608.0,608.0,230.0,378.0,62.17,0.0,0.6
+SAL0000199,SKU02161,Styli,Accessories,Sunglasses,2023-10-13,10.0,2023.0,Festive,Bangalore,South,1.0,Amazon,1.0,990.0,5.0,940.5,940.5,390.0,550.5,58.53,0.0,0.92
+SAL0000200,SKU01748,Zudio,Ethnic,Kurta Set,2024-03-31,3.0,2024.0,Summer,Jaipur,North,2.0,Ajio,1.0,1090.0,10.0,981.0,981.0,460.0,521.0,53.11,0.0,0.75
+SAL0000201,SKU02127,Styli,Dresses,Shirt Dress,2023-06-08,6.0,2023.0,Monsoon,Coimbatore,South,3.0,Myntra,1.0,2310.0,5.0,2194.5,2194.5,1010.0,1184.5,53.98,0.0,0.57
+SAL0000202,SKU01865,H&M India,Ethnic,Kurta Set,2023-02-13,2.0,2023.0,Winter,Lucknow,North,2.0,Ajio,2.0,2540.0,10.0,2286.0,4572.0,2260.0,2312.0,50.57,0.0,0.72
+SAL0000203,SKU01926,H&M India,Accessories,Caps,2023-03-01,3.0,2023.0,Summer,Chandigarh,North,2.0,Ajio,1.0,1200.0,10.0,1080.0,1080.0,570.0,510.0,47.22,0.0,0.74
+SAL0000204,SKU01095,Bewakoof,Footwear,Sandals,2023-05-10,5.0,2023.0,Summer,Delhi,North,1.0,Myntra,1.0,1580.0,5.0,1501.0,1501.0,770.0,731.0,48.7,0.0,0.93
+SAL0000205,SKU01657,Libas,Dresses,Shirt Dress,2024-06-14,6.0,2024.0,Monsoon,Pune,West,2.0,Myntra,2.0,1660.0,5.0,1577.0,3154.0,1480.0,1674.0,53.08,0.0,0.8
+SAL0000206,SKU02136,Styli,Footwear,Kolhapuri,2024-12-25,12.0,2024.0,Winter,Kolkata,East,1.0,Meesho,1.0,2870.0,10.0,2583.0,2583.0,1290.0,1293.0,50.06,0.0,0.83
+SAL0000207,SKU01662,Libas,Dresses,Co-ord Set,2023-03-17,3.0,2023.0,Summer,Mumbai,West,1.0,Myntra,2.0,1930.0,15.0,1640.5,3281.0,1540.0,1741.0,53.06,0.0,0.95
+SAL0000208,SKU01443,Urbanic,Footwear,Sneakers,2024-11-25,11.0,2024.0,Festive,Delhi,North,1.0,Meesho,2.0,3200.0,40.0,1920.0,3840.0,2460.0,1380.0,35.94,0.0,0.93
+SAL0000209,SKU01029,Bewakoof,Bottomwear,Cargo Pants,2023-09-20,9.0,2023.0,Festive,Bhopal,Central,3.0,Offline Store,1.0,860.0,0.0,860.0,860.0,340.0,520.0,60.47,0.0,0.58
+SAL0000210,SKU01667,Libas,Footwear,Kolhapuri,2024-10-07,10.0,2024.0,Festive,Delhi,North,1.0,Amazon,1.0,2670.0,30.0,1869.0,1869.0,1190.0,679.0,36.33,1.0,0.93
+SAL0000211,SKU01749,Zudio,Ethnic,Kurta Set,2024-06-03,6.0,2024.0,Monsoon,Mumbai,West,1.0,Myntra,1.0,1010.0,15.0,858.5,858.5,480.0,378.5,44.09,1.0,0.95
+SAL0000212,SKU01312,The Souled Store,Footwear,Chunky Sneakers,2024-12-30,12.0,2024.0,Winter,Delhi,North,1.0,Myntra,3.0,2050.0,40.0,1230.0,3690.0,2490.0,1200.0,32.52,0.0,0.93
+SAL0000213,SKU01737,Zudio,Bottomwear,Mini Skirt,2023-05-01,5.0,2023.0,Summer,Chennai,South,1.0,Amazon,2.0,660.0,10.0,594.0,1188.0,600.0,588.0,49.49,0.0,0.85
+SAL0000214,SKU01403,Urbanic,Ethnic,Anarkali,2023-09-02,9.0,2023.0,Festive,Lucknow,North,2.0,Myntra,3.0,2880.0,0.0,2880.0,8640.0,4230.0,4410.0,51.04,0.0,0.72
+SAL0000215,SKU02077,Styli,Bottomwear,Baggy Jeans,2023-09-19,9.0,2023.0,Festive,Patna,East,3.0,Meesho,1.0,1410.0,5.0,1339.5,1339.5,540.0,799.5,59.69,0.0,0.5
+SAL0000216,SKU02028,Myntra M,Footwear,Sneakers,2024-01-22,1.0,2024.0,Winter,Lucknow,North,2.0,Ajio,1.0,2130.0,15.0,1810.5,1810.5,880.0,930.5,51.39,0.0,0.72
+SAL0000217,SKU01785,Zudio,Footwear,Kolhapuri,2023-11-14,11.0,2023.0,Festive,Delhi,North,1.0,D2C Website,1.0,1290.0,20.0,1032.0,1032.0,480.0,552.0,53.49,0.0,0.93
+SAL0000218,SKU01196,Snitch,Footwear,Chunky Sneakers,2024-01-04,1.0,2024.0,Winter,Coimbatore,South,3.0,D2C Website,2.0,2770.0,25.0,2077.5,4155.0,2580.0,1575.0,37.91,0.0,0.57
+SAL0000219,SKU01183,Snitch,Dresses,Bodycon Dress,2024-05-06,5.0,2024.0,Summer,Chandigarh,North,2.0,D2C Website,1.0,2370.0,10.0,2133.0,2133.0,1150.0,983.0,46.09,0.0,0.74
+SAL0000220,SKU01953,Myntra M,Topwear,Polo T-Shirt,2024-02-05,2.0,2024.0,Winter,Lucknow,North,2.0,D2C Website,1.0,1090.0,25.0,817.5,817.5,440.0,377.5,46.18,0.0,0.72
+SAL0000221,SKU01418,Urbanic,Dresses,Bodycon Dress,2024-11-18,11.0,2024.0,Festive,Kolkata,East,1.0,Myntra,1.0,2480.0,0.0,2480.0,2480.0,1000.0,1480.0,59.68,0.0,0.83
+SAL0000222,SKU01244,The Souled Store,Topwear,Hoodie,2023-07-01,7.0,2023.0,Monsoon,Jaipur,North,2.0,D2C Website,4.0,1000.0,10.0,900.0,3600.0,1920.0,1680.0,46.67,0.0,0.75
+SAL0000223,SKU01221,Snitch,Accessories,Bucket Hat,2023-09-16,9.0,2023.0,Festive,Kolkata,East,1.0,Offline Store,3.0,920.0,20.0,736.0,2208.0,1110.0,1098.0,49.73,0.0,0.83
+SAL0000224,SKU02078,Styli,Bottomwear,Baggy Jeans,2024-08-18,8.0,2024.0,Monsoon,Chennai,South,1.0,Meesho,4.0,1430.0,15.0,1215.5,4862.0,2320.0,2542.0,52.28,1.0,0.85
+SAL0000225,SKU01527,FabAlley,Ethnic,Dhoti Pants,2023-05-19,5.0,2023.0,Summer,Hyderabad,South,1.0,Amazon,1.0,2580.0,20.0,2064.0,2064.0,1040.0,1024.0,49.61,0.0,0.88
+SAL0000226,SKU01795,Zudio,Footwear,Sandals,2023-09-25,9.0,2023.0,Festive,Delhi,North,1.0,Ajio,2.0,1330.0,20.0,1064.0,2128.0,1320.0,808.0,37.97,0.0,0.93
+SAL0000227,SKU01301,The Souled Store,Dresses,Bodycon Dress,2024-04-08,4.0,2024.0,Summer,Bangalore,South,1.0,Myntra,1.0,1290.0,20.0,1032.0,1032.0,470.0,562.0,54.46,0.0,0.92
+SAL0000228,SKU01436,Urbanic,Footwear,Block Heels,2024-02-03,2.0,2024.0,Winter,Chennai,South,1.0,Amazon,4.0,3190.0,25.0,2392.5,9570.0,5240.0,4330.0,45.25,0.0,0.85
+SAL0000229,SKU01671,Libas,Footwear,Block Heels,2024-12-24,12.0,2024.0,Winter,Delhi,North,1.0,Offline Store,2.0,2600.0,10.0,2340.0,4680.0,2380.0,2300.0,49.15,0.0,0.93
+SAL0000230,SKU01860,H&M India,Bottomwear,Straight Fit Jeans,2023-05-11,5.0,2023.0,Summer,Jaipur,North,2.0,Myntra,2.0,1610.0,5.0,1529.5,3059.0,1180.0,1879.0,61.43,1.0,0.75
+SAL0000231,SKU01285,The Souled Store,Ethnic,Anarkali,2023-02-24,2.0,2023.0,Winter,Kolkata,East,1.0,Offline Store,1.0,1660.0,0.0,1660.0,1660.0,780.0,880.0,53.01,0.0,0.83
+SAL0000232,SKU01882,H&M India,Dresses,Maxi Dress,2024-11-04,11.0,2024.0,Festive,Kochi,South,3.0,Myntra,5.0,2090.0,10.0,1881.0,9405.0,4150.0,5255.0,55.87,1.0,0.62
+SAL0000233,SKU02082,Styli,Bottomwear,Cargo Pants,2023-01-15,1.0,2023.0,Winter,Hyderabad,South,1.0,Amazon,1.0,1580.0,0.0,1580.0,1580.0,790.0,790.0,50.0,0.0,0.88
+SAL0000234,SKU01803,Zudio,Accessories,Tote Bag,2024-04-18,4.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,360.0,0.0,360.0,360.0,170.0,190.0,52.78,0.0,0.93
+SAL0000235,SKU01675,Libas,Footwear,Sneakers,2023-12-28,12.0,2023.0,Winter,Delhi,North,1.0,Amazon,3.0,2600.0,10.0,2340.0,7020.0,3420.0,3600.0,51.28,0.0,0.93
+SAL0000236,SKU02006,Myntra M,Dresses,Wrap Dress,2023-09-05,9.0,2023.0,Festive,Ahmedabad,West,2.0,D2C Website,1.0,1750.0,0.0,1750.0,1750.0,650.0,1100.0,62.86,0.0,0.78
+SAL0000237,SKU01659,Libas,Dresses,Shirt Dress,2023-05-30,5.0,2023.0,Summer,Hyderabad,South,1.0,Amazon,1.0,1480.0,0.0,1480.0,1480.0,530.0,950.0,64.19,1.0,0.88
+SAL0000238,SKU01112,Bewakoof,Accessories,Belts,2024-09-03,9.0,2024.0,Festive,Delhi,North,1.0,Myntra,1.0,560.0,0.0,560.0,560.0,220.0,340.0,60.71,0.0,0.93
+SAL0000239,SKU01705,Zudio,Topwear,Crop Top,2024-04-16,4.0,2024.0,Summer,Delhi,North,1.0,Myntra,3.0,510.0,10.0,459.0,1377.0,570.0,807.0,58.61,1.0,0.93
+SAL0000240,SKU01886,H&M India,Dresses,Bodycon Dress,2023-05-03,5.0,2023.0,Summer,Jaipur,North,2.0,Amazon,3.0,2610.0,15.0,2218.5,6655.5,3870.0,2785.5,41.85,0.0,0.75
+SAL0000241,SKU01372,Urbanic,Topwear,Blazer,2024-02-08,2.0,2024.0,Winter,Hyderabad,South,1.0,Ajio,2.0,1250.0,10.0,1125.0,2250.0,1220.0,1030.0,45.78,1.0,0.88
+SAL0000242,SKU02061,Styli,Topwear,Shirt,2024-09-02,9.0,2024.0,Festive,Delhi,North,1.0,Offline Store,1.0,1460.0,10.0,1314.0,1314.0,600.0,714.0,54.34,0.0,0.93
+SAL0000243,SKU01447,Urbanic,Accessories,Sling Bag,2023-01-12,1.0,2023.0,Winter,Indore,Central,3.0,Ajio,4.0,1070.0,15.0,909.5,3638.0,1640.0,1998.0,54.92,0.0,0.6
+SAL0000244,SKU02011,Myntra M,Dresses,Co-ord Set,2023-01-28,1.0,2023.0,Winter,Patna,East,3.0,D2C Website,4.0,1760.0,25.0,1320.0,5280.0,2520.0,2760.0,52.27,0.0,0.5
+SAL0000245,SKU01076,Bewakoof,Dresses,Co-ord Set,2023-06-03,6.0,2023.0,Monsoon,Chennai,South,1.0,Ajio,2.0,1160.0,0.0,1160.0,2320.0,980.0,1340.0,57.76,0.0,0.85
+SAL0000246,SKU01648,Libas,Dresses,Maxi Dress,2023-10-17,10.0,2023.0,Festive,Chennai,South,1.0,Myntra,4.0,1520.0,5.0,1444.0,5776.0,2240.0,3536.0,61.22,0.0,0.85
+SAL0000247,SKU01563,FabAlley,Footwear,Sandals,2023-06-10,6.0,2023.0,Monsoon,Delhi,North,1.0,Amazon,1.0,2360.0,5.0,2242.0,2242.0,970.0,1272.0,56.74,0.0,0.93
+SAL0000248,SKU01601,Libas,Topwear,Polo T-Shirt,2024-02-15,2.0,2024.0,Winter,Nagpur,West,3.0,Amazon,2.0,890.0,30.0,623.0,1246.0,700.0,546.0,43.82,0.0,0.55
+SAL0000249,SKU01534,FabAlley,Dresses,Bodycon Dress,2023-10-24,10.0,2023.0,Festive,Ahmedabad,West,2.0,Ajio,1.0,1860.0,0.0,1860.0,1860.0,730.0,1130.0,60.75,0.0,0.78
+SAL0000250,SKU01810,Zudio,Accessories,Sunglasses,2023-01-12,1.0,2023.0,Winter,Indore,Central,3.0,D2C Website,3.0,410.0,0.0,410.0,1230.0,450.0,780.0,63.41,0.0,0.6
+SAL0000251,SKU01367,Urbanic,Topwear,Polo T-Shirt,2024-06-20,6.0,2024.0,Monsoon,Delhi,North,1.0,Offline Store,1.0,1300.0,40.0,780.0,780.0,630.0,150.0,19.23,1.0,0.93
+SAL0000252,SKU01059,Bewakoof,Ethnic,Dhoti Pants,2024-07-10,7.0,2024.0,Monsoon,Ahmedabad,West,2.0,Amazon,4.0,1680.0,15.0,1428.0,5712.0,2880.0,2832.0,49.58,0.0,0.78
+SAL0000253,SKU01578,FabAlley,Accessories,Sunglasses,2023-01-04,1.0,2023.0,Winter,Kolkata,East,1.0,Offline Store,1.0,810.0,5.0,769.5,769.5,390.0,379.5,49.32,0.0,0.83
+SAL0000254,SKU01008,Bewakoof,Topwear,Shirt,2024-03-23,3.0,2024.0,Summer,Ahmedabad,West,2.0,Ajio,1.0,750.0,10.0,675.0,675.0,320.0,355.0,52.59,0.0,0.78
+SAL0000255,SKU01811,Zudio,Accessories,Sunglasses,2024-02-22,2.0,2024.0,Winter,Chennai,South,1.0,Myntra,2.0,430.0,10.0,387.0,774.0,420.0,354.0,45.74,0.0,0.85
+SAL0000256,SKU01617,Libas,Bottomwear,Joggers,2023-04-28,4.0,2023.0,Summer,Jaipur,North,2.0,Offline Store,3.0,1360.0,40.0,816.0,2448.0,1650.0,798.0,32.6,1.0,0.75
+SAL0000257,SKU01037,Bewakoof,Bottomwear,Palazzo,2024-04-30,4.0,2024.0,Summer,Chandigarh,North,2.0,Ajio,4.0,1060.0,10.0,954.0,3816.0,1960.0,1856.0,48.64,0.0,0.74
+SAL0000258,SKU01420,Urbanic,Dresses,Wrap Dress,2023-12-15,12.0,2023.0,Winter,Hyderabad,South,1.0,Amazon,2.0,1890.0,0.0,1890.0,3780.0,1700.0,2080.0,55.03,0.0,0.88
+SAL0000259,SKU01551,FabAlley,Footwear,Kolhapuri,2024-03-23,3.0,2024.0,Summer,Chennai,South,1.0,Myntra,3.0,3010.0,15.0,2558.5,7675.5,4410.0,3265.5,42.54,0.0,0.85
+SAL0000260,SKU01342,The Souled Store,Accessories,Sunglasses,2023-04-17,4.0,2023.0,Summer,Mumbai,West,1.0,Meesho,1.0,740.0,0.0,740.0,740.0,320.0,420.0,56.76,0.0,0.95
+SAL0000261,SKU01456,Urbanic,Accessories,Caps,2024-12-28,12.0,2024.0,Winter,Hyderabad,South,1.0,Meesho,1.0,1060.0,40.0,636.0,636.0,440.0,196.0,30.82,0.0,0.88
+SAL0000262,SKU01379,Urbanic,Bottomwear,Cargo Pants,2023-02-01,2.0,2023.0,Winter,Surat,West,2.0,Offline Store,3.0,1900.0,0.0,1900.0,5700.0,2670.0,3030.0,53.16,0.0,0.7
+SAL0000263,SKU01071,Bewakoof,Dresses,Wrap Dress,2024-10-28,10.0,2024.0,Festive,Bangalore,South,1.0,D2C Website,1.0,1300.0,0.0,1300.0,1300.0,510.0,790.0,60.77,0.0,0.92
+SAL0000264,SKU01974,Myntra M,Bottomwear,Palazzo,2023-02-18,2.0,2023.0,Winter,Surat,West,2.0,Offline Store,2.0,1140.0,10.0,1026.0,2052.0,940.0,1112.0,54.19,1.0,0.7
+SAL0000265,SKU01940,Myntra M,Topwear,Crop Top,2023-01-11,1.0,2023.0,Winter,Bangalore,South,1.0,Ajio,2.0,1010.0,15.0,858.5,1717.0,980.0,737.0,42.92,1.0,0.92
+SAL0000266,SKU01578,FabAlley,Accessories,Sunglasses,2024-06-04,6.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,3.0,810.0,5.0,769.5,2308.5,1170.0,1138.5,49.32,0.0,0.93
+SAL0000267,SKU01207,Snitch,Footwear,Sneakers,2024-12-13,12.0,2024.0,Winter,Delhi,North,1.0,Meesho,2.0,2990.0,20.0,2392.0,4784.0,2500.0,2284.0,47.74,0.0,0.93
+SAL0000268,SKU01576,FabAlley,Accessories,Sunglasses,2024-09-23,9.0,2024.0,Festive,Ahmedabad,West,2.0,Ajio,1.0,950.0,0.0,950.0,950.0,430.0,520.0,54.74,0.0,0.78
+SAL0000269,SKU01827,H&M India,Topwear,Shirt,2024-08-15,8.0,2024.0,Monsoon,Chennai,South,1.0,Myntra,3.0,1260.0,30.0,882.0,2646.0,1860.0,786.0,29.71,0.0,0.85
+SAL0000270,SKU01716,Zudio,Topwear,Sweatshirt,2024-08-16,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Ajio,4.0,560.0,5.0,532.0,2128.0,1000.0,1128.0,53.01,0.0,0.74
+SAL0000271,SKU01274,The Souled Store,Bottomwear,Straight Fit Jeans,2023-01-08,1.0,2023.0,Winter,Chandigarh,North,2.0,D2C Website,1.0,1110.0,15.0,943.5,943.5,520.0,423.5,44.89,0.0,0.74
+SAL0000272,SKU01167,Snitch,Ethnic,Co-ord Saree,2024-11-21,11.0,2024.0,Festive,Chennai,South,1.0,Amazon,1.0,2070.0,0.0,2070.0,2070.0,740.0,1330.0,64.25,0.0,0.85
+SAL0000273,SKU01272,The Souled Store,Bottomwear,Palazzo,2023-04-21,4.0,2023.0,Summer,Delhi,North,1.0,D2C Website,2.0,1140.0,10.0,1026.0,2052.0,920.0,1132.0,55.17,0.0,0.93
+SAL0000274,SKU01258,The Souled Store,Bottomwear,Baggy Jeans,2024-05-26,5.0,2024.0,Summer,Bangalore,South,1.0,Ajio,5.0,1060.0,15.0,901.0,4505.0,2500.0,2005.0,44.51,1.0,0.92
+SAL0000275,SKU01072,Bewakoof,Dresses,Shirt Dress,2024-03-23,3.0,2024.0,Summer,Hyderabad,South,1.0,Offline Store,3.0,1220.0,30.0,854.0,2562.0,1290.0,1272.0,49.65,1.0,0.88
+SAL0000276,SKU01867,H&M India,Ethnic,Co-ord Saree,2024-10-27,10.0,2024.0,Festive,Pune,West,2.0,Myntra,1.0,2400.0,5.0,2280.0,2280.0,1160.0,1120.0,49.12,0.0,0.8
+SAL0000277,SKU01677,Libas,Footwear,Sneakers,2023-07-22,7.0,2023.0,Monsoon,Mumbai,West,1.0,D2C Website,4.0,2330.0,25.0,1747.5,6990.0,4480.0,2510.0,35.91,0.0,0.95
+SAL0000278,SKU01619,Libas,Bottomwear,Mini Skirt,2024-12-28,12.0,2024.0,Winter,Mumbai,West,1.0,Myntra,1.0,1480.0,0.0,1480.0,1480.0,560.0,920.0,62.16,0.0,0.95
+SAL0000279,SKU01296,The Souled Store,Ethnic,Nehru Jacket,2023-04-26,4.0,2023.0,Summer,Bhopal,Central,3.0,D2C Website,2.0,1490.0,0.0,1490.0,2980.0,1200.0,1780.0,59.73,0.0,0.58
+SAL0000280,SKU01789,Zudio,Footwear,Loafers,2024-12-11,12.0,2024.0,Winter,Surat,West,2.0,Ajio,1.0,1300.0,50.0,650.0,650.0,560.0,90.0,13.85,0.0,0.7
+SAL0000281,SKU01463,Urbanic,Accessories,Belts,2023-07-24,7.0,2023.0,Monsoon,Mumbai,West,1.0,D2C Website,2.0,950.0,25.0,712.5,1425.0,820.0,605.0,42.46,0.0,0.95
+SAL0000282,SKU01205,Snitch,Footwear,Loafers,2023-07-13,7.0,2023.0,Monsoon,Bangalore,South,1.0,Offline Store,2.0,2720.0,0.0,2720.0,5440.0,2680.0,2760.0,50.74,0.0,0.92
+SAL0000283,SKU01315,The Souled Store,Footwear,Kolhapuri,2024-11-17,11.0,2024.0,Festive,Chandigarh,North,2.0,Meesho,4.0,2110.0,15.0,1793.5,7174.0,4080.0,3094.0,43.13,0.0,0.74
+SAL0000284,SKU01739,Zudio,Bottomwear,Palazzo,2024-08-12,8.0,2024.0,Monsoon,Hyderabad,South,1.0,Ajio,1.0,760.0,15.0,646.0,646.0,320.0,326.0,50.46,1.0,0.88
+SAL0000285,SKU01768,Zudio,Dresses,Bodycon Dress,2023-06-01,6.0,2023.0,Monsoon,Mumbai,West,1.0,Myntra,1.0,820.0,25.0,615.0,615.0,370.0,245.0,39.84,1.0,0.95
+SAL0000286,SKU01427,Urbanic,Dresses,Co-ord Set,2023-08-24,8.0,2023.0,Monsoon,Patna,East,3.0,Meesho,4.0,2010.0,20.0,1608.0,6432.0,3040.0,3392.0,52.74,1.0,0.5
+SAL0000287,SKU02108,Styli,Ethnic,Sharara Set,2023-06-28,6.0,2023.0,Monsoon,Mumbai,West,1.0,D2C Website,2.0,2640.0,5.0,2508.0,5016.0,2080.0,2936.0,58.53,1.0,0.95
+SAL0000288,SKU01718,Zudio,Topwear,Polo T-Shirt,2023-09-19,9.0,2023.0,Festive,Mumbai,West,1.0,Amazon,1.0,530.0,10.0,477.0,477.0,240.0,237.0,49.69,0.0,0.95
+SAL0000289,SKU01610,Libas,Bottomwear,Baggy Jeans,2024-06-29,6.0,2024.0,Monsoon,Lucknow,North,2.0,Meesho,2.0,1470.0,10.0,1323.0,2646.0,1100.0,1546.0,58.43,0.0,0.72
+SAL0000290,SKU01774,Zudio,Dresses,Shirt Dress,2024-03-08,3.0,2024.0,Summer,Nagpur,West,3.0,D2C Website,1.0,780.0,5.0,741.0,741.0,350.0,391.0,52.77,1.0,0.55
+SAL0000291,SKU01226,Snitch,Accessories,Sunglasses,2024-07-23,7.0,2024.0,Monsoon,Lucknow,North,2.0,Ajio,1.0,940.0,15.0,799.0,799.0,460.0,339.0,42.43,0.0,0.72
+SAL0000292,SKU01684,Libas,Accessories,Tote Bag,2024-11-28,11.0,2024.0,Festive,Bangalore,South,1.0,D2C Website,2.0,700.0,0.0,700.0,1400.0,540.0,860.0,61.43,0.0,0.92
+SAL0000293,SKU01609,Libas,Bottomwear,Baggy Jeans,2023-06-21,6.0,2023.0,Monsoon,Delhi,North,1.0,D2C Website,3.0,1360.0,0.0,1360.0,4080.0,1590.0,2490.0,61.03,0.0,0.93
+SAL0000294,SKU01139,Snitch,Topwear,Blazer,2024-09-26,9.0,2024.0,Festive,Kolkata,East,1.0,D2C Website,5.0,1360.0,20.0,1088.0,5440.0,3200.0,2240.0,41.18,1.0,0.83
+SAL0000295,SKU01659,Libas,Dresses,Shirt Dress,2024-10-12,10.0,2024.0,Festive,Chennai,South,1.0,D2C Website,1.0,1480.0,50.0,740.0,740.0,530.0,210.0,28.38,1.0,0.85
+SAL0000296,SKU01347,The Souled Store,Accessories,Belts,2024-07-04,7.0,2024.0,Monsoon,Jaipur,North,2.0,Ajio,1.0,580.0,25.0,435.0,435.0,260.0,175.0,40.23,0.0,0.75
+SAL0000297,SKU01321,The Souled Store,Footwear,Loafers,2024-02-12,2.0,2024.0,Winter,Kolkata,East,1.0,Myntra,2.0,1810.0,50.0,905.0,1810.0,1440.0,370.0,20.44,0.0,0.83
+SAL0000298,SKU01445,Urbanic,Footwear,Sandals,2023-03-19,3.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,3260.0,0.0,3260.0,3260.0,1560.0,1700.0,52.15,0.0,0.88
+SAL0000299,SKU01760,Zudio,Ethnic,Dhoti Pants,2024-11-06,11.0,2024.0,Festive,Ahmedabad,West,2.0,D2C Website,1.0,910.0,15.0,773.5,773.5,450.0,323.5,41.82,1.0,0.78
+SAL0000300,SKU02027,Myntra M,Footwear,Sneakers,2024-03-03,3.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,2390.0,0.0,2390.0,2390.0,1080.0,1310.0,54.81,0.0,0.93
+SAL0000301,SKU01733,Zudio,Bottomwear,Joggers,2023-09-09,9.0,2023.0,Festive,Chennai,South,1.0,Offline Store,1.0,800.0,10.0,720.0,720.0,330.0,390.0,54.17,0.0,0.85
+SAL0000302,SKU01943,Myntra M,Topwear,Shirt,2024-01-09,1.0,2024.0,Winter,Mumbai,West,1.0,Myntra,5.0,820.0,25.0,615.0,3075.0,1600.0,1475.0,47.97,1.0,0.95
+SAL0000303,SKU01573,FabAlley,Accessories,Caps,2024-04-27,4.0,2024.0,Summer,Bangalore,South,1.0,Ajio,1.0,980.0,10.0,882.0,882.0,440.0,442.0,50.11,1.0,0.92
+SAL0000304,SKU02131,Styli,Footwear,Chunky Sneakers,2024-07-22,7.0,2024.0,Monsoon,Bangalore,South,1.0,Meesho,2.0,3220.0,10.0,2898.0,5796.0,2680.0,3116.0,53.76,0.0,0.92
+SAL0000305,SKU01523,FabAlley,Ethnic,Sharara Set,2023-08-23,8.0,2023.0,Monsoon,Indore,Central,3.0,Amazon,3.0,2070.0,30.0,1449.0,4347.0,2190.0,2157.0,49.62,0.0,0.6
+SAL0000306,SKU01909,H&M India,Footwear,Sneakers,2024-04-03,4.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,3360.0,10.0,3024.0,3024.0,1370.0,1654.0,54.7,0.0,0.93
+SAL0000307,SKU02095,Styli,Bottomwear,Shorts,2024-02-06,2.0,2024.0,Winter,Pune,West,2.0,Offline Store,1.0,1480.0,10.0,1332.0,1332.0,720.0,612.0,45.95,0.0,0.8
+SAL0000308,SKU01710,Zudio,Topwear,Shirt,2023-01-19,1.0,2023.0,Winter,Bangalore,South,1.0,Ajio,1.0,530.0,15.0,450.5,450.5,230.0,220.5,48.95,1.0,0.92
+SAL0000309,SKU01919,H&M India,Accessories,Tote Bag,2023-03-25,3.0,2023.0,Summer,Chandigarh,North,2.0,Amazon,2.0,1220.0,30.0,854.0,1708.0,940.0,768.0,44.96,0.0,0.74
+SAL0000310,SKU01132,Snitch,Topwear,Polo T-Shirt,2024-08-03,8.0,2024.0,Monsoon,Mumbai,West,1.0,Amazon,2.0,1420.0,25.0,1065.0,2130.0,1300.0,830.0,38.97,0.0,0.95
+SAL0000311,SKU01686,Libas,Accessories,Tote Bag,2023-02-19,2.0,2023.0,Winter,Bangalore,South,1.0,D2C Website,1.0,860.0,10.0,774.0,774.0,360.0,414.0,53.49,0.0,0.92
+SAL0000312,SKU01517,FabAlley,Ethnic,Co-ord Saree,2023-12-24,12.0,2023.0,Winter,Bangalore,South,1.0,Myntra,2.0,1960.0,10.0,1764.0,3528.0,1780.0,1748.0,49.55,0.0,0.92
+SAL0000313,SKU01518,FabAlley,Ethnic,Co-ord Saree,2024-03-13,3.0,2024.0,Summer,Hyderabad,South,1.0,Offline Store,5.0,2140.0,25.0,1605.0,8025.0,4900.0,3125.0,38.94,0.0,0.88
+SAL0000314,SKU01071,Bewakoof,Dresses,Wrap Dress,2024-03-28,3.0,2024.0,Summer,Kochi,South,3.0,Myntra,1.0,1300.0,20.0,1040.0,1040.0,510.0,530.0,50.96,0.0,0.62
+SAL0000315,SKU01436,Urbanic,Footwear,Block Heels,2023-09-20,9.0,2023.0,Festive,Hyderabad,South,1.0,Myntra,2.0,3190.0,5.0,3030.5,6061.0,2620.0,3441.0,56.77,0.0,0.88
+SAL0000316,SKU02099,Styli,Ethnic,Kurta Set,2023-02-27,2.0,2023.0,Winter,Hyderabad,South,1.0,D2C Website,4.0,2430.0,0.0,2430.0,9720.0,3960.0,5760.0,59.26,0.0,0.88
+SAL0000317,SKU01011,Bewakoof,Topwear,Hoodie,2023-03-29,3.0,2023.0,Summer,Mumbai,West,1.0,Amazon,1.0,750.0,15.0,637.5,637.5,300.0,337.5,52.94,0.0,0.95
+SAL0000318,SKU01833,H&M India,Topwear,Sweatshirt,2023-03-11,3.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,1310.0,40.0,786.0,786.0,640.0,146.0,18.58,0.0,0.88
+SAL0000319,SKU01017,Bewakoof,Topwear,Polo T-Shirt,2023-04-04,4.0,2023.0,Summer,Surat,West,2.0,Meesho,2.0,910.0,10.0,819.0,1638.0,860.0,778.0,47.5,0.0,0.7
+SAL0000320,SKU01733,Zudio,Bottomwear,Joggers,2023-04-06,4.0,2023.0,Summer,Delhi,North,1.0,Myntra,1.0,800.0,20.0,640.0,640.0,330.0,310.0,48.44,0.0,0.93
+SAL0000321,SKU01747,Zudio,Ethnic,Kurta Set,2023-09-22,9.0,2023.0,Festive,Delhi,North,1.0,Meesho,1.0,1080.0,15.0,918.0,918.0,490.0,428.0,46.62,0.0,0.93
+SAL0000322,SKU01100,Bewakoof,Accessories,Tote Bag,2023-08-14,8.0,2023.0,Monsoon,Bangalore,South,1.0,Ajio,1.0,620.0,25.0,465.0,465.0,220.0,245.0,52.69,0.0,0.92
+SAL0000323,SKU02158,Styli,Accessories,Caps,2024-05-27,5.0,2024.0,Summer,Delhi,North,1.0,Ajio,2.0,890.0,15.0,756.5,1513.0,720.0,793.0,52.41,0.0,0.93
+SAL0000324,SKU01450,Urbanic,Accessories,Tote Bag,2023-02-28,2.0,2023.0,Winter,Kochi,South,3.0,D2C Website,3.0,930.0,5.0,883.5,2650.5,990.0,1660.5,62.65,0.0,0.62
+SAL0000325,SKU01628,Libas,Bottomwear,Shorts,2023-07-22,7.0,2023.0,Monsoon,Delhi,North,1.0,D2C Website,2.0,1180.0,10.0,1062.0,2124.0,1000.0,1124.0,52.92,0.0,0.93
+SAL0000326,SKU01907,H&M India,Footwear,Loafers,2024-04-16,4.0,2024.0,Summer,Bangalore,South,1.0,Ajio,3.0,2830.0,25.0,2122.5,6367.5,4200.0,2167.5,34.04,0.0,0.92
+SAL0000327,SKU01823,H&M India,Topwear,Crop Top,2023-04-12,4.0,2023.0,Summer,Kolkata,East,1.0,Myntra,1.0,1280.0,25.0,960.0,960.0,610.0,350.0,36.46,0.0,0.83
+SAL0000328,SKU01702,Zudio,Topwear,Oversized T-Shirt,2023-04-13,4.0,2023.0,Summer,Surat,West,2.0,D2C Website,3.0,590.0,5.0,560.5,1681.5,750.0,931.5,55.4,0.0,0.7
+SAL0000329,SKU01171,Snitch,Ethnic,Sharara Set,2024-11-05,11.0,2024.0,Festive,Surat,West,2.0,Amazon,5.0,2160.0,30.0,1512.0,7560.0,4500.0,3060.0,40.48,1.0,0.7
+SAL0000330,SKU01199,Snitch,Footwear,Kolhapuri,2024-09-06,9.0,2024.0,Festive,Delhi,North,1.0,D2C Website,1.0,3100.0,50.0,1550.0,1550.0,1440.0,110.0,7.1,0.0,0.93
+SAL0000331,SKU01322,The Souled Store,Footwear,Loafers,2024-07-23,7.0,2024.0,Monsoon,Delhi,North,1.0,D2C Website,1.0,1750.0,15.0,1487.5,1487.5,850.0,637.5,42.86,0.0,0.93
+SAL0000332,SKU01577,FabAlley,Accessories,Sunglasses,2023-03-08,3.0,2023.0,Summer,Chennai,South,1.0,Meesho,2.0,930.0,15.0,790.5,1581.0,860.0,721.0,45.6,0.0,0.85
+SAL0000333,SKU01286,The Souled Store,Ethnic,Anarkali,2023-10-13,10.0,2023.0,Festive,Kolkata,East,1.0,Offline Store,4.0,1600.0,0.0,1600.0,6400.0,2840.0,3560.0,55.62,0.0,0.83
+SAL0000334,SKU01439,Urbanic,Footwear,Loafers,2024-01-25,1.0,2024.0,Winter,Mumbai,West,1.0,Ajio,2.0,2620.0,15.0,2227.0,4454.0,2000.0,2454.0,55.1,0.0,0.95
+SAL0000335,SKU02003,Myntra M,Dresses,Bodycon Dress,2024-03-05,3.0,2024.0,Summer,Kolkata,East,1.0,D2C Website,1.0,1540.0,15.0,1309.0,1309.0,720.0,589.0,45.0,1.0,0.83
+SAL0000336,SKU01837,H&M India,Topwear,Tank Top,2024-07-23,7.0,2024.0,Monsoon,Pune,West,2.0,Myntra,4.0,1560.0,20.0,1248.0,4992.0,2480.0,2512.0,50.32,0.0,0.8
+SAL0000337,SKU01469,FabAlley,Topwear,Oversized T-Shirt,2023-02-27,2.0,2023.0,Winter,Bangalore,South,1.0,Ajio,2.0,1060.0,10.0,954.0,1908.0,920.0,988.0,51.78,0.0,0.92
+SAL0000338,SKU01778,Zudio,Dresses,Co-ord Set,2023-12-30,12.0,2023.0,Winter,Hyderabad,South,1.0,Amazon,1.0,940.0,0.0,940.0,940.0,390.0,550.0,58.51,0.0,0.88
+SAL0000339,SKU01369,Urbanic,Topwear,Tank Top,2023-02-03,2.0,2023.0,Winter,Kochi,South,3.0,D2C Website,4.0,1330.0,5.0,1263.5,5054.0,2160.0,2894.0,57.26,0.0,0.62
+SAL0000340,SKU01897,H&M India,Footwear,Chunky Sneakers,2023-09-20,9.0,2023.0,Festive,Bangalore,South,1.0,D2C Website,3.0,2790.0,0.0,2790.0,8370.0,3030.0,5340.0,63.8,0.0,0.92
+SAL0000341,SKU01587,Libas,Topwear,Oversized T-Shirt,2023-07-19,7.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,1.0,1080.0,30.0,756.0,756.0,470.0,286.0,37.83,1.0,0.83
+SAL0000342,SKU02104,Styli,Ethnic,Anarkali,2024-09-04,9.0,2024.0,Festive,Lucknow,North,2.0,Ajio,2.0,2250.0,15.0,1912.5,3825.0,2180.0,1645.0,43.01,0.0,0.72
+SAL0000343,SKU02157,Styli,Accessories,Bucket Hat,2023-05-21,5.0,2023.0,Summer,Jaipur,North,2.0,Offline Store,3.0,1100.0,5.0,1045.0,3135.0,1230.0,1905.0,60.77,0.0,0.75
+SAL0000344,SKU01904,H&M India,Footwear,Block Heels,2023-08-05,8.0,2023.0,Monsoon,Chennai,South,1.0,Ajio,1.0,2920.0,5.0,2774.0,2774.0,1070.0,1704.0,61.43,1.0,0.85
+SAL0000345,SKU01020,Bewakoof,Topwear,Tank Top,2023-11-16,11.0,2023.0,Festive,Indore,Central,3.0,Myntra,3.0,710.0,15.0,603.5,1810.5,900.0,910.5,50.29,0.0,0.6
+SAL0000346,SKU01066,Bewakoof,Dresses,Bodycon Dress,2023-06-11,6.0,2023.0,Monsoon,Surat,West,2.0,D2C Website,3.0,1150.0,40.0,690.0,2070.0,1380.0,690.0,33.33,0.0,0.7
+SAL0000347,SKU01956,Myntra M,Topwear,Tank Top,2024-03-20,3.0,2024.0,Summer,Mumbai,West,1.0,Ajio,2.0,1100.0,15.0,935.0,1870.0,900.0,970.0,51.87,1.0,0.95
+SAL0000348,SKU01702,Zudio,Topwear,Oversized T-Shirt,2024-02-23,2.0,2024.0,Winter,Bangalore,South,1.0,Meesho,1.0,590.0,5.0,560.5,560.5,250.0,310.5,55.4,0.0,0.92
+SAL0000349,SKU01929,H&M India,Accessories,Sunglasses,2024-11-04,11.0,2024.0,Festive,Kolkata,East,1.0,Myntra,4.0,1190.0,10.0,1071.0,4284.0,2200.0,2084.0,48.65,0.0,0.83
+SAL0000350,SKU01081,Bewakoof,Footwear,Kolhapuri,2024-09-28,9.0,2024.0,Festive,Coimbatore,South,3.0,D2C Website,1.0,1870.0,30.0,1309.0,1309.0,800.0,509.0,38.88,0.0,0.57
+SAL0000351,SKU01368,Urbanic,Topwear,Polo T-Shirt,2024-02-17,2.0,2024.0,Winter,Jaipur,North,2.0,Amazon,1.0,1310.0,30.0,917.0,917.0,620.0,297.0,32.39,0.0,0.75
+SAL0000352,SKU02034,Myntra M,Accessories,Sling Bag,2024-03-15,3.0,2024.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,650.0,40.0,390.0,390.0,260.0,130.0,33.33,0.0,0.88
+SAL0000353,SKU02030,Myntra M,Footwear,Sandals,2023-12-19,12.0,2023.0,Winter,Chennai,South,1.0,D2C Website,1.0,1880.0,0.0,1880.0,1880.0,800.0,1080.0,57.45,0.0,0.85
+SAL0000354,SKU02017,Myntra M,Footwear,Kolhapuri,2023-08-20,8.0,2023.0,Monsoon,Coimbatore,South,3.0,Ajio,1.0,2230.0,20.0,1784.0,1784.0,900.0,884.0,49.55,0.0,0.57
+SAL0000355,SKU02093,Styli,Bottomwear,Straight Fit Jeans,2023-03-12,3.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,2.0,1780.0,0.0,1780.0,3560.0,1660.0,1900.0,53.37,0.0,0.88
+SAL0000356,SKU01676,Libas,Footwear,Sneakers,2023-01-29,1.0,2023.0,Winter,Chennai,South,1.0,Offline Store,1.0,2300.0,5.0,2185.0,2185.0,1060.0,1125.0,51.49,0.0,0.85
+SAL0000357,SKU01631,Libas,Ethnic,Kurta Set,2023-07-17,7.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,1.0,1840.0,0.0,1840.0,1840.0,770.0,1070.0,58.15,0.0,0.83
+SAL0000358,SKU01534,FabAlley,Dresses,Bodycon Dress,2023-08-12,8.0,2023.0,Monsoon,Mumbai,West,1.0,Myntra,1.0,1860.0,10.0,1674.0,1674.0,730.0,944.0,56.39,0.0,0.95
+SAL0000359,SKU01139,Snitch,Topwear,Blazer,2023-04-14,4.0,2023.0,Summer,Delhi,North,1.0,Amazon,2.0,1360.0,10.0,1224.0,2448.0,1280.0,1168.0,47.71,1.0,0.93
+SAL0000360,SKU01385,Urbanic,Bottomwear,Mini Skirt,2024-02-07,2.0,2024.0,Winter,Delhi,North,1.0,D2C Website,4.0,1500.0,20.0,1200.0,4800.0,2880.0,1920.0,40.0,0.0,0.93
+SAL0000361,SKU01555,FabAlley,Footwear,Loafers,2023-12-09,12.0,2023.0,Winter,Hyderabad,South,1.0,Myntra,1.0,2950.0,5.0,2802.5,2802.5,1130.0,1672.5,59.68,0.0,0.88
+SAL0000362,SKU01982,Myntra M,Ethnic,Kurta Set,2024-07-17,7.0,2024.0,Monsoon,Kochi,South,3.0,Ajio,1.0,1840.0,0.0,1840.0,1840.0,810.0,1030.0,55.98,0.0,0.62
+SAL0000363,SKU01202,Snitch,Footwear,Block Heels,2024-08-16,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Myntra,1.0,2720.0,50.0,1360.0,1360.0,1320.0,40.0,2.94,0.0,0.74
+SAL0000364,SKU01424,Urbanic,Dresses,Shirt Dress,2024-08-03,8.0,2024.0,Monsoon,Surat,West,2.0,Offline Store,4.0,2210.0,25.0,1657.5,6630.0,3880.0,2750.0,41.48,0.0,0.7
+SAL0000365,SKU02146,Styli,Footwear,Sandals,2023-06-25,6.0,2023.0,Monsoon,Coimbatore,South,3.0,Amazon,4.0,2630.0,10.0,2367.0,9468.0,4480.0,4988.0,52.68,1.0,0.57
+SAL0000366,SKU01853,H&M India,Bottomwear,Mini Skirt,2024-03-25,3.0,2024.0,Summer,Chennai,South,1.0,D2C Website,5.0,1870.0,10.0,1683.0,8415.0,3600.0,4815.0,57.22,0.0,0.85
+SAL0000367,SKU01382,Urbanic,Bottomwear,Joggers,2024-09-07,9.0,2024.0,Festive,Mumbai,West,1.0,Offline Store,3.0,1460.0,5.0,1387.0,4161.0,1920.0,2241.0,53.86,0.0,0.95
+SAL0000368,SKU01555,FabAlley,Footwear,Loafers,2024-05-08,5.0,2024.0,Summer,Kolkata,East,1.0,D2C Website,1.0,2950.0,30.0,2065.0,2065.0,1130.0,935.0,45.28,0.0,0.83
+SAL0000369,SKU01452,Urbanic,Accessories,Tote Bag,2024-10-31,10.0,2024.0,Festive,Chennai,South,1.0,Offline Store,1.0,990.0,10.0,891.0,891.0,480.0,411.0,46.13,0.0,0.85
+SAL0000370,SKU01138,Snitch,Topwear,Blazer,2024-12-26,12.0,2024.0,Winter,Kolkata,East,1.0,Ajio,1.0,1390.0,0.0,1390.0,1390.0,620.0,770.0,55.4,0.0,0.83
+SAL0000371,SKU01938,Myntra M,Topwear,Oversized T-Shirt,2024-12-01,12.0,2024.0,Winter,Bangalore,South,1.0,Amazon,5.0,980.0,20.0,784.0,3920.0,2100.0,1820.0,46.43,0.0,0.92
+SAL0000372,SKU01120,Snitch,Topwear,Crop Top,2023-02-12,2.0,2023.0,Winter,Delhi,North,1.0,D2C Website,1.0,1450.0,30.0,1015.0,1015.0,710.0,305.0,30.05,0.0,0.93
+SAL0000373,SKU01993,Myntra M,Ethnic,Dhoti Pants,2023-01-07,1.0,2023.0,Winter,Chennai,South,1.0,Ajio,1.0,1920.0,20.0,1536.0,1536.0,810.0,726.0,47.27,0.0,0.85
+SAL0000374,SKU01629,Libas,Bottomwear,Shorts,2023-08-05,8.0,2023.0,Monsoon,Chennai,South,1.0,D2C Website,3.0,1130.0,10.0,1017.0,3051.0,1470.0,1581.0,51.82,1.0,0.85
+SAL0000375,SKU01216,Snitch,Accessories,Tote Bag,2023-11-04,11.0,2023.0,Festive,Jaipur,North,2.0,Myntra,2.0,990.0,5.0,940.5,1881.0,720.0,1161.0,61.72,0.0,0.75
+SAL0000376,SKU01330,The Souled Store,Accessories,Sling Bag,2024-09-02,9.0,2024.0,Festive,Chennai,South,1.0,Ajio,3.0,630.0,10.0,567.0,1701.0,930.0,771.0,45.33,0.0,0.85
+SAL0000377,SKU01580,FabAlley,Accessories,Belts,2024-12-08,12.0,2024.0,Winter,Mumbai,West,1.0,Amazon,3.0,990.0,5.0,940.5,2821.5,1110.0,1711.5,60.66,1.0,0.95
+SAL0000378,SKU01684,Libas,Accessories,Tote Bag,2023-04-02,4.0,2023.0,Summer,Delhi,North,1.0,Ajio,1.0,700.0,5.0,665.0,665.0,270.0,395.0,59.4,0.0,0.93
+SAL0000379,SKU02065,Styli,Topwear,Sweatshirt,2023-09-25,9.0,2023.0,Festive,Hyderabad,South,1.0,Ajio,3.0,1150.0,0.0,1150.0,3450.0,1200.0,2250.0,65.22,0.0,0.88
+SAL0000380,SKU01446,Urbanic,Footwear,Sandals,2023-09-15,9.0,2023.0,Festive,Chennai,South,1.0,Amazon,1.0,3360.0,0.0,3360.0,3360.0,1380.0,1980.0,58.93,0.0,0.85
+SAL0000381,SKU01921,H&M India,Accessories,Bucket Hat,2023-04-16,4.0,2023.0,Summer,Mumbai,West,1.0,D2C Website,1.0,1060.0,20.0,848.0,848.0,470.0,378.0,44.58,0.0,0.95
+SAL0000382,SKU01265,The Souled Store,Bottomwear,Joggers,2024-11-20,11.0,2024.0,Festive,Hyderabad,South,1.0,Offline Store,1.0,1200.0,25.0,900.0,900.0,600.0,300.0,33.33,0.0,0.88
+SAL0000383,SKU01896,H&M India,Dresses,Co-ord Set,2023-10-23,10.0,2023.0,Festive,Surat,West,2.0,D2C Website,1.0,2350.0,15.0,1997.5,1997.5,1060.0,937.5,46.93,0.0,0.7
+SAL0000384,SKU01576,FabAlley,Accessories,Sunglasses,2024-10-04,10.0,2024.0,Festive,Kolkata,East,1.0,Myntra,1.0,950.0,5.0,902.5,902.5,430.0,472.5,52.35,1.0,0.83
+SAL0000385,SKU01571,FabAlley,Accessories,Bucket Hat,2023-07-12,7.0,2023.0,Monsoon,Chennai,South,1.0,Myntra,1.0,950.0,10.0,855.0,855.0,410.0,445.0,52.05,0.0,0.85
+SAL0000386,SKU01667,Libas,Footwear,Kolhapuri,2024-12-16,12.0,2024.0,Winter,Pune,West,2.0,Myntra,1.0,2670.0,15.0,2269.5,2269.5,1190.0,1079.5,47.57,1.0,0.8
+SAL0000387,SKU01269,The Souled Store,Bottomwear,Mini Skirt,2024-11-12,11.0,2024.0,Festive,Delhi,North,1.0,Offline Store,1.0,1080.0,5.0,1026.0,1026.0,400.0,626.0,61.01,0.0,0.93
+SAL0000388,SKU01994,Myntra M,Ethnic,Dhoti Pants,2023-06-01,6.0,2023.0,Monsoon,Hyderabad,South,1.0,D2C Website,2.0,1760.0,20.0,1408.0,2816.0,1620.0,1196.0,42.47,0.0,0.88
+SAL0000389,SKU01771,Zudio,Dresses,Wrap Dress,2024-10-11,10.0,2024.0,Festive,Hyderabad,South,1.0,Ajio,2.0,930.0,20.0,744.0,1488.0,720.0,768.0,51.61,0.0,0.88
+SAL0000390,SKU01470,FabAlley,Topwear,Oversized T-Shirt,2023-02-13,2.0,2023.0,Winter,Hyderabad,South,1.0,Meesho,1.0,1120.0,10.0,1008.0,1008.0,490.0,518.0,51.39,0.0,0.88
+SAL0000391,SKU01596,Libas,Topwear,Hoodie,2023-07-26,7.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,3.0,990.0,0.0,990.0,2970.0,1320.0,1650.0,55.56,0.0,0.83
+SAL0000392,SKU01384,Urbanic,Bottomwear,Mini Skirt,2024-07-26,7.0,2024.0,Monsoon,Delhi,North,1.0,Amazon,1.0,1620.0,15.0,1377.0,1377.0,770.0,607.0,44.08,0.0,0.93
+SAL0000393,SKU01684,Libas,Accessories,Tote Bag,2023-09-11,9.0,2023.0,Festive,Mumbai,West,1.0,Ajio,2.0,700.0,0.0,700.0,1400.0,540.0,860.0,61.43,0.0,0.95
+SAL0000394,SKU01364,Urbanic,Topwear,Sweatshirt,2023-03-10,3.0,2023.0,Summer,Kolkata,East,1.0,Meesho,4.0,1240.0,0.0,1240.0,4960.0,1840.0,3120.0,62.9,1.0,0.83
+SAL0000395,SKU01538,FabAlley,Dresses,Wrap Dress,2024-04-16,4.0,2024.0,Summer,Hyderabad,South,1.0,Myntra,4.0,1880.0,10.0,1692.0,6768.0,3400.0,3368.0,49.76,0.0,0.88
+SAL0000396,SKU01355,Urbanic,Topwear,Crop Top,2023-01-02,1.0,2023.0,Winter,Kolkata,East,1.0,Myntra,1.0,1460.0,25.0,1095.0,1095.0,640.0,455.0,41.55,0.0,0.83
+SAL0000397,SKU01075,Bewakoof,Dresses,Co-ord Set,2023-04-09,4.0,2023.0,Summer,Chennai,South,1.0,Meesho,4.0,1460.0,15.0,1241.0,4964.0,2240.0,2724.0,54.88,1.0,0.85
+SAL0000398,SKU01582,FabAlley,Accessories,Scarves,2023-03-01,3.0,2023.0,Summer,Chennai,South,1.0,Offline Store,3.0,810.0,25.0,607.5,1822.5,1140.0,682.5,37.45,0.0,0.85
+SAL0000399,SKU01157,Snitch,Bottomwear,Straight Fit Jeans,2024-12-27,12.0,2024.0,Winter,Pune,West,2.0,Myntra,2.0,1760.0,0.0,1760.0,3520.0,1600.0,1920.0,54.55,1.0,0.8
+SAL0000400,SKU01613,Libas,Bottomwear,Cargo Pants,2024-09-22,9.0,2024.0,Festive,Hyderabad,South,1.0,D2C Website,1.0,1260.0,0.0,1260.0,1260.0,490.0,770.0,61.11,1.0,0.88
+SAL0000401,SKU01134,Snitch,Topwear,Polo T-Shirt,2023-10-20,10.0,2023.0,Festive,Mumbai,West,1.0,D2C Website,2.0,1220.0,20.0,976.0,1952.0,960.0,992.0,50.82,1.0,0.95
+SAL0000402,SKU01386,Urbanic,Bottomwear,Mini Skirt,2024-08-25,8.0,2024.0,Monsoon,Bangalore,South,1.0,Myntra,4.0,1510.0,10.0,1359.0,5436.0,2480.0,2956.0,54.38,0.0,0.92
+SAL0000403,SKU01719,Zudio,Topwear,Polo T-Shirt,2023-10-10,10.0,2023.0,Festive,Delhi,North,1.0,Myntra,1.0,510.0,15.0,433.5,433.5,230.0,203.5,46.94,1.0,0.93
+SAL0000404,SKU01454,Urbanic,Accessories,Bucket Hat,2024-03-18,3.0,2024.0,Summer,Kochi,South,3.0,D2C Website,1.0,940.0,0.0,940.0,940.0,380.0,560.0,59.57,1.0,0.62
+SAL0000405,SKU01287,The Souled Store,Ethnic,Anarkali,2023-10-30,10.0,2023.0,Festive,Bhopal,Central,3.0,Amazon,2.0,1830.0,20.0,1464.0,2928.0,1800.0,1128.0,38.52,0.0,0.58
+SAL0000406,SKU01281,The Souled Store,Ethnic,Kurta Set,2023-07-14,7.0,2023.0,Monsoon,Bhopal,Central,3.0,Myntra,1.0,1470.0,15.0,1249.5,1249.5,520.0,729.5,58.38,0.0,0.58
+SAL0000407,SKU01885,H&M India,Dresses,Bodycon Dress,2024-11-17,11.0,2024.0,Festive,Mumbai,West,1.0,Ajio,2.0,2310.0,0.0,2310.0,4620.0,2160.0,2460.0,53.25,0.0,0.95
+SAL0000408,SKU01996,Myntra M,Ethnic,Nehru Jacket,2024-08-10,8.0,2024.0,Monsoon,Chennai,South,1.0,Amazon,1.0,1860.0,10.0,1674.0,1674.0,690.0,984.0,58.78,0.0,0.85
+SAL0000409,SKU01525,FabAlley,Ethnic,Dhoti Pants,2024-04-16,4.0,2024.0,Summer,Surat,West,2.0,Myntra,1.0,2500.0,5.0,2375.0,2375.0,1070.0,1305.0,54.95,0.0,0.7
+SAL0000410,SKU01252,The Souled Store,Topwear,Tank Top,2024-08-04,8.0,2024.0,Monsoon,Jaipur,North,2.0,Offline Store,1.0,930.0,25.0,697.5,697.5,350.0,347.5,49.82,0.0,0.75
+SAL0000411,SKU01041,Bewakoof,Bottomwear,Straight Fit Jeans,2024-02-22,2.0,2024.0,Winter,Bangalore,South,1.0,Myntra,2.0,950.0,0.0,950.0,1900.0,680.0,1220.0,64.21,0.0,0.92
+SAL0000412,SKU01598,Libas,Topwear,Sweatshirt,2023-07-20,7.0,2023.0,Monsoon,Pune,West,2.0,D2C Website,4.0,1190.0,5.0,1130.5,4522.0,2360.0,2162.0,47.81,0.0,0.8
+SAL0000413,SKU01456,Urbanic,Accessories,Caps,2024-04-13,4.0,2024.0,Summer,Hyderabad,South,1.0,Myntra,4.0,1060.0,15.0,901.0,3604.0,1760.0,1844.0,51.17,0.0,0.88
+SAL0000414,SKU01937,Myntra M,Topwear,Oversized T-Shirt,2024-08-04,8.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,1030.0,25.0,772.5,772.5,440.0,332.5,43.04,0.0,0.95
+SAL0000415,SKU02073,Styli,Topwear,Tank Top,2024-04-15,4.0,2024.0,Summer,Kochi,South,3.0,Myntra,3.0,1260.0,10.0,1134.0,3402.0,1530.0,1872.0,55.03,0.0,0.62
+SAL0000416,SKU01976,Myntra M,Bottomwear,Straight Fit Jeans,2023-07-30,7.0,2023.0,Monsoon,Pune,West,2.0,Ajio,1.0,1230.0,10.0,1107.0,1107.0,570.0,537.0,48.51,1.0,0.8
+SAL0000417,SKU01453,Urbanic,Accessories,Bucket Hat,2023-05-07,5.0,2023.0,Summer,Jaipur,North,2.0,Myntra,1.0,1120.0,20.0,896.0,896.0,450.0,446.0,49.78,0.0,0.75
+SAL0000418,SKU01505,FabAlley,Bottomwear,Palazzo,2024-01-15,1.0,2024.0,Winter,Kolkata,East,1.0,Ajio,1.0,1370.0,0.0,1370.0,1370.0,680.0,690.0,50.36,0.0,0.83
+SAL0000419,SKU01822,H&M India,Topwear,Crop Top,2023-08-19,8.0,2023.0,Monsoon,Bangalore,South,1.0,D2C Website,1.0,1260.0,15.0,1071.0,1071.0,580.0,491.0,45.85,0.0,0.92
+SAL0000420,SKU01140,Snitch,Topwear,Blazer,2023-05-21,5.0,2023.0,Summer,Kolkata,East,1.0,Amazon,3.0,1430.0,20.0,1144.0,3432.0,1710.0,1722.0,50.17,1.0,0.83
+SAL0000421,SKU01092,Bewakoof,Footwear,Sneakers,2023-08-02,8.0,2023.0,Monsoon,Hyderabad,South,1.0,Offline Store,1.0,1670.0,5.0,1586.5,1586.5,750.0,836.5,52.73,1.0,0.88
+SAL0000422,SKU01626,Libas,Bottomwear,Straight Fit Jeans,2024-04-12,4.0,2024.0,Summer,Pune,West,2.0,Amazon,1.0,1150.0,0.0,1150.0,1150.0,420.0,730.0,63.48,0.0,0.8
+SAL0000423,SKU01538,FabAlley,Dresses,Wrap Dress,2023-01-29,1.0,2023.0,Winter,Bangalore,South,1.0,Myntra,2.0,1880.0,10.0,1692.0,3384.0,1700.0,1684.0,49.76,1.0,0.92
+SAL0000424,SKU01867,H&M India,Ethnic,Co-ord Saree,2023-07-09,7.0,2023.0,Monsoon,Hyderabad,South,1.0,Ajio,1.0,2400.0,5.0,2280.0,2280.0,1160.0,1120.0,49.12,0.0,0.88
+SAL0000425,SKU01848,H&M India,Bottomwear,Cargo Pants,2024-11-06,11.0,2024.0,Festive,Ahmedabad,West,2.0,D2C Website,3.0,1540.0,5.0,1463.0,4389.0,1710.0,2679.0,61.04,1.0,0.78
+SAL0000426,SKU01182,Snitch,Dresses,Maxi Dress,2023-02-07,2.0,2023.0,Winter,Mumbai,West,1.0,Myntra,1.0,2350.0,0.0,2350.0,2350.0,960.0,1390.0,59.15,0.0,0.95
+SAL0000427,SKU02057,Styli,Topwear,Crop Top,2023-01-05,1.0,2023.0,Winter,Coimbatore,South,3.0,Ajio,3.0,1340.0,5.0,1273.0,3819.0,1500.0,2319.0,60.72,0.0,0.57
+SAL0000428,SKU01987,Myntra M,Ethnic,Anarkali,2023-05-14,5.0,2023.0,Summer,Jaipur,North,2.0,Amazon,5.0,1690.0,10.0,1521.0,7605.0,4150.0,3455.0,45.43,1.0,0.75
+SAL0000429,SKU01144,Snitch,Bottomwear,Cargo Pants,2024-07-28,7.0,2024.0,Monsoon,Hyderabad,South,1.0,Offline Store,1.0,1500.0,0.0,1500.0,1500.0,660.0,840.0,56.0,0.0,0.88
+SAL0000430,SKU01158,Snitch,Bottomwear,Straight Fit Jeans,2024-06-06,6.0,2024.0,Monsoon,Kolkata,East,1.0,D2C Website,1.0,1550.0,0.0,1550.0,1550.0,580.0,970.0,62.58,0.0,0.83
+SAL0000431,SKU01966,Myntra M,Bottomwear,Joggers,2023-12-20,12.0,2023.0,Winter,Chennai,South,1.0,Myntra,1.0,1220.0,25.0,915.0,915.0,540.0,375.0,40.98,0.0,0.85
+SAL0000432,SKU01184,Snitch,Dresses,Bodycon Dress,2023-08-19,8.0,2023.0,Monsoon,Mumbai,West,1.0,D2C Website,2.0,1890.0,5.0,1795.5,3591.0,1360.0,2231.0,62.13,0.0,0.95
+SAL0000433,SKU01280,The Souled Store,Ethnic,Kurta Set,2023-12-30,12.0,2023.0,Winter,Nagpur,West,3.0,Ajio,3.0,1750.0,15.0,1487.5,4462.5,2010.0,2452.5,54.96,0.0,0.55
+SAL0000434,SKU01677,Libas,Footwear,Sneakers,2023-11-22,11.0,2023.0,Festive,Bangalore,South,1.0,Ajio,1.0,2330.0,5.0,2213.5,2213.5,1120.0,1093.5,49.4,0.0,0.92
+SAL0000435,SKU02087,Styli,Bottomwear,Mini Skirt,2023-06-12,6.0,2023.0,Monsoon,Mumbai,West,1.0,Amazon,2.0,1470.0,5.0,1396.5,2793.0,1400.0,1393.0,49.87,1.0,0.95
+SAL0000436,SKU01409,Urbanic,Ethnic,Dhoti Pants,2024-01-01,1.0,2024.0,Winter,Coimbatore,South,3.0,Myntra,4.0,2210.0,20.0,1768.0,7072.0,3520.0,3552.0,50.23,0.0,0.57
+SAL0000437,SKU01642,Libas,Ethnic,Dhoti Pants,2024-05-14,5.0,2024.0,Summer,Delhi,North,1.0,Offline Store,2.0,1850.0,25.0,1387.5,2775.0,1580.0,1195.0,43.06,1.0,0.93
+SAL0000438,SKU01808,Zudio,Accessories,Caps,2023-03-22,3.0,2023.0,Summer,Coimbatore,South,3.0,Meesho,1.0,480.0,10.0,432.0,432.0,220.0,212.0,49.07,0.0,0.57
+SAL0000439,SKU01768,Zudio,Dresses,Bodycon Dress,2023-05-21,5.0,2023.0,Summer,Ahmedabad,West,2.0,Ajio,5.0,820.0,10.0,738.0,3690.0,1850.0,1840.0,49.86,0.0,0.78
+SAL0000440,SKU01919,H&M India,Accessories,Tote Bag,2024-09-01,9.0,2024.0,Festive,Chandigarh,North,2.0,Amazon,3.0,1220.0,5.0,1159.0,3477.0,1410.0,2067.0,59.45,1.0,0.74
+SAL0000441,SKU01675,Libas,Footwear,Sneakers,2024-11-10,11.0,2024.0,Festive,Pune,West,2.0,Myntra,2.0,2600.0,15.0,2210.0,4420.0,2280.0,2140.0,48.42,0.0,0.8
+SAL0000442,SKU01444,Urbanic,Footwear,Sandals,2024-08-25,8.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,1.0,2690.0,15.0,2286.5,2286.5,1040.0,1246.5,54.52,0.0,0.93
+SAL0000443,SKU01219,Snitch,Accessories,Bucket Hat,2024-11-11,11.0,2024.0,Festive,Hyderabad,South,1.0,Offline Store,3.0,1020.0,10.0,918.0,2754.0,1110.0,1644.0,59.69,0.0,0.88
+SAL0000444,SKU01029,Bewakoof,Bottomwear,Cargo Pants,2024-09-10,9.0,2024.0,Festive,Kolkata,East,1.0,Ajio,1.0,860.0,0.0,860.0,860.0,340.0,520.0,60.47,0.0,0.83
+SAL0000445,SKU01876,H&M India,Ethnic,Dhoti Pants,2024-04-11,4.0,2024.0,Summer,Lucknow,North,2.0,Amazon,1.0,2300.0,15.0,1955.0,1955.0,890.0,1065.0,54.48,0.0,0.72
+SAL0000446,SKU01026,Bewakoof,Bottomwear,Baggy Jeans,2024-05-03,5.0,2024.0,Summer,Chennai,South,1.0,Myntra,2.0,1130.0,0.0,1130.0,2260.0,1100.0,1160.0,51.33,0.0,0.85
+SAL0000447,SKU01394,Urbanic,Bottomwear,Shorts,2024-07-22,7.0,2024.0,Monsoon,Mumbai,West,1.0,Myntra,1.0,1680.0,0.0,1680.0,1680.0,830.0,850.0,50.6,0.0,0.95
+SAL0000448,SKU01954,Myntra M,Topwear,Tank Top,2024-08-27,8.0,2024.0,Monsoon,Hyderabad,South,1.0,Myntra,2.0,910.0,0.0,910.0,1820.0,680.0,1140.0,62.64,0.0,0.88
+SAL0000449,SKU01379,Urbanic,Bottomwear,Cargo Pants,2023-07-17,7.0,2023.0,Monsoon,Indore,Central,3.0,Myntra,1.0,1900.0,5.0,1805.0,1805.0,890.0,915.0,50.69,0.0,0.6
+SAL0000450,SKU01985,Myntra M,Ethnic,Co-ord Saree,2024-11-19,11.0,2024.0,Festive,Kochi,South,3.0,Myntra,2.0,1540.0,40.0,924.0,1848.0,1460.0,388.0,21.0,0.0,0.62
+SAL0000451,SKU01639,Libas,Ethnic,Sharara Set,2023-01-16,1.0,2023.0,Winter,Bangalore,South,1.0,Offline Store,3.0,1740.0,15.0,1479.0,4437.0,2220.0,2217.0,49.97,0.0,0.92
+SAL0000452,SKU02109,Styli,Ethnic,Sharara Set,2024-05-18,5.0,2024.0,Summer,Delhi,North,1.0,Meesho,1.0,2670.0,20.0,2136.0,2136.0,980.0,1156.0,54.12,1.0,0.93
+SAL0000453,SKU01125,Snitch,Topwear,Shirt,2023-01-11,1.0,2023.0,Winter,Delhi,North,1.0,Ajio,1.0,1200.0,5.0,1140.0,1140.0,490.0,650.0,57.02,0.0,0.93
+SAL0000454,SKU01472,FabAlley,Topwear,Crop Top,2023-07-18,7.0,2023.0,Monsoon,Jaipur,North,2.0,Myntra,2.0,1090.0,15.0,926.5,1853.0,760.0,1093.0,58.99,0.0,0.75
+SAL0000455,SKU01428,Urbanic,Dresses,Co-ord Set,2024-11-25,11.0,2024.0,Festive,Hyderabad,South,1.0,D2C Website,2.0,1900.0,30.0,1330.0,2660.0,1600.0,1060.0,39.85,0.0,0.88
+SAL0000456,SKU01535,FabAlley,Dresses,Bodycon Dress,2024-11-26,11.0,2024.0,Festive,Bangalore,South,1.0,Offline Store,4.0,1830.0,5.0,1738.5,6954.0,2800.0,4154.0,59.74,0.0,0.92
+SAL0000457,SKU02040,Myntra M,Accessories,Bucket Hat,2023-06-16,6.0,2023.0,Monsoon,Hyderabad,South,1.0,Offline Store,1.0,620.0,25.0,465.0,465.0,220.0,245.0,52.69,0.0,0.88
+SAL0000458,SKU01973,Myntra M,Bottomwear,Palazzo,2024-08-26,8.0,2024.0,Monsoon,Kolkata,East,1.0,D2C Website,2.0,1180.0,0.0,1180.0,2360.0,880.0,1480.0,62.71,1.0,0.83
+SAL0000459,SKU01010,Bewakoof,Topwear,Hoodie,2024-02-21,2.0,2024.0,Winter,Bangalore,South,1.0,D2C Website,4.0,830.0,20.0,664.0,2656.0,1240.0,1416.0,53.31,0.0,0.92
+SAL0000460,SKU01548,FabAlley,Footwear,Chunky Sneakers,2024-02-21,2.0,2024.0,Winter,Chennai,South,1.0,Offline Store,1.0,2470.0,25.0,1852.5,1852.5,930.0,922.5,49.8,0.0,0.85
+SAL0000461,SKU01565,FabAlley,Accessories,Sling Bag,2024-09-24,9.0,2024.0,Festive,Hyderabad,South,1.0,Myntra,5.0,960.0,10.0,864.0,4320.0,2050.0,2270.0,52.55,0.0,0.88
+SAL0000462,SKU01803,Zudio,Accessories,Tote Bag,2023-03-17,3.0,2023.0,Summer,Delhi,North,1.0,Meesho,4.0,360.0,0.0,360.0,1440.0,680.0,760.0,52.78,0.0,0.93
+SAL0000463,SKU01043,Bewakoof,Bottomwear,Shorts,2023-03-10,3.0,2023.0,Summer,Hyderabad,South,1.0,Amazon,1.0,1070.0,5.0,1016.5,1016.5,480.0,536.5,52.78,0.0,0.88
+SAL0000464,SKU02054,Styli,Topwear,Oversized T-Shirt,2024-09-01,9.0,2024.0,Festive,Surat,West,2.0,Offline Store,1.0,1190.0,15.0,1011.5,1011.5,590.0,421.5,41.67,0.0,0.7
+SAL0000465,SKU02038,Myntra M,Accessories,Bucket Hat,2023-12-09,12.0,2023.0,Winter,Kolkata,East,1.0,Offline Store,1.0,660.0,20.0,528.0,528.0,280.0,248.0,46.97,0.0,0.83
+SAL0000466,SKU01558,FabAlley,Footwear,Sneakers,2024-11-05,11.0,2024.0,Festive,Mumbai,West,1.0,Ajio,2.0,2370.0,15.0,2014.5,4029.0,2280.0,1749.0,43.41,0.0,0.95
+SAL0000467,SKU01209,Snitch,Footwear,Sneakers,2023-05-06,5.0,2023.0,Summer,Bangalore,South,1.0,Amazon,5.0,3030.0,0.0,3030.0,15150.0,7000.0,8150.0,53.8,0.0,0.92
+SAL0000468,SKU02102,Styli,Ethnic,Co-ord Saree,2023-08-23,8.0,2023.0,Monsoon,Bangalore,South,1.0,D2C Website,2.0,2570.0,10.0,2313.0,4626.0,2500.0,2126.0,45.96,0.0,0.92
+SAL0000469,SKU01503,FabAlley,Bottomwear,Mini Skirt,2024-11-19,11.0,2024.0,Festive,Patna,East,3.0,Ajio,2.0,1580.0,10.0,1422.0,2844.0,1500.0,1344.0,47.26,0.0,0.5
+SAL0000470,SKU01352,Urbanic,Topwear,Oversized T-Shirt,2024-05-21,5.0,2024.0,Summer,Delhi,North,1.0,Myntra,1.0,1180.0,30.0,826.0,826.0,590.0,236.0,28.57,0.0,0.93
+SAL0000471,SKU01901,H&M India,Footwear,Kolhapuri,2023-04-29,4.0,2023.0,Summer,Surat,West,2.0,D2C Website,2.0,3100.0,20.0,2480.0,4960.0,2440.0,2520.0,50.81,0.0,0.7
+SAL0000472,SKU01274,The Souled Store,Bottomwear,Straight Fit Jeans,2023-02-03,2.0,2023.0,Winter,Chennai,South,1.0,Amazon,3.0,1110.0,30.0,777.0,2331.0,1560.0,771.0,33.08,0.0,0.85
+SAL0000473,SKU01090,Bewakoof,Footwear,Sneakers,2023-04-07,4.0,2023.0,Summer,Delhi,North,1.0,Amazon,1.0,1710.0,5.0,1624.5,1624.5,630.0,994.5,61.22,0.0,0.93
+SAL0000474,SKU01573,FabAlley,Accessories,Caps,2024-04-18,4.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,980.0,5.0,931.0,931.0,440.0,491.0,52.74,0.0,0.93
+SAL0000475,SKU01374,Urbanic,Topwear,Blazer,2024-01-16,1.0,2024.0,Winter,Surat,West,2.0,Amazon,4.0,1520.0,20.0,1216.0,4864.0,2680.0,2184.0,44.9,1.0,0.7
+SAL0000476,SKU01476,FabAlley,Topwear,Shirt,2024-09-10,9.0,2024.0,Festive,Delhi,North,1.0,D2C Website,1.0,1080.0,5.0,1026.0,1026.0,530.0,496.0,48.34,1.0,0.93
+SAL0000477,SKU01911,H&M India,Footwear,Sneakers,2023-05-18,5.0,2023.0,Summer,Chennai,South,1.0,Meesho,2.0,3350.0,30.0,2345.0,4690.0,3120.0,1570.0,33.48,0.0,0.85
+SAL0000478,SKU01551,FabAlley,Footwear,Kolhapuri,2023-07-20,7.0,2023.0,Monsoon,Chennai,South,1.0,Ajio,3.0,3010.0,5.0,2859.5,8578.5,4410.0,4168.5,48.59,0.0,0.85
+SAL0000479,SKU01373,Urbanic,Topwear,Blazer,2024-03-21,3.0,2024.0,Summer,Mumbai,West,1.0,Ajio,1.0,1310.0,0.0,1310.0,1310.0,570.0,740.0,56.49,1.0,0.95
+SAL0000480,SKU01495,FabAlley,Bottomwear,Cargo Pants,2023-02-11,2.0,2023.0,Winter,Chennai,South,1.0,D2C Website,1.0,1630.0,5.0,1548.5,1548.5,740.0,808.5,52.21,0.0,0.85
+SAL0000481,SKU01961,Myntra M,Bottomwear,Baggy Jeans,2024-07-04,7.0,2024.0,Monsoon,Chandigarh,North,2.0,Offline Store,1.0,1240.0,0.0,1240.0,1240.0,500.0,740.0,59.68,0.0,0.74
+SAL0000482,SKU01383,Urbanic,Bottomwear,Joggers,2024-08-05,8.0,2024.0,Monsoon,Lucknow,North,2.0,D2C Website,2.0,1830.0,15.0,1555.5,3111.0,1760.0,1351.0,43.43,1.0,0.72
+SAL0000483,SKU01097,Bewakoof,Accessories,Sling Bag,2024-03-20,3.0,2024.0,Summer,Bangalore,South,1.0,Offline Store,1.0,570.0,30.0,399.0,399.0,230.0,169.0,42.36,1.0,0.92
+SAL0000484,SKU01217,Snitch,Accessories,Tote Bag,2024-02-10,2.0,2024.0,Winter,Surat,West,2.0,Ajio,1.0,840.0,10.0,756.0,756.0,380.0,376.0,49.74,1.0,0.7
+SAL0000485,SKU01914,H&M India,Footwear,Sandals,2023-05-13,5.0,2023.0,Summer,Kolkata,East,1.0,Amazon,1.0,3530.0,5.0,3353.5,3353.5,1390.0,1963.5,58.55,1.0,0.83
+SAL0000486,SKU01033,Bewakoof,Bottomwear,Mini Skirt,2023-11-04,11.0,2023.0,Festive,Chennai,South,1.0,Amazon,1.0,890.0,25.0,667.5,667.5,420.0,247.5,37.08,0.0,0.85
+SAL0000487,SKU01240,The Souled Store,Topwear,Shirt,2023-04-30,4.0,2023.0,Summer,Chennai,South,1.0,D2C Website,4.0,910.0,5.0,864.5,3458.0,1640.0,1818.0,52.57,0.0,0.85
+SAL0000488,SKU01118,Snitch,Topwear,Oversized T-Shirt,2023-12-14,12.0,2023.0,Winter,Surat,West,2.0,Amazon,3.0,1190.0,5.0,1130.5,3391.5,1260.0,2131.5,62.85,1.0,0.7
+SAL0000489,SKU01186,Snitch,Dresses,Wrap Dress,2024-07-22,7.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,2.0,1830.0,15.0,1555.5,3111.0,1660.0,1451.0,46.64,0.0,0.95
+SAL0000490,SKU01802,Zudio,Accessories,Tote Bag,2024-03-12,3.0,2024.0,Summer,Lucknow,North,2.0,D2C Website,1.0,370.0,25.0,277.5,277.5,160.0,117.5,42.34,0.0,0.72
+SAL0000491,SKU01415,Urbanic,Dresses,Maxi Dress,2024-10-11,10.0,2024.0,Festive,Surat,West,2.0,Meesho,2.0,2030.0,30.0,1421.0,2842.0,1700.0,1142.0,40.18,1.0,0.7
+SAL0000492,SKU02128,Styli,Dresses,Co-ord Set,2023-01-16,1.0,2023.0,Winter,Coimbatore,South,3.0,Amazon,2.0,2090.0,15.0,1776.5,3553.0,1740.0,1813.0,51.03,0.0,0.57
+SAL0000493,SKU01540,FabAlley,Dresses,Shirt Dress,2023-08-10,8.0,2023.0,Monsoon,Bangalore,South,1.0,Offline Store,1.0,2120.0,15.0,1802.0,1802.0,770.0,1032.0,57.27,0.0,0.92
+SAL0000494,SKU02102,Styli,Ethnic,Co-ord Saree,2023-12-31,12.0,2023.0,Winter,Kochi,South,3.0,Meesho,1.0,2570.0,20.0,2056.0,2056.0,1250.0,806.0,39.2,0.0,0.62
+SAL0000495,SKU01764,Zudio,Ethnic,Nehru Jacket,2024-10-01,10.0,2024.0,Festive,Bangalore,South,1.0,Amazon,2.0,1140.0,25.0,855.0,1710.0,980.0,730.0,42.69,0.0,0.92
+SAL0000496,SKU01283,The Souled Store,Ethnic,Co-ord Saree,2023-07-29,7.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,2.0,1600.0,10.0,1440.0,2880.0,1320.0,1560.0,54.17,0.0,0.83
+SAL0000497,SKU01202,Snitch,Footwear,Block Heels,2023-02-22,2.0,2023.0,Winter,Delhi,North,1.0,Ajio,2.0,2720.0,15.0,2312.0,4624.0,2640.0,1984.0,42.91,0.0,0.93
+SAL0000498,SKU02071,Styli,Topwear,Tank Top,2024-01-05,1.0,2024.0,Winter,Delhi,North,1.0,Ajio,1.0,1360.0,5.0,1292.0,1292.0,540.0,752.0,58.2,0.0,0.93
+SAL0000499,SKU01612,Libas,Bottomwear,Cargo Pants,2024-10-02,10.0,2024.0,Festive,Coimbatore,South,3.0,Offline Store,1.0,1270.0,0.0,1270.0,1270.0,570.0,700.0,55.12,0.0,0.57
+SAL0000500,SKU01790,Zudio,Footwear,Loafers,2024-08-25,8.0,2024.0,Monsoon,Kochi,South,3.0,D2C Website,2.0,1160.0,10.0,1044.0,2088.0,940.0,1148.0,54.98,0.0,0.62
+SAL0000501,SKU01382,Urbanic,Bottomwear,Joggers,2023-08-30,8.0,2023.0,Monsoon,Delhi,North,1.0,Ajio,2.0,1460.0,40.0,876.0,1752.0,1280.0,472.0,26.94,0.0,0.93
+SAL0000502,SKU01829,H&M India,Topwear,Hoodie,2023-05-26,5.0,2023.0,Summer,Pune,West,2.0,D2C Website,2.0,1390.0,25.0,1042.5,2085.0,1160.0,925.0,44.36,0.0,0.8
+SAL0000503,SKU01068,Bewakoof,Dresses,Bodycon Dress,2024-12-19,12.0,2024.0,Winter,Patna,East,3.0,D2C Website,1.0,1310.0,25.0,982.5,982.5,600.0,382.5,38.93,0.0,0.5
+SAL0000504,SKU01192,Snitch,Dresses,Co-ord Set,2023-06-07,6.0,2023.0,Monsoon,Chennai,South,1.0,Ajio,5.0,2220.0,0.0,2220.0,11100.0,5200.0,5900.0,53.15,1.0,0.85
+SAL0000505,SKU01400,Urbanic,Ethnic,Co-ord Saree,2023-09-07,9.0,2023.0,Festive,Chennai,South,1.0,Amazon,2.0,2710.0,20.0,2168.0,4336.0,2020.0,2316.0,53.41,0.0,0.85
+SAL0000506,SKU01472,FabAlley,Topwear,Crop Top,2023-01-19,1.0,2023.0,Winter,Kochi,South,3.0,Ajio,1.0,1090.0,10.0,981.0,981.0,380.0,601.0,61.26,0.0,0.62
+SAL0000507,SKU01075,Bewakoof,Dresses,Co-ord Set,2024-08-11,8.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,1.0,1460.0,0.0,1460.0,1460.0,560.0,900.0,61.64,0.0,0.92
+SAL0000508,SKU01809,Zudio,Accessories,Caps,2023-01-13,1.0,2023.0,Winter,Delhi,North,1.0,Ajio,1.0,430.0,20.0,344.0,344.0,200.0,144.0,41.86,0.0,0.93
+SAL0000509,SKU01391,Urbanic,Bottomwear,Straight Fit Jeans,2024-03-15,3.0,2024.0,Summer,Lucknow,North,2.0,Ajio,1.0,1570.0,10.0,1413.0,1413.0,630.0,783.0,55.41,0.0,0.72
+SAL0000510,SKU02006,Myntra M,Dresses,Wrap Dress,2023-03-21,3.0,2023.0,Summer,Lucknow,North,2.0,Myntra,1.0,1750.0,15.0,1487.5,1487.5,650.0,837.5,56.3,0.0,0.72
+SAL0000511,SKU01285,The Souled Store,Ethnic,Anarkali,2023-11-02,11.0,2023.0,Festive,Mumbai,West,1.0,D2C Website,5.0,1660.0,40.0,996.0,4980.0,3900.0,1080.0,21.69,1.0,0.95
+SAL0000512,SKU01513,FabAlley,Ethnic,Kurta Set,2024-02-20,2.0,2024.0,Winter,Chennai,South,1.0,Meesho,1.0,2490.0,0.0,2490.0,2490.0,1190.0,1300.0,52.21,0.0,0.85
+SAL0000513,SKU01121,Snitch,Topwear,Crop Top,2024-11-17,11.0,2024.0,Festive,Bangalore,South,1.0,Meesho,1.0,1440.0,0.0,1440.0,1440.0,580.0,860.0,59.72,0.0,0.92
+SAL0000514,SKU01097,Bewakoof,Accessories,Sling Bag,2024-04-13,4.0,2024.0,Summer,Kochi,South,3.0,Myntra,3.0,570.0,25.0,427.5,1282.5,690.0,592.5,46.2,0.0,0.62
+SAL0000515,SKU01765,Zudio,Dresses,Maxi Dress,2024-03-10,3.0,2024.0,Summer,Lucknow,North,2.0,Myntra,3.0,860.0,0.0,860.0,2580.0,1140.0,1440.0,55.81,0.0,0.72
+SAL0000516,SKU01039,Bewakoof,Bottomwear,Straight Fit Jeans,2023-09-17,9.0,2023.0,Festive,Bhopal,Central,3.0,Offline Store,5.0,960.0,5.0,912.0,4560.0,1750.0,2810.0,61.62,0.0,0.58
+SAL0000517,SKU01453,Urbanic,Accessories,Bucket Hat,2024-03-13,3.0,2024.0,Summer,Bangalore,South,1.0,D2C Website,3.0,1120.0,10.0,1008.0,3024.0,1350.0,1674.0,55.36,0.0,0.92
+SAL0000518,SKU01462,Urbanic,Accessories,Belts,2024-06-17,6.0,2024.0,Monsoon,Kolkata,East,1.0,Amazon,3.0,1000.0,40.0,600.0,1800.0,1050.0,750.0,41.67,1.0,0.83
+SAL0000519,SKU01902,H&M India,Footwear,Kolhapuri,2023-01-09,1.0,2023.0,Winter,Hyderabad,South,1.0,Meesho,1.0,3090.0,20.0,2472.0,2472.0,1440.0,1032.0,41.75,0.0,0.88
+SAL0000520,SKU01128,Snitch,Topwear,Hoodie,2023-07-27,7.0,2023.0,Monsoon,Delhi,North,1.0,Offline Store,1.0,1450.0,20.0,1160.0,1160.0,660.0,500.0,43.1,0.0,0.93
+SAL0000521,SKU01174,Snitch,Ethnic,Dhoti Pants,2023-12-20,12.0,2023.0,Winter,Chennai,South,1.0,Meesho,1.0,2310.0,5.0,2194.5,2194.5,1030.0,1164.5,53.06,0.0,0.85
+SAL0000522,SKU01509,FabAlley,Bottomwear,Straight Fit Jeans,2023-03-06,3.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,5.0,1690.0,30.0,1183.0,5915.0,3000.0,2915.0,49.28,0.0,0.88
+SAL0000523,SKU01496,FabAlley,Bottomwear,Cargo Pants,2024-07-22,7.0,2024.0,Monsoon,Kolkata,East,1.0,Amazon,1.0,1400.0,15.0,1190.0,1190.0,610.0,580.0,48.74,1.0,0.83
+SAL0000524,SKU01997,Myntra M,Ethnic,Nehru Jacket,2024-07-07,7.0,2024.0,Monsoon,Jaipur,North,2.0,D2C Website,1.0,1930.0,5.0,1833.5,1833.5,870.0,963.5,52.55,0.0,0.75
+SAL0000525,SKU01547,FabAlley,Footwear,Chunky Sneakers,2023-06-14,6.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,5.0,2480.0,0.0,2480.0,12400.0,4650.0,7750.0,62.5,0.0,0.83
+SAL0000526,SKU02153,Styli,Accessories,Tote Bag,2024-11-21,11.0,2024.0,Festive,Kolkata,East,1.0,Amazon,1.0,840.0,0.0,840.0,840.0,370.0,470.0,55.95,0.0,0.83
+SAL0000527,SKU01788,Zudio,Footwear,Block Heels,2024-05-14,5.0,2024.0,Summer,Chandigarh,North,2.0,Amazon,2.0,1080.0,40.0,648.0,1296.0,960.0,336.0,25.93,0.0,0.74
+SAL0000528,SKU01987,Myntra M,Ethnic,Anarkali,2024-12-25,12.0,2024.0,Winter,Ahmedabad,West,2.0,Ajio,2.0,1690.0,30.0,1183.0,2366.0,1660.0,706.0,29.84,0.0,0.78
+SAL0000529,SKU01970,Myntra M,Bottomwear,Mini Skirt,2024-07-08,7.0,2024.0,Monsoon,Surat,West,2.0,Offline Store,1.0,1040.0,0.0,1040.0,1040.0,420.0,620.0,59.62,0.0,0.7
+SAL0000530,SKU01512,FabAlley,Bottomwear,Shorts,2023-03-30,3.0,2023.0,Summer,Kolkata,East,1.0,Offline Store,3.0,1700.0,5.0,1615.0,4845.0,2160.0,2685.0,55.42,0.0,0.83
+SAL0000531,SKU01844,H&M India,Bottomwear,Baggy Jeans,2023-02-25,2.0,2023.0,Winter,Nagpur,West,3.0,Myntra,3.0,1860.0,0.0,1860.0,5580.0,2580.0,3000.0,53.76,0.0,0.55
+SAL0000532,SKU01155,Snitch,Bottomwear,Palazzo,2023-01-13,1.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,1.0,1570.0,20.0,1256.0,1256.0,570.0,686.0,54.62,0.0,0.83
+SAL0000533,SKU01530,FabAlley,Ethnic,Nehru Jacket,2024-01-02,1.0,2024.0,Winter,Kolkata,East,1.0,Meesho,1.0,2500.0,25.0,1875.0,1875.0,1240.0,635.0,33.87,0.0,0.83
+SAL0000534,SKU01262,The Souled Store,Bottomwear,Cargo Pants,2023-09-28,9.0,2023.0,Festive,Kolkata,East,1.0,Myntra,3.0,1210.0,10.0,1089.0,3267.0,1530.0,1737.0,53.17,0.0,0.83
+SAL0000535,SKU01225,Snitch,Accessories,Sunglasses,2024-10-15,10.0,2024.0,Festive,Hyderabad,South,1.0,D2C Website,1.0,1040.0,10.0,936.0,936.0,450.0,486.0,51.92,0.0,0.88
+SAL0000536,SKU01962,Myntra M,Bottomwear,Baggy Jeans,2023-09-01,9.0,2023.0,Festive,Kochi,South,3.0,Offline Store,1.0,1300.0,5.0,1235.0,1235.0,470.0,765.0,61.94,0.0,0.62
+SAL0000537,SKU01701,Libas,Accessories,Scarves,2023-01-23,1.0,2023.0,Winter,Bangalore,South,1.0,D2C Website,3.0,670.0,30.0,469.0,1407.0,930.0,477.0,33.9,0.0,0.92
+SAL0000538,SKU02059,Styli,Topwear,Shirt,2024-09-16,9.0,2024.0,Festive,Kolkata,East,1.0,Amazon,1.0,1120.0,10.0,1008.0,1008.0,540.0,468.0,46.43,0.0,0.83
+SAL0000539,SKU01959,Myntra M,Topwear,Blazer,2023-02-17,2.0,2023.0,Winter,Jaipur,North,2.0,D2C Website,2.0,930.0,0.0,930.0,1860.0,760.0,1100.0,59.14,0.0,0.75
+SAL0000540,SKU01547,FabAlley,Footwear,Chunky Sneakers,2024-01-28,1.0,2024.0,Winter,Mumbai,West,1.0,Amazon,2.0,2480.0,10.0,2232.0,4464.0,1860.0,2604.0,58.33,0.0,0.95
+SAL0000541,SKU01213,Snitch,Accessories,Sling Bag,2024-03-05,3.0,2024.0,Summer,Delhi,North,1.0,D2C Website,3.0,940.0,0.0,940.0,2820.0,1350.0,1470.0,52.13,0.0,0.93
+SAL0000542,SKU01781,Zudio,Footwear,Chunky Sneakers,2023-02-18,2.0,2023.0,Winter,Mumbai,West,1.0,Amazon,4.0,1370.0,30.0,959.0,3836.0,2160.0,1676.0,43.69,0.0,0.95
+SAL0000543,SKU01398,Urbanic,Ethnic,Kurta Set,2023-06-28,6.0,2023.0,Monsoon,Lucknow,North,2.0,Amazon,3.0,2880.0,25.0,2160.0,6480.0,3750.0,2730.0,42.13,0.0,0.72
+SAL0000544,SKU01129,Snitch,Topwear,Sweatshirt,2023-10-08,10.0,2023.0,Festive,Hyderabad,South,1.0,Offline Store,2.0,1310.0,10.0,1179.0,2358.0,960.0,1398.0,59.29,1.0,0.88
+SAL0000545,SKU01045,Bewakoof,Ethnic,Kurta Set,2024-05-26,5.0,2024.0,Summer,Hyderabad,South,1.0,D2C Website,3.0,1330.0,5.0,1263.5,3790.5,1830.0,1960.5,51.72,0.0,0.88
+SAL0000546,SKU01822,H&M India,Topwear,Crop Top,2024-10-24,10.0,2024.0,Festive,Jaipur,North,2.0,Myntra,5.0,1260.0,15.0,1071.0,5355.0,2900.0,2455.0,45.85,0.0,0.75
+SAL0000547,SKU01103,Bewakoof,Accessories,Bucket Hat,2024-12-17,12.0,2024.0,Winter,Kolkata,East,1.0,Myntra,1.0,530.0,0.0,530.0,530.0,240.0,290.0,54.72,0.0,0.83
+SAL0000548,SKU01874,H&M India,Ethnic,Sharara Set,2023-11-25,11.0,2023.0,Festive,Mumbai,West,1.0,Ajio,3.0,2910.0,0.0,2910.0,8730.0,3240.0,5490.0,62.89,0.0,0.95
+SAL0000549,SKU01310,The Souled Store,Dresses,Co-ord Set,2023-02-12,2.0,2023.0,Winter,Bangalore,South,1.0,Offline Store,2.0,1290.0,5.0,1225.5,2451.0,980.0,1471.0,60.02,0.0,0.92
+SAL0000550,SKU01436,Urbanic,Footwear,Block Heels,2024-04-17,4.0,2024.0,Summer,Bangalore,South,1.0,Offline Store,1.0,3190.0,50.0,1595.0,1595.0,1310.0,285.0,17.87,0.0,0.92
+SAL0000551,SKU01833,H&M India,Topwear,Sweatshirt,2023-09-24,9.0,2023.0,Festive,Mumbai,West,1.0,Offline Store,3.0,1310.0,10.0,1179.0,3537.0,1920.0,1617.0,45.72,1.0,0.95
+SAL0000552,SKU01388,Urbanic,Bottomwear,Palazzo,2023-06-25,6.0,2023.0,Monsoon,Lucknow,North,2.0,Myntra,1.0,1560.0,25.0,1170.0,1170.0,720.0,450.0,38.46,0.0,0.72
+SAL0000553,SKU01402,Urbanic,Ethnic,Anarkali,2023-01-16,1.0,2023.0,Winter,Bangalore,South,1.0,Amazon,1.0,2490.0,25.0,1867.5,1867.5,1150.0,717.5,38.42,0.0,0.92
+SAL0000554,SKU01319,The Souled Store,Footwear,Block Heels,2023-11-29,11.0,2023.0,Festive,Patna,East,3.0,Myntra,1.0,1840.0,10.0,1656.0,1656.0,750.0,906.0,54.71,0.0,0.5
+SAL0000555,SKU01224,Snitch,Accessories,Caps,2023-01-02,1.0,2023.0,Winter,Bangalore,South,1.0,Amazon,1.0,920.0,0.0,920.0,920.0,330.0,590.0,64.13,1.0,0.92
+SAL0000556,SKU01231,Snitch,Accessories,Scarves,2023-06-28,6.0,2023.0,Monsoon,Surat,West,2.0,Myntra,2.0,1030.0,30.0,721.0,1442.0,900.0,542.0,37.59,0.0,0.7
+SAL0000557,SKU01253,The Souled Store,Topwear,Tank Top,2023-05-20,5.0,2023.0,Summer,Chennai,South,1.0,Meesho,2.0,990.0,40.0,594.0,1188.0,940.0,248.0,20.88,0.0,0.85
+SAL0000558,SKU01780,Zudio,Footwear,Chunky Sneakers,2023-08-12,8.0,2023.0,Monsoon,Chandigarh,North,2.0,Amazon,1.0,1200.0,25.0,900.0,900.0,460.0,440.0,48.89,0.0,0.74
+SAL0000559,SKU01273,The Souled Store,Bottomwear,Straight Fit Jeans,2024-09-02,9.0,2024.0,Festive,Bhopal,Central,3.0,Amazon,2.0,970.0,10.0,873.0,1746.0,880.0,866.0,49.6,0.0,0.58
+SAL0000560,SKU01816,Zudio,Accessories,Scarves,2024-12-18,12.0,2024.0,Winter,Surat,West,2.0,D2C Website,1.0,440.0,10.0,396.0,396.0,210.0,186.0,46.97,0.0,0.7
+SAL0000561,SKU01507,FabAlley,Bottomwear,Straight Fit Jeans,2024-08-29,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Ajio,1.0,1590.0,10.0,1431.0,1431.0,780.0,651.0,45.49,0.0,0.74
+SAL0000562,SKU01377,Urbanic,Bottomwear,Baggy Jeans,2023-10-19,10.0,2023.0,Festive,Delhi,North,1.0,Amazon,4.0,1510.0,5.0,1434.5,5738.0,2840.0,2898.0,50.51,0.0,0.93
+SAL0000563,SKU01280,The Souled Store,Ethnic,Kurta Set,2023-07-02,7.0,2023.0,Monsoon,Kolkata,East,1.0,Amazon,1.0,1750.0,10.0,1575.0,1575.0,670.0,905.0,57.46,1.0,0.83
+SAL0000564,SKU01314,The Souled Store,Footwear,Chunky Sneakers,2024-04-19,4.0,2024.0,Summer,Chennai,South,1.0,Myntra,5.0,1700.0,0.0,1700.0,8500.0,3300.0,5200.0,61.18,0.0,0.85
+SAL0000565,SKU01956,Myntra M,Topwear,Tank Top,2023-10-25,10.0,2023.0,Festive,Mumbai,West,1.0,D2C Website,1.0,1100.0,20.0,880.0,880.0,450.0,430.0,48.86,0.0,0.95
+SAL0000566,SKU01878,H&M India,Ethnic,Dhoti Pants,2024-02-16,2.0,2024.0,Winter,Kolkata,East,1.0,Offline Store,3.0,3070.0,5.0,2916.5,8749.5,3900.0,4849.5,55.43,0.0,0.83
+SAL0000567,SKU01360,Urbanic,Topwear,Hoodie,2023-03-05,3.0,2023.0,Summer,Jaipur,North,2.0,Offline Store,3.0,1540.0,0.0,1540.0,4620.0,1740.0,2880.0,62.34,0.0,0.75
+SAL0000568,SKU02016,Myntra M,Footwear,Chunky Sneakers,2024-07-15,7.0,2024.0,Monsoon,Kolkata,East,1.0,Offline Store,1.0,2140.0,5.0,2033.0,2033.0,1060.0,973.0,47.86,0.0,0.83
+SAL0000569,SKU02068,Styli,Topwear,Polo T-Shirt,2024-02-12,2.0,2024.0,Winter,Surat,West,2.0,Ajio,1.0,1120.0,0.0,1120.0,1120.0,510.0,610.0,54.46,0.0,0.7
+SAL0000570,SKU01359,Urbanic,Topwear,Shirt,2023-03-27,3.0,2023.0,Summer,Mumbai,West,1.0,Ajio,1.0,1210.0,10.0,1089.0,1089.0,560.0,529.0,48.58,1.0,0.95
+SAL0000571,SKU01196,Snitch,Footwear,Chunky Sneakers,2023-01-05,1.0,2023.0,Winter,Kolkata,East,1.0,Amazon,1.0,2770.0,10.0,2493.0,2493.0,1290.0,1203.0,48.26,0.0,0.83
+SAL0000572,SKU01609,Libas,Bottomwear,Baggy Jeans,2023-09-29,9.0,2023.0,Festive,Mumbai,West,1.0,Offline Store,2.0,1360.0,10.0,1224.0,2448.0,1060.0,1388.0,56.7,1.0,0.95
+SAL0000573,SKU01295,The Souled Store,Ethnic,Nehru Jacket,2024-05-28,5.0,2024.0,Summer,Coimbatore,South,3.0,Ajio,2.0,1470.0,15.0,1249.5,2499.0,1320.0,1179.0,47.18,0.0,0.57
+SAL0000574,SKU02155,Styli,Accessories,Bucket Hat,2024-05-17,5.0,2024.0,Summer,Surat,West,2.0,Offline Store,2.0,960.0,0.0,960.0,1920.0,920.0,1000.0,52.08,0.0,0.7
+SAL0000575,SKU01513,FabAlley,Ethnic,Kurta Set,2023-08-22,8.0,2023.0,Monsoon,Ahmedabad,West,2.0,D2C Website,3.0,2490.0,15.0,2116.5,6349.5,3570.0,2779.5,43.78,1.0,0.78
+SAL0000576,SKU01453,Urbanic,Accessories,Bucket Hat,2023-12-20,12.0,2023.0,Winter,Kolkata,East,1.0,Meesho,2.0,1120.0,20.0,896.0,1792.0,900.0,892.0,49.78,0.0,0.83
+SAL0000577,SKU01940,Myntra M,Topwear,Crop Top,2023-05-01,5.0,2023.0,Summer,Kolkata,East,1.0,Ajio,2.0,1010.0,5.0,959.5,1919.0,980.0,939.0,48.93,1.0,0.83
+SAL0000578,SKU01085,Bewakoof,Footwear,Block Heels,2024-07-16,7.0,2024.0,Monsoon,Mumbai,West,1.0,Meesho,3.0,1890.0,0.0,1890.0,5670.0,2010.0,3660.0,64.55,0.0,0.95
+SAL0000579,SKU01067,Bewakoof,Dresses,Bodycon Dress,2024-01-21,1.0,2024.0,Winter,Delhi,North,1.0,Meesho,4.0,1470.0,0.0,1470.0,5880.0,2360.0,3520.0,59.86,1.0,0.93
+SAL0000580,SKU02058,Styli,Topwear,Crop Top,2024-08-01,8.0,2024.0,Monsoon,Coimbatore,South,3.0,Ajio,2.0,1260.0,5.0,1197.0,2394.0,1120.0,1274.0,53.22,1.0,0.57
+SAL0000581,SKU01804,Zudio,Accessories,Bucket Hat,2024-05-26,5.0,2024.0,Summer,Lucknow,North,2.0,D2C Website,2.0,390.0,5.0,370.5,741.0,340.0,401.0,54.12,0.0,0.72
+SAL0000582,SKU01549,FabAlley,Footwear,Kolhapuri,2024-06-08,6.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,3.0,2920.0,15.0,2482.0,7446.0,3540.0,3906.0,52.46,0.0,0.93
+SAL0000583,SKU01262,The Souled Store,Bottomwear,Cargo Pants,2024-05-07,5.0,2024.0,Summer,Bhopal,Central,3.0,D2C Website,1.0,1210.0,10.0,1089.0,1089.0,510.0,579.0,53.17,0.0,0.58
+SAL0000584,SKU01984,Myntra M,Ethnic,Co-ord Saree,2023-03-16,3.0,2023.0,Summer,Bangalore,South,1.0,D2C Website,2.0,1710.0,50.0,855.0,1710.0,1220.0,490.0,28.65,1.0,0.92
+SAL0000585,SKU02160,Styli,Accessories,Caps,2024-06-04,6.0,2024.0,Monsoon,Bhopal,Central,3.0,Offline Store,1.0,1080.0,25.0,810.0,810.0,490.0,320.0,39.51,0.0,0.58
+SAL0000586,SKU02109,Styli,Ethnic,Sharara Set,2024-03-16,3.0,2024.0,Summer,Surat,West,2.0,D2C Website,1.0,2670.0,0.0,2670.0,2670.0,980.0,1690.0,63.3,0.0,0.7
+SAL0000587,SKU01830,H&M India,Topwear,Hoodie,2024-12-21,12.0,2024.0,Winter,Bangalore,South,1.0,D2C Website,1.0,1480.0,10.0,1332.0,1332.0,630.0,702.0,52.7,0.0,0.92
+SAL0000588,SKU01339,The Souled Store,Accessories,Caps,2023-08-08,8.0,2023.0,Monsoon,Jaipur,North,2.0,Offline Store,2.0,750.0,50.0,375.0,750.0,720.0,30.0,4.0,0.0,0.75
+SAL0000589,SKU01109,Bewakoof,Accessories,Sunglasses,2023-12-04,12.0,2023.0,Winter,Nagpur,West,3.0,D2C Website,1.0,630.0,0.0,630.0,630.0,300.0,330.0,52.38,0.0,0.55
+SAL0000590,SKU01012,Bewakoof,Topwear,Sweatshirt,2023-04-13,4.0,2023.0,Summer,Mumbai,West,1.0,Ajio,1.0,790.0,30.0,553.0,553.0,370.0,183.0,33.09,0.0,0.95
+SAL0000591,SKU01297,The Souled Store,Dresses,Maxi Dress,2024-02-22,2.0,2024.0,Winter,Chennai,South,1.0,Meesho,1.0,1600.0,10.0,1440.0,1440.0,670.0,770.0,53.47,1.0,0.85
+SAL0000592,SKU01847,H&M India,Bottomwear,Cargo Pants,2023-03-31,3.0,2023.0,Summer,Chennai,South,1.0,D2C Website,3.0,1730.0,0.0,1730.0,5190.0,1860.0,3330.0,64.16,0.0,0.85
+SAL0000593,SKU01340,The Souled Store,Accessories,Caps,2023-03-17,3.0,2023.0,Summer,Bangalore,South,1.0,Amazon,1.0,720.0,15.0,612.0,612.0,280.0,332.0,54.25,0.0,0.92
+SAL0000594,SKU01172,Snitch,Ethnic,Sharara Set,2023-05-07,5.0,2023.0,Summer,Chennai,South,1.0,D2C Website,4.0,2330.0,0.0,2330.0,9320.0,4120.0,5200.0,55.79,0.0,0.85
+SAL0000595,SKU01555,FabAlley,Footwear,Loafers,2023-05-25,5.0,2023.0,Summer,Hyderabad,South,1.0,Amazon,3.0,2950.0,20.0,2360.0,7080.0,3390.0,3690.0,52.12,0.0,0.88
+SAL0000596,SKU01910,H&M India,Footwear,Sneakers,2023-04-17,4.0,2023.0,Summer,Ahmedabad,West,2.0,Offline Store,1.0,2950.0,0.0,2950.0,2950.0,1090.0,1860.0,63.05,0.0,0.78
+SAL0000597,SKU02136,Styli,Footwear,Kolhapuri,2023-02-17,2.0,2023.0,Winter,Ahmedabad,West,2.0,D2C Website,2.0,2870.0,10.0,2583.0,5166.0,2580.0,2586.0,50.06,0.0,0.78
+SAL0000598,SKU01987,Myntra M,Ethnic,Anarkali,2024-03-07,3.0,2024.0,Summer,Hyderabad,South,1.0,Ajio,4.0,1690.0,5.0,1605.5,6422.0,3320.0,3102.0,48.3,0.0,0.88
+SAL0000599,SKU01688,Libas,Accessories,Bucket Hat,2023-04-02,4.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,1.0,770.0,0.0,770.0,770.0,330.0,440.0,57.14,0.0,0.88
+SAL0000600,SKU01377,Urbanic,Bottomwear,Baggy Jeans,2024-06-23,6.0,2024.0,Monsoon,Chennai,South,1.0,Offline Store,2.0,1510.0,5.0,1434.5,2869.0,1420.0,1449.0,50.51,0.0,0.85
+SAL0000601,SKU01009,Bewakoof,Topwear,Hoodie,2024-06-07,6.0,2024.0,Monsoon,Mumbai,West,1.0,Meesho,2.0,780.0,25.0,585.0,1170.0,620.0,550.0,47.01,1.0,0.95
+SAL0000602,SKU02053,Styli,Topwear,Oversized T-Shirt,2024-04-28,4.0,2024.0,Summer,Hyderabad,South,1.0,Amazon,1.0,1420.0,20.0,1136.0,1136.0,690.0,446.0,39.26,0.0,0.88
+SAL0000603,SKU02018,Myntra M,Footwear,Kolhapuri,2023-09-28,9.0,2023.0,Festive,Kolkata,East,1.0,Ajio,5.0,1910.0,15.0,1623.5,8117.5,3550.0,4567.5,56.27,0.0,0.83
+SAL0000604,SKU01882,H&M India,Dresses,Maxi Dress,2024-02-02,2.0,2024.0,Winter,Delhi,North,1.0,Myntra,2.0,2090.0,0.0,2090.0,4180.0,1660.0,2520.0,60.29,0.0,0.93
+SAL0000605,SKU01606,Libas,Topwear,Blazer,2023-07-01,7.0,2023.0,Monsoon,Chennai,South,1.0,Amazon,4.0,930.0,15.0,790.5,3162.0,1760.0,1402.0,44.34,0.0,0.85
+SAL0000606,SKU01359,Urbanic,Topwear,Shirt,2023-08-24,8.0,2023.0,Monsoon,Mumbai,West,1.0,Offline Store,2.0,1210.0,15.0,1028.5,2057.0,1120.0,937.0,45.55,0.0,0.95
+SAL0000607,SKU01351,Urbanic,Topwear,Oversized T-Shirt,2024-01-26,1.0,2024.0,Winter,Hyderabad,South,1.0,Amazon,2.0,1290.0,5.0,1225.5,2451.0,960.0,1491.0,60.83,0.0,0.88
+SAL0000608,SKU01253,The Souled Store,Topwear,Tank Top,2023-05-22,5.0,2023.0,Summer,Delhi,North,1.0,Meesho,1.0,990.0,0.0,990.0,990.0,470.0,520.0,52.53,1.0,0.93
+SAL0000609,SKU01033,Bewakoof,Bottomwear,Mini Skirt,2024-03-15,3.0,2024.0,Summer,Delhi,North,1.0,Ajio,5.0,890.0,10.0,801.0,4005.0,2100.0,1905.0,47.57,0.0,0.93
+SAL0000610,SKU01557,FabAlley,Footwear,Loafers,2024-11-04,11.0,2024.0,Festive,Mumbai,West,1.0,Offline Store,1.0,2770.0,10.0,2493.0,2493.0,1210.0,1283.0,51.46,1.0,0.95
+SAL0000611,SKU02143,Styli,Footwear,Sneakers,2023-04-22,4.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,3290.0,0.0,3290.0,3290.0,1320.0,1970.0,59.88,0.0,0.88
+SAL0000612,SKU01565,FabAlley,Accessories,Sling Bag,2023-03-08,3.0,2023.0,Summer,Bangalore,South,1.0,Offline Store,1.0,960.0,10.0,864.0,864.0,410.0,454.0,52.55,0.0,0.92
+SAL0000613,SKU01758,Zudio,Ethnic,Sharara Set,2024-08-07,8.0,2024.0,Monsoon,Lucknow,North,2.0,D2C Website,1.0,1100.0,20.0,880.0,880.0,530.0,350.0,39.77,0.0,0.72
+SAL0000614,SKU02073,Styli,Topwear,Tank Top,2024-09-23,9.0,2024.0,Festive,Kolkata,East,1.0,Myntra,1.0,1260.0,30.0,882.0,882.0,510.0,372.0,42.18,0.0,0.83
+SAL0000615,SKU02091,Styli,Bottomwear,Palazzo,2024-05-24,5.0,2024.0,Summer,Mumbai,West,1.0,D2C Website,4.0,1370.0,40.0,822.0,3288.0,2160.0,1128.0,34.31,0.0,0.95
+SAL0000616,SKU02096,Styli,Bottomwear,Shorts,2024-04-07,4.0,2024.0,Summer,Surat,West,2.0,Meesho,3.0,1680.0,10.0,1512.0,4536.0,2190.0,2346.0,51.72,0.0,0.7
+SAL0000617,SKU01830,H&M India,Topwear,Hoodie,2023-12-23,12.0,2023.0,Winter,Jaipur,North,2.0,Meesho,1.0,1480.0,10.0,1332.0,1332.0,630.0,702.0,52.7,0.0,0.75
+SAL0000618,SKU02165,Styli,Accessories,Belts,2023-06-20,6.0,2023.0,Monsoon,Indore,Central,3.0,Offline Store,1.0,890.0,15.0,756.5,756.5,320.0,436.5,57.7,0.0,0.6
+SAL0000619,SKU01618,Libas,Bottomwear,Mini Skirt,2024-12-08,12.0,2024.0,Winter,Bangalore,South,1.0,Meesho,1.0,1440.0,0.0,1440.0,1440.0,610.0,830.0,57.64,0.0,0.92
+SAL0000620,SKU01322,The Souled Store,Footwear,Loafers,2023-11-15,11.0,2023.0,Festive,Kolkata,East,1.0,Offline Store,1.0,1750.0,15.0,1487.5,1487.5,850.0,637.5,42.86,1.0,0.83
+SAL0000621,SKU01691,Libas,Accessories,Caps,2023-05-03,5.0,2023.0,Summer,Bangalore,South,1.0,D2C Website,2.0,890.0,15.0,756.5,1513.0,700.0,813.0,53.73,1.0,0.92
+SAL0000622,SKU01599,Libas,Topwear,Sweatshirt,2024-08-10,8.0,2024.0,Monsoon,Delhi,North,1.0,D2C Website,2.0,1120.0,20.0,896.0,1792.0,820.0,972.0,54.24,0.0,0.93
+SAL0000623,SKU01413,Urbanic,Ethnic,Nehru Jacket,2024-10-01,10.0,2024.0,Festive,Bangalore,South,1.0,Ajio,1.0,2430.0,30.0,1701.0,1701.0,980.0,721.0,42.39,0.0,0.92
+SAL0000624,SKU01963,Myntra M,Bottomwear,Cargo Pants,2024-01-08,1.0,2024.0,Winter,Hyderabad,South,1.0,Amazon,1.0,1230.0,0.0,1230.0,1230.0,520.0,710.0,57.72,0.0,0.88
+SAL0000625,SKU01579,FabAlley,Accessories,Belts,2023-11-06,11.0,2023.0,Festive,Bangalore,South,1.0,Amazon,4.0,1000.0,15.0,850.0,3400.0,1400.0,2000.0,58.82,0.0,0.92
+SAL0000626,SKU01370,Urbanic,Topwear,Tank Top,2024-07-18,7.0,2024.0,Monsoon,Delhi,North,1.0,D2C Website,1.0,1340.0,0.0,1340.0,1340.0,530.0,810.0,60.45,1.0,0.93
+SAL0000627,SKU02058,Styli,Topwear,Crop Top,2023-02-28,2.0,2023.0,Winter,Kolkata,East,1.0,Myntra,1.0,1260.0,0.0,1260.0,1260.0,560.0,700.0,55.56,0.0,0.83
+SAL0000628,SKU01275,The Souled Store,Bottomwear,Straight Fit Jeans,2024-01-23,1.0,2024.0,Winter,Bangalore,South,1.0,Myntra,1.0,1110.0,10.0,999.0,999.0,530.0,469.0,46.95,0.0,0.92
+SAL0000629,SKU01791,Zudio,Footwear,Loafers,2024-01-10,1.0,2024.0,Winter,Ahmedabad,West,2.0,Offline Store,3.0,1290.0,15.0,1096.5,3289.5,1650.0,1639.5,49.84,0.0,0.78
+SAL0000630,SKU02030,Myntra M,Footwear,Sandals,2024-05-02,5.0,2024.0,Summer,Hyderabad,South,1.0,Amazon,3.0,1880.0,10.0,1692.0,5076.0,2400.0,2676.0,52.72,0.0,0.88
+SAL0000631,SKU01809,Zudio,Accessories,Caps,2023-02-13,2.0,2023.0,Winter,Hyderabad,South,1.0,Myntra,4.0,430.0,0.0,430.0,1720.0,800.0,920.0,53.49,0.0,0.88
+SAL0000632,SKU02073,Styli,Topwear,Tank Top,2023-03-18,3.0,2023.0,Summer,Bangalore,South,1.0,Amazon,1.0,1260.0,30.0,882.0,882.0,510.0,372.0,42.18,1.0,0.92
+SAL0000633,SKU01779,Zudio,Dresses,Co-ord Set,2024-06-30,6.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,2.0,1000.0,15.0,850.0,1700.0,980.0,720.0,42.35,0.0,0.92
+SAL0000634,SKU01093,Bewakoof,Footwear,Sandals,2023-10-11,10.0,2023.0,Festive,Jaipur,North,2.0,Ajio,1.0,1970.0,20.0,1576.0,1576.0,850.0,726.0,46.07,0.0,0.75
+SAL0000635,SKU01748,Zudio,Ethnic,Kurta Set,2023-12-19,12.0,2023.0,Winter,Delhi,North,1.0,D2C Website,1.0,1090.0,5.0,1035.5,1035.5,460.0,575.5,55.58,0.0,0.93
+SAL0000636,SKU01103,Bewakoof,Accessories,Bucket Hat,2023-12-06,12.0,2023.0,Winter,Hyderabad,South,1.0,Ajio,2.0,530.0,10.0,477.0,954.0,480.0,474.0,49.69,1.0,0.88
+SAL0000637,SKU01945,Myntra M,Topwear,Hoodie,2023-06-04,6.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,1.0,840.0,20.0,672.0,672.0,340.0,332.0,49.4,0.0,0.83
+SAL0000638,SKU01405,Urbanic,Ethnic,Sharara Set,2023-02-01,2.0,2023.0,Winter,Kolkata,East,1.0,Myntra,1.0,2920.0,0.0,2920.0,2920.0,1390.0,1530.0,52.4,0.0,0.83
+SAL0000639,SKU01856,H&M India,Bottomwear,Palazzo,2023-08-16,8.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,4.0,1950.0,5.0,1852.5,7410.0,3280.0,4130.0,55.74,1.0,0.83
+SAL0000640,SKU01090,Bewakoof,Footwear,Sneakers,2023-11-27,11.0,2023.0,Festive,Bangalore,South,1.0,Myntra,1.0,1710.0,40.0,1026.0,1026.0,630.0,396.0,38.6,0.0,0.92
+SAL0000641,SKU01928,H&M India,Accessories,Sunglasses,2024-01-07,1.0,2024.0,Winter,Hyderabad,South,1.0,Offline Store,4.0,1160.0,0.0,1160.0,4640.0,1960.0,2680.0,57.76,0.0,0.88
+SAL0000642,SKU01880,H&M India,Ethnic,Nehru Jacket,2024-03-18,3.0,2024.0,Summer,Chandigarh,North,2.0,Amazon,1.0,2660.0,5.0,2527.0,2527.0,1270.0,1257.0,49.74,0.0,0.74
+SAL0000643,SKU02006,Myntra M,Dresses,Wrap Dress,2024-04-03,4.0,2024.0,Summer,Surat,West,2.0,Myntra,1.0,1750.0,15.0,1487.5,1487.5,650.0,837.5,56.3,0.0,0.7
+SAL0000644,SKU01321,The Souled Store,Footwear,Loafers,2023-10-04,10.0,2023.0,Festive,Hyderabad,South,1.0,Myntra,3.0,1810.0,5.0,1719.5,5158.5,2160.0,2998.5,58.13,0.0,0.88
+SAL0000645,SKU01508,FabAlley,Bottomwear,Straight Fit Jeans,2024-08-13,8.0,2024.0,Monsoon,Chandigarh,North,2.0,Meesho,2.0,1350.0,40.0,810.0,1620.0,1180.0,440.0,27.16,0.0,0.74
+SAL0000646,SKU02051,Myntra M,Accessories,Scarves,2024-07-16,7.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,2.0,650.0,15.0,552.5,1105.0,600.0,505.0,45.7,0.0,0.93
+SAL0000647,SKU01418,Urbanic,Dresses,Bodycon Dress,2023-12-29,12.0,2023.0,Winter,Kolkata,East,1.0,Ajio,1.0,2480.0,20.0,1984.0,1984.0,1000.0,984.0,49.6,1.0,0.83
+SAL0000648,SKU01498,FabAlley,Bottomwear,Joggers,2023-04-14,4.0,2023.0,Summer,Bangalore,South,1.0,Offline Store,2.0,1690.0,10.0,1521.0,3042.0,1260.0,1782.0,58.58,0.0,0.92
+SAL0000649,SKU01642,Libas,Ethnic,Dhoti Pants,2023-04-06,4.0,2023.0,Summer,Surat,West,2.0,D2C Website,4.0,1850.0,50.0,925.0,3700.0,3160.0,540.0,14.59,0.0,0.7
+SAL0000650,SKU01612,Libas,Bottomwear,Cargo Pants,2024-04-24,4.0,2024.0,Summer,Bangalore,South,1.0,Amazon,1.0,1270.0,10.0,1143.0,1143.0,570.0,573.0,50.13,0.0,0.92
+SAL0000651,SKU01901,H&M India,Footwear,Kolhapuri,2023-11-03,11.0,2023.0,Festive,Delhi,North,1.0,Meesho,4.0,3100.0,30.0,2170.0,8680.0,4880.0,3800.0,43.78,0.0,0.93
+SAL0000652,SKU01826,H&M India,Topwear,Shirt,2023-06-10,6.0,2023.0,Monsoon,Delhi,North,1.0,D2C Website,4.0,1340.0,0.0,1340.0,5360.0,2160.0,3200.0,59.7,1.0,0.93
+SAL0000653,SKU01599,Libas,Topwear,Sweatshirt,2023-11-27,11.0,2023.0,Festive,Chennai,South,1.0,Meesho,5.0,1120.0,0.0,1120.0,5600.0,2050.0,3550.0,63.39,0.0,0.85
+SAL0000654,SKU01702,Zudio,Topwear,Oversized T-Shirt,2024-12-11,12.0,2024.0,Winter,Nagpur,West,3.0,Amazon,2.0,590.0,5.0,560.5,1121.0,500.0,621.0,55.4,0.0,0.55
+SAL0000655,SKU01155,Snitch,Bottomwear,Palazzo,2024-08-26,8.0,2024.0,Monsoon,Chennai,South,1.0,D2C Website,5.0,1570.0,10.0,1413.0,7065.0,2850.0,4215.0,59.66,0.0,0.85
+SAL0000656,SKU01160,Snitch,Bottomwear,Shorts,2024-04-13,4.0,2024.0,Summer,Bangalore,South,1.0,Myntra,1.0,1620.0,20.0,1296.0,1296.0,740.0,556.0,42.9,0.0,0.92
+SAL0000657,SKU01171,Snitch,Ethnic,Sharara Set,2023-09-26,9.0,2023.0,Festive,Patna,East,3.0,Myntra,1.0,2160.0,5.0,2052.0,2052.0,900.0,1152.0,56.14,0.0,0.5
+SAL0000658,SKU01276,The Souled Store,Bottomwear,Shorts,2024-09-21,9.0,2024.0,Festive,Bangalore,South,1.0,D2C Website,2.0,1120.0,15.0,952.0,1904.0,980.0,924.0,48.53,0.0,0.92
+SAL0000659,SKU01310,The Souled Store,Dresses,Co-ord Set,2024-02-08,2.0,2024.0,Winter,Hyderabad,South,1.0,Ajio,1.0,1290.0,5.0,1225.5,1225.5,490.0,735.5,60.02,1.0,0.88
+SAL0000660,SKU01290,The Souled Store,Ethnic,Sharara Set,2023-11-27,11.0,2023.0,Festive,Mumbai,West,1.0,Ajio,5.0,1630.0,5.0,1548.5,7742.5,4050.0,3692.5,47.69,0.0,0.95
+SAL0000661,SKU01908,H&M India,Footwear,Loafers,2024-06-11,6.0,2024.0,Monsoon,Delhi,North,1.0,Myntra,1.0,3040.0,10.0,2736.0,2736.0,1410.0,1326.0,48.46,1.0,0.93
+SAL0000662,SKU01802,Zudio,Accessories,Tote Bag,2023-01-03,1.0,2023.0,Winter,Ahmedabad,West,2.0,Offline Store,5.0,370.0,30.0,259.0,1295.0,800.0,495.0,38.22,0.0,0.78
+SAL0000663,SKU01492,FabAlley,Bottomwear,Baggy Jeans,2023-08-19,8.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,2.0,1600.0,10.0,1440.0,2880.0,1360.0,1520.0,52.78,1.0,0.83
+SAL0000664,SKU01739,Zudio,Bottomwear,Palazzo,2024-05-04,5.0,2024.0,Summer,Chennai,South,1.0,D2C Website,1.0,760.0,15.0,646.0,646.0,320.0,326.0,50.46,0.0,0.85
+SAL0000665,SKU01253,The Souled Store,Topwear,Tank Top,2024-09-20,9.0,2024.0,Festive,Bangalore,South,1.0,Myntra,3.0,990.0,0.0,990.0,2970.0,1410.0,1560.0,52.53,0.0,0.92
+SAL0000666,SKU02126,Styli,Dresses,Shirt Dress,2023-09-01,9.0,2023.0,Festive,Bangalore,South,1.0,D2C Website,3.0,2180.0,0.0,2180.0,6540.0,3090.0,3450.0,52.75,0.0,0.92
+SAL0000667,SKU01740,Zudio,Bottomwear,Palazzo,2024-03-13,3.0,2024.0,Summer,Mumbai,West,1.0,Offline Store,2.0,770.0,50.0,385.0,770.0,560.0,210.0,27.27,0.0,0.95
+SAL0000668,SKU01438,Urbanic,Footwear,Loafers,2024-05-11,5.0,2024.0,Summer,Chennai,South,1.0,Myntra,1.0,3260.0,25.0,2445.0,2445.0,1460.0,985.0,40.29,1.0,0.85
+SAL0000669,SKU01645,Libas,Ethnic,Nehru Jacket,2024-05-14,5.0,2024.0,Summer,Hyderabad,South,1.0,Myntra,3.0,1890.0,25.0,1417.5,4252.5,2100.0,2152.5,50.62,0.0,0.88
+SAL0000670,SKU01374,Urbanic,Topwear,Blazer,2023-12-24,12.0,2023.0,Winter,Kochi,South,3.0,Amazon,1.0,1520.0,10.0,1368.0,1368.0,670.0,698.0,51.02,0.0,0.62
+SAL0000671,SKU01114,Bewakoof,Accessories,Scarves,2024-11-04,11.0,2024.0,Festive,Jaipur,North,2.0,Myntra,1.0,670.0,30.0,469.0,469.0,300.0,169.0,36.03,0.0,0.75
+SAL0000672,SKU01763,Zudio,Ethnic,Nehru Jacket,2023-12-05,12.0,2023.0,Winter,Chennai,South,1.0,D2C Website,2.0,980.0,20.0,784.0,1568.0,780.0,788.0,50.26,0.0,0.85
+SAL0000673,SKU01924,H&M India,Accessories,Caps,2023-11-27,11.0,2023.0,Festive,Jaipur,North,2.0,D2C Website,1.0,1200.0,0.0,1200.0,1200.0,540.0,660.0,55.0,1.0,0.75
+SAL0000674,SKU01247,The Souled Store,Topwear,Sweatshirt,2023-06-17,6.0,2023.0,Monsoon,Bangalore,South,1.0,D2C Website,2.0,870.0,0.0,870.0,1740.0,700.0,1040.0,59.77,0.0,0.92
+SAL0000675,SKU02105,Styli,Ethnic,Anarkali,2024-11-03,11.0,2024.0,Festive,Patna,East,3.0,Myntra,1.0,2580.0,5.0,2451.0,2451.0,1210.0,1241.0,50.63,0.0,0.5
+SAL0000676,SKU01833,H&M India,Topwear,Sweatshirt,2024-07-01,7.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,1.0,1310.0,0.0,1310.0,1310.0,640.0,670.0,51.15,1.0,0.92
+SAL0000677,SKU01202,Snitch,Footwear,Block Heels,2023-06-05,6.0,2023.0,Monsoon,Delhi,North,1.0,Ajio,2.0,2720.0,5.0,2584.0,5168.0,2640.0,2528.0,48.92,0.0,0.93
+SAL0000678,SKU01677,Libas,Footwear,Sneakers,2024-05-24,5.0,2024.0,Summer,Jaipur,North,2.0,D2C Website,1.0,2330.0,10.0,2097.0,2097.0,1120.0,977.0,46.59,0.0,0.75
+SAL0000679,SKU02143,Styli,Footwear,Sneakers,2024-03-05,3.0,2024.0,Summer,Hyderabad,South,1.0,Ajio,1.0,3290.0,15.0,2796.5,2796.5,1320.0,1476.5,52.8,0.0,0.88
+SAL0000680,SKU01241,The Souled Store,Topwear,Shirt,2024-03-13,3.0,2024.0,Summer,Kolkata,East,1.0,Ajio,1.0,870.0,40.0,522.0,522.0,390.0,132.0,25.29,0.0,0.83
+SAL0000681,SKU01534,FabAlley,Dresses,Bodycon Dress,2023-07-11,7.0,2023.0,Monsoon,Ahmedabad,West,2.0,Meesho,1.0,1860.0,5.0,1767.0,1767.0,730.0,1037.0,58.69,1.0,0.78
+SAL0000682,SKU01763,Zudio,Ethnic,Nehru Jacket,2024-11-01,11.0,2024.0,Festive,Delhi,North,1.0,Myntra,1.0,980.0,10.0,882.0,882.0,390.0,492.0,55.78,0.0,0.93
+SAL0000683,SKU01336,The Souled Store,Accessories,Bucket Hat,2023-04-09,4.0,2023.0,Summer,Delhi,North,1.0,Amazon,3.0,580.0,5.0,551.0,1653.0,750.0,903.0,54.63,0.0,0.93
+SAL0000684,SKU01140,Snitch,Topwear,Blazer,2024-10-24,10.0,2024.0,Festive,Bangalore,South,1.0,Offline Store,1.0,1430.0,10.0,1287.0,1287.0,570.0,717.0,55.71,0.0,0.92
+SAL0000685,SKU01590,Libas,Topwear,Crop Top,2023-08-21,8.0,2023.0,Monsoon,Bangalore,South,1.0,Myntra,1.0,1180.0,0.0,1180.0,1180.0,470.0,710.0,60.17,0.0,0.92
+SAL0000686,SKU01383,Urbanic,Bottomwear,Joggers,2024-04-21,4.0,2024.0,Summer,Ahmedabad,West,2.0,Offline Store,2.0,1830.0,30.0,1281.0,2562.0,1760.0,802.0,31.3,1.0,0.78
+SAL0000687,SKU02165,Styli,Accessories,Belts,2024-07-05,7.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,1.0,890.0,5.0,845.5,845.5,320.0,525.5,62.15,0.0,0.93
+SAL0000688,SKU01410,Urbanic,Ethnic,Dhoti Pants,2024-05-18,5.0,2024.0,Summer,Delhi,North,1.0,Offline Store,1.0,2780.0,15.0,2363.0,2363.0,970.0,1393.0,58.95,0.0,0.93
+SAL0000689,SKU01040,Bewakoof,Bottomwear,Straight Fit Jeans,2024-03-25,3.0,2024.0,Summer,Coimbatore,South,3.0,Offline Store,1.0,1110.0,5.0,1054.5,1054.5,490.0,564.5,53.53,0.0,0.57
+SAL0000690,SKU01476,FabAlley,Topwear,Shirt,2024-01-29,1.0,2024.0,Winter,Coimbatore,South,3.0,D2C Website,2.0,1080.0,30.0,756.0,1512.0,1060.0,452.0,29.89,0.0,0.57
+SAL0000691,SKU01550,FabAlley,Footwear,Kolhapuri,2024-07-04,7.0,2024.0,Monsoon,Chennai,South,1.0,Ajio,4.0,2340.0,5.0,2223.0,8892.0,4640.0,4252.0,47.82,0.0,0.85
+SAL0000692,SKU01955,Myntra M,Topwear,Tank Top,2024-07-03,7.0,2024.0,Monsoon,Patna,East,3.0,Offline Store,1.0,900.0,10.0,810.0,810.0,430.0,380.0,46.91,0.0,0.5
+SAL0000693,SKU01321,The Souled Store,Footwear,Loafers,2023-10-06,10.0,2023.0,Festive,Kolkata,East,1.0,Myntra,2.0,1810.0,5.0,1719.5,3439.0,1440.0,1999.0,58.13,0.0,0.83
+SAL0000694,SKU01697,Libas,Accessories,Belts,2023-02-22,2.0,2023.0,Winter,Hyderabad,South,1.0,D2C Website,1.0,740.0,50.0,370.0,370.0,350.0,20.0,5.41,0.0,0.88
+SAL0000695,SKU01365,Urbanic,Topwear,Sweatshirt,2023-07-21,7.0,2023.0,Monsoon,Pune,West,2.0,Meesho,5.0,1220.0,0.0,1220.0,6100.0,2900.0,3200.0,52.46,0.0,0.8
+SAL0000696,SKU01870,H&M India,Ethnic,Anarkali,2023-04-02,4.0,2023.0,Summer,Hyderabad,South,1.0,Meesho,1.0,2960.0,10.0,2664.0,2664.0,1360.0,1304.0,48.95,0.0,0.88
+SAL0000697,SKU01593,Libas,Topwear,Shirt,2024-04-22,4.0,2024.0,Summer,Chandigarh,North,2.0,Myntra,1.0,1100.0,25.0,825.0,825.0,400.0,425.0,51.52,1.0,0.74
+SAL0000698,SKU02035,Myntra M,Accessories,Tote Bag,2024-01-24,1.0,2024.0,Winter,Kolkata,East,1.0,Myntra,1.0,770.0,25.0,577.5,577.5,330.0,247.5,42.86,0.0,0.83
+SAL0000699,SKU01321,The Souled Store,Footwear,Loafers,2024-12-16,12.0,2024.0,Winter,Chandigarh,North,2.0,Meesho,4.0,1810.0,0.0,1810.0,7240.0,2880.0,4360.0,60.22,0.0,0.74
+SAL0000700,SKU01455,Urbanic,Accessories,Bucket Hat,2023-11-05,11.0,2023.0,Festive,Delhi,North,1.0,Ajio,1.0,1050.0,15.0,892.5,892.5,410.0,482.5,54.06,0.0,0.93
+SAL0000701,SKU01103,Bewakoof,Accessories,Bucket Hat,2024-12-01,12.0,2024.0,Winter,Hyderabad,South,1.0,Offline Store,1.0,530.0,5.0,503.5,503.5,240.0,263.5,52.33,0.0,0.88
+SAL0000702,SKU01393,Urbanic,Bottomwear,Shorts,2023-01-06,1.0,2023.0,Winter,Bangalore,South,1.0,Ajio,1.0,1740.0,10.0,1566.0,1566.0,710.0,856.0,54.66,0.0,0.92
+SAL0000703,SKU01590,Libas,Topwear,Crop Top,2023-07-11,7.0,2023.0,Monsoon,Ahmedabad,West,2.0,Ajio,1.0,1180.0,5.0,1121.0,1121.0,470.0,651.0,58.07,0.0,0.78
+SAL0000704,SKU01432,Urbanic,Footwear,Kolhapuri,2023-11-10,11.0,2023.0,Festive,Hyderabad,South,1.0,Myntra,2.0,2970.0,0.0,2970.0,5940.0,2580.0,3360.0,56.57,0.0,0.88
+SAL0000705,SKU02028,Myntra M,Footwear,Sneakers,2023-11-21,11.0,2023.0,Festive,Hyderabad,South,1.0,D2C Website,5.0,2130.0,15.0,1810.5,9052.5,4400.0,4652.5,51.39,0.0,0.88
+SAL0000706,SKU01684,Libas,Accessories,Tote Bag,2023-05-23,5.0,2023.0,Summer,Bhopal,Central,3.0,Myntra,5.0,700.0,0.0,700.0,3500.0,1350.0,2150.0,61.43,1.0,0.58
+SAL0000707,SKU01939,Myntra M,Topwear,Crop Top,2024-02-15,2.0,2024.0,Winter,Chennai,South,1.0,D2C Website,1.0,900.0,5.0,855.0,855.0,390.0,465.0,54.39,1.0,0.85
+SAL0000708,SKU01623,Libas,Bottomwear,Palazzo,2024-03-12,3.0,2024.0,Summer,Hyderabad,South,1.0,Ajio,1.0,1160.0,0.0,1160.0,1160.0,410.0,750.0,64.66,0.0,0.88
+SAL0000709,SKU02111,Styli,Ethnic,Dhoti Pants,2023-10-29,10.0,2023.0,Festive,Chennai,South,1.0,Amazon,1.0,2110.0,50.0,1055.0,1055.0,820.0,235.0,22.27,0.0,0.85
+SAL0000710,SKU01782,Zudio,Footwear,Chunky Sneakers,2023-10-15,10.0,2023.0,Festive,Chennai,South,1.0,Offline Store,1.0,1380.0,20.0,1104.0,1104.0,570.0,534.0,48.37,0.0,0.85
+SAL0000711,SKU01411,Urbanic,Ethnic,Nehru Jacket,2023-10-21,10.0,2023.0,Festive,Nagpur,West,3.0,D2C Website,1.0,2420.0,10.0,2178.0,2178.0,990.0,1188.0,54.55,0.0,0.55
+SAL0000712,SKU02086,Styli,Bottomwear,Mini Skirt,2024-04-06,4.0,2024.0,Summer,Hyderabad,South,1.0,Ajio,2.0,1440.0,50.0,720.0,1440.0,1380.0,60.0,4.17,0.0,0.88
+SAL0000713,SKU01238,The Souled Store,Topwear,Crop Top,2023-03-17,3.0,2023.0,Summer,Hyderabad,South,1.0,Offline Store,1.0,770.0,15.0,654.5,654.5,330.0,324.5,49.58,0.0,0.88
+SAL0000714,SKU01230,Snitch,Accessories,Belts,2024-11-23,11.0,2024.0,Festive,Bangalore,South,1.0,D2C Website,2.0,850.0,25.0,637.5,1275.0,760.0,515.0,40.39,0.0,0.92
+SAL0000715,SKU01998,Myntra M,Ethnic,Nehru Jacket,2023-08-25,8.0,2023.0,Monsoon,Patna,East,3.0,Amazon,2.0,2050.0,25.0,1537.5,3075.0,1480.0,1595.0,51.87,0.0,0.5
+SAL0000716,SKU01022,Bewakoof,Topwear,Blazer,2024-09-18,9.0,2024.0,Festive,Ahmedabad,West,2.0,Ajio,1.0,740.0,30.0,518.0,518.0,330.0,188.0,36.29,0.0,0.78
+SAL0000717,SKU02032,Myntra M,Accessories,Sling Bag,2024-12-07,12.0,2024.0,Winter,Chandigarh,North,2.0,Ajio,1.0,620.0,5.0,589.0,589.0,290.0,299.0,50.76,0.0,0.74
+SAL0000718,SKU01412,Urbanic,Ethnic,Nehru Jacket,2024-06-02,6.0,2024.0,Monsoon,Hyderabad,South,1.0,Myntra,1.0,2580.0,0.0,2580.0,2580.0,1260.0,1320.0,51.16,0.0,0.88
+SAL0000719,SKU01011,Bewakoof,Topwear,Hoodie,2024-02-16,2.0,2024.0,Winter,Bangalore,South,1.0,Myntra,1.0,750.0,15.0,637.5,637.5,300.0,337.5,52.94,0.0,0.92
+SAL0000720,SKU01505,FabAlley,Bottomwear,Palazzo,2023-07-11,7.0,2023.0,Monsoon,Chandigarh,North,2.0,Myntra,1.0,1370.0,20.0,1096.0,1096.0,680.0,416.0,37.96,0.0,0.74
+SAL0000721,SKU02147,Styli,Footwear,Sandals,2024-02-07,2.0,2024.0,Winter,Kochi,South,3.0,Offline Store,1.0,2450.0,0.0,2450.0,2450.0,860.0,1590.0,64.9,0.0,0.62
+SAL0000722,SKU01971,Myntra M,Bottomwear,Mini Skirt,2023-11-17,11.0,2023.0,Festive,Kolkata,East,1.0,Myntra,1.0,1300.0,0.0,1300.0,1300.0,590.0,710.0,54.62,0.0,0.83
+SAL0000723,SKU01945,Myntra M,Topwear,Hoodie,2023-09-01,9.0,2023.0,Festive,Kolkata,East,1.0,Ajio,1.0,840.0,30.0,588.0,588.0,340.0,248.0,42.18,0.0,0.83
+SAL0000724,SKU01678,Libas,Footwear,Sandals,2024-07-15,7.0,2024.0,Monsoon,Hyderabad,South,1.0,D2C Website,3.0,2620.0,15.0,2227.0,6681.0,3240.0,3441.0,51.5,1.0,0.88
+SAL0000725,SKU02154,Styli,Accessories,Tote Bag,2024-10-07,10.0,2024.0,Festive,Jaipur,North,2.0,Ajio,2.0,850.0,5.0,807.5,1615.0,680.0,935.0,57.89,0.0,0.75
+SAL0000726,SKU01754,Zudio,Ethnic,Anarkali,2024-07-24,7.0,2024.0,Monsoon,Coimbatore,South,3.0,Offline Store,4.0,1080.0,15.0,918.0,3672.0,2000.0,1672.0,45.53,1.0,0.57
+SAL0000727,SKU01720,Zudio,Topwear,Tank Top,2023-03-28,3.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,640.0,15.0,544.0,544.0,230.0,314.0,57.72,0.0,0.88
+SAL0000728,SKU01765,Zudio,Dresses,Maxi Dress,2024-02-24,2.0,2024.0,Winter,Nagpur,West,3.0,Amazon,3.0,860.0,5.0,817.0,2451.0,1140.0,1311.0,53.49,0.0,0.55
+SAL0000729,SKU01146,Snitch,Bottomwear,Cargo Pants,2024-07-08,7.0,2024.0,Monsoon,Chennai,South,1.0,Offline Store,1.0,1750.0,0.0,1750.0,1750.0,710.0,1040.0,59.43,1.0,0.85
+SAL0000730,SKU01559,FabAlley,Footwear,Sneakers,2023-05-19,5.0,2023.0,Summer,Lucknow,North,2.0,D2C Website,1.0,2510.0,25.0,1882.5,1882.5,930.0,952.5,50.6,0.0,0.72
+SAL0000731,SKU02013,Myntra M,Dresses,Co-ord Set,2023-01-25,1.0,2023.0,Winter,Hyderabad,South,1.0,Myntra,2.0,1670.0,30.0,1169.0,2338.0,1660.0,678.0,29.0,0.0,0.88
+SAL0000732,SKU01216,Snitch,Accessories,Tote Bag,2023-04-22,4.0,2023.0,Summer,Surat,West,2.0,Myntra,1.0,990.0,5.0,940.5,940.5,360.0,580.5,61.72,0.0,0.7
+SAL0000733,SKU01370,Urbanic,Topwear,Tank Top,2023-08-15,8.0,2023.0,Monsoon,Kolkata,East,1.0,D2C Website,3.0,1340.0,25.0,1005.0,3015.0,1590.0,1425.0,47.26,0.0,0.83
+SAL0000734,SKU01690,Libas,Accessories,Caps,2023-01-18,1.0,2023.0,Winter,Hyderabad,South,1.0,Myntra,4.0,700.0,15.0,595.0,2380.0,1160.0,1220.0,51.26,0.0,0.88
+SAL0000735,SKU02082,Styli,Bottomwear,Cargo Pants,2023-09-10,9.0,2023.0,Festive,Kolkata,East,1.0,Amazon,1.0,1580.0,10.0,1422.0,1422.0,790.0,632.0,44.44,0.0,0.83
+SAL0000736,SKU01884,H&M India,Dresses,Maxi Dress,2023-07-10,7.0,2023.0,Monsoon,Kolkata,East,1.0,Ajio,1.0,2250.0,10.0,2025.0,2025.0,920.0,1105.0,54.57,0.0,0.83
+SAL0000737,SKU01752,Zudio,Ethnic,Co-ord Saree,2024-11-07,11.0,2024.0,Festive,Delhi,North,1.0,Myntra,1.0,1010.0,0.0,1010.0,1010.0,410.0,600.0,59.41,0.0,0.93
+SAL0000738,SKU01202,Snitch,Footwear,Block Heels,2024-02-19,2.0,2024.0,Winter,Bangalore,South,1.0,Ajio,1.0,2720.0,15.0,2312.0,2312.0,1320.0,992.0,42.91,0.0,0.92
+SAL0000739,SKU01005,Bewakoof,Topwear,Crop Top,2024-06-28,6.0,2024.0,Monsoon,Bangalore,South,1.0,Myntra,3.0,680.0,0.0,680.0,2040.0,1020.0,1020.0,50.0,0.0,0.92
+SAL0000740,SKU01510,FabAlley,Bottomwear,Shorts,2023-07-23,7.0,2023.0,Monsoon,Hyderabad,South,1.0,Ajio,1.0,1590.0,15.0,1351.5,1351.5,630.0,721.5,53.39,0.0,0.88
+SAL0000741,SKU01683,Libas,Accessories,Sling Bag,2023-06-19,6.0,2023.0,Monsoon,Hyderabad,South,1.0,Ajio,4.0,830.0,10.0,747.0,2988.0,1600.0,1388.0,46.45,0.0,0.88
+SAL0000742,SKU01414,Urbanic,Dresses,Maxi Dress,2024-06-30,6.0,2024.0,Monsoon,Jaipur,North,2.0,Meesho,1.0,2370.0,50.0,1185.0,1185.0,990.0,195.0,16.46,0.0,0.75
+SAL0000743,SKU01288,The Souled Store,Ethnic,Sharara Set,2023-08-06,8.0,2023.0,Monsoon,Chennai,South,1.0,D2C Website,1.0,1470.0,5.0,1396.5,1396.5,720.0,676.5,48.44,0.0,0.85
+SAL0000744,SKU01998,Myntra M,Ethnic,Nehru Jacket,2023-09-26,9.0,2023.0,Festive,Surat,West,2.0,Offline Store,4.0,2050.0,15.0,1742.5,6970.0,2960.0,4010.0,57.53,0.0,0.7
+SAL0000745,SKU01201,Snitch,Footwear,Block Heels,2024-06-02,6.0,2024.0,Monsoon,Mumbai,West,1.0,Myntra,2.0,2880.0,0.0,2880.0,5760.0,2740.0,3020.0,52.43,1.0,0.95
+SAL0000746,SKU01609,Libas,Bottomwear,Baggy Jeans,2023-03-20,3.0,2023.0,Summer,Delhi,North,1.0,D2C Website,4.0,1360.0,10.0,1224.0,4896.0,2120.0,2776.0,56.7,0.0,0.93
+SAL0000747,SKU01461,Urbanic,Accessories,Sunglasses,2024-10-25,10.0,2024.0,Festive,Ahmedabad,West,2.0,D2C Website,1.0,1140.0,0.0,1140.0,1140.0,540.0,600.0,52.63,0.0,0.78
+SAL0000748,SKU01762,Zudio,Ethnic,Nehru Jacket,2024-01-06,1.0,2024.0,Winter,Hyderabad,South,1.0,Ajio,4.0,1040.0,40.0,624.0,2496.0,1600.0,896.0,35.9,0.0,0.88
+SAL0000749,SKU01938,Myntra M,Topwear,Oversized T-Shirt,2024-07-09,7.0,2024.0,Monsoon,Bangalore,South,1.0,D2C Website,1.0,980.0,30.0,686.0,686.0,420.0,266.0,38.78,0.0,0.92
+SAL0000750,SKU01407,Urbanic,Ethnic,Sharara Set,2023-08-31,8.0,2023.0,Monsoon,Chennai,South,1.0,Ajio,2.0,2830.0,0.0,2830.0,5660.0,2420.0,3240.0,57.24,0.0,0.85
+SAL0000751,SKU01917,H&M India,Accessories,Sling Bag,2024-08-02,8.0,2024.0,Monsoon,Lucknow,North,2.0,Amazon,2.0,1180.0,0.0,1180.0,2360.0,1060.0,1300.0,55.08,0.0,0.72
+SAL0000752,SKU01454,Urbanic,Accessories,Bucket Hat,2024-12-01,12.0,2024.0,Winter,Delhi,North,1.0,Myntra,2.0,940.0,5.0,893.0,1786.0,760.0,1026.0,57.45,0.0,0.93
+SAL0000753,SKU02107,Styli,Ethnic,Sharara Set,2024-01-23,1.0,2024.0,Winter,Bangalore,South,1.0,Ajio,4.0,2560.0,0.0,2560.0,10240.0,4040.0,6200.0,60.55,0.0,0.92
+SAL0000754,SKU01003,Bewakoof,Topwear,Crop Top,2024-03-17,3.0,2024.0,Summer,Hyderabad,South,1.0,Meesho,1.0,690.0,5.0,655.5,655.5,330.0,325.5,49.66,0.0,0.88
+SAL0000755,SKU02012,Myntra M,Dresses,Co-ord Set,2024-04-19,4.0,2024.0,Summer,Kolkata,East,1.0,Ajio,1.0,1520.0,20.0,1216.0,1216.0,590.0,626.0,51.48,0.0,0.83
+SAL0000756,SKU01982,Myntra M,Ethnic,Kurta Set,2023-12-11,12.0,2023.0,Winter,Kolkata,East,1.0,Ajio,1.0,1840.0,40.0,1104.0,1104.0,810.0,294.0,26.63,0.0,0.83
+SAL0000757,SKU01740,Zudio,Bottomwear,Palazzo,2023-12-19,12.0,2023.0,Winter,Kolkata,East,1.0,Amazon,3.0,770.0,10.0,693.0,2079.0,840.0,1239.0,59.6,0.0,0.83
+SAL0000758,SKU01025,Bewakoof,Bottomwear,Baggy Jeans,2024-04-14,4.0,2024.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,1140.0,15.0,969.0,969.0,530.0,439.0,45.3,0.0,0.88
+SAL0000759,SKU01665,Libas,Footwear,Chunky Sneakers,2023-03-20,3.0,2023.0,Summer,Bangalore,South,1.0,D2C Website,1.0,2380.0,0.0,2380.0,2380.0,1090.0,1290.0,54.2,0.0,0.92
+SAL0000760,SKU01382,Urbanic,Bottomwear,Joggers,2024-03-05,3.0,2024.0,Summer,Lucknow,North,2.0,Myntra,3.0,1460.0,10.0,1314.0,3942.0,1920.0,2022.0,51.29,0.0,0.72
+SAL0000761,SKU01492,FabAlley,Bottomwear,Baggy Jeans,2024-07-30,7.0,2024.0,Monsoon,Nagpur,West,3.0,Ajio,4.0,1600.0,15.0,1360.0,5440.0,2720.0,2720.0,50.0,1.0,0.55
+SAL0000762,SKU01987,Myntra M,Ethnic,Anarkali,2023-02-08,2.0,2023.0,Winter,Patna,East,3.0,Ajio,3.0,1690.0,10.0,1521.0,4563.0,2490.0,2073.0,45.43,0.0,0.5
+SAL0000763,SKU01222,Snitch,Accessories,Caps,2023-07-17,7.0,2023.0,Monsoon,Chandigarh,North,2.0,Ajio,2.0,1050.0,15.0,892.5,1785.0,1040.0,745.0,41.74,0.0,0.74
+SAL0000764,SKU01230,Snitch,Accessories,Belts,2023-08-05,8.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,1.0,850.0,25.0,637.5,637.5,380.0,257.5,40.39,0.0,0.83
+SAL0000765,SKU01078,Bewakoof,Footwear,Chunky Sneakers,2024-07-24,7.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,2.0,1890.0,20.0,1512.0,3024.0,1760.0,1264.0,41.8,0.0,0.92
+SAL0000766,SKU01696,Libas,Accessories,Belts,2023-03-25,3.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,5.0,700.0,30.0,490.0,2450.0,1500.0,950.0,38.78,0.0,0.88
+SAL0000767,SKU01090,Bewakoof,Footwear,Sneakers,2024-08-23,8.0,2024.0,Monsoon,Hyderabad,South,1.0,D2C Website,1.0,1710.0,0.0,1710.0,1710.0,630.0,1080.0,63.16,0.0,0.88
+SAL0000768,SKU01660,Libas,Dresses,Co-ord Set,2024-07-10,7.0,2024.0,Monsoon,Hyderabad,South,1.0,D2C Website,1.0,1560.0,5.0,1482.0,1482.0,580.0,902.0,60.86,0.0,0.88
+SAL0000769,SKU01800,Zudio,Accessories,Sling Bag,2024-01-18,1.0,2024.0,Winter,Bhopal,Central,3.0,Myntra,1.0,380.0,10.0,342.0,342.0,150.0,192.0,56.14,0.0,0.58
+SAL0000770,SKU01811,Zudio,Accessories,Sunglasses,2024-04-10,4.0,2024.0,Summer,Chandigarh,North,2.0,D2C Website,5.0,430.0,15.0,365.5,1827.5,1050.0,777.5,42.54,0.0,0.74
+SAL0000771,SKU01287,The Souled Store,Ethnic,Anarkali,2023-09-29,9.0,2023.0,Festive,Chennai,South,1.0,Myntra,1.0,1830.0,30.0,1281.0,1281.0,900.0,381.0,29.74,0.0,0.85
+SAL0000772,SKU02027,Myntra M,Footwear,Sneakers,2024-11-11,11.0,2024.0,Festive,Nagpur,West,3.0,Amazon,1.0,2390.0,10.0,2151.0,2151.0,1080.0,1071.0,49.79,0.0,0.55
+SAL0000773,SKU01502,FabAlley,Bottomwear,Mini Skirt,2024-02-08,2.0,2024.0,Winter,Mumbai,West,1.0,Myntra,1.0,1640.0,10.0,1476.0,1476.0,740.0,736.0,49.86,0.0,0.95
+SAL0000774,SKU01421,Urbanic,Dresses,Wrap Dress,2023-05-26,5.0,2023.0,Summer,Bangalore,South,1.0,Ajio,1.0,2000.0,5.0,1900.0,1900.0,990.0,910.0,47.89,0.0,0.92
+SAL0000775,SKU01192,Snitch,Dresses,Co-ord Set,2023-05-27,5.0,2023.0,Summer,Bangalore,South,1.0,Offline Store,5.0,2220.0,40.0,1332.0,6660.0,5200.0,1460.0,21.92,0.0,0.92
+SAL0000776,SKU01162,Snitch,Ethnic,Kurta Set,2023-12-24,12.0,2023.0,Winter,Pune,West,2.0,Amazon,1.0,2730.0,15.0,2320.5,2320.5,1260.0,1060.5,45.7,0.0,0.8
+SAL0000777,SKU01680,Libas,Footwear,Sandals,2024-09-01,9.0,2024.0,Festive,Kolkata,East,1.0,Meesho,3.0,2630.0,0.0,2630.0,7890.0,3000.0,4890.0,61.98,0.0,0.83
+SAL0000778,SKU02074,Styli,Topwear,Blazer,2024-06-15,6.0,2024.0,Monsoon,Bangalore,South,1.0,Amazon,1.0,1280.0,5.0,1216.0,1216.0,610.0,606.0,49.84,1.0,0.92
+SAL0000779,SKU01130,Snitch,Topwear,Sweatshirt,2023-11-17,11.0,2023.0,Festive,Delhi,North,1.0,Amazon,2.0,1320.0,10.0,1188.0,2376.0,1320.0,1056.0,44.44,1.0,0.93
+SAL0000780,SKU01773,Zudio,Dresses,Wrap Dress,2024-11-21,11.0,2024.0,Festive,Lucknow,North,2.0,Myntra,5.0,990.0,10.0,891.0,4455.0,2150.0,2305.0,51.74,0.0,0.72
+SAL0000781,SKU01601,Libas,Topwear,Polo T-Shirt,2024-03-12,3.0,2024.0,Summer,Bangalore,South,1.0,Offline Store,2.0,890.0,40.0,534.0,1068.0,700.0,368.0,34.46,0.0,0.92
+SAL0000782,SKU01756,Zudio,Ethnic,Sharara Set,2024-04-11,4.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,1190.0,0.0,1190.0,1190.0,420.0,770.0,64.71,0.0,0.93
+SAL0000783,SKU01524,FabAlley,Ethnic,Sharara Set,2023-05-10,5.0,2023.0,Summer,Mumbai,West,1.0,Ajio,1.0,2500.0,15.0,2125.0,2125.0,880.0,1245.0,58.59,0.0,0.95
+SAL0000784,SKU01969,Myntra M,Bottomwear,Mini Skirt,2024-09-29,9.0,2024.0,Festive,Kolkata,East,1.0,Myntra,2.0,1200.0,10.0,1080.0,2160.0,860.0,1300.0,60.19,0.0,0.83
+SAL0000785,SKU01248,The Souled Store,Topwear,Sweatshirt,2024-04-28,4.0,2024.0,Summer,Ahmedabad,West,2.0,Amazon,1.0,900.0,15.0,765.0,765.0,330.0,435.0,56.86,0.0,0.78
+SAL0000786,SKU01132,Snitch,Topwear,Polo T-Shirt,2023-05-29,5.0,2023.0,Summer,Mumbai,West,1.0,Meesho,2.0,1420.0,20.0,1136.0,2272.0,1300.0,972.0,42.78,1.0,0.95
+SAL0000787,SKU01551,FabAlley,Footwear,Kolhapuri,2024-03-22,3.0,2024.0,Summer,Delhi,North,1.0,Ajio,1.0,3010.0,10.0,2709.0,2709.0,1470.0,1239.0,45.74,0.0,0.93
+SAL0000788,SKU01688,Libas,Accessories,Bucket Hat,2023-04-14,4.0,2023.0,Summer,Pune,West,2.0,Myntra,2.0,770.0,20.0,616.0,1232.0,660.0,572.0,46.43,0.0,0.8
+SAL0000789,SKU01787,Zudio,Footwear,Block Heels,2024-03-25,3.0,2024.0,Summer,Nagpur,West,3.0,Myntra,1.0,1150.0,10.0,1035.0,1035.0,420.0,615.0,59.42,0.0,0.55
+SAL0000790,SKU01865,H&M India,Ethnic,Kurta Set,2024-04-07,4.0,2024.0,Summer,Lucknow,North,2.0,Myntra,1.0,2540.0,10.0,2286.0,2286.0,1130.0,1156.0,50.57,0.0,0.72
+SAL0000791,SKU01704,Zudio,Topwear,Oversized T-Shirt,2024-07-09,7.0,2024.0,Monsoon,Kolkata,East,1.0,Myntra,1.0,570.0,15.0,484.5,484.5,270.0,214.5,44.27,0.0,0.83
+SAL0000792,SKU01638,Libas,Ethnic,Anarkali,2023-03-22,3.0,2023.0,Summer,Chennai,South,1.0,Amazon,1.0,1800.0,10.0,1620.0,1620.0,900.0,720.0,44.44,0.0,0.85
+SAL0000793,SKU01939,Myntra M,Topwear,Crop Top,2024-12-06,12.0,2024.0,Winter,Coimbatore,South,3.0,Amazon,1.0,900.0,10.0,810.0,810.0,390.0,420.0,51.85,0.0,0.57
+SAL0000794,SKU02161,Styli,Accessories,Sunglasses,2024-09-04,9.0,2024.0,Festive,Kolkata,East,1.0,Amazon,2.0,990.0,5.0,940.5,1881.0,780.0,1101.0,58.53,1.0,0.83
+SAL0000795,SKU01761,Zudio,Ethnic,Dhoti Pants,2024-01-22,1.0,2024.0,Winter,Indore,Central,3.0,D2C Website,1.0,1000.0,15.0,850.0,850.0,370.0,480.0,56.47,0.0,0.6
+SAL0000796,SKU02077,Styli,Bottomwear,Baggy Jeans,2024-10-01,10.0,2024.0,Festive,Jaipur,North,2.0,Meesho,2.0,1410.0,15.0,1198.5,2397.0,1080.0,1317.0,54.94,1.0,0.75
+SAL0000797,SKU01282,The Souled Store,Ethnic,Co-ord Saree,2023-05-24,5.0,2023.0,Summer,Kolkata,East,1.0,D2C Website,1.0,1570.0,15.0,1334.5,1334.5,690.0,644.5,48.3,0.0,0.83
+SAL0000798,SKU01096,Bewakoof,Accessories,Sling Bag,2023-08-12,8.0,2023.0,Monsoon,Kolkata,East,1.0,Offline Store,2.0,670.0,5.0,636.5,1273.0,600.0,673.0,52.87,0.0,0.83
+SAL0000799,SKU01347,The Souled Store,Accessories,Belts,2023-08-19,8.0,2023.0,Monsoon,Bangalore,South,1.0,Ajio,2.0,580.0,5.0,551.0,1102.0,520.0,582.0,52.81,0.0,0.92
+SAL0000800,SKU01449,Urbanic,Accessories,Sling Bag,2024-04-13,4.0,2024.0,Summer,Chennai,South,1.0,Ajio,4.0,870.0,0.0,870.0,3480.0,1280.0,2200.0,63.22,0.0,0.85
+SAL0000801,SKU01028,Bewakoof,Bottomwear,Cargo Pants,2023-05-05,5.0,2023.0,Summer,Pune,West,2.0,Myntra,1.0,880.0,0.0,880.0,880.0,330.0,550.0,62.5,1.0,0.8
+SAL0000802,SKU01417,Urbanic,Dresses,Bodycon Dress,2023-04-04,4.0,2023.0,Summer,Ahmedabad,West,2.0,Myntra,2.0,2210.0,20.0,1768.0,3536.0,1820.0,1716.0,48.53,1.0,0.78
+SAL0000803,SKU01419,Urbanic,Dresses,Bodycon Dress,2023-08-06,8.0,2023.0,Monsoon,Lucknow,North,2.0,Amazon,1.0,2260.0,10.0,2034.0,2034.0,1010.0,1024.0,50.34,1.0,0.72
+SAL0000804,SKU01492,FabAlley,Bottomwear,Baggy Jeans,2023-02-17,2.0,2023.0,Winter,Pune,West,2.0,Amazon,3.0,1600.0,15.0,1360.0,4080.0,2040.0,2040.0,50.0,1.0,0.8
+SAL0000805,SKU01230,Snitch,Accessories,Belts,2024-07-16,7.0,2024.0,Monsoon,Hyderabad,South,1.0,Ajio,5.0,850.0,15.0,722.5,3612.5,1900.0,1712.5,47.4,0.0,0.88
+SAL0000806,SKU01123,Snitch,Topwear,Shirt,2024-01-14,1.0,2024.0,Winter,Chennai,South,1.0,D2C Website,1.0,1250.0,20.0,1000.0,1000.0,620.0,380.0,38.0,0.0,0.85
+SAL0000807,SKU01332,The Souled Store,Accessories,Sling Bag,2024-11-24,11.0,2024.0,Festive,Jaipur,North,2.0,Myntra,2.0,580.0,20.0,464.0,928.0,440.0,488.0,52.59,0.0,0.75
+SAL0000808,SKU01796,Zudio,Footwear,Sandals,2023-04-14,4.0,2023.0,Summer,Mumbai,West,1.0,Amazon,1.0,1120.0,50.0,560.0,560.0,410.0,150.0,26.79,0.0,0.95
+SAL0000809,SKU01534,FabAlley,Dresses,Bodycon Dress,2023-12-06,12.0,2023.0,Winter,Bangalore,South,1.0,Amazon,1.0,1860.0,0.0,1860.0,1860.0,730.0,1130.0,60.75,0.0,0.92
+SAL0000810,SKU01736,Zudio,Bottomwear,Mini Skirt,2023-07-22,7.0,2023.0,Monsoon,Mumbai,West,1.0,Myntra,1.0,780.0,20.0,624.0,624.0,320.0,304.0,48.72,0.0,0.95
+SAL0000811,SKU01236,The Souled Store,Topwear,Oversized T-Shirt,2024-04-28,4.0,2024.0,Summer,Hyderabad,South,1.0,Meesho,1.0,760.0,5.0,722.0,722.0,370.0,352.0,48.75,0.0,0.88
+SAL0000812,SKU01443,Urbanic,Footwear,Sneakers,2024-08-12,8.0,2024.0,Monsoon,Delhi,North,1.0,Myntra,5.0,3200.0,5.0,3040.0,15200.0,6150.0,9050.0,59.54,0.0,0.93
+SAL0000813,SKU01861,H&M India,Bottomwear,Shorts,2023-12-26,12.0,2023.0,Winter,Coimbatore,South,3.0,D2C Website,1.0,1690.0,15.0,1436.5,1436.5,620.0,816.5,56.84,1.0,0.57
+SAL0000814,SKU01956,Myntra M,Topwear,Tank Top,2023-10-01,10.0,2023.0,Festive,Hyderabad,South,1.0,Amazon,1.0,1100.0,10.0,990.0,990.0,450.0,540.0,54.55,0.0,0.88
+SAL0000815,SKU01010,Bewakoof,Topwear,Hoodie,2024-09-08,9.0,2024.0,Festive,Delhi,North,1.0,Ajio,1.0,830.0,5.0,788.5,788.5,310.0,478.5,60.68,0.0,0.93
+SAL0000816,SKU01606,Libas,Topwear,Blazer,2023-12-02,12.0,2023.0,Winter,Jaipur,North,2.0,D2C Website,1.0,930.0,10.0,837.0,837.0,440.0,397.0,47.43,1.0,0.75
+SAL0000817,SKU01918,H&M India,Accessories,Tote Bag,2024-11-16,11.0,2024.0,Festive,Bangalore,South,1.0,Offline Store,2.0,960.0,30.0,672.0,1344.0,760.0,584.0,43.45,0.0,0.92
+SAL0000818,SKU01750,Zudio,Ethnic,Co-ord Saree,2023-08-23,8.0,2023.0,Monsoon,Chandigarh,North,2.0,Offline Store,4.0,1060.0,0.0,1060.0,4240.0,1800.0,2440.0,57.55,0.0,0.74
+SAL0000819,SKU01333,The Souled Store,Accessories,Tote Bag,2024-07-18,7.0,2024.0,Monsoon,Mumbai,West,1.0,Myntra,2.0,610.0,10.0,549.0,1098.0,460.0,638.0,58.11,0.0,0.95
+SAL0000820,SKU01472,FabAlley,Topwear,Crop Top,2024-01-19,1.0,2024.0,Winter,Ahmedabad,West,2.0,Ajio,2.0,1090.0,15.0,926.5,1853.0,760.0,1093.0,58.99,0.0,0.78
+SAL0000821,SKU01135,Snitch,Topwear,Tank Top,2023-08-19,8.0,2023.0,Monsoon,Surat,West,2.0,Meesho,1.0,1400.0,0.0,1400.0,1400.0,660.0,740.0,52.86,0.0,0.7
+SAL0000822,SKU02117,Styli,Dresses,Maxi Dress,2023-03-23,3.0,2023.0,Summer,Kolkata,East,1.0,D2C Website,5.0,2180.0,40.0,1308.0,6540.0,4800.0,1740.0,26.61,0.0,0.83
+SAL0000823,SKU01575,FabAlley,Accessories,Caps,2024-07-15,7.0,2024.0,Monsoon,Kolkata,East,1.0,Offline Store,2.0,950.0,0.0,950.0,1900.0,900.0,1000.0,52.63,0.0,0.83
+SAL0000824,SKU01812,Zudio,Accessories,Sunglasses,2023-08-31,8.0,2023.0,Monsoon,Kolkata,East,1.0,Ajio,1.0,380.0,30.0,266.0,266.0,170.0,96.0,36.09,0.0,0.83
+SAL0000825,SKU02160,Styli,Accessories,Caps,2023-02-16,2.0,2023.0,Winter,Hyderabad,South,1.0,Ajio,1.0,1080.0,15.0,918.0,918.0,490.0,428.0,46.62,0.0,0.88
+SAL0000826,SKU02157,Styli,Accessories,Bucket Hat,2023-02-03,2.0,2023.0,Winter,Delhi,North,1.0,Ajio,2.0,1100.0,5.0,1045.0,2090.0,820.0,1270.0,60.77,0.0,0.93
+SAL0000827,SKU01774,Zudio,Dresses,Shirt Dress,2023-03-22,3.0,2023.0,Summer,Bangalore,South,1.0,Amazon,1.0,780.0,15.0,663.0,663.0,350.0,313.0,47.21,0.0,0.92
+SAL0000828,SKU01688,Libas,Accessories,Bucket Hat,2023-03-09,3.0,2023.0,Summer,Mumbai,West,1.0,Ajio,1.0,770.0,5.0,731.5,731.5,330.0,401.5,54.89,1.0,0.95
+SAL0000829,SKU01184,Snitch,Dresses,Bodycon Dress,2023-06-01,6.0,2023.0,Monsoon,Surat,West,2.0,Myntra,1.0,1890.0,15.0,1606.5,1606.5,680.0,926.5,57.67,1.0,0.7
+SAL0000830,SKU01029,Bewakoof,Bottomwear,Cargo Pants,2024-02-29,2.0,2024.0,Winter,Chennai,South,1.0,Myntra,4.0,860.0,0.0,860.0,3440.0,1360.0,2080.0,60.47,0.0,0.85
+SAL0000831,SKU01872,H&M India,Ethnic,Anarkali,2023-06-20,6.0,2023.0,Monsoon,Hyderabad,South,1.0,D2C Website,4.0,2630.0,0.0,2630.0,10520.0,4440.0,6080.0,57.79,1.0,0.88
+SAL0000832,SKU01616,Libas,Bottomwear,Joggers,2023-07-24,7.0,2023.0,Monsoon,Chennai,South,1.0,D2C Website,1.0,1190.0,25.0,892.5,892.5,420.0,472.5,52.94,0.0,0.85
+SAL0000833,SKU01384,Urbanic,Bottomwear,Mini Skirt,2023-07-03,7.0,2023.0,Monsoon,Patna,East,3.0,Myntra,5.0,1620.0,0.0,1620.0,8100.0,3850.0,4250.0,52.47,0.0,0.5
+SAL0000834,SKU01005,Bewakoof,Topwear,Crop Top,2023-05-12,5.0,2023.0,Summer,Ahmedabad,West,2.0,Ajio,3.0,680.0,20.0,544.0,1632.0,1020.0,612.0,37.5,0.0,0.78
+SAL0000835,SKU02077,Styli,Bottomwear,Baggy Jeans,2024-11-01,11.0,2024.0,Festive,Kolkata,East,1.0,Ajio,2.0,1410.0,25.0,1057.5,2115.0,1080.0,1035.0,48.94,0.0,0.83
+SAL0000836,SKU01255,The Souled Store,Topwear,Blazer,2023-02-04,2.0,2023.0,Winter,Chandigarh,North,2.0,D2C Website,1.0,910.0,5.0,864.5,864.5,380.0,484.5,56.04,1.0,0.74
+SAL0000837,SKU01371,Urbanic,Topwear,Tank Top,2023-08-18,8.0,2023.0,Monsoon,Lucknow,North,2.0,Amazon,1.0,1460.0,20.0,1168.0,1168.0,620.0,548.0,46.92,0.0,0.72
+SAL0000838,SKU01446,Urbanic,Footwear,Sandals,2023-11-27,11.0,2023.0,Festive,Hyderabad,South,1.0,Meesho,3.0,3360.0,40.0,2016.0,6048.0,4140.0,1908.0,31.55,1.0,0.88
+SAL0000839,SKU01392,Urbanic,Bottomwear,Straight Fit Jeans,2023-07-23,7.0,2023.0,Monsoon,Kolkata,East,1.0,Amazon,1.0,1540.0,25.0,1155.0,1155.0,750.0,405.0,35.06,1.0,0.83
+SAL0000840,SKU01422,Urbanic,Dresses,Wrap Dress,2024-06-12,6.0,2024.0,Monsoon,Ahmedabad,West,2.0,Amazon,1.0,1980.0,25.0,1485.0,1485.0,820.0,665.0,44.78,1.0,0.78
+SAL0000841,SKU01434,Urbanic,Footwear,Kolhapuri,2023-01-14,1.0,2023.0,Winter,Jaipur,North,2.0,Myntra,1.0,3390.0,10.0,3051.0,3051.0,1670.0,1381.0,45.26,0.0,0.75
+SAL0000842,SKU01198,Snitch,Footwear,Kolhapuri,2023-07-15,7.0,2023.0,Monsoon,Mumbai,West,1.0,Amazon,1.0,3190.0,50.0,1595.0,1595.0,1320.0,275.0,17.24,0.0,0.95
+SAL0000843,SKU01996,Myntra M,Ethnic,Nehru Jacket,2023-10-10,10.0,2023.0,Festive,Chennai,South,1.0,D2C Website,1.0,1860.0,20.0,1488.0,1488.0,690.0,798.0,53.63,0.0,0.85
+SAL0000844,SKU01944,Myntra M,Topwear,Shirt,2023-09-18,9.0,2023.0,Festive,Pune,West,2.0,Offline Store,1.0,1020.0,25.0,765.0,765.0,510.0,255.0,33.33,1.0,0.8
+SAL0000845,SKU01825,H&M India,Topwear,Shirt,2023-08-21,8.0,2023.0,Monsoon,Mumbai,West,1.0,Myntra,2.0,1240.0,5.0,1178.0,2356.0,980.0,1376.0,58.4,0.0,0.95
+SAL0000846,SKU01859,H&M India,Bottomwear,Straight Fit Jeans,2024-09-07,9.0,2024.0,Festive,Bangalore,South,1.0,Amazon,1.0,2060.0,10.0,1854.0,1854.0,790.0,1064.0,57.39,0.0,0.92
+SAL0000847,SKU01072,Bewakoof,Dresses,Shirt Dress,2023-09-10,9.0,2023.0,Festive,Coimbatore,South,3.0,D2C Website,3.0,1220.0,0.0,1220.0,3660.0,1290.0,2370.0,64.75,1.0,0.57
+SAL0000848,SKU01637,Libas,Ethnic,Anarkali,2023-05-23,5.0,2023.0,Summer,Delhi,North,1.0,Meesho,5.0,1940.0,40.0,1164.0,5820.0,3550.0,2270.0,39.0,0.0,0.93
+SAL0000849,SKU02085,Styli,Bottomwear,Joggers,2023-06-19,6.0,2023.0,Monsoon,Kochi,South,3.0,Meesho,2.0,1690.0,20.0,1352.0,2704.0,1220.0,1484.0,54.88,0.0,0.62
+SAL0000850,SKU01706,Zudio,Topwear,Crop Top,2023-07-12,7.0,2023.0,Monsoon,Chandigarh,North,2.0,Ajio,5.0,520.0,5.0,494.0,2470.0,950.0,1520.0,61.54,0.0,0.74
+SAL0000851,SKU01211,Snitch,Footwear,Sandals,2024-05-02,5.0,2024.0,Summer,Hyderabad,South,1.0,D2C Website,1.0,2530.0,25.0,1897.5,1897.5,1070.0,827.5,43.61,1.0,0.88
+SAL0000852,SKU01939,Myntra M,Topwear,Crop Top,2023-01-15,1.0,2023.0,Winter,Nagpur,West,3.0,Myntra,1.0,900.0,10.0,810.0,810.0,390.0,420.0,51.85,0.0,0.55
+SAL0000853,SKU01770,Zudio,Dresses,Bodycon Dress,2024-08-05,8.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,970.0,0.0,970.0,970.0,360.0,610.0,62.89,1.0,0.95
+SAL0000854,SKU01179,Snitch,Ethnic,Nehru Jacket,2023-09-08,9.0,2023.0,Festive,Patna,East,3.0,Ajio,1.0,2720.0,10.0,2448.0,2448.0,1190.0,1258.0,51.39,0.0,0.5
+SAL0000855,SKU01235,The Souled Store,Topwear,Oversized T-Shirt,2024-08-14,8.0,2024.0,Monsoon,Chennai,South,1.0,Amazon,3.0,750.0,10.0,675.0,2025.0,1110.0,915.0,45.19,1.0,0.85
+SAL0000856,SKU01149,Snitch,Bottomwear,Joggers,2023-03-21,3.0,2023.0,Summer,Kolkata,East,1.0,Myntra,1.0,1660.0,5.0,1577.0,1577.0,600.0,977.0,61.95,0.0,0.83
+SAL0000857,SKU01827,H&M India,Topwear,Shirt,2023-04-09,4.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,2.0,1260.0,10.0,1134.0,2268.0,1240.0,1028.0,45.33,1.0,0.88
+SAL0000858,SKU01899,H&M India,Footwear,Chunky Sneakers,2024-08-19,8.0,2024.0,Monsoon,Kolkata,East,1.0,Myntra,3.0,2820.0,5.0,2679.0,8037.0,2970.0,5067.0,63.05,0.0,0.83
+SAL0000859,SKU01067,Bewakoof,Dresses,Bodycon Dress,2024-08-16,8.0,2024.0,Monsoon,Delhi,North,1.0,Ajio,2.0,1470.0,30.0,1029.0,2058.0,1180.0,878.0,42.66,0.0,0.93
+SAL0000860,SKU01916,H&M India,Accessories,Sling Bag,2023-03-01,3.0,2023.0,Summer,Hyderabad,South,1.0,Ajio,4.0,1100.0,15.0,935.0,3740.0,2040.0,1700.0,45.45,0.0,0.88
+SAL0000861,SKU01134,Snitch,Topwear,Polo T-Shirt,2024-09-06,9.0,2024.0,Festive,Kolkata,East,1.0,Amazon,4.0,1220.0,15.0,1037.0,4148.0,1920.0,2228.0,53.71,0.0,0.83
+SAL0000862,SKU01149,Snitch,Bottomwear,Joggers,2024-01-14,1.0,2024.0,Winter,Mumbai,West,1.0,Ajio,2.0,1660.0,10.0,1494.0,2988.0,1200.0,1788.0,59.84,0.0,0.95
+SAL0000863,SKU01167,Snitch,Ethnic,Co-ord Saree,2023-07-09,7.0,2023.0,Monsoon,Chennai,South,1.0,Myntra,2.0,2070.0,30.0,1449.0,2898.0,1480.0,1418.0,48.93,0.0,0.85
+SAL0000864,SKU01082,Bewakoof,Footwear,Kolhapuri,2024-10-12,10.0,2024.0,Festive,Bangalore,South,1.0,Ajio,2.0,1580.0,0.0,1580.0,3160.0,1500.0,1660.0,52.53,0.0,0.92
+SAL0000865,SKU01408,Urbanic,Ethnic,Dhoti Pants,2023-03-25,3.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,2.0,2620.0,0.0,2620.0,5240.0,2140.0,3100.0,59.16,0.0,0.88
+SAL0000866,SKU01312,The Souled Store,Footwear,Chunky Sneakers,2023-10-11,10.0,2023.0,Festive,Mumbai,West,1.0,Meesho,2.0,2050.0,15.0,1742.5,3485.0,1660.0,1825.0,52.37,0.0,0.95
+SAL0000867,SKU02026,Myntra M,Footwear,Sneakers,2023-02-08,2.0,2023.0,Winter,Chennai,South,1.0,Amazon,1.0,1940.0,15.0,1649.0,1649.0,950.0,699.0,42.39,0.0,0.85
+SAL0000868,SKU01243,The Souled Store,Topwear,Hoodie,2024-12-14,12.0,2024.0,Winter,Bangalore,South,1.0,Myntra,1.0,760.0,5.0,722.0,722.0,300.0,422.0,58.45,0.0,0.92
+SAL0000869,SKU01149,Snitch,Bottomwear,Joggers,2023-01-08,1.0,2023.0,Winter,Mumbai,West,1.0,Meesho,2.0,1660.0,40.0,996.0,1992.0,1200.0,792.0,39.76,0.0,0.95
+SAL0000870,SKU01596,Libas,Topwear,Hoodie,2024-03-11,3.0,2024.0,Summer,Chennai,South,1.0,Offline Store,2.0,990.0,10.0,891.0,1782.0,880.0,902.0,50.62,0.0,0.85
+SAL0000871,SKU01294,The Souled Store,Ethnic,Nehru Jacket,2024-08-10,8.0,2024.0,Monsoon,Hyderabad,South,1.0,Myntra,1.0,1460.0,30.0,1022.0,1022.0,540.0,482.0,47.16,0.0,0.88
+SAL0000872,SKU01832,H&M India,Topwear,Sweatshirt,2023-10-31,10.0,2023.0,Festive,Lucknow,North,2.0,Ajio,2.0,1650.0,20.0,1320.0,2640.0,1580.0,1060.0,40.15,0.0,0.72
+SAL0000873,SKU01467,Urbanic,Accessories,Scarves,2023-03-15,3.0,2023.0,Summer,Kolkata,East,1.0,Myntra,2.0,920.0,0.0,920.0,1840.0,720.0,1120.0,60.87,0.0,0.83
+SAL0000874,SKU01213,Snitch,Accessories,Sling Bag,2024-03-05,3.0,2024.0,Summer,Kolkata,East,1.0,Offline Store,1.0,940.0,30.0,658.0,658.0,450.0,208.0,31.61,0.0,0.83
+SAL0000875,SKU01792,Zudio,Footwear,Sneakers,2024-04-16,4.0,2024.0,Summer,Coimbatore,South,3.0,Meesho,3.0,1440.0,15.0,1224.0,3672.0,1590.0,2082.0,56.7,0.0,0.57
+SAL0000876,SKU01157,Snitch,Bottomwear,Straight Fit Jeans,2024-08-15,8.0,2024.0,Monsoon,Mumbai,West,1.0,Ajio,2.0,1760.0,0.0,1760.0,3520.0,1600.0,1920.0,54.55,0.0,0.95
+SAL0000877,SKU01384,Urbanic,Bottomwear,Mini Skirt,2024-12-13,12.0,2024.0,Winter,Mumbai,West,1.0,Ajio,1.0,1620.0,5.0,1539.0,1539.0,770.0,769.0,49.97,0.0,0.95
+SAL0000878,SKU02000,Myntra M,Dresses,Maxi Dress,2023-12-26,12.0,2023.0,Winter,Kolkata,East,1.0,Ajio,1.0,1450.0,5.0,1377.5,1377.5,560.0,817.5,59.35,1.0,0.83
+SAL0000879,SKU01897,H&M India,Footwear,Chunky Sneakers,2023-09-06,9.0,2023.0,Festive,Chennai,South,1.0,Offline Store,3.0,2790.0,0.0,2790.0,8370.0,3030.0,5340.0,63.8,0.0,0.85
+SAL0000880,SKU02109,Styli,Ethnic,Sharara Set,2023-12-15,12.0,2023.0,Winter,Chandigarh,North,2.0,Offline Store,1.0,2670.0,5.0,2536.5,2536.5,980.0,1556.5,61.36,1.0,0.74
+SAL0000881,SKU02048,Myntra M,Accessories,Belts,2023-02-14,2.0,2023.0,Winter,Bangalore,South,1.0,Ajio,3.0,740.0,30.0,518.0,1554.0,990.0,564.0,36.29,0.0,0.92
+SAL0000882,SKU01732,Zudio,Bottomwear,Joggers,2024-12-19,12.0,2024.0,Winter,Kochi,South,3.0,Myntra,1.0,800.0,5.0,760.0,760.0,290.0,470.0,61.84,0.0,0.62
+SAL0000883,SKU01725,Zudio,Topwear,Blazer,2023-04-28,4.0,2023.0,Summer,Kolkata,East,1.0,Ajio,3.0,560.0,5.0,532.0,1596.0,750.0,846.0,53.01,1.0,0.83
+SAL0000884,SKU01406,Urbanic,Ethnic,Sharara Set,2024-01-14,1.0,2024.0,Winter,Kolkata,East,1.0,D2C Website,1.0,2260.0,10.0,2034.0,2034.0,1100.0,934.0,45.92,0.0,0.83
+SAL0000885,SKU01238,The Souled Store,Topwear,Crop Top,2024-06-08,6.0,2024.0,Monsoon,Bangalore,South,1.0,Offline Store,2.0,770.0,20.0,616.0,1232.0,660.0,572.0,46.43,1.0,0.92
+SAL0000886,SKU01135,Snitch,Topwear,Tank Top,2023-07-08,7.0,2023.0,Monsoon,Kolkata,East,1.0,Offline Store,5.0,1400.0,5.0,1330.0,6650.0,3300.0,3350.0,50.38,0.0,0.83
+SAL0000887,SKU01932,H&M India,Accessories,Belts,2024-02-04,2.0,2024.0,Winter,Kolkata,East,1.0,Amazon,1.0,1230.0,0.0,1230.0,1230.0,600.0,630.0,51.22,0.0,0.83
+SAL0000888,SKU01708,Zudio,Topwear,Shirt,2023-07-08,7.0,2023.0,Monsoon,Bangalore,South,1.0,Meesho,5.0,480.0,10.0,432.0,2160.0,900.0,1260.0,58.33,0.0,0.92
+SAL0000889,SKU01057,Bewakoof,Ethnic,Dhoti Pants,2023-09-13,9.0,2023.0,Festive,Hyderabad,South,1.0,Ajio,1.0,1560.0,40.0,936.0,936.0,750.0,186.0,19.87,0.0,0.88
+SAL0000890,SKU02042,Myntra M,Accessories,Caps,2023-01-11,1.0,2023.0,Winter,Chennai,South,1.0,Meesho,1.0,730.0,15.0,620.5,620.5,310.0,310.5,50.04,0.0,0.85
+SAL0000891,SKU01192,Snitch,Dresses,Co-ord Set,2023-06-11,6.0,2023.0,Monsoon,Lucknow,North,2.0,Amazon,3.0,2220.0,0.0,2220.0,6660.0,3120.0,3540.0,53.15,0.0,0.72
+SAL0000892,SKU01182,Snitch,Dresses,Maxi Dress,2024-05-26,5.0,2024.0,Summer,Bangalore,South,1.0,D2C Website,1.0,2350.0,5.0,2232.5,2232.5,960.0,1272.5,57.0,0.0,0.92
+SAL0000893,SKU01682,Libas,Accessories,Sling Bag,2024-03-24,3.0,2024.0,Summer,Kochi,South,3.0,D2C Website,3.0,830.0,5.0,788.5,2365.5,930.0,1435.5,60.68,1.0,0.62
+SAL0000894,SKU01666,Libas,Footwear,Kolhapuri,2024-05-27,5.0,2024.0,Summer,Jaipur,North,2.0,Amazon,1.0,2150.0,10.0,1935.0,1935.0,1070.0,865.0,44.7,0.0,0.75
+SAL0000895,SKU01812,Zudio,Accessories,Sunglasses,2024-06-06,6.0,2024.0,Monsoon,Mumbai,West,1.0,D2C Website,1.0,380.0,25.0,285.0,285.0,170.0,115.0,40.35,0.0,0.95
+SAL0000896,SKU01747,Zudio,Ethnic,Kurta Set,2024-09-06,9.0,2024.0,Festive,Mumbai,West,1.0,Amazon,2.0,1080.0,5.0,1026.0,2052.0,980.0,1072.0,52.24,0.0,0.95
+SAL0000897,SKU02107,Styli,Ethnic,Sharara Set,2023-10-07,10.0,2023.0,Festive,Mumbai,West,1.0,D2C Website,3.0,2560.0,10.0,2304.0,6912.0,3030.0,3882.0,56.16,1.0,0.95
+SAL0000898,SKU01612,Libas,Bottomwear,Cargo Pants,2023-01-27,1.0,2023.0,Winter,Hyderabad,South,1.0,Offline Store,5.0,1270.0,25.0,952.5,4762.5,2850.0,1912.5,40.16,0.0,0.88
+SAL0000899,SKU01345,The Souled Store,Accessories,Belts,2023-06-25,6.0,2023.0,Monsoon,Hyderabad,South,1.0,Myntra,2.0,620.0,50.0,310.0,620.0,520.0,100.0,16.13,0.0,0.88
+SAL0000900,SKU01304,The Souled Store,Dresses,Wrap Dress,2024-08-25,8.0,2024.0,Monsoon,Chennai,South,1.0,Amazon,4.0,1430.0,40.0,858.0,3432.0,2600.0,832.0,24.24,0.0,0.85
+SAL0000901,SKU01578,FabAlley,Accessories,Sunglasses,2024-12-05,12.0,2024.0,Winter,Hyderabad,South,1.0,Amazon,1.0,810.0,5.0,769.5,769.5,390.0,379.5,49.32,0.0,0.88
+SAL0000902,SKU01113,Bewakoof,Accessories,Belts,2024-12-07,12.0,2024.0,Winter,Hyderabad,South,1.0,Myntra,1.0,680.0,0.0,680.0,680.0,280.0,400.0,58.82,0.0,0.88
+SAL0000903,SKU02055,Styli,Topwear,Oversized T-Shirt,2023-04-13,4.0,2023.0,Summer,Hyderabad,South,1.0,D2C Website,2.0,1140.0,0.0,1140.0,2280.0,860.0,1420.0,62.28,1.0,0.88
+SAL0000904,SKU01908,H&M India,Footwear,Loafers,2024-03-21,3.0,2024.0,Summer,Bhopal,Central,3.0,Amazon,1.0,3040.0,20.0,2432.0,2432.0,1410.0,1022.0,42.02,0.0,0.58
+SAL0000905,SKU01121,Snitch,Topwear,Crop Top,2024-08-12,8.0,2024.0,Monsoon,Surat,West,2.0,Amazon,1.0,1440.0,5.0,1368.0,1368.0,580.0,788.0,57.6,0.0,0.7
+SAL0000906,SKU02037,Myntra M,Accessories,Tote Bag,2024-09-06,9.0,2024.0,Festive,Coimbatore,South,3.0,Amazon,3.0,800.0,15.0,680.0,2040.0,1140.0,900.0,44.12,0.0,0.57
+SAL0000907,SKU01449,Urbanic,Accessories,Sling Bag,2023-01-08,1.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,1.0,870.0,10.0,783.0,783.0,320.0,463.0,59.13,0.0,0.83
+SAL0000908,SKU01717,Zudio,Topwear,Polo T-Shirt,2024-01-19,1.0,2024.0,Winter,Chennai,South,1.0,Myntra,1.0,500.0,10.0,450.0,450.0,180.0,270.0,60.0,0.0,0.85
+SAL0000909,SKU01958,Myntra M,Topwear,Blazer,2024-11-09,11.0,2024.0,Festive,Hyderabad,South,1.0,D2C Website,2.0,1070.0,5.0,1016.5,2033.0,940.0,1093.0,53.76,0.0,0.88
+SAL0000910,SKU01870,H&M India,Ethnic,Anarkali,2023-06-30,6.0,2023.0,Monsoon,Bangalore,South,1.0,Meesho,1.0,2960.0,10.0,2664.0,2664.0,1360.0,1304.0,48.95,0.0,0.92
+SAL0000911,SKU01294,The Souled Store,Ethnic,Nehru Jacket,2024-12-06,12.0,2024.0,Winter,Ahmedabad,West,2.0,D2C Website,4.0,1460.0,0.0,1460.0,5840.0,2160.0,3680.0,63.01,0.0,0.78
+SAL0000912,SKU01879,H&M India,Ethnic,Nehru Jacket,2023-07-27,7.0,2023.0,Monsoon,Lucknow,North,2.0,Myntra,4.0,2380.0,5.0,2261.0,9044.0,4120.0,4924.0,54.44,0.0,0.72
+SAL0000913,SKU01898,H&M India,Footwear,Chunky Sneakers,2024-01-14,1.0,2024.0,Winter,Mumbai,West,1.0,Meesho,4.0,3450.0,15.0,2932.5,11730.0,4960.0,6770.0,57.72,0.0,0.95
+SAL0000914,SKU01874,H&M India,Ethnic,Sharara Set,2024-11-18,11.0,2024.0,Festive,Bangalore,South,1.0,Ajio,1.0,2910.0,10.0,2619.0,2619.0,1080.0,1539.0,58.76,0.0,0.92
+SAL0000915,SKU02164,Styli,Accessories,Belts,2023-05-23,5.0,2023.0,Summer,Bangalore,South,1.0,D2C Website,3.0,1000.0,5.0,950.0,2850.0,1080.0,1770.0,62.11,0.0,0.92
+SAL0000916,SKU01121,Snitch,Topwear,Crop Top,2023-02-26,2.0,2023.0,Winter,Kochi,South,3.0,Amazon,2.0,1440.0,0.0,1440.0,2880.0,1160.0,1720.0,59.72,1.0,0.62
+SAL0000917,SKU01504,FabAlley,Bottomwear,Palazzo,2023-08-13,8.0,2023.0,Monsoon,Indore,Central,3.0,Ajio,1.0,1390.0,5.0,1320.5,1320.5,590.0,730.5,55.32,0.0,0.6
+SAL0000918,SKU01760,Zudio,Ethnic,Dhoti Pants,2023-07-26,7.0,2023.0,Monsoon,Kochi,South,3.0,D2C Website,1.0,910.0,5.0,864.5,864.5,450.0,414.5,47.95,0.0,0.62
+SAL0000919,SKU02020,Myntra M,Footwear,Block Heels,2024-10-15,10.0,2024.0,Festive,Lucknow,North,2.0,Offline Store,4.0,2390.0,10.0,2151.0,8604.0,4160.0,4444.0,51.65,1.0,0.72
+SAL0000920,SKU02046,Myntra M,Accessories,Sunglasses,2024-02-16,2.0,2024.0,Winter,Bangalore,South,1.0,Amazon,1.0,650.0,10.0,585.0,585.0,280.0,305.0,52.14,0.0,0.92
+SAL0000921,SKU02118,Styli,Dresses,Maxi Dress,2023-12-11,12.0,2023.0,Winter,Pune,West,2.0,D2C Website,1.0,2320.0,0.0,2320.0,2320.0,880.0,1440.0,62.07,0.0,0.8
+SAL0000922,SKU01706,Zudio,Topwear,Crop Top,2024-07-08,7.0,2024.0,Monsoon,Chennai,South,1.0,Meesho,3.0,520.0,10.0,468.0,1404.0,570.0,834.0,59.4,0.0,0.85
+SAL0000923,SKU01542,FabAlley,Dresses,Shirt Dress,2024-08-20,8.0,2024.0,Monsoon,Chennai,South,1.0,Myntra,1.0,2210.0,10.0,1989.0,1989.0,930.0,1059.0,53.24,0.0,0.85
+SAL0000924,SKU01129,Snitch,Topwear,Sweatshirt,2023-09-02,9.0,2023.0,Festive,Lucknow,North,2.0,D2C Website,1.0,1310.0,40.0,786.0,786.0,480.0,306.0,38.93,0.0,0.72
+SAL0000925,SKU01991,Myntra M,Ethnic,Sharara Set,2024-11-02,11.0,2024.0,Festive,Bangalore,South,1.0,Offline Store,1.0,1780.0,5.0,1691.0,1691.0,750.0,941.0,55.65,0.0,0.92
+SAL0000926,SKU01978,Myntra M,Bottomwear,Shorts,2023-07-19,7.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,2.0,1250.0,30.0,875.0,1750.0,1040.0,710.0,40.57,0.0,0.83
+SAL0000927,SKU01016,Bewakoof,Topwear,Polo T-Shirt,2024-12-10,12.0,2024.0,Winter,Hyderabad,South,1.0,Ajio,1.0,690.0,20.0,552.0,552.0,340.0,212.0,38.41,1.0,0.88
+SAL0000928,SKU01997,Myntra M,Ethnic,Nehru Jacket,2024-10-05,10.0,2024.0,Festive,Mumbai,West,1.0,Amazon,2.0,1930.0,0.0,1930.0,3860.0,1740.0,2120.0,54.92,0.0,0.95
+SAL0000929,SKU01932,H&M India,Accessories,Belts,2023-11-25,11.0,2023.0,Festive,Mumbai,West,1.0,Offline Store,2.0,1230.0,15.0,1045.5,2091.0,1200.0,891.0,42.61,0.0,0.95
+SAL0000930,SKU01730,Zudio,Bottomwear,Cargo Pants,2023-12-31,12.0,2023.0,Winter,Mumbai,West,1.0,Offline Store,4.0,680.0,5.0,646.0,2584.0,1200.0,1384.0,53.56,0.0,0.95
+SAL0000931,SKU01396,Urbanic,Ethnic,Kurta Set,2023-03-12,3.0,2023.0,Summer,Kolkata,East,1.0,Amazon,4.0,2550.0,20.0,2040.0,8160.0,4520.0,3640.0,44.61,1.0,0.83
+SAL0000932,SKU01938,Myntra M,Topwear,Oversized T-Shirt,2024-10-20,10.0,2024.0,Festive,Indore,Central,3.0,D2C Website,3.0,980.0,10.0,882.0,2646.0,1260.0,1386.0,52.38,1.0,0.6
+SAL0000933,SKU01947,Myntra M,Topwear,Hoodie,2024-12-28,12.0,2024.0,Winter,Delhi,North,1.0,Meesho,1.0,970.0,30.0,679.0,679.0,450.0,229.0,33.73,1.0,0.93
+SAL0000934,SKU01277,The Souled Store,Bottomwear,Shorts,2023-09-17,9.0,2023.0,Festive,Chandigarh,North,2.0,Offline Store,2.0,1220.0,15.0,1037.0,2074.0,1000.0,1074.0,51.78,0.0,0.74
+SAL0000935,SKU01884,H&M India,Dresses,Maxi Dress,2023-02-07,2.0,2023.0,Winter,Bangalore,South,1.0,Amazon,3.0,2250.0,20.0,1800.0,5400.0,2760.0,2640.0,48.89,0.0,0.92
+SAL0000936,SKU01436,Urbanic,Footwear,Block Heels,2023-10-07,10.0,2023.0,Festive,Chandigarh,North,2.0,Offline Store,5.0,3190.0,25.0,2392.5,11962.5,6550.0,5412.5,45.25,0.0,0.74
+SAL0000937,SKU02166,Styli,Accessories,Belts,2024-10-27,10.0,2024.0,Festive,Kolkata,East,1.0,Myntra,1.0,990.0,25.0,742.5,742.5,450.0,292.5,39.39,0.0,0.83
+SAL0000938,SKU01324,The Souled Store,Footwear,Sneakers,2024-09-28,9.0,2024.0,Festive,Mumbai,West,1.0,Amazon,5.0,2150.0,10.0,1935.0,9675.0,4550.0,5125.0,52.97,0.0,0.95
+SAL0000939,SKU01969,Myntra M,Bottomwear,Mini Skirt,2023-11-27,11.0,2023.0,Festive,Nagpur,West,3.0,Ajio,4.0,1200.0,5.0,1140.0,4560.0,1720.0,2840.0,62.28,1.0,0.55
+SAL0000940,SKU01712,Zudio,Topwear,Hoodie,2023-06-12,6.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,2.0,640.0,10.0,576.0,1152.0,640.0,512.0,44.44,0.0,0.83
+SAL0000941,SKU01586,Libas,Topwear,Oversized T-Shirt,2024-10-13,10.0,2024.0,Festive,Ahmedabad,West,2.0,Meesho,1.0,1080.0,5.0,1026.0,1026.0,420.0,606.0,59.06,0.0,0.78
+SAL0000942,SKU01371,Urbanic,Topwear,Tank Top,2023-02-25,2.0,2023.0,Winter,Bangalore,South,1.0,Meesho,1.0,1460.0,15.0,1241.0,1241.0,620.0,621.0,50.04,0.0,0.92
+SAL0000943,SKU01027,Bewakoof,Bottomwear,Cargo Pants,2024-10-01,10.0,2024.0,Festive,Chandigarh,North,2.0,Ajio,2.0,1030.0,0.0,1030.0,2060.0,1000.0,1060.0,51.46,1.0,0.74
+SAL0000944,SKU01610,Libas,Bottomwear,Baggy Jeans,2024-02-17,2.0,2024.0,Winter,Chandigarh,North,2.0,Myntra,2.0,1470.0,10.0,1323.0,2646.0,1100.0,1546.0,58.43,0.0,0.74
+SAL0000945,SKU01237,The Souled Store,Topwear,Crop Top,2023-05-22,5.0,2023.0,Summer,Hyderabad,South,1.0,Myntra,2.0,890.0,0.0,890.0,1780.0,880.0,900.0,50.56,0.0,0.88
+SAL0000946,SKU01169,Snitch,Ethnic,Anarkali,2024-11-20,11.0,2024.0,Festive,Bangalore,South,1.0,Amazon,1.0,2380.0,40.0,1428.0,1428.0,870.0,558.0,39.08,0.0,0.92
+SAL0000947,SKU02135,Styli,Footwear,Kolhapuri,2023-03-03,3.0,2023.0,Summer,Bangalore,South,1.0,Amazon,3.0,2540.0,0.0,2540.0,7620.0,3120.0,4500.0,59.06,1.0,0.92
+SAL0000948,SKU02114,Styli,Ethnic,Nehru Jacket,2023-07-23,7.0,2023.0,Monsoon,Ahmedabad,West,2.0,Amazon,1.0,2250.0,5.0,2137.5,2137.5,890.0,1247.5,58.36,0.0,0.78
+SAL0000949,SKU01570,FabAlley,Accessories,Bucket Hat,2024-05-20,5.0,2024.0,Summer,Bangalore,South,1.0,Amazon,1.0,990.0,50.0,495.0,495.0,400.0,95.0,19.19,0.0,0.92
+SAL0000950,SKU01632,Libas,Ethnic,Kurta Set,2024-03-23,3.0,2024.0,Summer,Chennai,South,1.0,Offline Store,1.0,1660.0,0.0,1660.0,1660.0,600.0,1060.0,63.86,0.0,0.85
+SAL0000951,SKU02090,Styli,Bottomwear,Palazzo,2023-06-29,6.0,2023.0,Monsoon,Mumbai,West,1.0,Amazon,1.0,1510.0,40.0,906.0,906.0,580.0,326.0,35.98,0.0,0.95
+SAL0000952,SKU01937,Myntra M,Topwear,Oversized T-Shirt,2023-07-10,7.0,2023.0,Monsoon,Chennai,South,1.0,Amazon,1.0,1030.0,30.0,721.0,721.0,440.0,281.0,38.97,0.0,0.85
+SAL0000953,SKU01060,Bewakoof,Ethnic,Nehru Jacket,2023-07-18,7.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,4.0,1640.0,5.0,1558.0,6232.0,3160.0,3072.0,49.29,0.0,0.83
+SAL0000954,SKU01257,The Souled Store,Topwear,Blazer,2024-06-17,6.0,2024.0,Monsoon,Mumbai,West,1.0,Offline Store,1.0,760.0,10.0,684.0,684.0,270.0,414.0,60.53,0.0,0.95
+SAL0000955,SKU02142,Styli,Footwear,Loafers,2023-10-23,10.0,2023.0,Festive,Kolkata,East,1.0,Offline Store,1.0,2570.0,10.0,2313.0,2313.0,1010.0,1303.0,56.33,0.0,0.83
+SAL0000956,SKU01323,The Souled Store,Footwear,Loafers,2024-10-10,10.0,2024.0,Festive,Jaipur,North,2.0,Myntra,3.0,2030.0,0.0,2030.0,6090.0,2760.0,3330.0,54.68,0.0,0.75
+SAL0000957,SKU01171,Snitch,Ethnic,Sharara Set,2024-11-07,11.0,2024.0,Festive,Ahmedabad,West,2.0,Amazon,1.0,2160.0,20.0,1728.0,1728.0,900.0,828.0,47.92,0.0,0.78
+SAL0000958,SKU01187,Snitch,Dresses,Wrap Dress,2023-11-15,11.0,2023.0,Festive,Ahmedabad,West,2.0,Offline Store,1.0,1810.0,40.0,1086.0,1086.0,720.0,366.0,33.7,0.0,0.78
+SAL0000959,SKU01561,FabAlley,Footwear,Sandals,2023-04-20,4.0,2023.0,Summer,Surat,West,2.0,D2C Website,1.0,2990.0,20.0,2392.0,2392.0,1410.0,982.0,41.05,0.0,0.7
+SAL0000960,SKU01767,Zudio,Dresses,Maxi Dress,2024-02-27,2.0,2024.0,Winter,Jaipur,North,2.0,Ajio,2.0,890.0,0.0,890.0,1780.0,660.0,1120.0,62.92,1.0,0.75
+SAL0000961,SKU01150,Snitch,Bottomwear,Mini Skirt,2024-04-15,4.0,2024.0,Summer,Chandigarh,North,2.0,Amazon,3.0,1380.0,30.0,966.0,2898.0,1770.0,1128.0,38.92,0.0,0.74
+SAL0000962,SKU01912,H&M India,Footwear,Sandals,2024-03-11,3.0,2024.0,Summer,Lucknow,North,2.0,Amazon,1.0,3380.0,10.0,3042.0,3042.0,1450.0,1592.0,52.33,1.0,0.72
+SAL0000963,SKU01517,FabAlley,Ethnic,Co-ord Saree,2023-06-08,6.0,2023.0,Monsoon,Kolkata,East,1.0,Myntra,1.0,1960.0,10.0,1764.0,1764.0,890.0,874.0,49.55,0.0,0.83
+SAL0000964,SKU01663,Libas,Footwear,Chunky Sneakers,2023-07-19,7.0,2023.0,Monsoon,Chennai,South,1.0,Myntra,1.0,2120.0,0.0,2120.0,2120.0,990.0,1130.0,53.3,0.0,0.85
+SAL0000965,SKU01848,H&M India,Bottomwear,Cargo Pants,2024-12-16,12.0,2024.0,Winter,Delhi,North,1.0,Ajio,1.0,1540.0,5.0,1463.0,1463.0,570.0,893.0,61.04,1.0,0.93
+SAL0000966,SKU01809,Zudio,Accessories,Caps,2024-02-15,2.0,2024.0,Winter,Surat,West,2.0,Amazon,1.0,430.0,40.0,258.0,258.0,200.0,58.0,22.48,0.0,0.7
+SAL0000967,SKU02083,Styli,Bottomwear,Joggers,2023-10-30,10.0,2023.0,Festive,Jaipur,North,2.0,Myntra,2.0,1660.0,0.0,1660.0,3320.0,1220.0,2100.0,63.25,0.0,0.75
+SAL0000968,SKU02167,Styli,Accessories,Scarves,2024-01-19,1.0,2024.0,Winter,Surat,West,2.0,D2C Website,1.0,850.0,0.0,850.0,850.0,350.0,500.0,58.82,0.0,0.7
+SAL0000969,SKU01668,Libas,Footwear,Kolhapuri,2024-05-07,5.0,2024.0,Summer,Delhi,North,1.0,Offline Store,1.0,2130.0,10.0,1917.0,1917.0,960.0,957.0,49.92,0.0,0.93
+SAL0000970,SKU01556,FabAlley,Footwear,Loafers,2023-11-05,11.0,2023.0,Festive,Chennai,South,1.0,Ajio,1.0,2470.0,10.0,2223.0,2223.0,1060.0,1163.0,52.32,0.0,0.85
+SAL0000971,SKU01943,Myntra M,Topwear,Shirt,2024-01-01,1.0,2024.0,Winter,Kolkata,East,1.0,Meesho,2.0,820.0,5.0,779.0,1558.0,640.0,918.0,58.92,0.0,0.83
+SAL0000972,SKU01239,The Souled Store,Topwear,Crop Top,2023-12-20,12.0,2023.0,Winter,Coimbatore,South,3.0,Meesho,1.0,1000.0,0.0,1000.0,1000.0,430.0,570.0,57.0,0.0,0.57
+SAL0000973,SKU01288,The Souled Store,Ethnic,Sharara Set,2023-07-07,7.0,2023.0,Monsoon,Hyderabad,South,1.0,Offline Store,1.0,1470.0,10.0,1323.0,1323.0,720.0,603.0,45.58,0.0,0.88
+SAL0000974,SKU01626,Libas,Bottomwear,Straight Fit Jeans,2024-03-10,3.0,2024.0,Summer,Hyderabad,South,1.0,Offline Store,5.0,1150.0,15.0,977.5,4887.5,2100.0,2787.5,57.03,1.0,0.88
+SAL0000975,SKU01430,Urbanic,Footwear,Chunky Sneakers,2023-01-11,1.0,2023.0,Winter,Bangalore,South,1.0,Myntra,3.0,3310.0,15.0,2813.5,8440.5,4140.0,4300.5,50.95,0.0,0.92
+SAL0000976,SKU02100,Styli,Ethnic,Kurta Set,2023-03-12,3.0,2023.0,Summer,Chennai,South,1.0,D2C Website,1.0,2740.0,25.0,2055.0,2055.0,1000.0,1055.0,51.34,0.0,0.85
+SAL0000977,SKU01937,Myntra M,Topwear,Oversized T-Shirt,2023-02-26,2.0,2023.0,Winter,Kolkata,East,1.0,D2C Website,4.0,1030.0,20.0,824.0,3296.0,1760.0,1536.0,46.6,0.0,0.83
+SAL0000978,SKU02029,Myntra M,Footwear,Sandals,2024-09-19,9.0,2024.0,Festive,Hyderabad,South,1.0,Myntra,1.0,2260.0,50.0,1130.0,1130.0,980.0,150.0,13.27,0.0,0.88
+SAL0000979,SKU01325,The Souled Store,Footwear,Sneakers,2023-02-28,2.0,2023.0,Winter,Hyderabad,South,1.0,Offline Store,2.0,1730.0,20.0,1384.0,2768.0,1480.0,1288.0,46.53,1.0,0.88
+SAL0000980,SKU02157,Styli,Accessories,Bucket Hat,2023-06-17,6.0,2023.0,Monsoon,Kolkata,East,1.0,Ajio,2.0,1100.0,30.0,770.0,1540.0,820.0,720.0,46.75,0.0,0.83
+SAL0000981,SKU02062,Styli,Topwear,Hoodie,2024-11-15,11.0,2024.0,Festive,Delhi,North,1.0,D2C Website,3.0,1460.0,5.0,1387.0,4161.0,1980.0,2181.0,52.42,0.0,0.93
+SAL0000982,SKU01413,Urbanic,Ethnic,Nehru Jacket,2023-12-20,12.0,2023.0,Winter,Kolkata,East,1.0,Amazon,1.0,2430.0,10.0,2187.0,2187.0,980.0,1207.0,55.19,1.0,0.83
+SAL0000983,SKU01454,Urbanic,Accessories,Bucket Hat,2024-01-12,1.0,2024.0,Winter,Bangalore,South,1.0,Ajio,1.0,940.0,15.0,799.0,799.0,380.0,419.0,52.44,0.0,0.92
+SAL0000984,SKU01789,Zudio,Footwear,Loafers,2024-06-13,6.0,2024.0,Monsoon,Surat,West,2.0,D2C Website,1.0,1300.0,20.0,1040.0,1040.0,560.0,480.0,46.15,0.0,0.7
+SAL0000985,SKU01601,Libas,Topwear,Polo T-Shirt,2024-07-18,7.0,2024.0,Monsoon,Hyderabad,South,1.0,D2C Website,3.0,890.0,15.0,756.5,2269.5,1050.0,1219.5,53.73,0.0,0.88
+SAL0000986,SKU01114,Bewakoof,Accessories,Scarves,2023-03-13,3.0,2023.0,Summer,Jaipur,North,2.0,Offline Store,1.0,670.0,40.0,402.0,402.0,300.0,102.0,25.37,0.0,0.75
+SAL0000987,SKU01184,Snitch,Dresses,Bodycon Dress,2023-08-03,8.0,2023.0,Monsoon,Chandigarh,North,2.0,D2C Website,1.0,1890.0,0.0,1890.0,1890.0,680.0,1210.0,64.02,0.0,0.74
+SAL0000988,SKU01681,Libas,Accessories,Sling Bag,2023-05-18,5.0,2023.0,Summer,Mumbai,West,1.0,Amazon,3.0,810.0,0.0,810.0,2430.0,1080.0,1350.0,55.56,0.0,0.95
+SAL0000989,SKU01758,Zudio,Ethnic,Sharara Set,2023-06-12,6.0,2023.0,Monsoon,Delhi,North,1.0,Myntra,1.0,1100.0,5.0,1045.0,1045.0,530.0,515.0,49.28,0.0,0.93
+SAL0000990,SKU01839,H&M India,Topwear,Tank Top,2023-12-15,12.0,2023.0,Winter,Ahmedabad,West,2.0,Amazon,2.0,1300.0,25.0,975.0,1950.0,1180.0,770.0,39.49,0.0,0.78
+SAL0000991,SKU01028,Bewakoof,Bottomwear,Cargo Pants,2023-03-16,3.0,2023.0,Summer,Bangalore,South,1.0,Myntra,3.0,880.0,40.0,528.0,1584.0,990.0,594.0,37.5,0.0,0.92
+SAL0000992,SKU01048,Bewakoof,Ethnic,Co-ord Saree,2024-10-13,10.0,2024.0,Festive,Bangalore,South,1.0,Amazon,1.0,1510.0,25.0,1132.5,1132.5,630.0,502.5,44.37,0.0,0.92
+SAL0000993,SKU01256,The Souled Store,Topwear,Blazer,2024-01-10,1.0,2024.0,Winter,Mumbai,West,1.0,Myntra,5.0,990.0,10.0,891.0,4455.0,2400.0,2055.0,46.13,0.0,0.95
+SAL0000994,SKU01894,H&M India,Dresses,Co-ord Set,2024-10-29,10.0,2024.0,Festive,Hyderabad,South,1.0,Ajio,5.0,2030.0,25.0,1522.5,7612.5,4350.0,3262.5,42.86,0.0,0.88
+SAL0000995,SKU01737,Zudio,Bottomwear,Mini Skirt,2023-08-20,8.0,2023.0,Monsoon,Delhi,North,1.0,Myntra,3.0,660.0,15.0,561.0,1683.0,900.0,783.0,46.52,1.0,0.93
+SAL0000996,SKU02038,Myntra M,Accessories,Bucket Hat,2024-05-31,5.0,2024.0,Summer,Lucknow,North,2.0,Meesho,2.0,660.0,40.0,396.0,792.0,560.0,232.0,29.29,0.0,0.72
+SAL0000997,SKU01345,The Souled Store,Accessories,Belts,2024-04-17,4.0,2024.0,Summer,Hyderabad,South,1.0,Amazon,2.0,620.0,20.0,496.0,992.0,520.0,472.0,47.58,0.0,0.88
+SAL0000998,SKU01207,Snitch,Footwear,Sneakers,2024-02-04,2.0,2024.0,Winter,Kochi,South,3.0,Offline Store,1.0,2990.0,40.0,1794.0,1794.0,1250.0,544.0,30.32,0.0,0.62
+SAL0000999,SKU01220,Snitch,Accessories,Bucket Hat,2024-12-02,12.0,2024.0,Winter,Surat,West,2.0,Meesho,1.0,840.0,40.0,504.0,504.0,420.0,84.0,16.67,0.0,0.7
+SAL0001000,SKU01539,FabAlley,Dresses,Wrap Dress,2023-09-12,9.0,2023.0,Festive,Bhopal,Central,3.0,Offline Store,2.0,1780.0,0.0,1780.0,3560.0,1760.0,1800.0,50.56,0.0,0.58
